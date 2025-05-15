@@ -17,7 +17,7 @@
 #include "link.h"
 #include "list_menu.h"
 #include "load_save.h"
-#include "mail_data.h"
+#include "mail.h"
 #include "map_name_popup.h"
 #include "menu.h"
 #include "menu_indicators.h"
@@ -573,9 +573,9 @@ static bool8 DoLoadBagGraphics(void)
         }
         break;
     case 2:
-        LoadCompressedPalette(gBagBgPalette, BG_PLTT_ID(0), 3 * PLTT_SIZE_4BPP);
+        LoadPalette(gBagBgPalette, BG_PLTT_ID(0), 3 * PLTT_SIZE_4BPP);
         if (!BagIsTutorial() && gSaveBlock2Ptr->playerGender != MALE)
-            LoadCompressedPalette(gBagBgPalette_FemaleOverride, BG_PLTT_ID(0), PLTT_SIZE_4BPP);
+            LoadPalette(gBagBgPalette_FemaleOverride, BG_PLTT_ID(0), PLTT_SIZE_4BPP);
         sBagMenuDisplay->data[0]++;
         break;
     case 3:
@@ -586,7 +586,7 @@ static bool8 DoLoadBagGraphics(void)
         sBagMenuDisplay->data[0]++;
         break;
     case 4:
-        LoadCompressedSpritePalette(&gSpritePalette_Bag);
+        LoadSpritePalette(&gSpritePalette_Bag);
         sBagMenuDisplay->data[0]++;
         break;
     case 5:
@@ -594,7 +594,7 @@ static bool8 DoLoadBagGraphics(void)
         sBagMenuDisplay->data[0]++;
         break;
     default:
-        LoadCompressedSpritePalette(&gBagSwapSpritePalette);
+        LoadSpritePalette(&gBagSwapSpritePalette);
         sBagMenuDisplay->data[0] = 0;
         return TRUE;
     }
@@ -669,11 +669,14 @@ static void Bag_BuildListMenuTemplate(u8 pocket)
 
 static void BagListMenuGetItemNameColored(u8 *dest, u16 itemId)
 {
+    u8* end;
     if (itemId == ITEM_TM_CASE || itemId == ITEM_BERRY_POUCH)
         StringCopy(dest, sListItemTextColor_TmCase_BerryPouch);
     else
         StringCopy(dest, sListItemTextColor_RegularItem);
-    StringAppend(dest, ItemId_GetName(itemId));
+    
+    end = StringAppend(dest, ItemId_GetName(itemId));
+    PrependFontIdToFit(dest, end, FONT_NARROW, 61);
 }
 
 static void BagListMenuMoveCursorFunc(s32 itemIndex, bool8 onInit, struct ListMenu *list)

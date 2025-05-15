@@ -9,6 +9,7 @@
 #include "constants/songs.h"
 #include "constants/sound.h"
 #include "task.h"
+#include "test_runner.h"
 
 struct Fanfare
 {
@@ -32,7 +33,7 @@ static u8 sMapMusicFadeInSpeed;
 static u16 sFanfareCounter;
 
 // iwram common
-bool8 gDisableMusic;
+COMMON_DATA bool8 gDisableMusic = 0;
 
 extern u32 gBattleTypeFlags;
 extern struct MusicPlayerInfo gMPlayInfo_BGM;
@@ -244,6 +245,13 @@ bool8 IsFanfareTaskInactive(void)
 
 static void Task_Fanfare(u8 taskId)
 {
+    if (gTestRunnerHeadless)
+    {
+        DestroyTask(taskId);
+        sFanfareCounter = 0;
+        return;
+    }
+
     if (sFanfareCounter)
     {
         sFanfareCounter--;

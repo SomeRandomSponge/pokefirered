@@ -1122,9 +1122,14 @@ static void TaskFreeBufAfterCopyingTileDataToVram(u8 taskId)
 
 void *MallocAndDecompress(const void *src, u32 *size)
 {
+    u32 sizeLocal; // If size is passed as NULL, because we don't care about knowing the size
     void *ptr;
+
+    if (size == NULL)
+        size = &sizeLocal;
+
     u8 *sizeAsBytes = (u8 *)size;
-    const u8 *srcAsBytes = src;
+    u8 *srcAsBytes = (u8 *)src;
 
     sizeAsBytes[0] = srcAsBytes[1];
     sizeAsBytes[1] = srcAsBytes[2];
@@ -1527,9 +1532,9 @@ void DestroyHelpMessageWindow_(void)
     DestroyHelpMessageWindow(2);
 }
 
-void LoadSignpostWindowFrameGfx(void)
+void LoadSignPostWindowFrameGfx(void)
 {
     Menu_LoadStdPal();
-    LoadSignpostWindowGfx(0, DLG_WINDOW_BASE_TILE_NUM, BG_PLTT_ID(DLG_WINDOW_PALETTE_NUM));
+    LoadSignBoxGfx(0, DLG_WINDOW_BASE_TILE_NUM, BG_PLTT_ID(DLG_WINDOW_PALETTE_NUM));
     LoadUserWindowBorderGfx(0, STD_WINDOW_BASE_TILE_NUM, BG_PLTT_ID(STD_WINDOW_PALETTE_NUM));
 }

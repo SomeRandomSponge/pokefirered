@@ -478,9 +478,10 @@
 	.byte \battler
 	.endm
 
-	.macro switchinanim battler:req, dontClearSubstitute:req
+	.macro switchinanim battler:req, dontClearTransform:req, dontClearSubstitute:req
 	.byte 0x4e
 	.byte \battler
+	.byte \dontClearTransform
 	.byte \dontClearSubstitute
 	.endm
 
@@ -828,7 +829,7 @@
 	.4byte \failInstr
 	.endm
 
-	.macro damagetohalftargethp
+	.macro unused_0x94
 	.byte 0x94
 	.endm
 
@@ -876,11 +877,11 @@
 	.byte 0x9e
 	.endm
 
-	.macro dmgtolevel
+	.macro unused_0x9f
 	.byte 0x9f
 	.endm
 
-	.macro psywavedamageeffect
+	.macro unused_0xA0
 	.byte 0xa0
 	.endm
 
@@ -1006,7 +1007,7 @@
 	.4byte \jumpInstr
 	.endm
 
-	.macro unused_bb
+	.macro tryhealingitem
 	.byte 0xbb
 	.endm
 
@@ -1139,9 +1140,8 @@
 	.4byte \failInstr
 	.endm
 
-	.macro trywish turnNumber:req, failInstr:req
+	.macro trywish failInstr:req
 	.byte 0xd4
-	.byte \turnNumber
 	.4byte \failInstr
 	.endm
 
@@ -1268,7 +1268,7 @@
 	.byte 0xed
 	.endm
 
-	.macro removelightscreenreflect
+	.macro removescreens
 	.byte 0xee
 	.endm
 
@@ -1276,8 +1276,9 @@
 	.byte 0xef
 	.endm
 
-	.macro givecaughtmon
+	.macro givecaughtmon passInstr:req
 	.byte 0xf0
+	.4byte \passInstr
 	.endm
 
 	.macro trysetcaughtmondexflags failInstr:req
@@ -1289,9 +1290,8 @@
 	.byte 0xf2
 	.endm
 
-	.macro trygivecaughtmonnick successInstr:req
+	.macro trygivecaughtmonnick
 	.byte 0xf3
-	.4byte \successInstr
 	.endm
 
 	.macro subattackerhpbydmg
@@ -1330,7 +1330,7 @@
 	.byte \stat
 	.endm
 
-	.macro jumpifoppositegenders jumpInstr:req
+	.macro jumpifcaptivateaffected jumpInstr:req
 	.byte 0xfc
 	.4byte \jumpInstr
 	.endm
@@ -1366,6 +1366,10 @@
 	callnative BS_RestoreAttacker
 	.endm
 
+	.macro jumpifintimidateabilityprevented
+	callnative BS_JumpIfIntimidateAbilityPrevented
+	.endm
+
 	.macro metalburstdamagecalculator failInstr:req
 	callnative BS_CalcMetalBurstDmg
 	.4byte \failInstr
@@ -1380,6 +1384,10 @@
 	.macro itemstatchangeeffects battler:req
 	callnative BS_RunStatChangeItems
 	.byte \battler
+	.endm
+
+	.macro tryintimidatejectpack
+	callnative BS_TryIntimidatEjectpack
 	.endm
 
 	.macro allyswitchswapbattlers
@@ -1461,8 +1469,9 @@
 	.endm
 
 	@ Used by effects that may proc Symbiosis but do not call removeitem.
-	.macro trysymbiosis
+	.macro trysymbiosis battler:req
 	callnative BS_TrySymbiosis
+    .byte \battler
 	.endm
 
 	@ returns B_SIDE_x to gBattleCommunication[0]
@@ -1507,12 +1516,6 @@
 	.4byte \jumpInstr
 	.endm
 
-	.macro jumpifemergencyexited battler:req, jumpInstr:req
-	callnative BS_JumpIfEmergencyExited
-	.byte \battler
-	.4byte \jumpInstr
-	.endm
-
 	.macro jumpifelectricabilityaffected battler:req, ability:req, jumpInstr:req
 	callnative BS_JumpIfElectricAbilityAffected
 	.byte \battler
@@ -1553,13 +1556,43 @@
 	.4byte \failInstr
 	.endm
 
-	.macro trysetstatus1, ptr:req
-	callnative BS_TrySetStatus1
+	.macro trysetparalysis, ptr:req
+	callnative BS_TrySetParalysis
 	.4byte \ptr
 	.endm
 
-	.macro trysetstatus2, ptr:req
-	callnative BS_TrySetStatus2
+	.macro trysetpoison, ptr:req
+	callnative BS_TrySetPoison
+	.4byte \ptr
+	.endm
+
+	.macro trysetpoisonparalysis, ptr:req
+	callnative BS_TrySetPoisonParalyzis
+	.4byte \ptr
+	.endm
+
+	.macro tryseteffectspore, ptr:req
+	callnative BS_TrySetEffectSpore
+	.4byte \ptr
+	.endm
+
+	.macro trysetconfusion, ptr:req
+	callnative BS_TrySetConfusion
+	.4byte \ptr
+	.endm
+
+	.macro trysetinfatuation, ptr:req
+	callnative BS_TrySetInfatuation
+	.4byte \ptr
+	.endm
+
+	.macro trysetescapeprevention, ptr:req
+	callnative BS_TrySetEscapePrevention
+	.4byte \ptr
+	.endm
+
+	.macro trysettorment, ptr:req
+	callnative BS_TrySetTorment
 	.4byte \ptr
 	.endm
 
@@ -1580,6 +1613,11 @@
 	.macro jumpiftargetdynamaxed, ptr:req
 	callnative BS_JumpIfDynamaxed
 	.4byte \ptr
+	.endm
+
+	.macro undodynamax battler:req
+	callnative BS_UndoDynamax
+	.byte \battler
 	.endm
 
 	.macro trytrainerslidezmovemsg
@@ -1607,10 +1645,6 @@
 
 	.macro trytriggerstatusform
 	callnative BS_TryTriggerStatusForm
-	.endm
-
-	.macro setphotongeysercategory
-	callnative BS_SetPhotonGeyserCategory
 	.endm
 
 	.macro tryupperhand failInstr:req
@@ -1710,10 +1744,6 @@
 	.byte \battler
 	.endm
 
-	.macro hitswitchtargetfailed
-	callnative BS_HitSwitchTargetFailed
-	.endm
-
 	.macro tryrevivalblessing, failInstr:req
 	callnative BS_TryRevivalBlessing
 	.4byte \failInstr
@@ -1722,11 +1752,6 @@
 	.macro jumpifblockedbysoundproof battler:req, failInstr:req
 	callnative BS_JumpIfBlockedBySoundproof
 	.byte \battler
-	.4byte \failInstr
-	.endm
-
-	.macro tryhitswitchtarget failInstr:req
-	callnative BS_TryHitSwitchTarget
 	.4byte \failInstr
 	.endm
 
@@ -1760,6 +1785,15 @@
 	callnative BS_RemoveTerrain
 	.endm
 
+	.macro tryspectralthiefsteal jumpInstr:req
+	callnative BS_TrySpectralThiefSteal
+	.4byte \jumpInstr
+	.endm
+
+	.macro spectralthiefprintstats
+	callnative BS_SpectralThiefPrintStats
+	.endm
+
 	.macro setmoveresultflags flags:req
 	callnative BS_SetMoveResultFlags
 	.2byte \flags
@@ -1779,6 +1813,12 @@
 	.macro jumpifcriticalhit failInstr:req
 	callnative BS_JumpIfCriticalHit
 	.4byte \failInstr
+	.endm
+
+	.macro jumpifcangigantamax battler:req, jumpInstr:req
+	callnative BS_JumpIfCanGigantamax
+	.byte \battler
+	.4byte \jumpInstr
 	.endm
 
 @ various command changed to more readable macros
@@ -1906,14 +1946,6 @@
 	various \battler, VARIOUS_RESTORE_PP
 	.endm
 
-	.macro tryactivatemoxie battler:req
-	various \battler, VARIOUS_TRY_ACTIVATE_MOXIE
-	.endm
-
-	.macro tryactivatebeastboost battler:req
-	various \battler, VARIOUS_TRY_ACTIVATE_BEAST_BOOST
-	.endm
-
 	.macro tryactivatereceiver battler:req
 	various \battler, VARIOUS_TRY_ACTIVATE_RECEIVER
 	.endm
@@ -1999,10 +2031,6 @@
 	.4byte \jumpInstr
 	.endm
 
-	.macro setargtobattledamage
-	various BS_ATTACKER, VARIOUS_SET_ARG_TO_BATTLE_DAMAGE
-	.endm
-
 	.macro tryautotomize battler:req, failInstr:req
 	various \battler, VARIOUS_TRY_AUTOTOMIZE
 	.4byte \failInstr
@@ -2074,10 +2102,6 @@
 
 	.macro setpowder battler:req
 	various \battler, VARIOUS_SET_POWDER
-	.endm
-
-	.macro spectralthiefprintstats
-	various BS_ATTACKER, VARIOUS_SPECTRAL_THIEF
 	.endm
 
 	.macro bringdownairbornebattler battler:req
@@ -2201,10 +2225,6 @@
 	.4byte \jumpInstr
 	.endm
 
-	.macro tryactivategrimneigh, battler:req
-	various \battler, VARIOUS_TRY_ACTIVATE_GRIM_NEIGH
-	.endm
-
 	.macro consumeberry battler:req, fromBattler:req
 	various \battler, VARIOUS_CONSUME_BERRY
 	.byte \fromBattler
@@ -2263,10 +2283,6 @@
 	.macro jumpifnotrototilleraffected battler:req, jumpInstr:req
 	various \battler, VARIOUS_JUMP_IF_NOT_ROTOTILLER_AFFECTED
 	.4byte \jumpInstr
-	.endm
-
-	.macro tryactivatebattlebond battler:req
-	various \battler, VARIOUS_TRY_ACTIVATE_BATTLE_BOND
 	.endm
 
 	.macro jumpifcantreverttoprimal jumpInstr:req
@@ -2336,18 +2352,22 @@
 	various \battler, VARIOUS_BATTLER_ITEM_TO_LAST_USED_ITEM
 	.endm
 
-	.macro swapsidestatuses
-	various BS_ATTACKER, VARIOUS_SWAP_SIDE_STATUSES
-	.endm
-
-	.macro swapstats stat:req
-	various BS_ATTACKER, VARIOUS_SWAP_STATS
-	.byte \stat
-	.endm
-
 @ various remaining from pokefirered
 	.macro getbattlersforrecall
 	various BS_ATTACKER, VARIOUS_GET_BATTLERS_FOR_RECALL
+	.endm
+
+	.macro swapsidestatuses
+	callnative BS_CourtChangeSwapSideStatuses
+	.endm
+
+	.macro swapstats stat:req
+	callnative BS_SwapStats
+	.byte \stat
+	.endm
+
+	.macro restoresavedmove
+	callnative BS_RestoreSavedMove
 	.endm
 
 @ helpful macros

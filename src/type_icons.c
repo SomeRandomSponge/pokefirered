@@ -178,13 +178,13 @@ const union AnimCmd *const sSpriteAnimTable_TypeIcons[] =
     [TYPE_STELLAR] =    sSpriteAnim_TypeIcon_Mystery,
 };
 
-const struct CompressedSpritePalette sTypeIconPal1 =
+const struct SpritePalette sTypeIconPal1 =
 {
     .data = gBattleIcons_Pal1,
     .tag = TYPE_ICON_TAG
 };
 
-const struct CompressedSpritePalette sTypeIconPal2 =
+const struct SpritePalette sTypeIconPal2 =
 {
     .data = gBattleIcons_Pal2,
     .tag = TYPE_ICON_TAG_2
@@ -255,8 +255,8 @@ static void LoadTypeSpritesAndPalettes(void)
 
     LoadCompressedSpriteSheet(&sSpriteSheet_TypeIcons1);
     LoadCompressedSpriteSheet(&sSpriteSheet_TypeIcons2);
-    LoadCompressedSpritePalette(&sTypeIconPal1);
-    LoadCompressedSpritePalette(&sTypeIconPal2);
+    LoadSpritePalette(&sTypeIconPal1);
+    LoadSpritePalette(&sTypeIconPal2);
 }
 
 static void LoadTypeIconsPerBattler(u32 battler, u32 position)
@@ -316,7 +316,7 @@ static bool32 ShouldHideUncaughtType(u32 species)
     if (B_SHOW_TYPES != SHOW_TYPES_CAUGHT)
         return FALSE;
 
-    if (GetSetPokedexFlag(SpeciesToNationalDexNum(species),FLAG_GET_CAUGHT))
+    if (GetSetPokedexFlag(SpeciesToNationalPokedexNum(species),FLAG_GET_CAUGHT))
         return FALSE;
 
     return TRUE;

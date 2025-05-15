@@ -5,6 +5,7 @@
 #include "rtc.h"
 #include "fake_rtc.h"
 #include "event_data.h"
+#include "script.h"
 
 void FakeRtc_Reset(void)
 {
@@ -112,24 +113,31 @@ void AdvanceScript(void)
 
 u32 FakeRtc_GetSecondsRatio(void)
 {
-    return (OW_ALTERED_TIME_RATIO == GEN_8_PLA) ? 60 :
-           (OW_ALTERED_TIME_RATIO == GEN_9)     ? 20 :
-                                                  1;
+    return (OW_ALTERED_TIME_RATIO == GEN_8_PLA)   ? 60 :
+           (OW_ALTERED_TIME_RATIO == GEN_9)       ? 20 :
+           (OW_ALTERED_TIME_RATIO == TIME_DEBUG)  ?  1 :
+                                                     1;
 }
 
 STATIC_ASSERT((OW_FLAG_PAUSE_TIME == 0 || OW_USE_FAKE_RTC == TRUE), FakeRtcMustBeTrueToPauseTime);
 
 void Script_PauseFakeRtc(void)
 {
+    Script_RequestEffects(SCREFF_V1 | SCREFF_SAVE);
+
     FlagSet(OW_FLAG_PAUSE_TIME);
 }
 
 void Script_ResumeFakeRtc(void)
 {
+    Script_RequestEffects(SCREFF_V1 | SCREFF_SAVE);
+
     FlagClear(OW_FLAG_PAUSE_TIME);
 }
 
 void Script_ToggleFakeRtc(void)
 {
+    Script_RequestEffects(SCREFF_V1 | SCREFF_SAVE);
+
     FlagToggle(OW_FLAG_PAUSE_TIME);
 }

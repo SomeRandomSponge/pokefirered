@@ -1751,7 +1751,7 @@ static void Debug_InitializeBattle(u8 taskId)
     }
 
     // Set terrain
-    gBattleTerrain = sDebugBattleData->battleTerrain;
+    gBattleEnvironment = sDebugBattleData->battleTerrain;
 
     // Populate enemy party
     for (i = 0; i < PARTY_SIZE; i++)
@@ -2692,8 +2692,8 @@ static void DebugAction_FlagsVars_PokedexFlags_Reset(u8 taskId)
         if (GetMonData(&gPlayerParty[partyId], MON_DATA_SANITY_HAS_SPECIES))
         {
             species = GetMonData(&gPlayerParty[partyId], MON_DATA_SPECIES);
-            GetSetPokedexFlag(SpeciesToNationalDexNum(species), FLAG_SET_CAUGHT);
-            GetSetPokedexFlag(SpeciesToNationalDexNum(species), FLAG_SET_SEEN);
+            GetSetPokedexFlag(SpeciesToNationalPokedexNum(species), FLAG_SET_CAUGHT);
+            GetSetPokedexFlag(SpeciesToNationalPokedexNum(species), FLAG_SET_SEEN);
         }
     }
 
@@ -2705,8 +2705,8 @@ static void DebugAction_FlagsVars_PokedexFlags_Reset(u8 taskId)
             if (GetBoxMonData(&gPokemonStoragePtr->boxes[boxId][boxPosition], MON_DATA_SANITY_HAS_SPECIES))
             {
                 species = GetBoxMonData(&gPokemonStoragePtr->boxes[boxId][boxPosition], MON_DATA_SPECIES);
-                GetSetPokedexFlag(SpeciesToNationalDexNum(species), FLAG_SET_CAUGHT);
-                GetSetPokedexFlag(SpeciesToNationalDexNum(species), FLAG_SET_SEEN);
+                GetSetPokedexFlag(SpeciesToNationalPokedexNum(species), FLAG_SET_CAUGHT);
+                GetSetPokedexFlag(SpeciesToNationalPokedexNum(species), FLAG_SET_SEEN);
             }
         }
     }
@@ -3242,7 +3242,7 @@ static void DebugAction_Give_Pokemon_SelectId(u8 taskId)
         StringExpandPlaceholders(gStringVar4, sDebugText_PokemonID);
         AddTextPrinterParameterized(gTasks[taskId].tSubWindowId, DEBUG_MENU_FONT, gStringVar4, 1, 1, 0, NULL);
 
-        DestroyMonIcon(&gSprites[gTasks[taskId].tSpriteId]);
+        FreeAndDestroyMonIconSprite(&gSprites[gTasks[taskId].tSpriteId]);
         FreeMonIconPalettes();
         LoadMonIconPalette(gTasks[taskId].tInput);
         gTasks[taskId].tSpriteId = CreateMonIcon(gTasks[taskId].tInput, SpriteCB_MonIcon, DEBUG_NUMBER_ICON_X, DEBUG_NUMBER_ICON_Y, 4, 0);
@@ -3268,7 +3268,7 @@ static void DebugAction_Give_Pokemon_SelectId(u8 taskId)
         PlaySE(SE_SELECT);
         Free(sDebugMonData);
         FreeMonIconPalettes();
-        DestroyMonIcon(&gSprites[gTasks[taskId].tSpriteId]);
+        FreeAndDestroyMonIconSprite(&gSprites[gTasks[taskId].tSpriteId]);
         DebugAction_DestroyExtraWindow(taskId);
     }
 }
@@ -3312,7 +3312,7 @@ static void DebugAction_Give_Pokemon_SelectLevel(u8 taskId)
     if (JOY_NEW(A_BUTTON))
     {
         FreeMonIconPalettes();
-        DestroyMonIcon(&gSprites[gTasks[taskId].tSpriteId]);
+        FreeAndDestroyMonIconSprite(&gSprites[gTasks[taskId].tSpriteId]);
         if (gTasks[taskId].tIsComplex == FALSE)
         {
             PlaySE(MUS_LEVEL_UP);
@@ -3342,7 +3342,7 @@ static void DebugAction_Give_Pokemon_SelectLevel(u8 taskId)
         PlaySE(SE_SELECT);
         Free(sDebugMonData);
         FreeMonIconPalettes();
-        DestroyMonIcon(&gSprites[gTasks[taskId].tSpriteId]);
+        FreeAndDestroyMonIconSprite(&gSprites[gTasks[taskId].tSpriteId]);
         DebugAction_DestroyExtraWindow(taskId);
     }
 }
@@ -4026,7 +4026,7 @@ static void DebugAction_Give_Pokemon_ComplexCreateMon(u8 taskId) //https://githu
     }
 
     //Pokedex entry
-    nationalDexNum = SpeciesToNationalDexNum(species);
+    nationalDexNum = SpeciesToNationalPokedexNum(species);
     switch(sentToPc)
     {
     case MON_GIVEN_TO_PARTY:
