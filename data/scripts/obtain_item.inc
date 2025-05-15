@@ -18,14 +18,11 @@ Std_ObtainItem::
 	return
 
 EventScript_ObtainItemMessage::
-	delay 10
-	showitemdescription
 	bufferitemnameplural STR_VAR_2, VAR_0x8000, VAR_0x8001
 	checkitemtype VAR_0x8000
 	call EventScript_BufferPocketNameTryFanfare
 	call_if_eq VAR_0x8007, TRUE, EventScript_ObtainedItem
 	call_if_eq VAR_0x8007, FALSE, EventScript_NoRoomForItem
-	hideitemdescription
 	return
 
 EventScript_BufferPocketNameTryFanfare::
@@ -130,7 +127,6 @@ Std_FindItem::
 EventScript_PickUpItem::
 	removeobject VAR_LAST_TALKED
 	additem VAR_0x8004, VAR_0x8005
-	copyvar VAR_0x8006 VAR_0x8004
 	specialvar VAR_RESULT, BufferTMHMMoveName
 	copyvar VAR_0x8008, VAR_RESULT
 	call_if_eq VAR_0x8008, TRUE, EventScript_FoundTMHM
@@ -161,7 +157,6 @@ EventScript_HiddenItemScript::
 	lockall
 	textcolor NPC_TEXT_COLOR_NEUTRAL
 	waitse
-	copyvar VAR_0x8006, VAR_0x8005
 	goto_if_eq VAR_0x8005, 0, EventScript_TryPickUpHiddenCoins
 	call EventScript_TryPickUpHiddenItem
 	goto_if_eq VAR_0x8007, TRUE, EventScript_PickedUpHiddenItem
@@ -177,8 +172,6 @@ EventScript_TryPickUpHiddenItem::
 	return
 
 EventScript_PickedUpHiddenItem::
-	delay 10
-	showitemdescription
 	call_if_eq VAR_0x8006, 1, EventScript_FoundSingleItem
 	call_if_ne VAR_0x8006, 1, EventScript_FoundMultipleItems
 	copyvar VAR_0x8006, VAR_0x8005
@@ -194,7 +187,6 @@ EventScript_PickedUpHiddenItem::
 
 EventScript_FoundSingleItem::
 	message Text_FoundOneItem
-	hideitemdescription
 	return
 
 EventScript_FoundCoins::

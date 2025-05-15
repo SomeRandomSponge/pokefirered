@@ -49,7 +49,6 @@
 #include "script.h"
 #include "script_pokemon_util.h"
 #include "start_menu.h"
-#include "string_util.h"
 #include "tileset_anims.h"
 #include "trainer_pokemon_sprites.h"
 #include "vs_seeker.h"
@@ -3722,32 +3721,6 @@ static void SpriteCB_LinkPlayer(struct Sprite *sprite)
 
 bool8 GetSetItemObtained(u16 item, enum ItemObtainFlags caseId)
 {
-#if OW_SHOW_ITEM_DESCRIPTIONS == OW_ITEM_DESCRIPTIONS_FIRST_TIME
-    u8 index = item / 8;
-    u8 bit = item % 8;
-    u8 mask = 1 << bit;
-    switch (caseId)
-    {
-    case FLAG_GET_ITEM_OBTAINED:
-        return gSaveBlock3Ptr->itemFlags[index] & mask;
-    case FLAG_SET_ITEM_OBTAINED:
-        gSaveBlock3Ptr->itemFlags[index] |= mask;
-        return TRUE;
-    }
-#endif
-    return FALSE;
-}
-
-// ----------------
-// Item Header Descriptions
-// Item Description Header
-
-#define ITEM_ICON_X     26
-#define ITEM_ICON_Y     24
-#define ITEM_TAG        0x2722 //same as money label
-
-bool8 GetSetItemObtained(u16 item, enum ItemObtainFlags caseId)
-{    
 #if OW_SHOW_ITEM_DESCRIPTIONS == OW_ITEM_DESCRIPTIONS_FIRST_TIME
     u8 index = item / 8;
     u8 bit = item % 8;

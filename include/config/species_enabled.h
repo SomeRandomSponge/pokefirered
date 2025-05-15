@@ -35,9 +35,9 @@
 // Regional Forms. Includes Regional Form evolutions, like Sirfetch'd.
 #define P_REGIONAL_FORMS                 TRUE
 #define P_ALOLAN_FORMS                   P_REGIONAL_FORMS
-#define P_GALARIAN_FORMS                 P_FALSE
+#define P_GALARIAN_FORMS                 FALSE
 #define P_HISUIAN_FORMS                  P_REGIONAL_FORMS
-#define P_PALDEAN_FORMS                  P_FALSE
+#define P_PALDEAN_FORMS                  FALSE
 
 // Big groups of forms that aren't always desired when choosing families.
 #define P_PIKACHU_EXTRA_FORMS            TRUE
