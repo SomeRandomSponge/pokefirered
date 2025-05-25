@@ -3,7 +3,6 @@
 #include "menu.h"
 #include "task.h"
 #include "script_menu.h"
-#include "quest_log.h"
 #include "event_data.h"
 #include "field_specials.h"
 #include "item_icon.h"
@@ -1051,27 +1050,24 @@ void DrawMultichoiceMenuInternal(u8 left, u8 top, u8 multichoiceId, bool8 ignore
     u8 height;
     u8 windowId;
 
-    if ((ignoreBPress & 2) || QL_AvoidDisplay(QL_DestroyAbortedDisplay) != TRUE)
+    ignoreBPress &= 1;
+    strWidth = 0;
+    for (i = 0; i < count; i++)
     {
-        ignoreBPress &= 1;
-        strWidth = 0;
-        for (i = 0; i < count; i++)
-        {
-            tmp = GetStringWidth(FONT_NORMAL, actions[i].text, 0);
-            if (tmp > strWidth)
-                strWidth = tmp;
-        }
-        width = (strWidth + 9) / 8 + 1;
-        if (left + width > 28)
-            left = 28 - width;
-        height = GetMCWindowHeight(count);
-        windowId = CreateWindowFromRect(left, top, width, height);
-        SetStandardWindowBorderStyle(windowId, FALSE);
-        PrintMenuActionTextsWithSpacing(windowId, FONT_NORMAL, 8, 2, 14, count, actions, 0, 2);
-        InitMenuNormal(windowId, FONT_NORMAL, 0, 2, 14, count, cursorPos);
-        InitMultichoiceCheckWrap(ignoreBPress, count, windowId, multichoiceId);
-        ScheduleBgCopyTilemapToVram(0);
+        tmp = GetStringWidth(FONT_NORMAL, actions[i].text, 0);
+        if (tmp > strWidth)
+            strWidth = tmp;
     }
+    width = (strWidth + 9) / 8 + 1;
+    if (left + width > 28)
+        left = 28 - width;
+    height = GetMCWindowHeight(count);
+    windowId = CreateWindowFromRect(left, top, width, height);
+    SetStandardWindowBorderStyle(windowId, FALSE);
+    PrintMenuActionTextsWithSpacing(windowId, FONT_NORMAL, 8, 2, 14, count, actions, 0, 2);
+    InitMenuNormal(windowId, FONT_NORMAL, 0, 2, 14, count, cursorPos);
+    InitMultichoiceCheckWrap(ignoreBPress, count, windowId, multichoiceId);
+    ScheduleBgCopyTilemapToVram(0);
 }
 
 static void DrawMultichoiceMenu(u8 left, u8 top, u8 mcId, u8 ignoreBpress, u8 initPos)
@@ -1254,9 +1250,6 @@ bool8 ScriptMenu_YesNo(u8 unused, u8 stuff)
         return FALSE;
     gSpecialVar_Result = SCR_MENU_UNSET;
 
-    if (QL_AvoidDisplay(QL_DestroyAbortedDisplay))
-        return TRUE;
-
     DisplayYesNoMenuDefaultYes();
     CreateTask(Task_YesNoMenu_HandleInput, 80);
     return TRUE;
@@ -1300,9 +1293,6 @@ bool8 ScriptMenu_MultichoiceGrid(u8 left, u8 top, u8 multichoiceId, bool8 ignore
     if (FuncIsActiveTask(Hask_MultichoiceGridMenu_HandleInput) == TRUE)
         return FALSE;
     gSpecialVar_Result = SCR_MENU_UNSET;
-
-    if (QL_AvoidDisplay(QL_DestroyAbortedDisplay) == TRUE)
-        return TRUE;
 
     list = sMultichoiceLists[multichoiceId].list;
     count = sMultichoiceLists[multichoiceId].count;
@@ -1444,8 +1434,7 @@ bool8 ScriptMenu_ShowPokemonPic(u16 species, u8 x, u8 y)
 {
     u8 spriteId;
     u8 taskId;
-    if (QL_AvoidDisplay(QL_DestroyAbortedDisplay) == TRUE)
-        return TRUE;
+
     if (FindTaskIdByFunc(Task_ScriptShowMonPic) != TASK_NONE)
         return FALSE;
     spriteId = CreateMonSprite_PicBox(species, 8 * x + 40, 8 * y + 40, FALSE);
@@ -1530,8 +1519,7 @@ bool8 OpenMuseumFossilPic(void)
 {
     u8 spriteId;
     u8 taskId;
-    if (QL_AvoidDisplay(QL_DestroyAbortedDisplay) == TRUE)
-        return TRUE;
+
     if (FindTaskIdByFunc(Task_WaitMuseumFossilPic) != TASK_NONE)
         return FALSE;
     if (gSpecialVar_0x8004 == SPECIES_KABUTOPS)
@@ -1583,32 +1571,6 @@ static void DestroyScriptMenuWindow(u8 windowId)
     RemoveWindow(windowId);
 }
 
-void QL_DestroyAbortedDisplay(void)
-{
-    u8 taskId;
-    s16 *data;
-    ScriptContext_SetupScript(EventScript_ReleaseEnd);
-
-    taskId = FindTaskIdByFunc(Task_ScriptShowMonPic);
-    if (taskId != TASK_NONE)
-    {
-        data = gTasks[taskId].data;
-        if (tState < 2)
-            FreeResourcesAndDestroySprite(&gSprites[tSpriteId], tSpriteId);
-    }
-
-    taskId = FindTaskIdByFunc(Task_WaitMuseumFossilPic);
-    if (taskId != TASK_NONE)
-    {
-        data = gTasks[taskId].data;
-        if (tState < 2)
-        {
-            DestroySprite(&gSprites[tSpriteId]);
-            FreeSpriteTilesByTag(GFXTAG_FOSSIL);
-        }
-    }
-}
-
 void DrawSeagallopDestinationMenu(void)
 {
     // 8004 = Starting location
@@ -1621,9 +1583,6 @@ void DrawSeagallopDestinationMenu(void)
     u8 windowId;
     u8 i;
     gSpecialVar_Result = SCR_MENU_UNSET;
-
-    if (QL_AvoidDisplay(QL_DestroyAbortedDisplay) == TRUE)
-        return;
 
     if (gSpecialVar_0x8005 == 1)
     {

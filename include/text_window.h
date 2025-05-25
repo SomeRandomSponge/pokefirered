@@ -9,6 +9,8 @@ struct TilesPal
     const u16 *pal;
 };
 
+extern const u8 gHelpMessageWindow_Gfx[];
+
 const struct TilesPal *GetWindowFrameTilesPal(u8 id);
 void LoadWindowGfx(u8 windowId, u8 frameType, u16 destOffset, u8 palOffset);
 void rbox_fill_rectangle(u8 windowId);
@@ -21,7 +23,6 @@ void LoadUserWindowBorderGfx_(u8 windowId, u16 tileStart, u8 palette);
 void LoadStdWindowGfxOnBg(u8 bgId, u16 tileStart, u8 palette);
 void DrawTextBorderOuter(u8 windowId, u16 tileStart, u8 palette);
 void DrawTextBorderInner(u8 windowId, u16 tileNum, u8 palNum);
-void LoadHelpMessageWindowGfx(u8 windowId, u16 destOffset, u8 palIdx);
 void LoadSignBoxGfx(u8 windowId, u16 destOffset, u8 palIdx);
 void LoadDexNavWindowGfx(u8 windowId, u16 destOffset, u8 palOffset);
 void LoadStdWindowTiles(u8 windowId, u16 destOffset);

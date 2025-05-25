@@ -4,7 +4,6 @@
 #include "menu.h"
 #include "task.h"
 #include "overworld.h"
-#include "help_system.h"
 #include "text_window.h"
 #include "strings.h"
 #include "field_fadetransition.h"
@@ -217,7 +216,6 @@ void CB2_InitOptionMenu(void)
         if (sOptionMenuPtr->option[i] > (sOptionMenuItemCounts[i]) - 1)
             sOptionMenuPtr->option[i] = 0;
     }
-    SetHelpContext(HELPCONTEXT_OPTIONS);
     SetMainCallback2(CB2_OptionMenu);
 }
 
