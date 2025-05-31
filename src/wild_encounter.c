@@ -255,14 +255,14 @@ u16 GetCurrentMapWildMonHeaderId(void)
     for (i = 0; ; i++)
     {
         const struct WildPokemonHeader * wildHeader = &gWildMonHeaders[i];
-        if (wildHeader->mapGroup == MAP_GROUP(UNDEFINED))
+        if (wildHeader->mapGroup == MAP_GROUP(MAP_UNDEFINED))
             break;
 
         if (gWildMonHeaders[i].mapGroup == gSaveBlock1Ptr->location.mapGroup &&
             gWildMonHeaders[i].mapNum == gSaveBlock1Ptr->location.mapNum)
         {
-            if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(SIX_ISLAND_ALTERING_CAVE) &&
-                gSaveBlock1Ptr->location.mapNum == MAP_NUM(SIX_ISLAND_ALTERING_CAVE))
+            if (gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(MAP_SIX_ISLAND_ALTERING_CAVE) &&
+                gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_SIX_ISLAND_ALTERING_CAVE))
             {
                 u16 alteringCaveId = VarGet(VAR_ALTERING_CAVE_WILD_SET);
                 if (alteringCaveId >= NUM_ALTERING_CAVE_TABLES)
@@ -338,15 +338,15 @@ static bool8 UnlockedTanobyOrAreNotInTanoby(void)
 {
     if (FlagGet(FLAG_SYS_UNLOCKED_TANOBY_RUINS))
         return TRUE;
-    if (gSaveBlock1Ptr->location.mapGroup != MAP_GROUP(SEVEN_ISLAND_TANOBY_RUINS_DILFORD_CHAMBER))
+    if (gSaveBlock1Ptr->location.mapGroup != MAP_GROUP(MAP_SEVEN_ISLAND_TANOBY_RUINS_DILFORD_CHAMBER))
         return TRUE;
-    if (!(gSaveBlock1Ptr->location.mapNum == MAP_NUM(SEVEN_ISLAND_TANOBY_RUINS_MONEAN_CHAMBER)
-    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(SEVEN_ISLAND_TANOBY_RUINS_LIPTOO_CHAMBER)
-    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(SEVEN_ISLAND_TANOBY_RUINS_WEEPTH_CHAMBER)
-    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(SEVEN_ISLAND_TANOBY_RUINS_DILFORD_CHAMBER)
-    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(SEVEN_ISLAND_TANOBY_RUINS_SCUFIB_CHAMBER)
-    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(SEVEN_ISLAND_TANOBY_RUINS_RIXY_CHAMBER)
-    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(SEVEN_ISLAND_TANOBY_RUINS_VIAPOIS_CHAMBER)
+    if (!(gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_SEVEN_ISLAND_TANOBY_RUINS_MONEAN_CHAMBER)
+    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_SEVEN_ISLAND_TANOBY_RUINS_LIPTOO_CHAMBER)
+    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_SEVEN_ISLAND_TANOBY_RUINS_WEEPTH_CHAMBER)
+    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_SEVEN_ISLAND_TANOBY_RUINS_DILFORD_CHAMBER)
+    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_SEVEN_ISLAND_TANOBY_RUINS_SCUFIB_CHAMBER)
+    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_SEVEN_ISLAND_TANOBY_RUINS_RIXY_CHAMBER)
+    ||  gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_SEVEN_ISLAND_TANOBY_RUINS_VIAPOIS_CHAMBER)
     ))
         return TRUE;
     return FALSE;
@@ -386,7 +386,7 @@ void CreateWildMon(u16 species, u8 level, u8 unownSlot)
     }
 
     if (species == SPECIES_UNOWN) {
-        chamber = gSaveBlock1Ptr->location.mapNum - MAP_NUM(SEVEN_ISLAND_TANOBY_RUINS_MONEAN_CHAMBER);
+        chamber = gSaveBlock1Ptr->location.mapNum - MAP_NUM(MAP_SEVEN_ISLAND_TANOBY_RUINS_MONEAN_CHAMBER);
         unownLetter = sUnownLetterSlots[chamber][unownSlot];
     }
 
@@ -596,15 +596,15 @@ bool8 TryStandardWildLandEncounter(u16 headerId, u32 currMetatileAttrs, u16 prev
         AddToWildEncounterRateBuff(gWildMonHeaders[headerId].encounterTypes[season][timeOfDay].landMonsInfo->encounterRate);
         return FALSE;
     }
-    if (TryStartRoamerEncounter() == TRUE)
+    if (TryStartRoamerEncounter())
     {
-        roamer = &gSaveBlock1Ptr->roamer;
+        roamer = &gSaveBlock1Ptr->roamer[gEncounteredRoamerIndex];
         if (!IsWildLevelAllowedByRepel(roamer->level))
         {
             return FALSE;
         }
 
-        StartRoamerBattle();
+        BattleSetup_StartRoamerBattle();
         return TRUE;
     }
 
@@ -616,11 +616,11 @@ bool8 TryStandardWildLandEncounter(u16 headerId, u32 currMetatileAttrs, u16 prev
             struct Pokemon mon1 = gEnemyParty[0];
             TryGenerateWildMon(gWildMonHeaders[headerId].encounterTypes[season][timeOfDay].landMonsInfo, WILD_AREA_LAND, WILD_CHECK_KEEN_EYE);
             gEnemyParty[1] = mon1;
-            StartDoubleWildBattle();
+            BattleSetup_StartDoubleWildBattle();
         }
         else
         {
-            StartWildBattle();
+            BattleSetup_StartWildBattle();
         }
         return TRUE;
     }
@@ -644,15 +644,15 @@ bool8 TryStandardWildSurfEncounter(u16 headerId, u32 currMetatileAttrs, u16 prev
         return FALSE;
     }
 
-    if (TryStartRoamerEncounter() == TRUE)
+    if (TryStartRoamerEncounter())
     {
-        roamer = &gSaveBlock1Ptr->roamer;
+        roamer = &gSaveBlock1Ptr->roamer[gEncounteredRoamerIndex];
         if (!IsWildLevelAllowedByRepel(roamer->level))
         {
             return FALSE;
         }
 
-        StartRoamerBattle();
+        BattleSetup_StartRoamerBattle();
         return TRUE;
     }
     // try a regular surfing encounter
@@ -664,11 +664,11 @@ bool8 TryStandardWildSurfEncounter(u16 headerId, u32 currMetatileAttrs, u16 prev
             struct Pokemon mon1 = gEnemyParty[0];
             TryGenerateWildMon(gWildMonHeaders[headerId].encounterTypes[season][timeOfDay].waterMonsInfo, WILD_AREA_WATER, WILD_CHECK_KEEN_EYE);
             gEnemyParty[1] = mon1;
-            StartDoubleWildBattle();
+            BattleSetup_StartDoubleWildBattle();
         }
         else
         {
-            StartWildBattle();
+            BattleSetup_StartWildBattle();
         }
         return TRUE;
     }
@@ -711,7 +711,7 @@ void RockSmashWildEncounter(void)
         gSpecialVar_Result = FALSE;
     else if (TryGenerateWildMon(gWildMonHeaders[headerId].encounterTypes[season][timeOfDay].rockSmashMonsInfo, WILD_AREA_ROCKS, WILD_CHECK_REPEL) == TRUE)
     {
-        StartWildBattle();
+        BattleSetup_StartWildBattle();
         gSpecialVar_Result = TRUE;
     }
     else
@@ -733,9 +733,9 @@ bool8 SweetScentWildEncounter(void)
 
     if (MapGridGetMetatileAttributeAt(x, y, METATILE_ATTRIBUTE_ENCOUNTER_TYPE) == TILE_ENCOUNTER_LAND)
     {
-        if (TryStartRoamerEncounter() == TRUE)
+        if (TryStartRoamerEncounter())
         {
-            StartRoamerBattle();
+            BattleSetup_StartRoamerBattle();
             return TRUE;
         }
         GetSeasonAndTimeOfDayForEncounters(headerId, WILD_AREA_LAND, &season, &timeOfDay);
@@ -745,14 +745,14 @@ bool8 SweetScentWildEncounter(void)
 
         TryGenerateWildMon(gWildMonHeaders[headerId].encounterTypes[season][timeOfDay].landMonsInfo, WILD_AREA_LAND, 0);
 
-        StartWildBattle();
+        BattleSetup_StartWildBattle();
         return TRUE;
     }
     else if (MapGridGetMetatileAttributeAt(x, y, METATILE_ATTRIBUTE_ENCOUNTER_TYPE) == TILE_ENCOUNTER_WATER)
     {
-        if (TryStartRoamerEncounter() == TRUE)
+        if (TryStartRoamerEncounter())
         {
-            StartRoamerBattle();
+            BattleSetup_StartRoamerBattle();
             return TRUE;
         }
 
@@ -761,7 +761,7 @@ bool8 SweetScentWildEncounter(void)
             return FALSE;
 
         TryGenerateWildMon(gWildMonHeaders[headerId].encounterTypes[season][timeOfDay].waterMonsInfo, WILD_AREA_WATER, 0);
-        StartWildBattle();
+        BattleSetup_StartWildBattle();
         return TRUE;
     }
 
@@ -807,7 +807,7 @@ void FishingWildEncounter(u8 rod)
     gIsFishingEncounter = TRUE;
     GenerateFishingEncounter(gWildMonHeaders[headerId].encounterTypes[season][timeOfDay].fishingMonsInfo, rod);
     IncrementGameStat(GAME_STAT_FISHING_CAPTURES);
-    StartWildBattle();
+    BattleSetup_StartWildBattle();
 }
 
 u16 GetLocalWildMon(bool8 *isWaterMon)

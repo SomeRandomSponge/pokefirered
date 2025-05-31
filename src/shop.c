@@ -760,7 +760,7 @@ static void BuyMenuPrintItemDescriptionAndShowItemIcon(s32 item, bool8 onInit, s
         PlaySE(SE_SELECT);
 
     if (item != INDEX_CANCEL)
-        description = ItemId_GetDescription(item);
+        description = GetItemDescription(item);
     else
         description = gText_QuitShopping;
 
@@ -791,7 +791,7 @@ static void BuyMenuPrintPriceInList(u8 windowId, u32 item, u8 y)
 
     if (item != INDEX_CANCEL)
     {
-        ConvertIntToDecimalStringN(gStringVar1, ItemId_GetPrice(item), 0, 6);
+        ConvertIntToDecimalStringN(gStringVar1, GetItemPrice(item), 0, 6);
         x = 6 - StringLength(gStringVar1);
         loc = gStringVar4;
         while (x-- != 0)
@@ -921,9 +921,9 @@ static void BuyMenuDrawMapBg(void)
             metatileLayerType = MapGridGetMetatileLayerTypeAt(x + i, y + j);
 
             if (metatile < NUM_METATILES_IN_PRIMARY)
-                BuyMenuDrawMapMetatile(i, j, GetPrimaryTileset(mapLayout)->metatiles + metatile * 8, metatileLayerType);
+                BuyMenuDrawMapMetatile(i, j, GetPrimaryTileset(mapLayout)->metatiles + metatile * NUM_TILES_PER_METATILE, metatileLayerType);
             else
-                BuyMenuDrawMapMetatile(i, j, GetSecondaryTileset(mapLayout)->metatiles + ((metatile - NUM_METATILES_IN_PRIMARY) * 8), metatileLayerType);
+                BuyMenuDrawMapMetatile(i, j, GetSecondaryTileset(mapLayout)->metatiles + ((metatile - NUM_METATILES_IN_PRIMARY) * NUM_TILES_PER_METATILE), metatileLayerType);
         }
     }
 }
@@ -1072,7 +1072,7 @@ static void Task_BuyMenu(u8 taskId)
             BuyMenuRemoveScrollIndicatorArrows();
             BuyMenuPrintCursor(tListTaskId, 2);
             RecolorItemDescriptionBox(1);
-            sShopData.itemPrice = ItemId_GetPrice(itemId);
+            sShopData.itemPrice = GetItemPrice(itemId);
             if (!IsEnoughMoney(&gSaveBlock1Ptr->money, sShopData.itemPrice))
             {
                 BuyMenuDisplayMessage(taskId, gText_YouDontHaveMoney, BuyMenuReturnToItemList);
@@ -1101,7 +1101,7 @@ static void Task_BuyHowManyDialogueInit(u8 taskId)
     BuyMenuQuantityBoxNormalBorder(3, 0);
     BuyMenuPrintItemQuantityAndPrice(taskId);
     ScheduleBgCopyTilemapToVram(0);
-    maxQuantity = GetMoney(&gSaveBlock1Ptr->money) / ItemId_GetPrice(tItemId);
+    maxQuantity = GetMoney(&gSaveBlock1Ptr->money) / GetItemPrice(tItemId);
     if (maxQuantity > 99)
         sShopData.maxQuantity = 99;
     else
@@ -1119,7 +1119,7 @@ static void Task_BuyHowManyDialogueHandleInput(u8 taskId)
 
     if (AdjustQuantityAccordingToDPadInput(&tItemCount, sShopData.maxQuantity) == TRUE)
     {
-        sShopData.itemPrice = ItemId_GetPrice(tItemId) * tItemCount;
+        sShopData.itemPrice = GetItemPrice(tItemId) * tItemCount;
         BuyMenuPrintItemQuantityAndPrice(taskId);
     }
     else
@@ -1190,7 +1190,7 @@ static void Task_ReturnToItemListAfterItemPurchase(u8 taskId)
         u16 premierBallsToAdd = tItemCount / 10;
         if (premierBallsToAdd >= 1
          && ((I_PREMIER_BALL_BONUS <= GEN_7 && tItemId == ITEM_POKE_BALL)
-          || (I_PREMIER_BALL_BONUS >= GEN_8 && (ItemId_GetPocket(tItemId) == POCKET_POKE_BALLS))))
+          || (I_PREMIER_BALL_BONUS >= GEN_8 && (GetItemPocket(tItemId) == POCKET_POKE_BALLS))))
         {
             u32 spaceAvailable = GetFreeSpaceForItemInBag(ITEM_PREMIER_BALL);
             if (spaceAvailable < premierBallsToAdd)

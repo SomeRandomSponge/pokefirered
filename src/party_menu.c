@@ -1858,16 +1858,16 @@ static void BufferBagFullCantTakeItemMessage(u16 itemId)
 {
     const u8 *string;
 
-    switch (ItemId_GetPocket(itemId))
+    switch (GetItemPocket(itemId))
     {
     default:
         string = gText_MenuBag;
         break;
     case POCKET_TM_HM:
-        string = ItemId_GetName(ITEM_TM_CASE);
+        string = GetItemName(ITEM_TM_CASE);
         break;
     case POCKET_BERRIES:
-        string = ItemId_GetName(ITEM_BERRY_POUCH);
+        string = GetItemName(ITEM_BERRY_POUCH);
         break;
     }
     StringCopy(gStringVar1, string);
@@ -4294,9 +4294,9 @@ static void DisplayCantUseSurfMessage(void)
         GetXYCoordsOneStepInFrontOfPlayer(&x, &y);
         if (MetatileBehavior_IsFastWater(MapGridGetMetatileBehaviorAt(x, y)) == TRUE)
             DisplayPartyMenuStdMessage(PARTY_MSG_CURRENT_TOO_FAST);
-        else if ((gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(ROUTE17))
-              && ((gSaveBlock1Ptr->location.mapNum == MAP_NUM(ROUTE17))
-                 || (gSaveBlock1Ptr->location.mapNum == MAP_NUM(ROUTE18))))
+        else if ((gSaveBlock1Ptr->location.mapGroup == MAP_GROUP(MAP_ROUTE17))
+              && ((gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_ROUTE17))
+                 || (gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_ROUTE18))))
             DisplayPartyMenuStdMessage(PARTY_MSG_ENJOY_CYCLING);
         else
             DisplayPartyMenuStdMessage(PARTY_MSG_CANT_SURF_HERE);
@@ -4429,11 +4429,11 @@ static void CB2_DoUseItemAnim(void)
 
 static void CB2_UseItem(void)
 {
-    if (ItemId_GetPocket(gSpecialVar_ItemId) == POCKET_TM_HM && PSA_IsCancelDisabled() == TRUE)
+    if (GetItemPocket(gSpecialVar_ItemId) == POCKET_TM_HM && PSA_IsCancelDisabled() == TRUE)
     {
         GiveMoveToMon(&gPlayerParty[gPartyMenu.slotId], ItemIdToBattleMoveId(gSpecialVar_ItemId));
         AdjustFriendship(&gPlayerParty[gPartyMenu.slotId], FRIENDSHIP_EVENT_LEARN_TMHM);
-        if (!ItemId_GetImportance(gSpecialVar_ItemId))
+        if (!GetItemImportance(gSpecialVar_ItemId))
             RemoveBagItem(gSpecialVar_ItemId, 1);
         SetMainCallback2(gPartyMenu.exitCallback);
     }
@@ -4471,7 +4471,7 @@ static void Task_SetSacredAshCB(u8 taskId)
 
 static bool8 IsHPRecoveryItem(u16 item)
 {
-    const u8 *effect = ItemId_GetEffect(item);
+    const u8 *effect = GetItemEffect(item);
 
     if (effect == NULL)
         return FALSE;
@@ -4805,7 +4805,7 @@ void ItemUseCB_ApplyMint(u8 taskId, TaskFunc func)
     {
         case 0:
             tMonId = gPartyMenu.slotId;
-            tNewNature = ItemId_GetSecondaryId(gSpecialVar_ItemId);
+            tNewNature = GetItemSecondaryId(gSpecialVar_ItemId);
             PlaySE(SE_USE_ITEM);
             GetMonNickname(&gPlayerParty[tMonId], gStringVar1);
             CopyItemName(gSpecialVar_ItemId, gStringVar2);
@@ -4894,7 +4894,7 @@ void ItemUseCB_Mint(u8 taskId, TaskFunc task)
     tState = 0;
     tMonId = gPartyMenu.slotId;
     tOldNature = GetMonData(&gPlayerParty[tMonId], MON_DATA_HIDDEN_NATURE);
-    tNewNature = ItemId_GetSecondaryId(gSpecialVar_ItemId);
+    tNewNature = GetItemSecondaryId(gSpecialVar_ItemId);
     SetWordTaskArg(taskId, tOldFunc, (uintptr_t)(gTasks[taskId].func));
     gTasks[taskId].func = Task_Mint;
 }
@@ -5208,7 +5208,7 @@ static void Task_HandleRestoreWhichMoveInput(u8 taskId)
 
 void ItemUseCB_PPRecovery(u8 taskId, TaskFunc func)
 {
-    const u8 *effect = ItemId_GetEffect(gSpecialVar_ItemId);
+    const u8 *effect = GetItemEffect(gSpecialVar_ItemId);
 
     if (effect == NULL || !(effect[4] & ITEM4_HEAL_PP_ONE))
     {
@@ -5306,7 +5306,7 @@ void ItemUseCB_PPUp(u8 taskId, TaskFunc func)
 
 u16 ItemIdToBattleMoveId(u16 item)
 {
-    return (ItemId_GetPocket(item) == POCKET_TM_HM) ? gItemsInfo[item].secondaryId : MOVE_NONE;
+    return (GetItemPocket(item) == POCKET_TM_HM) ? gItemsInfo[item].secondaryId : MOVE_NONE;
 }
 
 bool8 MonKnowsMove(struct Pokemon *mon, u16 move)
@@ -5398,7 +5398,7 @@ static void Task_LearnedMove(u8 taskId)
     if (learnMoveMethod == LEARN_VIA_TMHM)
     {
         AdjustFriendship(mon, FRIENDSHIP_EVENT_LEARN_TMHM);
-        if (!ItemId_GetImportance(item))
+        if (!GetItemImportance(item))
             RemoveBagItem(item, 1);
     }
     GetMonNickname(mon, gStringVar1);
@@ -5612,7 +5612,7 @@ void ItemUseCB_RareCandy(u8 taskId, TaskFunc func)
     struct Pokemon *mon = &gPlayerParty[gPartyMenu.slotId];
     u16 *itemPtr = &gSpecialVar_ItemId;
     bool8 cannotUseEffect;
-    u8 holdEffectParam = ItemId_GetHoldEffectParam(*itemPtr);
+    u8 holdEffectParam = GetItemHoldEffectParam(*itemPtr);
 
     sInitialLevel = GetMonData(mon, MON_DATA_LEVEL);
     if (!(B_RARE_CANDY_CAP && sInitialLevel >= GetCurrentLevelCap()))
@@ -5671,7 +5671,7 @@ void ItemUseCB_RareCandy(u8 taskId, TaskFunc func)
 static void ItemUseCB_RareCandyStep(u8 taskId, TaskFunc func)
 {
     struct Pokemon *mon = &gPlayerParty[gPartyMenu.slotId];
-    u8 holdEffectParam = ItemId_GetHoldEffectParam(gSpecialVar_ItemId);
+    u8 holdEffectParam = GetItemHoldEffectParam(gSpecialVar_ItemId);
     u8 i;
 
     for (i = 0; i < NUM_STATS; i++) {
@@ -6052,7 +6052,7 @@ static bool8 MonCanEvolve(void)
 u8 GetItemEffectType(u16 item)
 {
     u32 statusCure;
-    const u8 *itemEffect = ItemId_GetEffect(item);
+    const u8 *itemEffect = GetItemEffect(item);
 
     // Read the item's effect properties.
     if (itemEffect == NULL)
