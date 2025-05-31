@@ -1926,7 +1926,7 @@ static void Task_FinalizeSaleToShop(u8 taskId)
     s16 *data = gTasks[taskId].data;
     PlaySE(SE_SHOP);
     RemoveBagItem(gSpecialVar_ItemId, data[8]);
-    AddMoney(&gSaveBlock1Ptr->money, (ItemId_GetPrice(gSpecialVar_ItemId) / ITEM_SELL_FACTOR) * data[8]);
+    AddMoney(&gSaveBlock1Ptr->money, (GetItemPrice(gSpecialVar_ItemId) / ITEM_SELL_FACTOR) * data[8]);
     DestroyListMenuTask(data[0], &gBagMenuState.cursorPos[gBagMenuState.pocket], &gBagMenuState.itemsAbove[gBagMenuState.pocket]);
     Pocket_CalculateNItemsAndMaxShowed(gBagMenuState.pocket);
     PocketCalculateInitialCursorPosAndItemsAbove(gBagMenuState.pocket);

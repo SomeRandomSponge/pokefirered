@@ -1291,7 +1291,7 @@ static void Task_DoSaleOfTMs(u8 taskId)
 
     PlaySE(SE_SHOP);
     RemoveBagItem(gSpecialVar_ItemId, tQuantitySelected);
-    AddMoney(&gSaveBlock1Ptr->money, ItemId_GetPrice(gSpecialVar_ItemId) / 2 * tQuantitySelected);
+    AddMoney(&gSaveBlock1Ptr->money, GetItemPrice(gSpecialVar_ItemId) / 2 * tQuantitySelected);
     DestroyListMenuTask(tListTaskId, &sTMCaseStaticResources.scrollOffset, &sTMCaseStaticResources.selectedRow);
     TMCaseSetup_GetTMCount();
     TMCaseSetup_InitListMenuPositions();

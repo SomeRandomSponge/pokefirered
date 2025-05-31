@@ -53,8 +53,6 @@
 // #include "constants/trainer_hill.h"
 #include "constants/weather.h"
 #include "wild_encounter.h"
-#include "help_system.h"
-#include "quest_log.h"
 
 enum {
     TRANSITION_TYPE_NORMAL,

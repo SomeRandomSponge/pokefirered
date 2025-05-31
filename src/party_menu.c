@@ -4451,7 +4451,7 @@ static void CB2_UseTMHMAfterForgettingMove(void)
         RemoveMonPPBonus(mon, moveIdx);
         SetMonMoveSlot(mon, ItemIdToBattleMoveId(gSpecialVar_ItemId), moveIdx);
         AdjustFriendship(mon, FRIENDSHIP_EVENT_LEARN_TMHM);
-        if (!ItemId_GetImportance(gSpecialVar_ItemId))
+        if (!GetItemImportance(gSpecialVar_ItemId))
             RemoveBagItem(gSpecialVar_ItemId, 1);
         SetMainCallback2(gPartyMenu.exitCallback);
     }
