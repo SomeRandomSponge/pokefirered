@@ -266,7 +266,7 @@
     },
     {
       "id": "MAPSEC_PALLET_TOWN",
-      "name": "PALLET TOWN",
+      "name": "PUEBLO PALETA",
       "x": 4,
       "y": 11,
       "width": 1,
@@ -274,7 +274,7 @@
     },
     {
       "id": "MAPSEC_VIRIDIAN_CITY",
-      "name": "VIRIDIAN CITY",
+      "name": "CIUDAD VERDE",
       "x": 4,
       "y": 8,
       "width": 1,
@@ -282,7 +282,7 @@
     },
     {
       "id": "MAPSEC_PEWTER_CITY",
-      "name": "PEWTER CITY",
+      "name": "CIUDAD PLATEADA",
       "x": 4,
       "y": 4,
       "width": 1,
@@ -290,7 +290,7 @@
     },
     {
       "id": "MAPSEC_CERULEAN_CITY",
-      "name": "CERULEAN CITY",
+      "name": "CIUDAD CELESTE",
       "x": 14,
       "y": 3,
       "width": 1,
@@ -298,7 +298,7 @@
     },
     {
       "id": "MAPSEC_LAVENDER_TOWN",
-      "name": "LAVENDER TOWN",
+      "name": "PUEBLO LAVANDA",
       "x": 18,
       "y": 6,
       "width": 1,
@@ -306,7 +306,7 @@
     },
     {
       "id": "MAPSEC_VERMILION_CITY",
-      "name": "VERMILION CITY",
+      "name": "CIUDAD CARMÍN",
       "x": 14,
       "y": 9,
       "width": 1,
@@ -314,7 +314,7 @@
     },
     {
       "id": "MAPSEC_CELADON_CITY",
-      "name": "CELADON CITY",
+      "name": "CIUDAD PRISMA",
       "x": 11,
       "y": 6,
       "width": 1,
@@ -322,7 +322,7 @@
     },
     {
       "id": "MAPSEC_FUCHSIA_CITY",
-      "name": "FUCHSIA CITY",
+      "name": "CIUDAD FUCSIA",
       "x": 12,
       "y": 12,
       "width": 1,
@@ -330,7 +330,7 @@
     },
     {
       "id": "MAPSEC_CINNABAR_ISLAND",
-      "name": "CINNABAR ISLAND",
+      "name": "ISLA CANELA",
       "x": 4,
       "y": 14,
       "width": 1,
@@ -338,7 +338,7 @@
     },
     {
       "id": "MAPSEC_INDIGO_PLATEAU",
-      "name": "INDIGO PLATEAU",
+      "name": "MESETA AÑIL",
       "x": 2,
       "y": 3,
       "width": 1,
@@ -346,7 +346,7 @@
     },
     {
       "id": "MAPSEC_SAFFRON_CITY",
-      "name": "SAFFRON CITY",
+      "name": "CIUDAD AZAFRÁN",
       "x": 14,
       "y": 6,
       "width": 1,
@@ -354,8 +354,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_4_POKECENTER",
-      "name": "ROUTE 4",
-      "name_clone": true,
+      "name": "RUTA 4",
       "x": 8,
       "y": 3,
       "width": 1,
@@ -363,8 +362,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_10_POKECENTER",
-      "name": "ROUTE 10",
-      "name_clone": true,
+      "name": "RUTA 10",
       "x": 18,
       "y": 3,
       "width": 1,
@@ -372,7 +370,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_1",
-      "name": "ROUTE 1",
+      "name": "RUTA 1",
       "x": 4,
       "y": 9,
       "width": 1,
@@ -380,7 +378,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_2",
-      "name": "ROUTE 2",
+      "name": "RUTA 2",
       "x": 4,
       "y": 5,
       "width": 1,
@@ -388,7 +386,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_3",
-      "name": "ROUTE 3",
+      "name": "RUTA 3",
       "x": 5,
       "y": 4,
       "width": 4,
@@ -396,7 +394,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_4",
-      "name": "ROUTE 4",
+      "name": "RUTA 4",
       "x": 8,
       "y": 3,
       "width": 6,
@@ -404,7 +402,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_5",
-      "name": "ROUTE 5",
+      "name": "RUTA 5",
       "x": 14,
       "y": 4,
       "width": 1,
@@ -412,7 +410,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_6",
-      "name": "ROUTE 6",
+      "name": "RUTA 6",
       "x": 14,
       "y": 7,
       "width": 1,
@@ -420,7 +418,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_7",
-      "name": "ROUTE 7",
+      "name": "RUTA 7",
       "x": 12,
       "y": 6,
       "width": 2,
@@ -428,7 +426,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_8",
-      "name": "ROUTE 8",
+      "name": "RUTA 8",
       "x": 15,
       "y": 6,
       "width": 3,
@@ -436,7 +434,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_9",
-      "name": "ROUTE 9",
+      "name": "RUTA 9",
       "x": 15,
       "y": 3,
       "width": 3,
@@ -444,7 +442,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_10",
-      "name": "ROUTE 10",
+      "name": "RUTA 10",
       "x": 18,
       "y": 3,
       "width": 1,
@@ -452,7 +450,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_11",
-      "name": "ROUTE 11",
+      "name": "RUTA 11",
       "x": 15,
       "y": 9,
       "width": 3,
@@ -460,7 +458,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_12",
-      "name": "ROUTE 12",
+      "name": "RUTA 12",
       "x": 18,
       "y": 7,
       "width": 1,
@@ -468,7 +466,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_13",
-      "name": "ROUTE 13",
+      "name": "RUTA 13",
       "x": 16,
       "y": 11,
       "width": 2,
@@ -476,7 +474,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_14",
-      "name": "ROUTE 14",
+      "name": "RUTA 14",
       "x": 15,
       "y": 11,
       "width": 1,
@@ -484,7 +482,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_15",
-      "name": "ROUTE 15",
+      "name": "RUTA 15",
       "x": 13,
       "y": 12,
       "width": 2,
@@ -492,7 +490,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_16",
-      "name": "ROUTE 16",
+      "name": "RUTA 16",
       "x": 7,
       "y": 6,
       "width": 4,
@@ -500,7 +498,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_17",
-      "name": "ROUTE 17",
+      "name": "RUTA 17",
       "x": 7,
       "y": 7,
       "width": 1,
@@ -508,7 +506,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_18",
-      "name": "ROUTE 18",
+      "name": "RUTA 18",
       "x": 7,
       "y": 12,
       "width": 5,
@@ -516,7 +514,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_19",
-      "name": "ROUTE 19",
+      "name": "RUTA 19",
       "x": 12,
       "y": 13,
       "width": 1,
@@ -524,7 +522,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_20",
-      "name": "ROUTE 20",
+      "name": "RUTA 20",
       "x": 5,
       "y": 14,
       "width": 7,
@@ -532,7 +530,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_21",
-      "name": "ROUTE 21",
+      "name": "RUTA 21",
       "x": 4,
       "y": 12,
       "width": 1,
@@ -540,7 +538,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_22",
-      "name": "ROUTE 22",
+      "name": "RUTA 22",
       "x": 2,
       "y": 8,
       "width": 2,
@@ -548,7 +546,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_23",
-      "name": "ROUTE 23",
+      "name": "RUTA 23",
       "x": 2,
       "y": 4,
       "width": 1,
@@ -556,7 +554,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_24",
-      "name": "ROUTE 24",
+      "name": "RUTA 24",
       "x": 14,
       "y": 1,
       "width": 1,
@@ -564,7 +562,7 @@
     },
     {
       "id": "MAPSEC_ROUTE_25",
-      "name": "ROUTE 25",
+      "name": "RUTA 25",
       "x": 15,
       "y": 1,
       "width": 2,
@@ -572,7 +570,7 @@
     },
     {
       "id": "MAPSEC_VIRIDIAN_FOREST",
-      "name": "VIRIDIAN FOREST",
+      "name": "BOSQUE VERDE",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -580,7 +578,7 @@
     },
     {
       "id": "MAPSEC_MT_MOON",
-      "name": "MT. MOON",
+      "name": "MONTE LUNA",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -588,7 +586,7 @@
     },
     {
       "id": "MAPSEC_S_S_ANNE",
-      "name": "S.S. ANNE",
+      "name": "SANTA ANA",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -596,7 +594,7 @@
     },
     {
       "id": "MAPSEC_UNDERGROUND_PATH",
-      "name": "UNDERGROUND PATH",
+      "name": "VÍA SUBTERRÁNEA",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -604,8 +602,7 @@
     },
     {
       "id": "MAPSEC_UNDERGROUND_PATH_2",
-      "name": "UNDERGROUND PATH",
-      "name_clone": true,
+      "name": "VÍA SUBTERRÁNEA",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -613,7 +610,7 @@
     },
     {
       "id": "MAPSEC_DIGLETTS_CAVE",
-      "name": "DIGLETT'S CAVE",
+      "name": "CUEVA DIGLETT",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -621,7 +618,7 @@
     },
     {
       "id": "MAPSEC_KANTO_VICTORY_ROAD",
-      "name": "VICTORY ROAD",
+      "name": "CAMINO VICTORIA",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -629,7 +626,7 @@
     },
     {
       "id": "MAPSEC_ROCKET_HIDEOUT",
-      "name": "ROCKET HIDEOUT",
+      "name": "GUARIDA ROCKET",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -637,7 +634,7 @@
     },
     {
       "id": "MAPSEC_SILPH_CO",
-      "name": "SILPH CO.",
+      "name": "SILPH S.A.",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -645,7 +642,7 @@
     },
     {
       "id": "MAPSEC_POKEMON_MANSION",
-      "name": "POKéMON MANSION",
+      "name": "MANSIÓN POKéMON",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -653,7 +650,7 @@
     },
     {
       "id": "MAPSEC_KANTO_SAFARI_ZONE",
-      "name": "SAFARI ZONE",
+      "name": "ZONA SAFARI",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -661,7 +658,7 @@
     },
     {
       "id": "MAPSEC_POKEMON_LEAGUE",
-      "name": "POKéMON LEAGUE",
+      "name": "LIGA POKéMON",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -669,7 +666,7 @@
     },
     {
       "id": "MAPSEC_ROCK_TUNNEL",
-      "name": "ROCK TUNNEL",
+      "name": "TÚNEL ROCA",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -677,7 +674,7 @@
     },
     {
       "id": "MAPSEC_SEAFOAM_ISLANDS",
-      "name": "SEAFOAM ISLANDS",
+      "name": "ISLAS ESPUMA",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -685,7 +682,7 @@
     },
     {
       "id": "MAPSEC_POKEMON_TOWER",
-      "name": "POKéMON TOWER",
+      "name": "TORRE POKéMON",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -693,7 +690,7 @@
     },
     {
       "id": "MAPSEC_CERULEAN_CAVE",
-      "name": "CERULEAN CAVE",
+      "name": "CUEVA CELESTE",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -701,7 +698,7 @@
     },
     {
       "id": "MAPSEC_POWER_PLANT",
-      "name": "POWER PLANT",
+      "name": "CENTRAL ENERGÍA",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -709,7 +706,7 @@
     },
     {
       "id": "MAPSEC_ONE_ISLAND",
-      "name": "ONE ISLAND",
+      "name": "ISLA PRIMA",
       "x": 1,
       "y": 8,
       "width": 1,
@@ -717,7 +714,7 @@
     },
     {
       "id": "MAPSEC_TWO_ISLAND",
-      "name": "TWO ISLAND",
+      "name": "ISLA SECUNDA",
       "x": 9,
       "y": 9,
       "width": 1,
@@ -725,7 +722,7 @@
     },
     {
       "id": "MAPSEC_THREE_ISLAND",
-      "name": "THREE ISLAND",
+      "name": "ISLA TERA",
       "x": 18,
       "y": 12,
       "width": 1,
@@ -733,7 +730,7 @@
     },
     {
       "id": "MAPSEC_FOUR_ISLAND",
-      "name": "FOUR ISLAND",
+      "name": "ISLA QUARTA",
       "x": 3,
       "y": 4,
       "width": 1,
@@ -741,7 +738,7 @@
     },
     {
       "id": "MAPSEC_FIVE_ISLAND",
-      "name": "FIVE ISLAND",
+      "name": "ISLA INTA",
       "x": 16,
       "y": 11,
       "width": 1,
@@ -749,7 +746,7 @@
     },
     {
       "id": "MAPSEC_SEVEN_ISLAND",
-      "name": "SEVEN ISLAND",
+      "name": "ISLA SÉTIMA",
       "x": 5,
       "y": 8,
       "width": 1,
@@ -757,7 +754,7 @@
     },
     {
       "id": "MAPSEC_SIX_ISLAND",
-      "name": "SIX ISLAND",
+      "name": "ISLA EXTA",
       "x": 17,
       "y": 5,
       "width": 1,
@@ -765,7 +762,7 @@
     },
     {
       "id": "MAPSEC_KINDLE_ROAD",
-      "name": "KINDLE ROAD",
+      "name": "CAMINO CANDENTE",
       "x": 2,
       "y": 3,
       "width": 1,
@@ -773,7 +770,7 @@
     },
     {
       "id": "MAPSEC_TREASURE_BEACH",
-      "name": "TREASURE BEACH",
+      "name": "PLAYA TESORO",
       "x": 1,
       "y": 9,
       "width": 1,
@@ -781,7 +778,7 @@
     },
     {
       "id": "MAPSEC_CAPE_BRINK",
-      "name": "CAPE BRINK",
+      "name": "CABO EXTREMO",
       "x": 9,
       "y": 7,
       "width": 1,
@@ -789,7 +786,7 @@
     },
     {
       "id": "MAPSEC_BOND_BRIDGE",
-      "name": "BOND BRIDGE",
+      "name": "PUENTE UNIÓN",
       "x": 13,
       "y": 12,
       "width": 4,
@@ -797,7 +794,7 @@
     },
     {
       "id": "MAPSEC_THREE_ISLE_PORT",
-      "name": "THREE ISLE PORT",
+      "name": "PUERTO ISLA TERA",
       "x": 18,
       "y": 13,
       "width": 2,
@@ -837,7 +834,7 @@
     },
     {
       "id": "MAPSEC_RESORT_GORGEOUS",
-      "name": "RESORT GORGEOUS",
+      "name": "RESORT LUJOSO",
       "x": 16,
       "y": 9,
       "width": 3,
@@ -845,7 +842,7 @@
     },
     {
       "id": "MAPSEC_WATER_LABYRINTH",
-      "name": "WATER LABYRINTH",
+      "name": "AQUARINTO",
       "x": 14,
       "y": 10,
       "width": 3,
@@ -853,7 +850,7 @@
     },
     {
       "id": "MAPSEC_FIVE_ISLE_MEADOW",
-      "name": "FIVE ISLE MEADOW",
+      "name": "PRADO ISLA INTA",
       "x": 17,
       "y": 10,
       "width": 1,
@@ -998,7 +995,6 @@
     {
       "id": "MAPSEC_TRAINER_TOWER_2",
       "name": "TRAINER TOWER",
-      "name_clone": true,
       "x": 0,
       "y": 0,
       "width": 1,
