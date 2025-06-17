@@ -24,7 +24,6 @@
 #include "task.h"
 #include "text_window.h"
 #include "trig.h"
-#include "constants/item_menu.h"
 #include "constants/items.h"
 #include "constants/pokemon_icon.h"
 #include "constants/songs.h"
@@ -3491,7 +3490,7 @@ static void Task_ChangeScreen(u8 taskId)
         break;
     case SCREEN_CHANGE_ITEM_FROM_BAG:
         FreePokeStorageData();
-        GoToBagMenu(ITEMMENULOCATION_PCBOX, OPEN_BAG_ITEMS, CB2_ReturnToPokeStorage);
+        GoToBagMenu(ITEMMENULOCATION_PCBOX, ITEMS_POCKET, CB2_ReturnToPokeStorage);
         break;
     }
 
@@ -3527,7 +3526,7 @@ static void SetScrollingBackground(void)
 {
     SetGpuReg(REG_OFFSET_BG3CNT, BGCNT_PRIORITY(3) | BGCNT_CHARBASE(3) | BGCNT_16COLOR | BGCNT_SCREENBASE(31));
     DecompressAndLoadBgGfxUsingHeap(3, sScrollingBg_Gfx, 0, 0, 0);
-    LZ77UnCompVram(sScrollingBg_Tilemap, (void *)BG_SCREEN_ADDR(31));
+    DecompressDataWithHeaderVram(sScrollingBg_Tilemap, (void *)BG_SCREEN_ADDR(31));
 }
 
 static void ScrollBackground(void)
@@ -3540,7 +3539,7 @@ static void LoadPokeStorageMenuGfx(void)
 {
     InitBgsFromTemplates(0, sBgTemplates, ARRAY_COUNT(sBgTemplates));
     DecompressAndLoadBgGfxUsingHeap(1, gPokeStorageMenu_Gfx, 0, 0, 0);
-    LZ77UnCompWram(sMenu_Tilemap, gStorage->menuTilemapBuffer);
+    DecompressDataWithHeaderWram(sMenu_Tilemap, gStorage->menuTilemapBuffer);
     SetBgTilemapBuffer(1, gStorage->menuTilemapBuffer);
     ShowBg(1);
     ScheduleBgCopyTilemapToVram(1);
@@ -3748,7 +3747,7 @@ static void UpdateWaveformAnimation(void)
 
 static void InitSupplementalTilemaps(void)
 {
-    LZ77UnCompWram(gPokeStoragePartyMenu_Tilemap, gStorage->partyMenuTilemapBuffer);
+    DecompressDataWithHeaderWram(gPokeStoragePartyMenu_Tilemap, gStorage->partyMenuTilemapBuffer);
     LoadPalette(gPokeStoragePartyMenu_Pal, BG_PLTT_ID(1), PLTT_SIZE_4BPP);
     TilemapUtil_SetTilemap(TILEMAP_PARTY_MENU, 1, gStorage->partyMenuTilemapBuffer, 12, 22);
     TilemapUtil_SetTilemap(TILEMAP_CLOSE_BUTTON, 1, sCloseBoxButton_Tilemap, 9, 4);
@@ -5046,7 +5045,7 @@ static void LoadWallpaperGfx(u8 boxId, s8 direction)
 
     wallpaperId = GetBoxWallpaper(gStorage->wallpaperLoadBoxId);
     wallpaper = &sWallpapers[wallpaperId];
-    LZ77UnCompWram(wallpaper->tileMap, gStorage->wallpaperTilemap);
+    DecompressDataWithHeaderWram(wallpaper->tileMap, gStorage->wallpaperTilemap);
     DrawWallpaper(gStorage->wallpaperBgTilemapBuffer, gStorage->wallpaperTilemap, gStorage->wallpaperLoadDir, gStorage->wallpaperOffset);
 
     if (gStorage->wallpaperLoadDir != 0)
@@ -8546,7 +8545,7 @@ static void LoadItemIconGfx(u8 id, const u32 *itemTiles, const u16 *itemPal)
         return;
 
     CpuFastFill(0, gStorage->itemIconBuffer, 0x200);
-    LZ77UnCompWram(itemTiles, gStorage->tileBuffer);
+    DecompressDataWithHeaderWram(itemTiles, gStorage->tileBuffer);
     for (i = 0; i < 3; i++)
         CpuFastCopy(gStorage->tileBuffer + (i * 0x60), gStorage->itemIconBuffer + (i * 0x80), 0x60);
 
