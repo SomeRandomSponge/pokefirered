@@ -3,16 +3,6 @@ SSAnne_Exterior_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, SSAnne_Exterior_OnFrame
 	.byte 0
 
-SSAnne_Exterior_OnResume::
-	call_if_set FLAG_SYS_SPECIAL_WILD_BATTLE, SSAnne_Exterior_EventScript_TryRemoveMew
-	end
-
-SSAnne_Exterior_EventScript_TryRemoveMew::
-	specialvar VAR_RESULT, GetBattleOutcome
-	goto_if_ne VAR_RESULT, B_OUTCOME_CAUGHT, EventScript_Return
-	removeobject VAR_LAST_TALKED
-	return
-
 SSAnne_Exterior_OnTransition::
 	setworldmapflag FLAG_WORLD_MAP_SSANNE_EXTERIOR
 	end
@@ -93,10 +83,6 @@ SSAnne_Exterior_EventScript_Mew::
 	special StartLegendaryBattle
 	waitstate
 	clearflag FLAG_SYS_SPECIAL_WILD_BATTLE
-	specialvar VAR_RESULT, GetBattleOutcome
-	goto_if_eq VAR_RESULT, B_OUTCOME_WON, SSAnne_Exterior_EventScript_DefeatedMew
-	goto_if_eq VAR_RESULT, B_OUTCOME_RAN, SSAnne_Exterior_EventScript_RanFromMew
-	goto_if_eq VAR_RESULT, B_OUTCOME_PLAYER_TELEPORTED, SSAnne_Exterior_EventScript_RanFromMew
 	setflag FLAG_FOUGHT_MEW
 	release
 	end
@@ -107,12 +93,3 @@ SSAnne_Exterior_EventScript_NothingUnderTruck::
 	release
 	end
 
-SSAnne_Exterior_EventScript_DefeatedMew::
-	setflag FLAG_FOUGHT_MEW
-	release
-	end
-
-SSAnne_Exterior_EventScript_RanFromMew::
-	setvar VAR_0x8004, SPECIES_MEW
-	goto EventScript_MonFlewAway
-	end
