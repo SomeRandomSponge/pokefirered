@@ -79,7 +79,7 @@ SSAnne_Exterior_EventScript_Mew::
 	special QuestLog_CutRecording
 	lock
 	faceplayer
-	goto_if_set FLAG_GOT_POTION_ON_ROUTE_1, SSAnne_Exterior_EventScript_NothingUnderTruck
+	goto_if_set FLAG_FOUGHT_MEW, SSAnne_Exterior_EventScript_NothingUnderTruck
 	waitse
 	playmoncry SPECIES_MEW, CRY_MODE_ENCOUNTER
 	message CeruleanCave_B1F_Text_Mew
