@@ -33,3 +33,5 @@ SSAnne_Deck_Text_TrevorPostBattle::
     .string "Mi pa dijo que hay 100 tipos de\n"
     .string "POKéMON. Yo creo que hay más.$"
 
+SSAnne_Deck_Text_NothingUnderTruck::
+    .string "No hay nada bajo el camión...$"

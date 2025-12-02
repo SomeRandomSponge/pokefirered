@@ -79,6 +79,7 @@ SSAnne_Exterior_EventScript_Mew::
 	special QuestLog_CutRecording
 	lock
 	faceplayer
+	goto_if_set FLAG_GOT_POTION_ON_ROUTE_1, SSAnne_Exterior_EventScript_NothingUnderTruck
 	waitse
 	playmoncry SPECIES_MEW, CRY_MODE_ENCOUNTER
 	message CeruleanCave_B1F_Text_Mew
@@ -87,7 +88,7 @@ SSAnne_Exterior_EventScript_Mew::
 	delay 20
 	playbgm MUS_ENCOUNTER_GYM_LEADER, 0
 	waitbuttonpress
-	setwildbattle SPECIES_MEW, 30
+	setwildbattle SPECIES_MEW, 5
 	setflag FLAG_SYS_SPECIAL_WILD_BATTLE
 	special StartLegendaryBattle
 	waitstate
@@ -100,9 +101,15 @@ SSAnne_Exterior_EventScript_Mew::
 	release
 	end
 
+
+SSAnne_Exterior_EventScript_NothingUnderTruck::
+	msgbox SSAnne_Deck_Text_NothingUnderTruck
+	release
+	end
+
 SSAnne_Exterior_EventScript_DefeatedMew::
 	setflag FLAG_FOUGHT_MEW
-	goto EventScript_RemoveStaticMon
+	release
 	end
 
 SSAnne_Exterior_EventScript_RanFromMew::
