@@ -418,7 +418,7 @@ static const u8 sText_FoePkmnPrefix3[] = _("enemigo");
 static const u8 sText_AllyPkmnPrefix2[] = _("aliado");
 static const u8 sText_FoePkmnPrefix4[] = _("enemigo");
 static const u8 sText_AllyPkmnPrefix3[] = _("aliado");
-static const u8 sText_AttackerUsedX[] = _("{B_ATK_NAME_WITH_PREFIX} usó\n{B_BUFF2}");
+static const u8 sText_AttackerUsedX[] = _("¡{B_ATK_NAME_WITH_PREFIX} usó\n{B_BUFF2}");
 static const u8 sText_ExclamationMark[] = _("!");
 static const u8 sText_ExclamationMark2[] = _("!");
 static const u8 sText_ExclamationMark3[] = _("!");
@@ -2488,7 +2488,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     },
     [B_WIN_MOVE_NAME_1] = {
         .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_SMALL_NARROWER,
         .x = 0,
         .y = 1,
         .letterSpacing = 0,
@@ -2500,7 +2500,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     },
     [B_WIN_MOVE_NAME_2] = {
         .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_SMALL_NARROWER,
         .x = 0,
         .y = 1,
         .letterSpacing = 0,
@@ -2512,7 +2512,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     },
     [B_WIN_MOVE_NAME_3] = {
         .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_SMALL_NARROWER,
         .x = 0,
         .y = 1,
         .letterSpacing = 0,
@@ -2524,7 +2524,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     },
     [B_WIN_MOVE_NAME_4] = {
         .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_SMALL_NARROWER,
         .x = 0,
         .y = 1,
         .letterSpacing = 0,

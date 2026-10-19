@@ -177,7 +177,7 @@ struct PokemonSummaryScreenData
 
         u8 ALIGNED(4) moveCurPpStrBufs[5][11];
         u8 ALIGNED(4) moveMaxPpStrBufs[5][11];
-        u8 ALIGNED(4) moveNameStrBufs[5][MOVE_NAME_LENGTH + 1];
+        u8 ALIGNED(4) moveNameStrBufs[5][MOVE_NAME_LENGTH + 2];
         u8 ALIGNED(4) movePowerStrBufs[5][5];
         u8 ALIGNED(4) moveAccuracyStrBufs[5][5];
 
@@ -2540,7 +2540,7 @@ static void PokeSum_PrintMoveName(u8 i)
     if (i == 4)
         curPP = maxPP;
 
-    AddTextPrinterParameterized3(sMonSummaryScreen->windowIds[POKESUM_WIN_RIGHT_PANE], FONT_NORMAL, 3, GetMoveNamePrinterYpos(i), sPrintMoveTextColors[0], TEXT_SKIP_DRAW, sMonSummaryScreen->summary.moveNameStrBufs[i]);
+    AddTextPrinterParameterized3(sMonSummaryScreen->windowIds[POKESUM_WIN_RIGHT_PANE], FONT_SMALL_NARROWER, 0, GetMoveNamePrinterYpos(i), sPrintMoveTextColors[0], TEXT_SKIP_DRAW, sMonSummaryScreen->summary.moveNameStrBufs[i]);
 
     if (sMonSummaryScreen->moveIds[i] == 0 || (curPP == maxPP))
       colorIdx = 0;
