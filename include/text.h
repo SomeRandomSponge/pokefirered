@@ -22,6 +22,8 @@ enum {
     FONT_BRAILLE,
     FONT_BOLD,
     FONT_SMALL_NARROWER,
+    FONT_SHORT_NARROW,
+    FONT_SHORT_NARROWER,
 };
 
 // Return values for font functions
@@ -169,6 +171,8 @@ u16 FontFunc_Male(struct TextPrinter *textPrinter);
 u16 FontFunc_Female(struct TextPrinter *textPrinter);
 u16 FontFunc_Braille(struct TextPrinter *textPrinter);
 u16 FontFunc_SmallNarrower(struct TextPrinter *textPrinter);
+u16 FontFunc_ShortNarrow(struct TextPrinter *textPrinter);
+u16 FontFunc_ShortNarrower(struct TextPrinter *textPrinter);
 
 void TextPrinterInitDownArrowCounters(struct TextPrinter *textPrinter);
 void TextPrinterDrawDownArrow(struct TextPrinter *textPrinter);
