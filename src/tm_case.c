@@ -116,7 +116,7 @@ static EWRAM_DATA struct {
 
 static EWRAM_DATA void *sTilemapBuffer = NULL;
 static EWRAM_DATA struct ListMenuItem * sListMenuItemsBuffer = NULL;
-static EWRAM_DATA u8 (* sListMenuStringsBuffer)[29] = NULL;
+static EWRAM_DATA u8 (* sListMenuStringsBuffer)[32] = NULL;
 static EWRAM_DATA u16 * sTMSpritePaletteBuffer = NULL;
 
 static void CB2_SetUpTMCaseUI_Blocking(void);
@@ -638,7 +638,7 @@ static void CreateTMCaseListMenuBuffers(void)
 {
     struct BagPocket * pocket = &gBagPockets[POCKET_TM_CASE - 1];
     sListMenuItemsBuffer = Alloc((pocket->capacity + 1) * sizeof(struct ListMenuItem));
-    sListMenuStringsBuffer = Alloc(sTMCaseDynamicResources->numTMs * 29);
+    sListMenuStringsBuffer = Alloc(sTMCaseDynamicResources->numTMs * 32);
 }
 
 static void InitTMCaseListMenuItems(void)
@@ -665,7 +665,7 @@ static void InitTMCaseListMenuItems(void)
     gMultiuseListMenuTemplate.itemVerticalPadding = 2;
     gMultiuseListMenuTemplate.upText_Y = 2;
     gMultiuseListMenuTemplate.maxShowed = sTMCaseDynamicResources->maxTMsShown;
-    gMultiuseListMenuTemplate.fontId = FONT_NORMAL;
+    gMultiuseListMenuTemplate.fontId = FONT_SHORT_NARROWER;
     gMultiuseListMenuTemplate.cursorPal = 2;
     gMultiuseListMenuTemplate.fillValue = 0;
     gMultiuseListMenuTemplate.cursorShadowPal = 3;
@@ -723,7 +723,7 @@ static void List_ItemPrintFunc(u8 windowId, u32 itemIndex, u8 y)
         {
             ConvertIntToDecimalStringN(gStringVar1, BagGetQuantityByPocketPosition(POCKET_TM_CASE, itemIndex), STR_CONV_MODE_RIGHT_ALIGN, 3);
             StringExpandPlaceholders(gStringVar4, gText_TimesStrVar1);
-            TMCase_Print(windowId, FONT_SMALL, gStringVar4, 126, y, 0, 0, TEXT_SKIP_DRAW, COLOR_DARK);
+            TMCase_Print(windowId, FONT_SHORT_NARROWER, gStringVar4, 134, y, 0, 0, TEXT_SKIP_DRAW, COLOR_DARK);
         }
         else
         {
@@ -766,7 +766,7 @@ static void PrintListCursorAtRow(u8 y, u8 colorIdx)
     }
     else
     {
-        TMCase_Print(WIN_LIST, FONT_NORMAL, gText_SelectorArrow2, 0, y, 0, 0, 0, colorIdx);
+        TMCase_Print(WIN_LIST, FONT_SHORT_NARROWER, gText_SelectorArrow2, 0, y, 0, 0, 0, colorIdx);
     }
 }
 
@@ -964,22 +964,22 @@ static void Task_SelectedTMHM_Field(u8 taskId)
 
     // Print context window actions
     AddItemMenuActionTextPrinters(sTMCaseDynamicResources->contextMenuWindowId,
-                                  FONT_NORMAL,
-                                  GetMenuCursorDimensionByFont(FONT_NORMAL, 0),
+                                  FONT_SHORT_NARROWER,
+                                  GetMenuCursorDimensionByFont(FONT_SHORT_NARROWER, 0),
                                   2,
                                   0,
-                                  GetFontAttribute(FONT_NORMAL, FONTATTR_MAX_LETTER_HEIGHT) + 2,
+                                  GetFontAttribute(FONT_SHORT_NARROWER, FONTATTR_MAX_LETTER_HEIGHT) + 2,
                                   sTMCaseDynamicResources->numMenuActions,
                                   sMenuActions,
                                   sTMCaseDynamicResources->menuActionIndices);
 
-    Menu_InitCursor(sTMCaseDynamicResources->contextMenuWindowId, FONT_NORMAL, 0, 2, GetFontAttribute(FONT_NORMAL, FONTATTR_MAX_LETTER_HEIGHT) + 2, sTMCaseDynamicResources->numMenuActions, 0);
+    Menu_InitCursor(sTMCaseDynamicResources->contextMenuWindowId, FONT_SHORT_NARROWER, 0, 2, GetFontAttribute(FONT_SHORT_NARROWER, FONTATTR_MAX_LETTER_HEIGHT) + 2, sTMCaseDynamicResources->numMenuActions, 0);
     
     // Print label text next to the context window
     strbuf = Alloc(256);
     GetTMNumberAndMoveString(strbuf, gSpecialVar_ItemId);
     StringAppend(strbuf, gText_Var1IsSelected + 2); // +2 skips over the stringvar
-    TMCase_Print(WIN_SELECTED_MSG, FONT_NORMAL, strbuf, 0, 2, 1, 0, 0, COLOR_DARK);
+    TMCase_Print(WIN_SELECTED_MSG, FONT_SHORT_NARROWER, strbuf, 0, 2, 1, 0, 0, COLOR_DARK);
     Free(strbuf);
     if (IS_HM(gSpecialVar_ItemId))
     {
@@ -1524,8 +1524,8 @@ static void PrintMessageWithFollowupTask(u8 taskId, u8 fontId, const u8 * str, T
 
 static void PrintTitle(void)
 {
-    u32 distance = 72 - GetStringWidth(FONT_NORMAL_COPY_1, gText_TMCase, 0);
-    AddTextPrinterParameterized3(WIN_TITLE, FONT_NORMAL_COPY_1, distance / 2, 1, sTextColors[COLOR_LIGHT], 0, gText_TMCase);
+    u32 distance = 72 - GetStringWidth(FONT_SHORT_NARROW, gText_TMCase, 0);
+    AddTextPrinterParameterized3(WIN_TITLE, FONT_SHORT_NARROW, distance / 2, 1, sTextColors[COLOR_LIGHT], 0, gText_TMCase);
 }
 
 static void DrawMoveInfoLabels(void)

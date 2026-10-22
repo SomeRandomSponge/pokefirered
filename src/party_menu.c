@@ -2554,15 +2554,15 @@ static u8 DisplaySelectionWindow(u8 windowType)
     DrawStdFrameWithCustomTileAndPalette(sPartyMenuInternal->windowId[0], FALSE, 0x4F, 13);
     if (windowType == SELECTWINDOW_MOVES)
         return sPartyMenuInternal->windowId[0];
-    cursorDimension = GetMenuCursorDimensionByFont(FONT_NORMAL, 0);
-    fontAttribute = GetFontAttribute(FONT_NORMAL, FONTATTR_LETTER_SPACING);
+    cursorDimension = GetMenuCursorDimensionByFont(FONT_SHORT_NARROW, 0);
+    fontAttribute = GetFontAttribute(FONT_SHORT_NARROW, FONTATTR_LETTER_SPACING);
     for (i = 0; i < sPartyMenuInternal->numActions; ++i)
     {
         u8 fontColorsId = (sPartyMenuInternal->actions[i] >= CURSOR_OPTION_FIELD_MOVES) ? 4 : 3;
         
-        AddTextPrinterParameterized4(sPartyMenuInternal->windowId[0], FONT_NORMAL, cursorDimension, (i * 16) + 2, fontAttribute, 0, sFontColorTable[fontColorsId], 0, sCursorOptions[sPartyMenuInternal->actions[i]].text);
+        AddTextPrinterParameterized4(sPartyMenuInternal->windowId[0], FONT_SHORT_NARROW, cursorDimension, (i * 16) + 2, fontAttribute, 0, sFontColorTable[fontColorsId], 0, sCursorOptions[sPartyMenuInternal->actions[i]].text);
     }
-    Menu_InitCursorInternal(sPartyMenuInternal->windowId[0], FONT_NORMAL, 0, 2, 16, sPartyMenuInternal->numActions, 0, 1);
+    Menu_InitCursorInternal(sPartyMenuInternal->windowId[0], FONT_SHORT_NARROW, 0, 2, 16, sPartyMenuInternal->numActions, 0, 1);
     ScheduleBgCopyTilemapToVram(2);
     return sPartyMenuInternal->windowId[0];
 }
@@ -2637,8 +2637,8 @@ static void ToggleFieldMoveDescriptionWindow(u8 action)
         if (ptr->windowId[2] == WINDOW_NONE)
             ptr->windowId[2] = AddWindow(&sFieldMoveDescriptionWindowTemplate);
         DrawHelpMessageWindowTilesById(ptr->windowId[2]);
-        letterSpacing = GetFontAttribute(FONT_NORMAL, FONTATTR_LETTER_SPACING);
-        AddTextPrinterParameterized4(ptr->windowId[2], FONT_NORMAL, 3, 6, letterSpacing, 0, sFontColorTable[5], 0, sFieldMoveDescriptionTable[action - CURSOR_OPTION_FIELD_MOVES]);
+        letterSpacing = GetFontAttribute(FONT_SHORT_NARROWER, FONTATTR_LETTER_SPACING);
+        AddTextPrinterParameterized4(ptr->windowId[2], FONT_SHORT_NARROWER, 3, 6, letterSpacing, 0, sFontColorTable[5], 0, sFieldMoveDescriptionTable[action - CURSOR_OPTION_FIELD_MOVES]);
         PutWindowTilemap(ptr->windowId[2]);
         ScheduleBgCopyTilemapToVram(2);
     }
