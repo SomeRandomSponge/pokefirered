@@ -1,5 +1,5 @@
 Text_OnlySkilledTrainersAllowedThrough::
-	.string "Solo se permiten ENTRENADORES\n"
+	.string "Solo se permiten Entrenadores\n"
 	.string "realmente buenos.\p"
 	.string "¡Aún no tienes la\n"
 	.string "{STR_VAR_1}!$"
@@ -18,7 +18,7 @@ Text_OnlyPassWithBadgeDontHaveYet::
 	.string "Aún no tienes la\n"
 	.string "{STR_VAR_1}.\p"
 	.string "Tienes que tenerla para ir a\n"
-	.string "la LIGA POKéMON.$"
+	.string "la Liga Pokémon.$"
 
 Text_OnlyPassWithBadgeOhGoAhead::
 	.string "Solo puedes pasar aquí si tienes\n"

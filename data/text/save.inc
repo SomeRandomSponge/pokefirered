@@ -20,6 +20,6 @@ gText_DifferentGameFile::
 	.string "Ya hay una partida guardada.\n"
 	.string "Si guardas ahora, perderás los\n"
 	.string "datos de la otra partida,\l"
-	.string "incluyendo objetos y POKéMON.\p"
+	.string "incluyendo objetos y Pokémon.\p"
 	.string "¿Quieres guardar ahora y\n"
 	.string "sobrescribir la otra partida?$"

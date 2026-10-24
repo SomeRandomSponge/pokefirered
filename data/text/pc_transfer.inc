@@ -6,7 +6,7 @@ Text_MonSentToBoxInSomeonesPC::
 
 Text_MonSentToBoxInBillsPC::
     .string "{STR_VAR_2} se transfirió a la\n"
-    .string "PC de BILL.\p"
+    .string "PC de Bill.\p"
     .string "Terminó en la CAJA\n"
     .string "“{STR_VAR_1}.”$"
 
@@ -18,7 +18,7 @@ Text_MonSentToBoxSomeonesBoxFull::
 
 Text_MonSentToBoxBillsBoxFull::
     .string "La CAJA “{STR_VAR_3}” en\n"
-    .string "la PC de BILL está llena.\p"
+    .string "la PC de Bill está llena.\p"
     .string "{STR_VAR_2} se transfirió a\n"
     .string "la CAJA “{STR_VAR_1}.”$"
 
@@ -34,6 +34,6 @@ Text_MonSentToBoxInPC::
     .string "{STR_VAR_2}を　てんそうした！$"
 
 Text_NoMoreRoomForPokemon::
-    .string "¡No hay más espacio para POKéMON!\p"
-    .string "¡Las CAJAS POKéMON están llenas\n"
+    .string "¡No hay más espacio para Pokémon!\p"
+    .string "¡Las CAJAS Pokémon están llenas\n"
     .string "y no pueden aceptar más!$"

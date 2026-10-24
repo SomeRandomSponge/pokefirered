@@ -13,7 +13,7 @@ PalletTown_Text_ReadItReadIt::
 
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
-	.string "CONSEJOS PARA ENTRENADORES\p"
+	.string "Consejos para Entrenadores\p"
 	.string "¡Presiona START para abrir el MENÚ!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
@@ -22,10 +22,10 @@ PalletTown_Text_SignsAreUsefulArentThey::
 PalletTown_Text_LookCopiedTrainerTipsSign::
 	.string "¡Mira, mira!\p"
 	.string "¡Copie lo que decia en uno de esos\n"
-	.string "carteles de CONSEJOS PARA\l"
-	.string "ENTRENADORES!$"
+	.string "carteles de Consejos para\l"
+	.string "Entrenadores!$"
 
 @ Used by NPC
 PalletTown_Text_PressStartToOpenMenuCopy::
-	.string "¡CONSEJOS PARA ENTRENADORES!\p"
+	.string "¡Consejos para Entrenadores!\p"
 	.string "¡Presiona START para abrir el MENÚ!$"

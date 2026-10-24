@@ -2,7 +2,7 @@
 
 Text_Bookshelf::
 	.string "Está totalmente lleno de libros\n"
-	.string "sobre POKéMON.$"
+	.string "sobre Pokémon.$"
 
 Text_NothingButPokemonBooks::
 	.string "ほんだなに　ならんでいるのは\n"
@@ -13,7 +13,7 @@ Text_ATownMap::
 
 Text_PokeMartShelf::
 	.string "¡Wow!\n"
-	.string "¡Hay montones de cosas de POKéMON!$"
+	.string "¡Hay montones de cosas de Pokémon!$"
 
 Text_DishesPlatesNeatlyLinedUp::
 	.string "Los platos y bandejas están\n"
@@ -32,21 +32,21 @@ Text_Snacks::
 
 Text_PokemartSign::
 	.string "¡Todos los objetos que necesitas!\n"
-	.string "TIENDA POKéMON$"
+	.string "TIENDA Pokémon$"
 
 Text_PokecenterSign::
-	.string "¡Cura a tus POKéMON!\n"
-	.string "CENTRO POKéMON$"
+	.string "¡Cura a tus Pokémon!\n"
+	.string "Centro Pokémon$"
 
 Text_Indigo_UltimateGoal::
 	.string "MESETA AÑIL\p"
-	.string "¡La última meta para ENTRENADORES!\n"
-	.string "SC de la LIGA POKéMON$"
+	.string "¡La última meta para Entrenadores!\n"
+	.string "SC de la Liga Pokémon$"
 
 Text_Indigo_HighestAuthority::
 	.string "MESETA AÑIL\p"
-	.string "¡La más alta autoridad en POKéMON!\n"
-	.string "SC de la LIGA POKéMON$"
+	.string "¡La más alta autoridad en Pokémon!\n"
+	.string "SC de la Liga Pokémon$"
 
 Text_Food::
 	.string "Debería estar lleno de todo tipo\n"
@@ -57,7 +57,7 @@ Text_Blueprints::
 	.string "Está lleno de diagramas y texto.$"
 
 Text_Painting::
-	.string "Es una linda pintura de un POKéMON.\n"
+	.string "Es una linda pintura de un Pokémon.\n"
 	.string "Parece que se siente bien.$"
 
 Text_PowerPlantMachine::
@@ -87,7 +87,7 @@ Text_TrashBin::
 
 Text_Cup::
 	.string "Es una taza con una marca de\n"
-	.string "POKéMON en ella.$"
+	.string "Pokémon en ella.$"
 
 Text_PolishedWindow::
 	.string "La ventana esta muy limpia.$"
@@ -117,5 +117,5 @@ Text_Burglary::
 	.string "Hay obvios signos de un robo aquí…$"
 
 Text_PlayerFacingTVScreen::
-	.string "¡Hay un POKéMON en la TV!\n"
+	.string "¡Hay un Pokémon en la TV!\n"
 	.string "Parece que se está divirtiendo.$"

@@ -1,19 +1,19 @@
 PokedexRating_Text_HowIsPokedexComingAlong::
-	.string "OAK: ¡Es bueno verte!\n"
-	.string "¿Cómo va tu POKéDEX?\p"
+	.string "Oak: ¡Es bueno verte!\n"
+	.string "¿Cómo va tu Pokédex?\p"
 	.string "Déjame dar un vistazo.$"
 
 PokedexRating_Text_SeenXOwnedY::
 	.string "El progreso que has hecho en\n"
-	.string "tu POKéDEX es:\p"
-	.string "{STR_VAR_1} POKéMON vistos y\n"
-	.string "{STR_VAR_2} POKéMON atrapados.\p"
-	.string "{FONT_NORMAL}Evaluación del PROFESOR OAK:$"
+	.string "tu Pokédex es:\p"
+	.string "{STR_VAR_1} Pokémon vistos y\n"
+	.string "{STR_VAR_2} Pokémon atrapados.\p"
+	.string "{FONT_NORMAL}Evaluación del PROFESOR Oak:$"
 
 PokedexRating_Text_LessThan10::
 	.string "Aún tienes mucho que hacer.\p"
 	.string "¡Ve a toda la hierba que veas\n"
-	.string "y busca POKéMON!$"
+	.string "y busca Pokémon!$"
 
 PokedexRating_Text_LessThan20::
 	.string "¡Parece que vas por el camino\n"
@@ -22,10 +22,10 @@ PokedexRating_Text_LessThan20::
 	.string "mis AYUDANTES. ¡Ve a conseguirla!$"
 
 PokedexRating_Text_LessThan30::
-	.string "¡Tu POKéDEX podría usar algo más\n"
+	.string "¡Tu Pokédex podría usar algo más\n"
 	.string "de volumen!\p"
 	.string "¡Intenta atrapar otras especies\n"
-	.string "de POKéMON!$"
+	.string "de Pokémon!$"
 
 PokedexRating_Text_LessThan40::
 	.string "¡Bien, esta claro que estas\n"
@@ -34,7 +34,7 @@ PokedexRating_Text_LessThan40::
 	.string "mis AYUDANTES. ¡Ve a conseguirlo!$"
 
 PokedexRating_Text_LessThan50::
-	.string "¡Tu POKéDEX ha avanzado bastante\n"
+	.string "¡Tu Pokédex ha avanzado bastante\n"
 	.string "bien!\p"
 	.string "Le di una MONEDA AMULETO a uno de\n"
 	.string "mis AYUDANTES. ¡Ve a conseguirla!$"
@@ -46,13 +46,13 @@ PokedexRating_Text_LessThan60::
 	.string "mis AYUDANTES. ¡Ve a conseguirlo!$"
 
 PokedexRating_Text_LessThan70::
-	.string "¡Jojo! ¡tu POKéDEX se esta\n"
+	.string "¡Jojo! ¡tu Pokédex se esta\n"
 	.string "volviendo bastante respetable!$"
 
 PokedexRating_Text_LessThan80::
 	.string "¡Muy bien!\p"
 	.string "¡Creo que colectaras incluso más\n"
-	.string "POKéMON si vas a pescar!$"
+	.string "Pokémon si vas a pescar!$"
 
 PokedexRating_Text_LessThan90::
 	.string "¡Maravilloso! déjame adivinar… ¿te\n"
@@ -68,7 +68,7 @@ PokedexRating_Text_LessThan110::
 
 PokedexRating_Text_LessThan120::
 	.string "¡Incluso tienes las evoluciones de\n"
-	.string "los POKéMON! ¡super!$"
+	.string "los Pokémon! ¡super!$"
 
 PokedexRating_Text_LessThan130::
 	.string "¡Excelente! ¡intercambia con\n"
@@ -82,25 +82,25 @@ PokedexRating_Text_LessThan140::
 PokedexRating_Text_LessThan150::
 	.string "¡No tengo nada más que decir!\n"
 	.string "¡Ahora tu eres {ELLA}\l"
-	.string "PROFESOR{AM} POKéMON!$"
+	.string "PROFESOR{AM} Pokémon!$"
 
 PokedexRating_Text_Complete::
-	.string "¡Tu POKéDEX está completa!\n"
+	.string "¡Tu Pokédex está completa!\n"
 	.string "¡¡Felicidades!!$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
-	.string "Y tu POKéDEX NACIONAL es:\p"
-	.string "{STR_VAR_1} POKéMON vistos y\n"
-	.string "{STR_VAR_2} POKéMON capturados.$"
+	.string "Y tu Pokédex NACIONAL es:\p"
+	.string "{STR_VAR_1} Pokémon vistos y\n"
+	.string "{STR_VAR_2} Pokémon capturados.$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
 	.string "¡Estaré esperando ver como llenas\n"
-	.string "la POKéDEX NACIONAL!$"
+	.string "la Pokédex NACIONAL!$"
 
 PokedexRating_Text_YouveCompletedDex::
 	.string "Al fin…\p"
 	.string "¡Finalmente completaste la\n"
-	.string "POKéDEX!\p"
+	.string "Pokédex!\p"
 	.string "¡Es magnífica!\n"
 	.string "¡Este es un logro increíble!$"
 
@@ -116,9 +116,9 @@ PokedexRating_Text_ThankYouMadeDreamReality::
 	.string "¡Volviste mi sueño realidad!$"
 
 PokedexRating_Text_LoveSeeingYourPokedex::
-	.string "OAK: ¡Ah, bienvenid{OA}!\p"
+	.string "Oak: ¡Ah, bienvenid{OA}!\p"
 	.string "Dime, ¿cómo ha avanzado tu\n"
-	.string "POKéDEX?\p"
+	.string "Pokédex?\p"
 	.string "¡Wajaja!\p"
 	.string "¡En realidad ya lo sé, pero me\n"
 	.string "encanta verla de todos modos!\p"

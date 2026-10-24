@@ -1,5 +1,5 @@
 Trade_Text_LookingForMonWannaTradeForMon::
-	.string "¡Estoy buscando al POKéMON\n"
+	.string "¡Estoy buscando al Pokémon\n"
 	.string "{STR_VAR_1}!\p"
 	.string "¿Quieres intercambiar uno por mi\n"
 	.string "{STR_VAR_2}?$"

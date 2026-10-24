@@ -113,7 +113,7 @@ Text_UseRockSmash::
 	.string "¿Quieres usar ROMPE ROCAS?$"
 
 Text_MonMaySmashRock::
-	.string "Es una roca dura, pero un POKéMON\n"
+	.string "Es una roca dura, pero un Pokémon\n"
 	.string "podría destrozarla.$"
 
 EventScript_StrengthBoulder::
@@ -159,7 +159,7 @@ EventScript_DontUseStrength::
 
 Text_UseStrength::
 	.string "Es una gran piedra, pero un\n"
-	.string "POKéMON podría empujarla.\p"
+	.string "Pokémon podría empujarla.\p"
 	.string "¿Quieres usar FUERZA?$"
 
 Text_MonUsedStrengthCanMoveBoulders::
@@ -169,7 +169,7 @@ Text_MonUsedStrengthCanMoveBoulders::
 
 Text_MonMayPushBoulder::
 	.string "Es una gran piedra, pero un\n"
-	.string "POKéMON podría empujarla.$"
+	.string "Pokémon podría empujarla.$"
 
 Text_StrengthMadeMovingBouldersPossible::
 	.string "FUERZA permitió mover piedras.$"
@@ -255,7 +255,7 @@ EventScript_EndSurface:
 
 Text_MonMayGoUnderwater::
 	.string "El mar es profundo aquí.\n"
-	.string "Un POKéMON podría ir bajo el agua.$"
+	.string "Un Pokémon podría ir bajo el agua.$"
 
 Text_SeaIsDeepUseDive::
 	.string "El mar es profundo aquí.\n"
@@ -266,7 +266,7 @@ Text_MonUsedDive::
 
 Text_MonMaySurface::
 	.string "La luz se filtra desde arriba.\n"
-	.string "Un POKéMON podría ir a la\l"
+	.string "Un Pokémon podría ir a la\l"
 	.string "superficie.$"
 
 Text_LightFilteringUseDive::

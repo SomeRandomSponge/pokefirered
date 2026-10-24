@@ -820,17 +820,17 @@ Text_WeHopeToSeeYouAgain2::
 
 @ Unused
 Text_WelcomeTradeCenter::
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Welcome to the Pokémon CABLE CLUB\n"
 	.string "TRADE CENTER.$"
 
 @ Unused
 Text_WelcomeColosseum::
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Welcome to the Pokémon CABLE CLUB\n"
 	.string "COLOSSEUM.$"
 
 @ Unused
 Text_WelcomeTimeCapsule::
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Welcome to the Pokémon CABLE CLUB\n"
 	.string "TIME CAPSULE.$"
 
 Text_PleaseComeAgain::
@@ -886,12 +886,12 @@ gText_PkmnFainted3::
 	.string "$"
 
 Text_WelcomeWantToHealPkmn::
-	.string "¡Bienvenid{OA} al CENTRO POKéMON!\p"
+	.string "¡Bienvenid{OA} al Centro Pokémon!\p"
 	.string "¿Quieres que nos ocupemos de los\n"
-	.string "POKéMON de tu equipo?$"
+	.string "Pokémon de tu equipo?$"
 
 Text_TakeYourPkmnForFewSeconds::
-	.string "Muy bien, tomaré a tus POKéMON por\n"
+	.string "Muy bien, tomaré a tus Pokémon por\n"
 	.string "unos segundos.$"
 
 Text_WeHopeToSeeYouAgain::
@@ -900,7 +900,7 @@ Text_WeHopeToSeeYouAgain::
 Text_RestoredPkmnToFullHealth::
 	.string "Gracias por esperar.\n"
 	.string "Restauramos la salud de tus\l"
-	.string "POKéMON por completo.$"
+	.string "Pokémon por completo.$"
 
 	.include "data/text/surf.inc"
 
@@ -916,7 +916,7 @@ Text_BigHoleInTheWall::
 
 Text_WirelessClubUndergoingAdjustments::
 	.string "Lo siento mucho.\n"
-	.string "El CLUB INALÁMBRICO POKéMON esta\l"
+	.string "El CLUB INALÁMBRICO Pokémon esta\l"
 	.string "siendo modificado.$"
 
 Text_AppearsToBeUndergoingAdjustments::
@@ -946,17 +946,17 @@ Text_ItNeedsCardKey::
 	.string "¡Necesita una LLAVE MAGNÉTICA!$"
 
 Text_AccessedProfOaksPC::
-	.string "Accediste a la PC del PROF. OAK…\p"
+	.string "Accediste a la PC del PROF. Oak…\p"
 	.string "Accediste al Sistema de Evaluación\n"
 	.string "de la POKéDEX…$"
 
 Text_HavePokedexRated::
-	.string "¿Quieres que tu POKéDEX sea\n"
+	.string "¿Quieres que tu Pokédex sea\n"
 	.string "evaluada?$"
 
 Text_ClosedLinkToProfOaksPC::
 	.string "Se cerró la conexión con la PC\n"
-	.string "del PROFESOR OAK.$"
+	.string "del PROFESOR Oak.$"
 
 Text_VoiceRangOutDontRunAway::
 	.string "La voz de alguien resonó,\n"

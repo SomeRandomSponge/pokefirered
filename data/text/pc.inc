@@ -9,11 +9,11 @@ Text_AccessedSomeonesPC::
 
 Text_OpenedPkmnStorage::
 	.string "Acceso al Sistema de\n"
-	.string "Almacenamiento de POKéMON\l"
+	.string "Almacenamiento de Pokémon\l"
 	.string "concedido.$"
 
 Text_AccessedPlayersPC::
 	.string "Accediste a la PC de {PLAYER}.$"
 
 Text_AccessedBillsPC::
-	.string "Accediste a la PC de BILL.$"
+	.string "Accediste a la PC de Bill.$"

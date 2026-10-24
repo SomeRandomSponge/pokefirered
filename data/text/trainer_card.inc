@@ -1,8 +1,8 @@
 CeladonCity_GameCorner_Text_TryPokemonPrinter::
-	.string "¡Es una IMPRESORA POKéMON!\p"
+	.string "¡Es una IMPRESORA Pokémon!\p"
 	.string "Puede poner fotos de tu equipo\n"
-	.string "POKéMON en el reverso de tu\l"
-	.string "FICHA DE ENTRENADOR.\p"
+	.string "Pokémon en el reverso de tu\l"
+	.string "FICHA DE Entrenador.\p"
 	.string "Solo cuesta ¥50.\n"
 	.string "¿Te gustaría probarla?$"
 
@@ -18,8 +18,8 @@ CeladonCity_GameCorner_Text_BigSmileForPhoto::
 	.string "¡Ya!$"
 
 CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard::
-	.string "¡La impresión POKéMON está lista!\n"
-	.string "Revisa tu FICHA DE ENTRENADOR.$"
+	.string "¡La impresión Pokémon está lista!\n"
+	.string "Revisa tu FICHA DE Entrenador.$"
 
 FourIsland_House2_Text_WishICouldShowOffStickers::
 	.string "Giggle…\n"
@@ -65,7 +65,7 @@ FourIsland_House2_Text_WowHoFHigh::
 	.string "Whoa! You've made it into the\n"
 	.string "HALL OF FAME that often?\l"
 	.string "That's seriously incredible, yup!\p"
-	.string "You own the POKéMON LEAGUE!\n"
+	.string "You own the Pokémon LEAGUE!\n"
 	.string "I'll give you one of these.$"
 
 FourIsland_House2_Text_WowHoFHighest::
@@ -89,7 +89,7 @@ FourIsland_House2_Text_LivingLegendHoF::
 	.string "I have no SITCKERS left to give.$"
 
 FourIsland_House2_Text_WowEggsLowest::
-	.string "Oh, wow, there are POKéMON EGGS?\n"
+	.string "Oh, wow, there are Pokémon EGGS?\n"
 	.string "I didn't know that!\p"
 	.string "That's pretty good, yup!\n"
 	.string "I'll give you one of these.$"

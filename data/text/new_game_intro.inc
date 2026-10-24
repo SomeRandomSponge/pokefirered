@@ -187,24 +187,24 @@ gPikachuIntro_Text_Page3::
 gOakSpeech_Text_WelcomeToTheWorld::
     .string "¡Hola!\n"
     .string "¡Encantado de conocerte!\p"
-    .string "¡Este es el mundo de POKéMON!\p"
-    .string "Mi nombre es OAK.\p"
+    .string "¡Este es el mundo de Pokémon!\p"
+    .string "Mi nombre es Oak.\p"
     .string "Pero la gente me llama\n"
-    .string "PROFESOR POKéMON.\p$"
+    .string "PROFESOR Pokémon.\p$"
 
 gOakSpeech_Text_ThisWorld::
     .string "Este mundo…$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
     .string "…está habitado por unas\n"
-    .string "criaturas llamadas POKéMON.\p$"
+    .string "criaturas llamadas Pokémon.\p$"
 
 gOakSpeech_Text_IStudyPokemon::
-    .string "Para algunos, los POKéMON son\n"
+    .string "Para algunos, los Pokémon son\n"
     .string "mascotas. Pero otros los usan\l"
     .string "para pelear.\p"
     .string "En cuanto a mí…\p"
-    .string "Estudio a los POKéMON como\n"
+    .string "Estudio a los Pokémon como\n"
     .string "profesión.\p$"
 
 gOakSpeech_Text_TellMeALittleAboutYourself::
@@ -235,7 +235,7 @@ gOakSpeech_Text_RememberRivalsName::
 
 gOakSpeech_Text_LetsGo::
     .string "¡{PLAYER}!\p"
-    .string "¡Tu propia leyenda POKéMON está\n"
+    .string "¡Tu propia leyenda Pokémon está\n"
     .string "apunto de comenzar!\p"
     .string "¡Te espera un mundo de sueños y\n"
-    .string "aventuras con los POKéMON! ¡Vamos!$"
+    .string "aventuras con los Pokémon! ¡Vamos!$"
