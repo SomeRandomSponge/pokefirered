@@ -1,5 +1,5 @@
 FuchsiaCity_Gym_Text_KogaIntro::
-    .string "¡KOGA: Fuajajaja!\p"
+    .string "¡Koga: Fuajajaja!\p"
     .string "¿Un{A} simple niñ{OA} se atreve a\n"
     .string "desafiarme?\p"
     .string "¡La sola idea me hace temblar de\n"
@@ -9,7 +9,7 @@ FuchsiaCity_Gym_Text_KogaIntro::
     .string "El veneno trae perdición constante.\n"
     .string "El sueño deja indefenso al rival.\p"
     .string "¡Sufre por el insidioso horror de\n"
-    .string "mis POKéMON de tipo VENENO!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "mis Pokémon de tipo VENENO!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 FuchsiaCity_Gym_Text_KogaDefeat::
     .string "¡Humph!\n"
@@ -19,7 +19,7 @@ FuchsiaCity_Gym_Text_KogaDefeat::
 
 FuchsiaCity_Gym_Text_KogaPostBattle::
     .string "Bajo los efectos de TÓXICO, un\n"
-    .string "POKéMON sufre más y más.\p"
+    .string "Pokémon sufre más y más.\p"
     .string "¡El daño que recibe empeora\n"
     .string "mientras más dura la batalla!\p"
     .string "¡Seguro que terrorizará a tus\n"
@@ -27,7 +27,7 @@ FuchsiaCity_Gym_Text_KogaPostBattle::
 
 FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
     .string "Ahora que tienes la MEDALLA ALMA,\n"
-    .string "la DEFENSA de tus POKéMON aumenta.\p"
+    .string "la Defensa de tus Pokémon aumenta.\p"
     .string "Y podrás usar SURF fuera de las\n"
     .string "batallas.\p"
     .string "¡Ah!\n"
@@ -35,7 +35,7 @@ FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
 
 FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
     .string "{PLAYER} recibió MT06\n"
-    .string "de KOGA.$"
+    .string "de Koga.$"
 
 FuchsiaCity_Gym_Text_KogaExplainTM06::
     .string "¡Dentro de la MT06 se encuentra\n"
@@ -48,9 +48,9 @@ FuchsiaCity_Gym_Text_MakeSpaceForThis::
 
 FuchsiaCity_Gym_Text_KaydenIntro::
     .string "La fuerza no es la clave para los\n"
-    .string "POKéMON.\p"
+    .string "Pokémon.\p"
     .string "¿Entiendes eso?\p"
-    .string "¡Los POKéMON tratan de estrategia!\p"
+    .string "¡Los Pokémon tratan de estrategia!\p"
     .string "Te mostraré como la estrategia\n"
     .string "puede vencer a la fuerza bruta.$"
 
@@ -63,7 +63,7 @@ FuchsiaCity_Gym_Text_KaydenPostBattle::
     .string "ingenio?\l"
     .string "¡Buena estrategia!\p"
     .string "Eso es notable para un{A}\n"
-    .string "ENTRENADOR{AM} joven.$"
+    .string "Entrenador{AM} joven.$"
 
 FuchsiaCity_Gym_Text_KirkIntro::
     .string "Fuí un mago una vez.\p"
@@ -76,7 +76,7 @@ FuchsiaCity_Gym_Text_KirkDefeat::
 FuchsiaCity_Gym_Text_KirkPostBattle::
     .string "Incluso si perdí, seguiré\n"
     .string "entrenando acorde a las enseñanzas\l"
-    .string "de KOGA, mi maestro ninja.$"
+    .string "de Koga, mi maestro ninja.$"
 
 FuchsiaCity_Gym_Text_NateIntro::
     .string "¡Veamos si superas mis técnicas\n"
@@ -93,7 +93,7 @@ FuchsiaCity_Gym_Text_NatePostBattle::
 FuchsiaCity_Gym_Text_PhilIntro::
     .string "¡Alto ahí!\p"
     .string "¿Te frustran los famosos muros\n"
-    .string "invisibles del GIMNASIO de FUCSIA?$"
+    .string "invisibles del Gimnasio de Fucsia?$"
 
 FuchsiaCity_Gym_Text_PhilDefeat::
     .string "¡Guau!\n"
@@ -107,7 +107,7 @@ FuchsiaCity_Gym_Text_PhilPostBattle::
 
 FuchsiaCity_Gym_Text_EdgarIntro::
     .string "¡Yo también estudio el camino del\n"
-    .string "ninja con el Maestro KOGA!\p"
+    .string "ninja con el Maestro Koga!\p"
     .string "¡Los ninjas tienen una larga\n"
     .string "historia de usar animales!$"
 
@@ -118,7 +118,7 @@ FuchsiaCity_Gym_Text_EdgarPostBattle::
     .string "Aún tengo mucho que aprender.$"
 
 FuchsiaCity_Gym_Text_ShawnIntro::
-    .string "El Maestro KOGA viene de un largo\n"
+    .string "El Maestro Koga viene de un largo\n"
     .string "linaje de ninjas.\p"
     .string "¿Tú de donde desciendes?$"
 
@@ -134,9 +134,9 @@ FuchsiaCity_Gym_Text_ShawnPostBattle::
 FuchsiaCity_Gym_Text_GymGuyAdvice::
     .string "¡Yo!\n"
     .string "¡Futur{OA} campe{ONONA}!\p"
-    .string "Este GIMNASIO tiene sus trucos.\n"
+    .string "Este Gimnasio tiene sus trucos.\n"
     .string "¡Está lleno de paredes invisibles!\p"
-    .string "Puede que KOGA parezca estar\n"
+    .string "Puede que Koga parezca estar\n"
     .string "cerca, pero los muros lo protegen.\p"
     .string "Tienes que encontrar huecos en los\n"
     .string "muros para llegar a él.$"
@@ -146,14 +146,14 @@ FuchsiaCity_Gym_Text_GymGuyPostVictory::
     .string "pueden atemorizar, incluso ahora!$"
 
 FuchsiaCity_Gym_Text_GymStatue::
-    .string "GIMNASIO POKéMON DE FUCSIA\n"
-    .string "LÍDER: KOGA\p"
-    .string "ENTRENADORES VICTORIOSOS:\n"
+    .string "Gimnasio Pokémon DE Fucsia\n"
+    .string "Líder: Koga\p"
+    .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-    .string "GIMNASIO POKéMON DE FUCSIA\n"
-    .string "LÍDER: KOGA\p"
-    .string "ENTRENADORES VICTORIOSOS:\n"
+    .string "Gimnasio Pokémon DE Fucsia\n"
+    .string "Líder: Koga\p"
+    .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}, {PLAYER}$"
 

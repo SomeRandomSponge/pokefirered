@@ -6,11 +6,11 @@ CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
     .string "Escuché algo útil.\p"
-    .string "Si un POKéMON salvaje aparece,\n"
+    .string "Si un Pokémon salvaje aparece,\n"
     .string "puedes distraerlo con un\l"
     .string "POKé MUÑECO.\p"
     .string "Puedes escapar mientras ese\n"
-    .string "POKéMON salvaje esta distraido.$"
+    .string "Pokémon salvaje esta distraido.$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
     .string "¡Exprésate con regalos!\n"

@@ -6,8 +6,8 @@ FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
     .string "El GUARDA SLOWPOKE sabe mucho\n"
-    .string "sobre los POKéMON.\p"
-    .string "Incluso tiene fósiles de POKéMON\n"
+    .string "sobre los Pokémon.\p"
+    .string "Incluso tiene fósiles de Pokémon\n"
     .string "raros y extintos.$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::

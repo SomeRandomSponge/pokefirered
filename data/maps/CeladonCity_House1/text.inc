@@ -6,7 +6,7 @@ CeladonCity_House1_Text_SlotsReelInTheDough::
 CeladonCity_House1_Text_ShippedMonsAsSlotPrizes::
     .string "¡JEFE!\p"
     .string "¡Acabamos de enviar dos mil\n"
-    .string "POKéMON más como premios de las\l"
+    .string "Pokémon más como premios de las\l"
     .string "tragamonedas hoy!$"
 
 CeladonCity_House1_Text_DontTouchGameCornerPoster::

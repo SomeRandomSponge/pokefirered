@@ -8,20 +8,20 @@ CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
 
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
     .string "¡Yo escribí la historia!\n"
-    .string "¿Verdad que ERIKA es linda?\p"
-    .string "¡También me gusta mucho MISTY!\n"
-    .string "¡Oh, y también me gusta SABRINA!$"
+    .string "¿Verdad que Erika es linda?\p"
+    .string "¡También me gusta mucho Misty!\n"
+    .string "¡Oh, y también me gusta Sabrina!$"
 
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
     .string "¿Sabes?\p"
     .string "¡Soy el diseñador del juego!\p"
-    .string "¡Completar la POKéDEX es duro,\n"
+    .string "¡Completar la Pokédex es duro,\n"
     .string "pero no te rindas!\p"
     .string "¡Cuándo la termines, ven a verme!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
     .string "¡Wow! ¡Excelente!\n"
-    .string "¡Completaste tu POKéDEX!\l"
+    .string "¡Completaste tu Pokédex!\l"
     .string "¡Felicidades!\l"
     .string "…$"
 

@@ -1,14 +1,14 @@
 CeladonCity_Text_GotMyKoffingInCinnabar::
-    .string "Conseguí a mi KOFFING en CANELA.\p"
+    .string "Conseguí a mi KOFFING en Canela.\p"
     .string "Suele portarse bien, pero expulsa\n"
     .string "veneno cuando se enoja.$"
 
 CeladonCity_Text_GymIsGreatFullOfWomen::
-    .string "¡Jeje! ¡Este GIMNASIO es genial!\n"
+    .string "¡Jeje! ¡Este Gimnasio es genial!\n"
     .string "¡Está lleno de mujeres!$"
 
 CeladonCity_Text_GameCornerIsBadForCitysImage::
-    .string "PRISMA presume sus esfuerzos para\n"
+    .string "Prisma presume sus esfuerzos para\n"
     .string "mantener a la ciudad hermosa.\p"
     .string "Por eso la nueva SALA DE JUEGOS es\n"
     .string "mala para la imagen de la cuidad.$"
@@ -32,40 +32,40 @@ CeladonCity_Text_GetLostOrIllPunchYou::
     .string "Piérdete, o te golpearé.$"
 
 CeladonCity_Text_KeepOutOfTeamRocketsWay::
-    .string "¡Sal del camino del EQUIPO ROCKET!$"
+    .string "¡Sal del camino del Equipo Rocket!$"
 
 CeladonCity_Text_ExplainXAccuracyDireHit::
-    .string "CONSEJOS PARA ENTRENADORES\p"
-    .string "PRECISIÓN X aumenta la precisión\n"
+    .string "Consejos para Entrenadores\p"
+    .string "Precisión X aumenta la precisión\n"
     .string "de ataques.\p"
     .string "CRÍTICO X aumenta la probabilidad\n"
     .string "de ataques críticos.\p"
     .string "¡Consigue tus objetos en la TIENDA\n"
-    .string "DEPARTAMENTAL PRISMA!$"
+    .string "DEPARTAMENTAL Prisma!$"
 
 CeladonCity_Text_CitySign::
-    .string "CIUDAD PRISMA\n"
+    .string "Ciudad Prisma\n"
     .string "La cuidad de sueños arcoíris.$"
 
 CeladonCity_Text_GymSign::
-    .string "LÍDER de GIMNASIO POKéMON de\n"
-    .string "CIUDAD PRISMA: ERIKA\l"
+    .string "Líder de Gimnasio Pokémon de\n"
+    .string "Ciudad Prisma: Erika\l"
     .string "¡Princesa amante de la naturaleza!$"
 
 CeladonCity_Text_MansionSign::
-    .string "MANSIÓN PRISMA$"
+    .string "Condominio Prisma$"
 
 CeladonCity_Text_DeptStoreSign::
     .string "¡Encuentra lo que necesites en la\n"
-    .string "TIENDA DEPARTAMENTAL PRISMA!$"
+    .string "TIENDA DEPARTAMENTAL Prisma!$"
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
-    .string "CONSEJOS PARA ENTRENADORES\p"
-    .string "GUARDIA X protege a POKéMON de la\n"
+    .string "Consejos para Entrenadores\p"
+    .string "GUARDIA X protege a Pokémon de la\n"
     .string "reducción de estadísticas durante\l"
     .string "la batalla.\p"
     .string "¡Consigue tus objetos en la TIENDA\n"
-    .string "DEPARTAMENTAL PRISMA!$"
+    .string "DEPARTAMENTAL Prisma!$"
 
 CeladonCity_Text_PrizeExchangeSign::
     .string "¡Se cambian MONEDAS por premios!\n"
@@ -78,8 +78,8 @@ CeladonCity_Text_GameCornerSign::
 CeladonCity_Text_ScaldedTongueOnTea::
     .string "Aaaagh, ow…\n"
     .string "¡Me quemé la lengua!\p"
-    .string "Esa ancianita agradable en la\n"
-    .string "MANSIÓN me dió algo de TÉ.\p"
+    .string "Esa ancianita agradable en el\n"
+    .string "Condominio me dió algo de TÉ.\p"
     .string "¡Pero estaba hirviendo!\n"
     .string "Tendré que enfriarlo para beberlo.$"
 
@@ -98,7 +98,7 @@ Text_SoftboiledDeclined::
     .string "otra vez.$"
 
 Text_SoftboiledWhichMon::
-    .string "¿Qué POKéMON tendrá la oportunidad\n"
+    .string "¿Qué Pokémon tendrá la oportunidad\n"
     .string "de aprender HUEVO COCIDO?$"
 
 Text_SoftboiledTaught::

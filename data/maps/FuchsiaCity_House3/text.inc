@@ -1,12 +1,12 @@
 FuchsiaCity_House3_Text_WouldYouLikeToForgetMove::
     .string "Uh…\n"
     .string "Oh, sí, soy el OLVIDA MOVIMIENTOS.\p"
-    .string "Puedo hacer que los POKéMON\n"
+    .string "Puedo hacer que los Pokémon\n"
     .string "olviden sus movimientos.\p"
     .string "¿Quieres que haga eso?$"
 
 FuchsiaCity_House3_Text_WhichMonShouldForgetMove::
-    .string "¿Qué POKéMON debería olvidar un\n"
+    .string "¿Qué Pokémon debería olvidar un\n"
     .string "movimiento?$"
 
 FuchsiaCity_House3_Text_WhichMoveShouldBeForgotten::

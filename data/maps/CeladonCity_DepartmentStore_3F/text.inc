@@ -1,7 +1,7 @@
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
-    .string "Los POKéMON capturados tienen un\n"
+    .string "Los Pokémon capturados tienen un\n"
     .string "N.º de IDENTIDAD y un EO.\p"
-    .string "EO es de “ENTRENADOR Original” -\n"
+    .string "EO es de “Entrenador Original” -\n"
     .string "quién lo haya atrapado primero.$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
@@ -14,11 +14,11 @@ CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
     .string "¡Me encantan los HAUNTER!\n"
     .string "¡Los colecciono!\p"
     .string "¿Huh?\p"
-    .string "¡HAUNTER se volvió un POKéMON\n"
+    .string "¡HAUNTER se volvió un Pokémon\n"
     .string "diferente al ser intercambiado!$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
-    .string "Puedes identificar a los POKéMON\n"
+    .string "Puedes identificar a los Pokémon\n"
     .string "de intercambios por su N.º ID.$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
@@ -45,11 +45,11 @@ CeladonCity_DepartmentStore_3F_Text_TVGameShop::
 
 CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
     .string "¡Rojo y Verde!\n"
-    .string "¡Ambos juegos de POKéMON!$"
+    .string "¡Ambos juegos de Pokémon!$"
 
 Text_CounterTeach::
     .string "¡Oh, hola!\n"
-    .string "Finalmente terminé POKéMON.\p"
+    .string "Finalmente terminé Pokémon.\p"
     .string "¿Tú no? ¿que tal si te enseño\n"
     .string "un buen movimiento?\p"
     .string "El movimiento que tengo en mente\n"
@@ -62,9 +62,9 @@ Text_CounterDeclined::
     .string "si cambias de opinión.$"
 
 Text_CounterWhichMon::
-    .string "¿Qué POKéMON quiere aprender\n"
+    .string "¿Qué Pokémon quiere aprender\n"
     .string "CONTRAATAQUE?$"
 
 Text_CounterTaught::
     .string "¿Estás usando ese CONTRAATAQUE\n"
-    .string "que le enseñé a tu POKéMON?$"
+    .string "que le enseñé a tu Pokémon?$"

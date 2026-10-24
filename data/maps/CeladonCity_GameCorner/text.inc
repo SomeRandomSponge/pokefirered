@@ -5,7 +5,7 @@ CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoor::
 
 CeladonCity_GameCorner_Text_WelcomeBuySomeCoins::
     .string "¡Bienvenid{OA} a la SALA DE JUEGOS\n"
-    .string "ROCKET!\p"
+    .string "Rocket!\p"
     .string "¿Necesitas MONEDAS del juego?\n"
     .string "¿Te gustaría comprar algunas?$"
 
@@ -31,7 +31,7 @@ CeladonCity_GameCorner_Text_HereAreYourCoins::
 CeladonCity_GameCorner_Text_RumoredTeamRocketRunsThisPlace::
     .string "Guárdame un secreto.\p"
     .string "Se rumorea que este lugar es\n"
-    .string "manejado por el EQUIPO ROCKET.$"
+    .string "manejado por el Equipo Rocket.$"
 
 CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOdds::
     .string "Creo que estas máquinas tienen\n"
@@ -59,8 +59,8 @@ CeladonCity_GameCorner_Text_GymGuyAdvice::
     .string "¡Ey!\p"
     .string "¡Tienes mejores cosas que hacer,\n"
     .string "futur{OA} campe{ONONA}!\p"
-    .string "ERIKA lidera el GIMNASIO PRISMA.\p"
-    .string "Es una usuaria de POKéMON tipo\n"
+    .string "Erika lidera el Gimnasio Prisma.\p"
+    .string "Es una usuaria de Pokémon tipo\n"
     .string "PLANTA, unida a la naturaleza.\p"
     .string "Puede parecer dócil debido a\n"
     .string "su arreglo floral…\p"
@@ -68,7 +68,7 @@ CeladonCity_GameCorner_Text_GymGuyAdvice::
     .string "tomar a la ligera!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-    .string "Aquí ofrecen POKéMON raros que\n"
+    .string "Aquí ofrecen Pokémon raros que\n"
     .string "te dan a cambio de tus MONEDAS.\p"
     .string "¡Pero no logro ganar!$"
 
@@ -89,7 +89,7 @@ CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
 
 CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
     .string "¡Rayos! ¡necesito más MONEDAS para\n"
-    .string "el POKéMON que quiero!$"
+    .string "el Pokémon que quiero!$"
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
     .string "¿Ey, qué? ¡me desconcentras!\n"
@@ -115,7 +115,7 @@ CeladonCity_GameCorner_Text_GruntDefeat::
 
 CeladonCity_GameCorner_Text_GruntPostBattle::
     .string "¡Puede que la GUARIDA del EQUIPO\n"
-    .string "ROCKET sea descubierta!\p"
+    .string "Rocket sea descubierta!\p"
     .string "¡Debo decírselo al JEFE!$"
 
 CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::

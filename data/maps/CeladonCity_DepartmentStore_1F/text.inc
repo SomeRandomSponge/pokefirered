@@ -1,7 +1,7 @@
 CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
     .string "¡Hola!\p"
     .string "Bienvenid{OA} a la TIENDA DEP.\n"
-    .string "PRISMA.\p"
+    .string "Prisma.\p"
     .string "El tablero de la derecha describe\n"
     .string "un plano de la tienda.$"
 

@@ -4,7 +4,7 @@ CeladonCity_Restaurant_Text_TakingBreakRightNow::
     .string "estamos tomando un descanso.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-    .string "Mis POKéMON son débiles, así que\n"
+    .string "Mis Pokémon son débiles, así que\n"
     .string "debo ir a la FARMACIA seguido.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::

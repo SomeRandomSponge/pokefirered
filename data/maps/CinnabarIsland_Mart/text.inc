@@ -1,6 +1,6 @@
 CinnabarIsland_Mart_Text_DontTheyHaveXAttack::
-    .string "¿No tienen ATAQUE X?\p"
-    .string "Me gusta porque aumenta el ATAQUE\n"
+    .string "¿No tienen Ataque X?\p"
+    .string "Me gusta porque aumenta el Ataque\n"
     .string "en batalla.$"
 
 CinnabarIsland_Mart_Text_ExtraItemsNeverHurt::

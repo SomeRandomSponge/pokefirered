@@ -1,19 +1,19 @@
 FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMon::
-    .string "No puedes ser un{A} gran ENTRENADOR{AM}\n"
-    .string "con solo un POKéMON fuerte.\p"
-    .string "Aunque criar muchos POKéMON por\n"
+    .string "No puedes ser un{A} gran Entrenador{AM}\n"
+    .string "con solo un Pokémon fuerte.\p"
+    .string "Aunque criar muchos Pokémon por\n"
     .string "igual tampoco es fácil.$"
 
 FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridian::
     .string "Hay un camino estrecho al oeste\n"
-    .string "de CIUDAD VERDE.\p"
-    .string "Lleva a la SC de la LIGA POKéMON.\p"
+    .string "de Ciudad Verde.\p"
+    .string "Lleva a la SC de la Liga Pokémon.\p"
     .string "La SEDE CENTRAL gobierna a\n"
-    .string "todos los ENTRENADORES.$"
+    .string "todos los Entrenadores.$"
 
 FuchsiaCity_PokemonCenter_1F_Text_VisitSafariZoneForPokedex::
-    .string "Si trabajas en una POKéDEX,\n"
+    .string "Si trabajas en una Pokédex,\n"
     .string "visita la ZONA SAFARI.\p"
-    .string "Se crían todo tipo de POKéMON\n"
+    .string "Se crían todo tipo de Pokémon\n"
     .string "raros allí.$"
 

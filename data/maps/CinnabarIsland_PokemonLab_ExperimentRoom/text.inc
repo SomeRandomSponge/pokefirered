@@ -1,7 +1,7 @@
 Text_MetronomeTeach::
     .string "¡Tac-tac-tac!\n"
     .string "Te enseñaré un movimiento genial.\p"
-    .string "Enseñaselo a un POKéMON,\n"
+    .string "Enseñaselo a un Pokémon,\n"
     .string "¡y admira la diversión!\p"
     .string "Se llama METRÓNOMO.\n"
     .string "¿Te interesa?$"
@@ -11,12 +11,12 @@ Text_MetronomeDeclined::
 
 Text_MetronomeWhichMon::
     .string "¡Bien!\n"
-    .string "¿A qué POKéMON le voy a enseñar?$"
+    .string "¿A qué Pokémon le voy a enseñar?$"
 
 Text_MetronomeTaught::
     .string "¡Tac-tac-tac!\n"
     .string "Ese es el sonido de un METRÓNOMO.\p"
-    .string "Altera el cerebro de tu POKéMON\n"
+    .string "Altera el cerebro de tu Pokémon\n"
     .string "y lo lleva a usar movimientos que\l"
     .string "ni siquiera conoce.$"
 
@@ -24,7 +24,7 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe::
     .string "¡Hola!\p"
     .string "Soy doctor importante.\n"
     .string "Sí, mucho, sí.\p"
-    .string "Aquí, estudio fósiles de POKéMON\n"
+    .string "Aquí, estudio fósiles de Pokémon\n"
     .string "raros.\p"
     .string "Todo el tiempo, estudio.\p"
     .string "¡Tú!\n"
@@ -58,9 +58,9 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
     .string "¡Oh!\n"
     .string "¡Esto es {STR_VAR_2}, lo es!\p"
     .string "¡Es un fósil de {STR_VAR_1},\n" 
-    .string "un POKéMON ya extinto!\p"
+    .string "un Pokémon ya extinto!\p"
     .string "¡Mi máquina de resurrección hará\n"
-    .string "que este POKéMON viva otra vez!$"
+    .string "que este Pokémon viva otra vez!$"
 
 @ TODO: Resolve text dump error below?
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor::

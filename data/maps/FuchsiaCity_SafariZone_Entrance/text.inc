@@ -11,7 +11,7 @@ FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
 FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
     .string "¡Serán ¥500, por favor!\p"
     .string "Solo usamos un tipo especial de\n"
-    .string "POKéBOLAS aquí.$"
+    .string "Pokébolas aquí.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
     .string "{PLAYER} recibió 30 BOLAS SAFARI\n"
@@ -53,17 +53,17 @@ FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
 FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
     .string "La ZONA SAFARI realmente consiste\n"
     .string "de cuatro zonas.\p"
-    .string "Cada zona tiene tipos de POKéMON\n"
+    .string "Cada zona tiene tipos de Pokémon\n"
     .string "diferentes, incluso algunos raros.\p"
     .string "Usa las BOLAS SAFARI para\n"
     .string "atraparlos.\p"
     .string "También puedes lanzar CEBO o\n"
     .string "ROCAS, aparte de las BOLAS SAFARI.\p"
     .string "Si lanzas CEBO, es menos probable\n"
-    .string "que el POKéMON escape, pero será\l"
+    .string "que el Pokémon escape, pero será\l"
     .string "más difícil de atrapar.\p"
     .string "Si lanzas ROCAS, es más probable\n"
-    .string "que el POKéMON escape, pero será\l"
+    .string "que el Pokémon escape, pero será\l"
     .string "más fácil de atrapar.\p"
     .string "¡Cuando ya no tengas tiempo o\n"
     .string "BOLAS SAFARI, el juego termina!$"

@@ -20,7 +20,7 @@ FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
     .string "¿Una CAÑA VIEJA solo puede atrapar\n"
     .string "MAGIKARP, cierto?\p"
     .string "Pero con una CAÑA BUENA, puedes\n"
-    .string "atrapar POKéMON mucho mejores.$"
+    .string "atrapar Pokémon mucho mejores.$"
 
 FuchsiaCity_House2_Text_OhThatsDisappointing::
     .string "Oh…\n"

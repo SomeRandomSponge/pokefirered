@@ -1,12 +1,12 @@
 CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLocked::
-    .string "Vine a visitar el GIMNASIO de\n"
-    .string "CANELA, pero la puerta está\l"
+    .string "Vine a visitar el Gimnasio de\n"
+    .string "Canela, pero la puerta está\l"
     .string "cerrada.\p"
     .string "Debe haber una llave en algún\n"
     .string "lado.\p"
     .string "¿Estará en esa mansión quemada?\p"
-    .string "Se dice que un amigo del LÍDER\n"
-    .string "de GIMNASIO solía vivir ahí.$"
+    .string "Se dice que un amigo del Líder\n"
+    .string "de Gimnasio solía vivir ahí.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
     .string "¿Tienes muchos amigos?\p"
@@ -20,14 +20,14 @@ CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
     .string "probaras la SALA UNIÓN.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMoves::
-    .string "Los POKéMON pueden seguir\n"
+    .string "Los Pokémon pueden seguir\n"
     .string "aprendiendo técnicas tras cancelar\l"
     .string "su evolución.\p"
     .string "ELa evolución puede esperar hasta\n"
     .string "que aprendan nuevos movimientos.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_ReadyToSailToOneIsland::
-    .string "BILL: ¡Ey, me dejaste esperando!\n"
+    .string "Bill: ¡Ey, me dejaste esperando!\n"
     .string "¿List{OA} para ir a la ISLA PRIMA?$"
 
 CinnabarIsland_PokemonCenter_1F_Text_OhNotDoneYet::

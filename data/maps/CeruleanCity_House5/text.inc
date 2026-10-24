@@ -12,7 +12,7 @@ CeruleanCity_House1_Text_HaveJustTheThing::
 
 CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
     .string "Hay algo nuevo en el segundo piso\n"
-    .string "de los CENTROS POKéMON, en la\l"
+    .string "de los CENTROS Pokémon, en la\l"
     .string "ZONA DIRECTA.\p"
     .string "Instalaron una máquina del Conector\n"
     .string "Inalámbrico para machacar BAYAS.\p"
@@ -22,7 +22,7 @@ CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
     .string "¿Podrías hacer POLVO DE BAYA para\n"
     .string "mí usando esa máquina?\p"
     .string "No te olvides, la máquina esta en\n"
-    .string "la ZONA DIRECTA de los CENTROS POKéMON.\p"
+    .string "la ZONA DIRECTA de los CENTROS Pokémon.\p"
     .string "Prepararé medicina para ti si me\n"
     .string "traes algo de POLVO DE BAYA.\p"
     .string "No lo olvides, machaca BAYAS para\n"

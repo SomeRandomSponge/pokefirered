@@ -30,7 +30,7 @@ CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
     .string "MT20 contiene SALVAGUARDA.\p"
     .string "El movimiento previene problemas\n"
-    .string "de estado entre tus POKéMON.$"
+    .string "de estado entre tus Pokémon.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
     .string "¡Yey!\p"

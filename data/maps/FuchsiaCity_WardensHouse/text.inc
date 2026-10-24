@@ -43,7 +43,7 @@ FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
     .string "GUARDA: Dentro de la MO04 se\n"
     .string "encuentra FUERZA.\p"
-    .string "Le permite a un POKéMON mover\n"
+    .string "Le permite a un Pokémon mover\n"
     .string "piedras fuera de batalla.\p"
     .string "Ah sí, ¿encontraste la CASA\n"
     .string "SECRETA en la ZONA SAFARI?$"
@@ -54,10 +54,10 @@ FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
     .string "いっぱいやんけ！$"
 
 FuchsiaCity_WardensHouse_Text_MonPhotosFossilsOnDisplay::
-    .string "Hay fotos y fósiles de POKéMON en\n"
+    .string "Hay fotos y fósiles de Pokémon en\n"
     .string "exhibición.$"
 
 FuchsiaCity_WardensHouse_Text_OldMonMerchandiseOnDisplay::
-    .string "Hay vieja mercancía POKéMON en\n"
+    .string "Hay vieja mercancía Pokémon en\n"
     .string "exhibición.$"
 

@@ -5,6 +5,6 @@ FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
     .string "¿Tienen calendarios al menos?$"
 
 FuchsiaCity_Mart_Text_DidYouTryXSpeed::
-    .string "¿Probaste VELOCIDAD X?\n"
-    .string "Aumenta la VELOCIDAD de un POKéMON\l"
+    .string "¿Probaste Velocidad X?\n"
+    .string "Aumenta la Velocidad de un Pokémon\l"
     .string "en batalla.$"
