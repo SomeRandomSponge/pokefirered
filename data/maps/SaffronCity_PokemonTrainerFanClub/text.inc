@@ -9,7 +9,7 @@ SaffronCity_PokemonTrainerFanClub_Text_YourePlayerWereYourFansNow::
     .string "¡Eres {PLAYER}!\p"
     .string "¡Estábamos hablando sobre tí!\p"
     .string "Hablabamos sobre como apareció un{A}\n"
-    .string "ENTRENADOR{AM} increíblemente buen{OA}.\p"
+    .string "Entrenador{AM} increíblemente buen{OA}.\p"
     .string "¡Y es{EA} eres tú!\n"
     .string "¡Eres tan genial!\p"
     .string "Entonces, decidimos que nos\n"
@@ -49,7 +49,7 @@ SaffronCity_PokemonTrainerFanClub_Text_EveryonesYourFanButICantBe::
     .string "no puedo dejar de ser su fan.$"
 
 SaffronCity_PokemonTrainerFanClub_Text_TrainersCoolWhenBattling::
-    .string "Creo que los ENTRENADORES son\n"
+    .string "Creo que los Entrenadores son\n"
     .string "geniales cuando luchan.\p"
     .string "¿No lo crees?$"
 
@@ -72,24 +72,24 @@ SaffronCity_PokemonTrainerFanClub_Text_CountingOnYou::
     .string "pantalones cortos!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_BrocksMyHero::
-    .string "¡BROCK es mi héroe!\n"
+    .string "¡Brock es mi héroe!\n"
     .string "¡Es un hombre entre hombres!\p"
     .string "Jeje, hice que mi mamá hiciera\n"
     .string "algo por mí.\p"
-    .string "¡Hice que bordara “BROCK” en mis\n"
+    .string "¡Hice que bordara “Brock” en mis\n"
     .string "pantalones!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_BrocksFanToBitterEnd::
     .string "…  …\p"
     .string "…  …\n"
-    .string "¡Soy fan de BROCK!\p"
+    .string "¡Soy fan de Brock!\p"
     .string "¡Incluso si fuera su único fan,\n"
     .string "juro por mi determinación de roca,\l"
     .string "y por mis pantalones!\p"
     .string "¡Qué seré su fan hasta el final!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_BrocksLastWordOnCool::
-    .string "¡BROCK es el más genial que hay,\n"
+    .string "¡Brock es el más genial que hay,\n"
     .string "y fin!\p"
     .string "¡Es el ejemplo de lo que quiero\n"
     .string "ser!$"
@@ -106,7 +106,7 @@ SaffronCity_PokemonTrainerFanClub_Text_NeverSeenTrainerOfYourMagnificence::
     .string "He viajado largo y ancho por\n"
     .string "el mundo.\p"
     .string "Pero nunca había visto un{A}\n"
-    .string "ENTRENADOR{AM} tan magnífic{OA} como tú.\p"
+    .string "Entrenador{AM} tan magnífic{OA} como tú.\p"
     .string "¡Confía en tus habilidades y sigue\n"
     .string "luchando!\p"
     .string "¡Prométeme que lo harás, mi joven\n"
@@ -124,13 +124,13 @@ SaffronCity_PokemonTrainerFanClub_Text_YouveStillAWaysToGo::
     .string "Ciertamente tienes el aspecto de\n"
     .string "un{A} ganador{A}.\p"
     .string "Pero para aceptarte como alguien\n"
-    .string "grandioso con los POKéMON…\p"
+    .string "grandioso con los Pokémon…\p"
     .string "… …\p"
     .string "¡Aún te falta mucho camino!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_YoullBeTalkedAboutIfYouKeepWinning::
     .string "Todos los que estamos aquí somos\n"
-    .string "fans de los ENTRENADORES POKéMON.\p"
+    .string "fans de los Entrenadores Pokémon.\p"
     .string "Como se ven en batalla…\n"
     .string "Son la imagen de la genialidad.\p"
     .string "Puede que también se hable de\n"
@@ -151,14 +151,14 @@ SaffronCity_PokemonTrainerFanClub_Text_EveryoneButMeStoppedBeingYourFan::
 
 SaffronCity_PokemonTrainerFanClub_Text_WantToBeLikeSabrina::
     .string "¿Sabes qué?\n"
-    .string "¡Quiero ser como SABRINA!\p"
+    .string "¡Quiero ser como Sabrina!\p"
     .string "¡Quiero ser una chica psíquica,\n"
     .string "justo como ella!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_WontStopBeingSabrinasFan::
     .string "Incluso si soy la única, no dejaré\n"
-    .string "de ser fan de SABRINA.\p"
-    .string "Mi sueño es ser como SABRINA,\n"
+    .string "de ser fan de Sabrina.\p"
+    .string "Mi sueño es ser como Sabrina,\n"
     .string "linda, pero genial.\p"
     .string "¡Quiero ser una chica psíquica,\n"
     .string "justo como ella!$"
@@ -232,7 +232,7 @@ SaffronCity_PokemonTrainerFanClub_Text_YouReallyAreAmazing::
     .string "¡Increíble!\n"
     .string "¡{PLAYER}, si que eres increíble!\p"
     .string "En vez de solo mirar, tal vez\n"
-    .string "debería convertirme en ENTRENADOR.$"
+    .string "debería convertirme en Entrenador.$"
 
 SaffronCity_PokemonTrainerFanClub_Text_ImYourOnlyFan::
     .string "Soy tu único fan…\n"
@@ -272,7 +272,7 @@ SaffronCity_PokemonTrainerFanClub_Text_WontStopBeingYourFan::
     .string "¡No puedo dejar de ser tu fan!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_OnlyMasterHasMyRespect::
-    .string "¡Hayiah! solo hay un ENTRENADOR\n"
+    .string "¡Hayiah! solo hay un Entrenador\n"
     .string "que tiene mi respeto.\p"
     .string "Y no es nadie más que mi\n"
     .string "MAESTRO del DOJO DE PELEA.\p"

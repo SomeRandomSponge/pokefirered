@@ -2,7 +2,7 @@ SafariZone_Center_Text_RestHouse::
     .string "CASA DE DESCANSO$"
 
 SafariZone_Center_Text_PressStartToCheckTime::
-    .string "CONSEJOS PARA ENTRENADORES\p"
+    .string "Consejos para Entrenadores\p"
     .string "Presiona START para saber cuánto\n"
     .string "tiempo te queda.$"
 

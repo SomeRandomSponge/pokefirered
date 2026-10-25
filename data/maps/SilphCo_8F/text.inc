@@ -27,7 +27,7 @@ SilphCo_8F_Text_ParkerPostBattle::
 
 SilphCo_8F_Text_Grunt2Intro::
     .string "¡Soy uno de los cuatro HERMANOS\n"
-    .string "ROCKET!$"
+    .string "Rocket!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
     .string "¡Uoo!\n"
@@ -41,9 +41,9 @@ SilphCo_8F_Text_FloorSign::
     .string "P8$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-    .string "¡El JEFE del EQUIPO ROCKET es\n"
+    .string "¡El JEFE del Equipo Rocket es\n"
     .string "terriblemente cruel!\p"
-    .string "Para él, los POKéDEX solo son\n"
+    .string "Para él, los Pokédex solo son\n"
     .string "herramientas para ser usadas.\p"
     .string "Lo que pasaría si ese tirano se\n"
     .string "apodera de la compañia…$"

@@ -9,7 +9,7 @@ SilphCo_9F_Text_ThankYouSoMuch::
     .string "Muchísimas gracias.$"
 
 SilphCo_9F_Text_Grunt1Intro::
-    .string "¡Parece que tus POKéMON te adoran,\n"
+    .string "¡Parece que tus Pokémon te adoran,\n"
     .string "niñ{OA}!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
@@ -17,10 +17,10 @@ SilphCo_9F_Text_Grunt1Defeat::
 
 SilphCo_9F_Text_Grunt1PostBattle::
     .string "Si hubiera empezado como\n"
-    .string "ENTRENADOR a tu edad…$"
+    .string "Entrenador a tu edad…$"
 
 SilphCo_9F_Text_EdIntro::
-    .string "¡Tús POKéMON tienen puntos\n"
+    .string "¡Tús Pokémon tienen puntos\n"
     .string "débiles! ¡Puedo verlos!$"
 
 SilphCo_9F_Text_EdDefeat::
@@ -32,7 +32,7 @@ SilphCo_9F_Text_EdPostBattle::
 
 SilphCo_9F_Text_Grunt2Intro::
     .string "¡Soy uno de los cuatro HERMANOS\n"
-    .string "ROCKET!$"
+    .string "Rocket!$"
 
 SilphCo_9F_Text_Grunt2Defeat::
     .string "¡Arg!\n"

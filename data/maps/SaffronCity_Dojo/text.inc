@@ -1,7 +1,7 @@
 SaffronCity_Dojo_Text_MasterKoichiIntro::
     .string "¡Grr!\p"
     .string "¡Soy el MAESTRO DEL KÁRATE!\n"
-    .string "¡Soy el LÍDER aquí!\p"
+    .string "¡Soy el Líder aquí!\p"
     .string "¿Nos quieres desafiar?\n"
     .string "¡No esperes piedad!\p"
     .string "¡Fuaaa!$"
@@ -15,7 +15,7 @@ SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
     .string "Pero, te lo suplico, ¡no te lleves\n"
     .string "nuestro emblema como trofeo!\p"
     .string "¡En su lugar, te daré un valioso\n"
-    .string "POKéMON de PELEA!\p"
+    .string "Pokémon de PELEA!\p"
     .string "¡Elige el que tú quieras!$"
 
 SaffronCity_Dojo_Text_StayAndTrainWithUs::

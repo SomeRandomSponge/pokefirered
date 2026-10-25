@@ -8,13 +8,13 @@ SSAnne_B1F_Room1_Text_PhillipDefeat::
 
 SSAnne_B1F_Room1_Text_PhillipPostBattle::
     .string "Cuando estamos en el mar, a veces\n"
-    .string "POKéMON medusa pasan cerca.$"
+    .string "Pokémon medusa pasan cerca.$"
 
 SSAnne_B1F_Room1_Text_BarnyIntro::
     .string "¡Hola, extrañ{OA}!\p"
     .string "No sé si eres de los mares o de\n"
     .string "las montañas, pero ven a charlar.\p"
-    .string "Todos mis POKéMON vienen del mar.$"
+    .string "Todos mis Pokémon vienen del mar.$"
 
 SSAnne_B1F_Room1_Text_BarnyDefeat::
     .string "¡Rayos!\n"

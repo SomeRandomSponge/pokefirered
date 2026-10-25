@@ -10,7 +10,7 @@ SafariZone_West_Text_PleaseFindWardensLostTeeth::
     .string "Contáctese con el GUARDA.$"
 
 SafariZone_West_Text_SearchForSecretHouse::
-    .string "CONSEJOS PARA ENTRENADORES\p"
+    .string "Consejos para Entrenadores\p"
     .string "¡Campaña de exploración de ZONAS!\n"
     .string "¡La búsqueda de la CASA SECRETA!$"
 

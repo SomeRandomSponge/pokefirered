@@ -14,7 +14,7 @@ SaffronCity_House_Text_GettingCopycatPokeDoll::
 SaffronCity_House_Text_ExplainPPUp::
     .string "Me dieron un MÁS PP como regalo.\p"
     .string "Se usa para aumentar los PP del\n"
-    .string "movimiento de un POKéMON.\p"
+    .string "movimiento de un Pokémon.\p"
     .string "Debería usarlo en un movimiento\n"
     .string "poderoso que tenga pocos PP.$"
 

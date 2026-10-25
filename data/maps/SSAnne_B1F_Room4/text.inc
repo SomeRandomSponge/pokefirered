@@ -19,5 +19,5 @@ SSAnne_B1F_Room4_Text_DuncanDefeat::
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
     .string "¿Viste al GURÚ DE LA PESCA en\n"
-    .string "CIUDAD CARMÍN?$"
+    .string "Ciudad Carmín?$"
 

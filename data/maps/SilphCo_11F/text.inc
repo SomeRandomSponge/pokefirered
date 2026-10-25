@@ -27,7 +27,7 @@ SilphCo_11F_Text_ThatsOurSecretPrototype::
     .string "en ninguna parte.\p"
     .string "Es nuestro prototipo secreto de la\n"
     .string "BOLA MAESTRA.\p"
-    .string "¡Atrapará a cualquier POKéMON sin\n"
+    .string "¡Atrapará a cualquier Pokémon sin\n"
     .string "falla!\p"
     .string "Aunque sería mejor que la uses en\n"
     .string "secreto.$"
@@ -57,11 +57,11 @@ SilphCo_11F_Text_GiovanniDefeat::
 SilphCo_11F_Text_GiovanniPostBattle::
     .string "¡Maldita sea!\n"
     .string "¡Arruinaste los planes para SILPH!\p"
-    .string "¡Pero el EQUIPO ROCKET nunca\n"
+    .string "¡Pero el Equipo Rocket nunca\n"
     .string "caerá!\p"
     .string "¡{PLAYER}! ¡nunca olvides que\n"
-    .string "todos los POKéMON existen para el\l"
-    .string "EQUIPO ROCKET!\p"
+    .string "todos los Pokémon existen para el\l"
+    .string "Equipo Rocket!\p"
     .string "¡Debo irme, pero volveré!$"
 
 SilphCo_11F_Text_Grunt2Intro::
@@ -85,10 +85,10 @@ SilphCo_11F_Text_Grunt1Defeat::
 
 SilphCo_11F_Text_Grunt1PostBattle::
     .string "Cuida tus pasos…\n"
-    .string "¡Mi JEFE prefiere POKéMON fuertes!$"
+    .string "¡Mi JEFE prefiere Pokémon fuertes!$"
 
 SilphCo_11F_Text_MonitorHasMonsOnIt::
-    .string "¡El monitor muestra unos POKéMON!$"
+    .string "¡El monitor muestra unos Pokémon!$"
 
 SilphCo_11F_Text_FloorSign::
     .string "OFICINA CENTRAL DE SILPH S.A.\n"

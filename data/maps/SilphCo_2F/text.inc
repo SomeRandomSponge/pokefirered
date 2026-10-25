@@ -4,11 +4,11 @@ SilphCo_2F_Text_ConnorIntro::
 
 SilphCo_2F_Text_ConnorDefeat::
     .string "¿Cómo sabías que\n"
-    .string "soy un ROCKET?$"
+    .string "soy un Rocket?$"
 
 SilphCo_2F_Text_ConnorPostBattle::
     .string "Trabajo tanto para SILPH como para\n"
-    .string "el EQUIPO ROCKET.$"
+    .string "el Equipo Rocket.$"
 
 SilphCo_2F_Text_JerryIntro::
     .string "¡Aquí es fuera de límites!\n"
@@ -42,12 +42,12 @@ SilphCo_2F_Text_Grunt2Defeat::
 
 SilphCo_2F_Text_Grunt2PostBattle::
     .string "¡SILPH S.A. será relacionada con\n"
-    .string "el EQUIPO ROCKET!$"
+    .string "el Equipo Rocket!$"
 
 Text_ThunderWaveTeach::
     .string "¡Socorro!\n"
     .string "¡No! ¡detente! ¡por favor!\p"
-    .string "Oh, no estás con el EQUIPO ROCKET.\n"
+    .string "Oh, no estás con el Equipo Rocket.\n"
     .string "Lo siento, pensaba que…\p"
     .string "¿Me perdonarías si te enseño la\n"
     .string "técnica ONDA TRUENO?$"
@@ -57,17 +57,17 @@ Text_ThunderWaveDeclined::
     .string "Pero ONDA TRUENO es útil…$"
 
 Text_ThunderWaveWhichMon::
-    .string "¿A qué POKéMON le debería enseñar\n"
+    .string "¿A qué Pokémon le debería enseñar\n"
     .string "ONDA TRUENO?$"
 
 Text_ThunderWaveTaught::
     .string "ONDA TRUENO causa parálisis al\n"
     .string "objetivo.\p"
-    .string "Puede que un POKéMON parálizado no\n"
+    .string "Puede que un Pokémon parálizado no\n"
     .string "sea capaz de moverse en batalla.\p"
     .string "Es un movimiento de tipo\n"
     .string "ELÉCTRICO, así que no funcionará\l"
-    .string "en algunos POKéMON.$"
+    .string "en algunos Pokémon.$"
 
 SilphCo_2F_Text_FloorSign::
     .string "OFICINA CENTRAL DE SILPH S.A.\n"

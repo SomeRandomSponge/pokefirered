@@ -1,6 +1,6 @@
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
     .string "{PLAYER}: ¡Hola!\n"
-    .string "¿Te gustan los POKéMON?\p"
+    .string "¿Te gustan los Pokémon?\p"
     .string "{PLAYER}: No, te lo pregunté a tí.\p"
     .string "{PLAYER}: ¿Huh?\n"
     .string "¡Eres extraña!\p"
@@ -9,7 +9,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
     .string "{PLAYER}: Hola.\n"
-    .string "Seguro te gustan los POKéMON.\p"
+    .string "Seguro te gustan los Pokémon.\p"
     .string "{PLAYER}: No, yo no.\n"
     .string "Yo te pregunté a tí.\p"
     .string "{PLAYER}: ¿Perdón?\n"
@@ -84,7 +84,7 @@ SaffronCity_CopycatsHouse_2F_Text_Doduo::
     .string "LA MÁS BELLA DE TODAS?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-    .string "¡Es un POKéMON raro!\n"
+    .string "¡Es un Pokémon raro!\n"
     .string "¿Uh? ¡es solo un muñeco!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
@@ -96,7 +96,7 @@ SaffronCity_CopycatsHouse_2F_Text_MySecrets::
     .string "¡Mis secretos!\p"
     .string "Habilidad: ¡La mímica!\n"
     .string "Pasatiempo: ¡Coleccionar muñecos!\l"
-    .string "POKéMON favorito: ¡CLEFAIRY!$"
+    .string "Pokémon favorito: ¡CLEFAIRY!$"
 
 SaffronCity_CopycatsHouse_2F_Text_HuhCantSee::
     .string "？　みえないぞ‥$"

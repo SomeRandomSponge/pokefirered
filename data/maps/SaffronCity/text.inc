@@ -4,14 +4,14 @@ SaffronCity_Text_WhatDoYouWantGetLost::
 
 SaffronCity_Text_BossTakeTownForTeamRocket::
     .string "¡El JEFE dijo que tomará este\n"
-    .string "lugar en nombre del EQUIPO ROCKET!$"
+    .string "lugar en nombre del Equipo Rocket!$"
 
 SaffronCity_Text_DontGetDefiantOrIllHurtYou::
     .string "¡No te hagas {ELLA} rebelde!\n"
     .string "¡O tendré que lastimarte!$"
 
 SaffronCity_Text_SaffronBelongsToTeamRocket::
-    .string "¡AZAFRÁN pertenece a los ROCKET!$"
+    .string "¡Azafrán pertenece a los Rocket!$"
 
 SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
     .string "¡Mi vida como criminal me hace\n"
@@ -23,22 +23,22 @@ SaffronCity_Text_WatchWhereYoureWalking::
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
     .string "¡Con SILPH bajo control, podemos\n"
-    .string "explotar POKéMON en todo el mundo!\p"
+    .string "explotar Pokémon en todo el mundo!\p"
     .string "¡Seremos súper ricos, yiajaja!$"
 
 SaffronCity_Text_YouBeatTeamRocket::
-    .string "¿Venciste al EQUIPO ROCKET sol{OA}?\n"
+    .string "¿Venciste al Equipo Rocket sol{OA}?\n"
     .string "¡Eso es increíble!$"
 
 SaffronCity_Text_SafeToGoOutAgain::
-    .string "¡Sí! ¡el EQUIPO ROCKET se fue!\n"
+    .string "¡Sí! ¡el Equipo Rocket se fue!\n"
     .string "¡Salir es seguro de nuevo!$"
 
 SaffronCity_Text_PeopleComingBackToSaffron::
     .string "La gente huyó en masa cuando\n"
-    .string "llegaron los ROCKET.\p"
+    .string "llegaron los Rocket.\p"
     .string "Deberían estar por volver a\n"
-    .string "AZAFRÁN.$"
+    .string "Azafrán.$"
 
 SaffronCity_Text_FlewHereOnPidgeot::
     .string "Volé aquí en mi PIDGEOT cuando leí\n"
@@ -50,7 +50,7 @@ SaffronCity_Text_Pidgeot::
     .string "PIDGEOT: ¡Bi bibii!$"
 
 SaffronCity_Text_SawRocketBossEscaping::
-    .string "Ví al JEFE de los ROCKET escapar\n"
+    .string "Ví al JEFE de los Rocket escapar\n"
     .string "del edificio de SILPH.$"
 
 SaffronCity_Text_ImASecurityGuard::
@@ -63,7 +63,7 @@ SaffronCity_Text_HesTakingASnooze::
     .string "¡Ah! ¡está tomando una siesta!$"
 
 SaffronCity_Text_CitySign::
-    .string "CIUDAD AZAFRÁN\n"
+    .string "Ciudad Azafrán\n"
     .string "La brillante tierra dorada del\l"
     .string "comercio.$"
 
@@ -71,12 +71,12 @@ SaffronCity_Text_FightingDojo::
     .string "DOJO DE PELEA$"
 
 SaffronCity_Text_GymSign::
-    .string "GIMNASIO POKéMON de CIUDAD AZAFRÁN\n"
-    .string "LÍDER: SABRINA\l"
-    .string "¡Maestra de los POKéMON PSÍQUICOS!$"
+    .string "Gimnasio Pokémon de Ciudad Azafrán\n"
+    .string "Líder: Sabrina\l"
+    .string "¡Maestra de los Pokémon PSÍQUICOS!$"
 
 SaffronCity_Text_FullHealCuresStatus::
-    .string "CONSEJOS PARA ENTRENADORES\p"
+    .string "Consejos para Entrenadores\p"
     .string "CURA TOTAL soluciona males como\n"
     .string "quemaduras, parálisis, sueño,\l"
     .string "congelamiento, y envenenamiento.\p"
@@ -84,10 +84,10 @@ SaffronCity_Text_FullHealCuresStatus::
     .string "más que comprar otros objetos.$"
 
 SaffronCity_Text_GreatBallImprovedCatchRate::
-    .string "CONSEJOS PARA ENTRENADORES\p"
+    .string "Consejos para Entrenadores\p"
     .string "La nueva SÚPERBOLA ofrece una tasa\n"
     .string "de captura mejorada.\p"
-    .string "Pruébala en esos POKéMON difíciles\n"
+    .string "Pruébala en esos Pokémon difíciles\n"
     .string "de atrapar.$"
 
 SaffronCity_Text_SilphCoSign::
@@ -102,15 +102,15 @@ SaffronCity_Text_SilphsLatestProduct::
 
 SaffronCity_Text_TrainerFanClubSign::
     .string "CLUB DE FANS DE ENTRENADORES\n"
-    .string "POKéMON\p"
+    .string "Pokémon\p"
     .string "En este cartel hay garabateados\n"
-    .string "muchos nombres de ENTRENADORES.$"
+    .string "muchos nombres de Entrenadores.$"
 
 SaffronCity_Text_HowCanClubNotRecognizeLance::
     .string "Este CLUB DE FANS…\n"
     .string "¡Nadie ahí tiene idea de nada!\p"
     .string "¿Cómo es que no pueden reconocer\n"
-    .string "lo brillante que es LANCE?\p"
+    .string "lo brillante que es Lance?\p"
     .string "¡Él representa la justicia!\n"
     .string "¡Es genial, y también apasionado!\l"
-    .string "¡Es el mejor, LANCE!$"
+    .string "¡Es el mejor, Lance!$"

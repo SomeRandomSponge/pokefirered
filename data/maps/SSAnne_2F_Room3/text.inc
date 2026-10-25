@@ -1,5 +1,5 @@
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
-    .string "¡Ah, sí, he visto a varios POKéMON\n"
+    .string "¡Ah, sí, he visto a varios Pokémon\n"
     .string "cargar gente a través del agua!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::

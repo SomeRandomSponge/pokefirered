@@ -12,7 +12,7 @@ Text_RockSlideDeclined::
     .string "Oh, entonces si tenías miedo.$"
 
 Text_RockSlideWhichMon::
-    .string "¿Qué POKéMON quiere aprender\n"
+    .string "¿Qué Pokémon quiere aprender\n"
     .string "AVALANCHA?$"
 
 Text_RockSlideTaught::

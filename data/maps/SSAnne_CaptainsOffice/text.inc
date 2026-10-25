@@ -18,7 +18,7 @@ SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
     .string "CORTE si no estuviera tan enfermo…\p"
     .string "¡Ya sé! ¡Puedes tener esto!\n"
     .string "¡Esta MÁQUINA OCULTA!\p"
-    .string "¡Enseñale CORTE a tu POKéMON, y\n"
+    .string "¡Enseñale CORTE a tu Pokémon, y\n"
     .string "podrás ver CORTE cuando quieras!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
@@ -29,7 +29,7 @@ SSAnne_CaptainsOffice_Text_ExplainCut::
     .string "Usando CORTE, puedes derribar\n"
     .string "árboles pequeños.\p"
     .string "¿Porqué no lo intentas con los\n"
-    .string "árboles en CIUDAD CARMÍN?$"
+    .string "árboles en Ciudad Carmín?$"
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
     .string "CAPITÁN: …¡Fiu!\p"
@@ -37,7 +37,7 @@ SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
     .string "supongo que es hora.\p"
     .string "¡El SANTA ANA zarpará pronto!\p"
     .string "Me despido, ¡hasta nuestro regreso\n"
-    .string "a CIUDAD CARMÍN!$"
+    .string "a Ciudad Carmín!$"
 
 SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
     .string "¡Oh, no!\n"

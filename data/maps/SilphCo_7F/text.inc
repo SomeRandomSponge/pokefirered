@@ -1,8 +1,8 @@
 SilphCo_7F_Text_HaveMonForSavingUs::
-    .string "¡Oh! ¡Hola! ¡No eres un{OA} ROCKET!\n"
+    .string "¡Oh! ¡Hola! ¡No eres un{OA} Rocket!\n"
     .string "¿Viniste a salvarnos?\l"
     .string "¡Gracias!\p"
-    .string "Quiero que tengas a este POKéMON\n"
+    .string "Quiero que tengas a este Pokémon\n"
     .string "por salvarnos.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
@@ -11,16 +11,16 @@ SilphCo_7F_Text_ObtainedLaprasFromEmployee::
 
 SilphCo_7F_Text_ExplainLapras::
     .string "Es un LAPRAS.\n"
-    .string "Es un POKéMON muy inteligente.\p"
+    .string "Es un Pokémon muy inteligente.\p"
     .string "Lo teníamos en el laboratorio,\n"
     .string "pero estaría mucho mejor contigo.\p"
     .string "¡Creo que serás un{A} buen{A}\n"
-    .string "ENTRENADOR{AM} para LAPRAS!\p"
+    .string "Entrenador{AM} para LAPRAS!\p"
     .string "Es buen nadador.\n"
     .string "¡Te llevará a través del agua!$"
 
 SilphCo_7F_Text_RocketBossWentToBoardroom::
-    .string "¡El JEFE del EQUIPO ROCKET fue a\n"
+    .string "¡El JEFE del Equipo Rocket fue a\n"
     .string "la sala de juntas!\p"
     .string "¿Nuestro PRESIDENTE está bien?\n"
     .string "Estoy preocupado.$"
@@ -32,21 +32,21 @@ SilphCo_7F_Text_SavedAtLast::
     .string "たすかったよ　ありがと！$"
 
 SilphCo_7F_Text_RocketsAfterMasterBall::
-    .string "El EQUIPO ROCKET estaba tras la\n"
+    .string "El Equipo Rocket estaba tras la\n"
     .string "BOLA MAESTRA, que atrapa a\l"
-    .string "cualquier POKéMON.$"
+    .string "cualquier Pokémon.$"
 
 SilphCo_7F_Text_CanceledMasterBallProject::
     .string "Cancelamos el proyecto de la BOLA\n"
-    .string "MAESTRA gracias al EQUIPO ROCKET.$"
+    .string "MAESTRA gracias al Equipo Rocket.$"
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
-    .string "Sería malo si los ROCKET se quedan\n"
-    .string "con SILPH o con nuestros POKéMON.$"
+    .string "Sería malo si los Rocket se quedan\n"
+    .string "con SILPH o con nuestros Pokémon.$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
     .string "¡Guau!\p"
-    .string "¿Ahuyentaste al EQUIPO ROCKET por\n"
+    .string "¿Ahuyentaste al Equipo Rocket por\n"
     .string "tu cuenta?$"
 
 SilphCo_7F_Text_ReallyDangerousHere::
@@ -79,11 +79,11 @@ SilphCo_7F_Text_JoshuaDefeat::
 
 SilphCo_7F_Text_JoshuaPostBattle::
     .string "¡A pesar de tu edad, eres un{A}\n"
-    .string "ENTRENADOR{AM} hábil!$"
+    .string "Entrenador{AM} hábil!$"
 
 SilphCo_7F_Text_Grunt1Intro::
     .string "¡Soy uno de los cuatro HERMANOS\n"
-    .string "ROCKET!$"
+    .string "Rocket!$"
 
 SilphCo_7F_Text_Grunt1Defeat::
     .string "¡Aack!\n"
@@ -111,15 +111,15 @@ SilphCo_7F_Text_RivalWhatKeptYou::
 SilphCo_7F_Text_RivalIntro::
     .string "{RIVAL}: ¡Jajaja! ¡pensé que\n"
     .string "aparecerías si esperaba aquí!\p"
-    .string "¡Supongo que el EQUIPO ROCKET te\n"
+    .string "¡Supongo que el Equipo Rocket te\n"
     .string "retrasó! ¡Aunque no me importa!\p"
-    .string "Te ví en AZAFRÁN, ¡así que decidí\n"
+    .string "Te ví en Azafrán, ¡así que decidí\n"
     .string "ver si mejoraste!$"
 
 SilphCo_7F_Text_RivalDefeat::
     .string "¡Ajá!\n"
     .string "¡Entonces, estás list{OA} para el\l"
-    .string "JEFE de los ROCKET!$"
+    .string "JEFE de los Rocket!$"
 
 SilphCo_7F_Text_RivalVictory::
     .string "{RIVAL}“おまえなあ‥\p"
@@ -130,13 +130,13 @@ SilphCo_7F_Text_RivalVictory::
 SilphCo_7F_Text_RivalPostBattle::
     .string "¡Bueno, {PLAYER}!\n"
     .string "¡Estoy mejorando y avanzando!\p"
-    .string "¡Al revisar mi POKéDEX, empiezo a\n"
+    .string "¡Al revisar mi Pokédex, empiezo a\n"
     .string "ver cúales son fuertes y cómo\l"
     .string "evolucionan!\p"
     .string "¿Soy un genio o qué?\p"
-    .string "Iré a la LIGA POKéDEX a aplastar\n"
-    .string "al ALTO MANDO.\p"
-    .string "¡Me convertiré en el ENTRENADOR\n"
+    .string "Iré a la Liga Pokémon a aplastar\n"
+    .string "al Alto Mando.\p"
+    .string "¡Me convertiré en el Entrenador\n"
     .string "más poderoso del mundo!\p"
     .string "¡{PLAYER}, buena suerte para tí!\n"
     .string "¡No te esfuerces de más!\l"

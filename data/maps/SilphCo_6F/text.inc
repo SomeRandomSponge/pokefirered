@@ -1,5 +1,5 @@
 SilphCo_6F_Text_RocketsTookOverBuilding::
-    .string "¡Los ROCKET llegaron y se\n"
+    .string "¡Los Rocket llegaron y se\n"
     .string "apoderaron del edificio!$"
 
 SilphCo_6F_Text_BetterGetBackToWork::
@@ -22,16 +22,16 @@ SilphCo_6F_Text_NeedsMeToLookAfterHim::
     .string "a alguien como yo que lo cuide.$"
 
 SilphCo_6F_Text_RocketsTryingToConquerWorld::
-    .string "El EQUIPO ROCKET intenta\n"
-    .string "conquistar al mundo con POKéMON.$"
+    .string "El Equipo Rocket intenta\n"
+    .string "conquistar al mundo con Pokémon.$"
 
 SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
-    .string "¡El EQUIPO ROCKET escapó, y todo\n"
+    .string "¡El Equipo Rocket escapó, y todo\n"
     .string "es gracias a ti!$"
 
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
     .string "Debieron haber elegido a SILPH por\n"
-    .string "nuestros productos POKéMON.$"
+    .string "nuestros productos Pokémon.$"
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
     .string "Ven a trabajar para SILPH cuando\n"
@@ -39,7 +39,7 @@ SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
 
 SilphCo_6F_Text_Grunt1Intro::
     .string "¡Soy uno de los cuatro HERMANOS\n"
-    .string "ROCKET!$"
+    .string "Rocket!$"
 
 SilphCo_6F_Text_Grunt1Defeat::
     .string "¡Fracasé!$"
@@ -52,7 +52,7 @@ SilphCo_6F_Text_TaylorIntro::
     .string "¡Ese podrido PRESIDENTE!\p"
     .string "¡Se lo merece por enviarme a la\n"
     .string "SUCURSAL TIKSI!\p"
-    .string "¡Es por eso que el EQUIPO ROCKET\n"
+    .string "¡Es por eso que el Equipo Rocket\n"
     .string "vino tras nosotros, estoy seguro!$"
 
 SilphCo_6F_Text_TaylorDefeat::
@@ -63,7 +63,7 @@ SilphCo_6F_Text_TaylorPostBattle::
     .string "¡Es una tierra de nadie en Rusia!$"
 
 SilphCo_6F_Text_Grunt2Intro::
-    .string "¿Traicionas al EQUIPO ROCKET?$"
+    .string "¿Traicionas al Equipo Rocket?$"
 
 SilphCo_6F_Text_Grunt2Defeat::
     .string "¡Traidor{OA}!$"

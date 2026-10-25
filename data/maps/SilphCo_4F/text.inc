@@ -4,10 +4,10 @@ SilphCo_4F_Text_CantYouSeeImHiding::
 
 SilphCo_4F_Text_TeamRocketIsGone::
     .string "¿Huh?\n"
-    .string "¿El EQUIPO ROCKET se fue?$"
+    .string "¿El Equipo Rocket se fue?$"
 
 SilphCo_4F_Text_Grunt1Intro::
-    .string "¡El EQUIPO ROCKET tomó el control\n"
+    .string "¡El Equipo Rocket tomó el control\n"
     .string "de SILPH S.A.!$"
 
 SilphCo_4F_Text_Grunt1Defeat::
@@ -18,11 +18,11 @@ SilphCo_4F_Text_Grunt1PostBattle::
     .string "¡Mi JEFE buscaba este lugar!$"
 
 SilphCo_4F_Text_RodneyIntro::
-    .string "Mi POKéMON es mi sirviente leal.$"
+    .string "Mi Pokémon es mi sirviente leal.$"
 
 SilphCo_4F_Text_RodneyDefeat::
     .string "¡Rayos!\n"
-    .string "¡Este POKéMON es débil!$"
+    .string "¡Este Pokémon es débil!$"
 
 SilphCo_4F_Text_RodneyPostBattle::
     .string "Las puertas están bloqueadas\n"

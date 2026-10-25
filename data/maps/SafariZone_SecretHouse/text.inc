@@ -15,7 +15,7 @@ SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
 
 SafariZone_SecretHouse_Text_ExplainSurf::
     .string "MO03 es SURF.\p"
-    .string "Un POKéMON usándola podrá llevarte\n"
+    .string "Un Pokémon usándola podrá llevarte\n"
     .string "a través del agua.\p"
     .string "Y esta MO no es desechable, así\n"
     .string "que puedes usarla una y otra vez.\p"

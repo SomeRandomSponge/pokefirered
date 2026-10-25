@@ -2,7 +2,7 @@ SafariZone_East_Text_RestHouse::
     .string "CASA DE DESCANSO$"
 
 SafariZone_East_Text_TimeDeclinesOnlyWhileYouWalk::
-    .string "CONSEJOS PARA ENTRENADORES\p"
+    .string "Consejos para Entrenadores\p"
     .string "El tiempo restante solo se reduce\n"
     .string "mientras caminas.$"
 

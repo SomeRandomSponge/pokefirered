@@ -1,7 +1,7 @@
 SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
     .string "¿Has ido a la ZONA SAFARI en\n"
-    .string "CIUDAD FUCSIA?\p"
-    .string "Hay muchos tipos de POKéMON\n"
+    .string "Ciudad Fucsia?\p"
+    .string "Hay muchos tipos de Pokémon\n"
     .string "raros ahí.$"
 
 SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome::

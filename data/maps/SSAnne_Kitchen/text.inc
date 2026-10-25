@@ -19,7 +19,7 @@ SSAnne_Kitchen_Text_PeelSpudsEveryDay::
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
     .string "¿Has escuchado sobre SNORLAX?\n"
     .string "Es un glotón.\p"
-    .string "¡No hay POKéMON que coma y duerma\n"
+    .string "¡No hay Pokémon que coma y duerma\n"
     .string "cómo lo hace SNORLAX!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
