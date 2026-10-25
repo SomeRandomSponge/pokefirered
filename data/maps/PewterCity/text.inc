@@ -6,14 +6,14 @@ Text_DreamEaterTeach::
     .string "Y…\n"
     .string "Aprendí como comer sueños…\p"
     .string "¡Agh, esto es demasiado aterrador!\p"
-    .string "¡Dejame enseñarselo a un POKéMON\n"
+    .string "¡Dejame enseñarselo a un Pokémon\n"
     .string "para que pueda olvidarlo!$"
 
 Text_DreamEaterDeclined::
     .string "…Jjrrrrr…$"
 
 Text_DreamEaterWhichMon::
-    .string "¿Qué POKéMON quiere aprender\n"
+    .string "¿Qué Pokémon quiere aprender\n"
     .string "COME SUEÑOS?$"
 
 Text_DreamEaterTaught::
@@ -27,12 +27,12 @@ PewterCity_Text_ClefairyCameFromMoon::
     .string "PIEDRAS LUNARES en el MONTE LUNA.$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
-    .string "No hay muchos ENTRENADORES de\n"
-    .string "POKéMON serios aquí.\p"
+    .string "No hay muchos Entrenadores de\n"
+    .string "Pokémon serios aquí.\p"
     .string "Todos son como los CAZA INSECTOS,\n"
     .string "tú sabes, solo aficionados.\p"
-    .string "Pero BROCK, del GIMNASIO de\n"
-    .string "PLATEADA no es así, ni un poco.$"
+    .string "Pero Brock, del Gimnasio de\n"
+    .string "Plateada no es así, ni un poco.$"
 
 PewterCity_Text_DidYouCheckOutMuseum::
     .string "¿Has estado en el MUSEO?$"
@@ -60,20 +60,20 @@ PewterCity_Text_ThatsRightItsHardWork::
 
 PewterCity_Text_SprayingRepelToKeepWildMonsOut::
     .string "¡Estoy rociando REPELENTE para\n"
-    .string "echar a los POKéMON de mi jardín!$"
+    .string "echar a los Pokémon de mi jardín!$"
 
 PewterCity_Text_BrocksLookingForChallengersFollowMe::
-    .string "¿Eres un{A} ENTRENADOR{AM}, cierto?\p"
-    .string "BROCK está buscando a nuevos\n"
+    .string "¿Eres un{A} Entrenador{AM}, cierto?\p"
+    .string "Brock está buscando a nuevos\n"
     .string "adversarios. ¡Sígueme!$"
 
 PewterCity_Text_GoTakeOnBrock::
     .string "¡Si eres valiente,\n"
-    .string "enfréntate a BROCK!$"
+    .string "enfréntate a Brock!$"
 
 PewterCity_Text_TrainerTipsEarningEXP::
-    .string "CONSEJOS PARA ENTRENADORES\p"
-    .string "Todo POKéMON que luche en batalla\n"
+    .string "Consejos para Entrenadores\p"
+    .string "Todo Pokémon que luche en batalla\n"
     .string "ganará PUNTOS DE EXPERIENCIA.$"
 
 PewterCity_Text_CallPoliceIfInfoOnThieves::
@@ -81,19 +81,19 @@ PewterCity_Text_CallPoliceIfInfoOnThieves::
     .string "¡Unos ladrones han estado robando\n"
     .string "fósiles del MONTE LUNA!\p"
     .string "Por favor llama a la POLICÍA de\n"
-    .string "CIUDAD PLATEADA si sabes algo.$"
+    .string "Ciudad Plateada si sabes algo.$"
 
 PewterCity_Text_MuseumOfScience::
     .string "MUSEO DE LA CIENCIA DE\n"
-    .string "CIUDAD PLATEADA$"
+    .string "Ciudad Plateada$"
 
 PewterCity_Text_GymSign::
-    .string "LÍDER de GIMNASIO POKéMON\n"
-    .string "de CIUDAD PLATEADA: BROCK\l"
-    .string "¡El ENTRENADOR duro como roca!$"
+    .string "Líder de Gimnasio Pokémon\n"
+    .string "de Ciudad Plateada: Brock\l"
+    .string "¡El Entrenador duro como roca!$"
 
 PewterCity_Text_CitySign::
-    .string "CIUDAD PLATEADA\n"
+    .string "Ciudad Plateada\n"
     .string "Una ciudad de roca grisácea.$"
 
 @ The below 3 JP texts are unused. Possibly a cut NPC meant to give the player the Berry Pouch
@@ -123,7 +123,7 @@ PewterCity_Text_OhPlayer::
 
 PewterCity_Text_AskedToDeliverThis::
     .string "Menos mal que te alcancé.\n"
-    .string "Soy un AYUDANTE del PROFESOR OAK.\p"
+    .string "Soy un AYUDANTE del PROFESOR Oak.\p"
     .string "Me pidieron que te diera esto,\n"
     .string "aquí tienes.$"
 
@@ -141,7 +141,7 @@ PewterCity_Text_ExplainRunningShoes::
 
 PewterCity_Text_MustBeGoingBackToLab::
     .string "Bueno, debo regresar al\n"
-    .string "LABORATORIO.\p"
+    .string "Laboratorio.\p"
     .string "¡Hasta luego!$"
 
 PewterCity_Text_RunningShoesLetterFromMom::

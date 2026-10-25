@@ -16,15 +16,15 @@ MtMoon_B2F_Text_ThenThisFossilIsMine::
     .string "¡Entonces este fósil is mío!$"
 
 MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils::
-    .string "Muy lejos, en la ISLA CANELA, hay\n"
-    .string "un LABORATORIO de POKéMON.\p"
+    .string "Muy lejos, en la Isla Canela, hay\n"
+    .string "un Laboratorio de Pokémon.\p"
     .string "Ahí hacen investigaciones sobre\n"
     .string "cómo regenerar a los fósiles.$"
 
 MtMoon_B2F_Text_Grunt1Intro::
-    .string "¡Nosotros, el EQUIPO ROCKET,\n"
+    .string "¡Nosotros, el Equipo Rocket,\n"
     .string "encontraremos los fósiles!\p"
-    .string "¡El revivir a los POKéMON en ellos\n"
+    .string "¡El revivir a los Pokémon en ellos\n"
     .string "nos dará enormes riquezas!$"
 
 MtMoon_B2F_Text_Grunt1Defeat::
@@ -33,11 +33,11 @@ MtMoon_B2F_Text_Grunt1Defeat::
 
 MtMoon_B2F_Text_Grunt1PostBattle::
     .string "¡Me hiciste enfadar! ¡Estarás en\n"
-    .string "la lista negra del EQUIPO ROCKET!$"
+    .string "la lista negra del Equipo Rocket!$"
 
 MtMoon_B2F_Text_Grunt2Intro::
-    .string "¡Nosotros, el EQUIPO ROCKET, somos\n"
-    .string "gángsters de POKéMON!\l"
+    .string "¡Nosotros, el Equipo Rocket, somos\n"
+    .string "gángsters de Pokémon!\l"
     .string "¡Causamos terror con nuestra fuerza!$"
 
 MtMoon_B2F_Text_Grunt2Defeat::
@@ -67,7 +67,7 @@ MtMoon_B2F_Text_Grunt4Defeat::
     .string "¡Estoy enfadado!$"
 
 MtMoon_B2F_Text_Grunt4PostBattle::
-    .string "Los POKéMON vivían aquí mucho\n"
+    .string "Los Pokémon vivían aquí mucho\n"
     .string "antes de que llegara la gente.$"
 
 MtMoon_B2F_Text_YouWantDomeFossil::

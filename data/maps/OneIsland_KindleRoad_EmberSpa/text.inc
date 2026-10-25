@@ -17,7 +17,7 @@ OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
 OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
     .string "El agua está perfectamente cálida.\n"
     .string "Se siente maravillosa…\p"
-    .string "¡{PLAYER} y sus POKéMON\n"
+    .string "¡{PLAYER} y sus Pokémon\n"
     .string "se curaron por completo!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
@@ -34,10 +34,10 @@ OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
     .string "Después de un día de duro\n"
     .string "entrenamiento, no hay nada como\l"
     .string "un baño en las aguas termales.\p"
-    .string "BRUNO, que es superior a mí,\n"
+    .string "Bruno, que es superior a mí,\n"
     .string "visita el SPA ocasionalmente.\p"
     .string "Viene para rehabilitación, tanto\n"
-    .string "para él como para sus POKéMON.$"
+    .string "para él como para sus Pokémon.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
     .string "Las aguas termales tienen una\n"

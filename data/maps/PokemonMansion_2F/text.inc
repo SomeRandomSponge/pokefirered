@@ -23,11 +23,11 @@ PokemonMansion_1F_Text_ArniePostBattle::
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
     .string "Diario: 5 de Julio\n"
     .string "Guyana, Sudamérica\p"
-    .string "Un nuevo POKéMON fue descubierto\n"
+    .string "Un nuevo Pokémon fue descubierto\n"
     .string "en lo profundo de la selva.$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
     .string "Diario: 10 de Julio\n"
-    .string "Nombramos al POKéMON recién\l"
+    .string "Nombramos al Pokémon recién\l"
     .string "descubierto como MEW.$"
 

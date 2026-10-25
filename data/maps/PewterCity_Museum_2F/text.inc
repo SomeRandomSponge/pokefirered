@@ -7,14 +7,14 @@ Text_SeismicTossTeach::
     .string "estudiar duro, no tirar la toalla.\p"
     .string "La unica cosa que deberias tirar…\p"
     .string "Bueno, ¿que tal TIRO SÍSMICO?\n"
-    .string "¿Debería enseñarselo a un POKéMON?$"
+    .string "¿Debería enseñarselo a un Pokémon?$"
 
 Text_SeismicTossDeclined::
     .string "¿Ah, no?\n"
     .string "Seguro de que volveras a pedirlo.$"
 
 Text_SeismicTossWhichMon::
-    .string "¿Qué POKéMON quiere aprender\n"
+    .string "¿Qué Pokémon quiere aprender\n"
     .string "TIRO SÍSMICO?$"
 
 Text_SeismicTossTaught::

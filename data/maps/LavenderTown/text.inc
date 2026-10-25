@@ -12,18 +12,18 @@ LavenderTown_Text_JustImaginingWhiteHand::
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
     .string "Este pueblo es conocido como el\n"
-    .string "cementerio de POKéMON.\p"
+    .string "cementerio de Pokémon.\p"
     .string "Los servicios funerarios se llevan\n"
-    .string "a cabo en la TORRE POKéMON.$"
+    .string "a cabo en la TORRE Pokémon.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
     .string "Aparecieron fantasmas en la\n"
-    .string "TORRE POKéMON.\p"
-    .string "Creo que son espíritus de POKéMON\n"
-    .string "que los ROCKETS mataron.$"
+    .string "TORRE Pokémon.\p"
+    .string "Creo que son espíritus de Pokémon\n"
+    .string "que los Rocket mataron.$"
 
 LavenderTown_Text_TownSign::
-    .string "PUEBLO LAVANDA\n"
+    .string "Pueblo Lavanda\n"
     .string "El noble pueblo púrpura$"
 
 LavenderTown_Text_SilphScopeNotice::
@@ -32,10 +32,10 @@ LavenderTown_Text_SilphScopeNotice::
     .string "SILPH S.A.$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-    .string "CASA POKéMON DE VOLUNTARIOS\n"
-    .string "DE LAVANDA$"
+    .string "CASA Pokémon DE VOLUNTARIOS\n"
+    .string "DE Lavanda$"
 
 LavenderTown_Text_PokemonTowerSign::
-    .string "TORRE POKéMON\n"
-    .string "Calma los espíritus de los POKéMON"
+    .string "TORRE Pokémon\n"
+    .string "Calma los espíritus de los Pokémon"
 

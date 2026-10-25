@@ -1,23 +1,23 @@
 LavenderTown_Mart_Text_SearchingForStatRaiseItems::
     .string "Estoy buscando objetos que suben\n"
-    .string "las estadísticas de los POKéMON.\p"
+    .string "las estadísticas de los Pokémon.\p"
     .string "Son efectivos por la duración de\n"
     .string "una sola batalla.\p"
-    .string "ATAQUE X, DEFENSA X, VELOCIDAD X\n"
+    .string "Ataque X, Defensa X, Velocidad X\n"
     .string "y ATAQ. ESP. X son los que busco.\p"
     .string "¿Sabes donde puedo encontrarlos?$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
     .string "¿Compraste algunos REVIVIR?\n"
-    .string "¡Reviven a cualquier POKéMON\l"
+    .string "¡Reviven a cualquier Pokémon\l"
     .string "debilitado!$"
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
-    .string "A veces, un dúo de ENTRENADORES\n"
-    .string "te desafiarán con dos POKéMON\l"
+    .string "A veces, un dúo de Entrenadores\n"
+    .string "te desafiarán con dos Pokémon\l"
     .string "al mismo tiempo.\p"
     .string "Si eso pasa, necesitas enviar\n"
-    .string "dos POKéMON a la batalla también.$"
+    .string "dos Pokémon a la batalla también.$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
     .string "この　あいだ　やまおくで\n"

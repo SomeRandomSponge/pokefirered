@@ -1,17 +1,17 @@
 PokemonTower_1F_Text_ErectedInMemoryOfDeadMons::
-    .string "La TORRE POKéMON fue eregida\n"
-    .string "en memoria de los POKéMON que\l"
+    .string "La TORRE Pokémon fue eregida\n"
+    .string "en memoria de los Pokémon que\l"
     .string "han fallecido.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsSon::
     .string "¿Viniste a rendir homenaje?\p"
     .string "Bendito sea tu amor por los\n"
-    .string "POKéMON, niño.$"
+    .string "Pokémon, niño.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsGirl::
     .string "¿Viniste a rendir homenaje?\p"
     .string "Bendito sea tu amor por los\n"
-    .string "POKéMON, niña.$"
+    .string "Pokémon, niña.$"
 
 PokemonTower_1F_Text_CameToPrayForDepartedClefairy::
     .string "Vine a rezar por mi querido\n"

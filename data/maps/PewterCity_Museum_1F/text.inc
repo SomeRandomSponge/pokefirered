@@ -24,9 +24,9 @@ PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs::
 
 PewterCity_Museum_1F_Text_AmberContainsGeneticMatter::
     .string "El ÁMBAR contiene el material\n"
-    .string "genético de POKéMON antiguos.\p"
-    .string "Hay un LABORATORIO en algún lugar\n"
-    .string "que trata de revivir POKéMON\l"
+    .string "genético de Pokémon antiguos.\p"
+    .string "Hay un Laboratorio en algún lugar\n"
+    .string "que trata de revivir Pokémon\l"
     .string "a partir del ÁMBAR.$"
 
 PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
@@ -50,15 +50,15 @@ PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
     .string "¡Ssh! Escucha, necesito compartir\n"
     .string "un secreto con alguien.\p"
     .string "¡Creo que este pedazo de ÁMBAR\n"
-    .string "contiene ADN de POKéMON!\p"
+    .string "contiene ADN de Pokémon!\p"
     .string "Seria un enorme progreso\n"
     .string "cientifico si se pudiera revivir\l"
-    .string "a un POKéMON de el.\p"
+    .string "a un Pokémon de el.\p"
     .string "Pero, mis compañeros solo ignoran\n"
     .string "lo que tengo que decir.\p"
     .string "Así que, ¡tengo un favor que pedirte!\p"
     .string "Quiero que lleves esto a analizar\n"
-    .string "en algún CENTRO POKéMON.$"
+    .string "en algún Centro Pokémon.$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
     .string "{PLAYER} recibio el ÁMBAR VIEJO\n"
@@ -72,7 +72,7 @@ PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
     .string "No tienes espacio para esto.$"
 
 PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
-    .string "Tenemos los fósiles de dos POKéMON\n"
+    .string "Tenemos los fósiles de dos Pokémon\n"
     .string "prehistóricos en excibición.$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
@@ -81,9 +81,9 @@ PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
 
 PewterCity_Museum_1F_Text_AerodactylFossil::
     .string "Fósil de AERODACTYL.\n"
-    .string "Un POKéMON raro y primitivo.$"
+    .string "Un Pokémon raro y primitivo.$"
 
 PewterCity_Museum_1F_Text_KabutopsFossil::
     .string "Fósil de KABUTOPS.\n"
-    .string "Un POKéMON raro y primitivo.$"
+    .string "Un Pokémon raro y primitivo.$"
 

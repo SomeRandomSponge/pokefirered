@@ -1,7 +1,7 @@
 PokemonTower_2F_Text_RivalIntro::
     .string "{RIVAL}: ¡Ey, {PLAYER}!\n"
     .string "¿Qué haces por aquí?\l"
-    .string "¿Están tus POKéMON muertos?\p"
+    .string "¿Están tus Pokémon muertos?\p"
     .string "¡Ey! ¡están vivos!\p"
     .string "¡Al menos puedo debilitarlos!\n"
     .string "¡Vamos!$"
@@ -20,7 +20,7 @@ PokemonTower_2F_Text_RivalVictory::
     .string "もっと　ちゃんと　そだてて　やれよ$"
 
 PokemonTower_2F_Text_RivalPostBattle::
-    .string "¿Cómo va tu POKéDEX?\n"
+    .string "¿Cómo va tu Pokédex?\n"
     .string "¡Acabo de atrapar a un CUBONE!\p"
     .string "Aún no encuentro un MAROWAK.\n"
     .string "¿Donde podrían estar?\p"

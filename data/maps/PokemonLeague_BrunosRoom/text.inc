@@ -1,9 +1,9 @@
 PokemonLeague_BrunosRoom_Text_Intro::
-    .string "¡Soy BRUNO, del ALTO MANDO!\p"
+    .string "¡Soy Bruno, del Alto Mando!\p"
     .string "A través de entrenamientos\n"
-    .string "rigurosos, la gente y los POKéMON\l"
+    .string "rigurosos, la gente y los Pokémon\l"
     .string "pueden fortalecerse sin límites.\p"
-    .string "¡Vivo y entreno con mis POKéMON\n"
+    .string "¡Vivo y entreno con mis Pokémon\n"
     .string "de PELEA!\l"
     .string "¡Y eso nunca cambiará!\p"
     .string "¡{PLAYER}!\p"
@@ -12,11 +12,11 @@ PokemonLeague_BrunosRoom_Text_Intro::
     .string "¡Jo jah!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_BrunosRoom_Text_RematchIntro::
-    .string "¡Soy BRUNO, del ALTO MANDO!\p"
+    .string "¡Soy Bruno, del Alto Mando!\p"
     .string "A través de entrenamientos\n"
-    .string "rigurosos, la gente y los POKéMON\l"
+    .string "rigurosos, la gente y los Pokémon\l"
     .string "pueden fortalecerse sin límites.\p"
-    .string "¡Vivo y entreno con mis POKéMON\n"
+    .string "¡Vivo y entreno con mis Pokémon\n"
     .string "de PELEA!\l"
     .string "¡Y eso nunca cambiará!\p"
     .string "¡{PLAYER}!\p"

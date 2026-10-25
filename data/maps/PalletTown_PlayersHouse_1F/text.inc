@@ -1,23 +1,23 @@
 PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
-    .string "MAMÁ: …Claro.\n"
+    .string "Mamá: …Claro.\n"
     .string "Todos los niños se van de casa\l"
     .string "algún día. O eso dice la TV.\p"
-    .string "Ah, nuestro vecino, el PROF. OAK,\n"
+    .string "Ah, nuestro vecino, el PROF. Oak,\n"
     .string "estaba buscándote.$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
-    .string "MAMÁ: …Claro.\n"
+    .string "Mamá: …Claro.\n"
     .string "Todas las niñas sueñan con viajar.\l"
     .string "O eso dice la TV.\p"
-    .string "Ah, nuestro vecino, el PROF. OAK,\n"
+    .string "Ah, nuestro vecino, el PROF. Oak,\n"
     .string "estaba buscándote.$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
-    .string "MAMÁ: ¡{PLAYER}!\n"
+    .string "Mamá: ¡{PLAYER}!\n"
     .string "Deberías tomar un pequeño descanso.$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
-    .string "MAMÁ: ¡Oh, bien! Tú y tus POKéMON\n"
+    .string "Mamá: ¡Oh, bien! Tú y tus Pokémon\n"
     .string "se ven muy bien.\l"
     .string "¡Quídate!$"
 

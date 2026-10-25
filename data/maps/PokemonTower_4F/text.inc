@@ -28,6 +28,6 @@ PokemonTower_4F_Text_JodyDefeat::
     .string "¿Quién? ¿Qué?$"
 
 PokemonTower_4F_Text_JodyPostBattle::
-    .string "Que los POKéMON difuntos descansen\n"
+    .string "Que los Pokémon difuntos descansen\n"
     .string "en paz…$"
 

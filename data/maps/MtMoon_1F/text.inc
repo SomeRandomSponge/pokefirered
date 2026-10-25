@@ -40,10 +40,10 @@ MtMoon_1F_Text_JovanIntro::
     .string "¡No intentes escabullirte!$"
 
 MtMoon_1F_Text_JovanDefeat::
-    .string "¡Mis POKéMON no lo lograron!$"
+    .string "¡Mis Pokémon no lo lograron!$"
 
 MtMoon_1F_Text_JovanPostBattle::
-    .string "Debo encontrar POKéMON\n"
+    .string "Debo encontrar Pokémon\n"
     .string "más fuertes. ¿Dónde estarán?$"
 
 MtMoon_1F_Text_IrisIntro::
@@ -68,11 +68,11 @@ MtMoon_1F_Text_KentDefeat::
 MtMoon_1F_Text_KentPostBattle::
     .string "¡Los ví!\n"
     .string "¡Estoy seguro de que son del\l"
-    .string "EQUIPO ROCKET!$"
+    .string "Equipo Rocket!$"
 
 MtMoon_1F_Text_RobbyIntro::
     .string "Necesitas cruzar esta cueva para\n"
-    .string "llegar a CIUDAD CELESTE.$"
+    .string "llegar a Ciudad Celeste.$"
 
 MtMoon_1F_Text_RobbyDefeat::
     .string "Perdí.$"
@@ -89,5 +89,5 @@ MtMoon_1F_Text_ZubatIsABloodsucker::
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
     .string "Hola, estoy excavando para buscar\n"
     .string "fósiles aquí en el MONTE LUNA.\p"
-    .string "A veces me ayuda BROCK,\n"
-    .string "del GIMNASIO de PLATEADA.$"
+    .string "A veces me ayuda Brock,\n"
+    .string "del Gimnasio de Plateada.$"

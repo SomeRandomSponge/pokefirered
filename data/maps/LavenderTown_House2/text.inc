@@ -2,10 +2,10 @@ LavenderTown_House2_Text_WantMeToRateNicknames::
     .string "¡Hola, hola!\n"
     .string "¡Soy el INSPECTOR DE APODOS!\p"
     .string "¿Quieres que evalue los apodos de\n"
-    .string "tus POKéMON?$"
+    .string "tus Pokémon?$"
 
 LavenderTown_House2_Text_CritiqueWhichMonsNickname::
-    .string "¿Que apodo de POKéMON debería\n"
+    .string "¿Que apodo de Pokémon debería\n"
     .string "evaluar?$"
 
 LavenderTown_House2_Text_GiveItANicerName::
@@ -21,7 +21,7 @@ LavenderTown_House2_Text_WhatShallNewNicknameBe::
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
     .string "¡Hecho! de ahora en adelante, este\n"
-    .string "POKéMON se llamará {STR_VAR_1}!\p"
+    .string "Pokémon se llamará {STR_VAR_1}!\p"
     .string "¡Tiene un mejor nombre que antes!\n"
     .string "¡Sí que tienes suerte!$"
 
@@ -31,7 +31,7 @@ LavenderTown_House2_Text_ISeeComeVisitAgain::
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
     .string "¡Hecho! de ahora en adelante, este\n"
-    .string "POKéMON se llamará {STR_VAR_1}!\p"
+    .string "Pokémon se llamará {STR_VAR_1}!\p"
     .string "Se ve igual que antes, pero\n"
     .string "aún así, ¡es vastamente superior!\p"
     .string "¡Sí que tienes suerte!$"
