@@ -1,26 +1,26 @@
 Route25_SeaCottage_Text_ImBillHelpMeOutPal::
-    .string "¡Hola! soy un POKéMON…\n"
+    .string "¡Hola! soy un Pokémon…\n"
     .string "…¡No, no lo soy!\p"
-    .string "¡Llámame BILL!\n"
+    .string "¡Llámame Bill!\n"
     .string "¡Soy un verdadero POKéMANÍACO!\p"
     .string "¡Ey!\n"
     .string "¿Por qué esa mirada escéptica?\p"
     .string "No te bromeo, amigo.\p"
     .string "¡Arruiné un experimento y terminé\n"
-    .string "combinado con un POKéMON!\p"
+    .string "combinado con un Pokémon!\p"
     .string "Y, ¿que piensas?\n"
     .string "¡Sácame de esta!$"
 
 Route25_SeaCottage_Text_ImBillHelpMeOutLady::
-    .string "¡Hola! soy un POKéMON…\n"
+    .string "¡Hola! soy un Pokémon…\n"
     .string "…¡No, no lo soy!\p"
-    .string "¡Llámame BILL!\n"
+    .string "¡Llámame Bill!\n"
     .string "¡Soy un verdadero POKéMANÍACO!\p"
     .string "¡Ey!\n"
     .string "¿Por qué esa mirada escéptica?\p"
     .string "No te bromeo, señorita.\p"
     .string "¡Arruiné un experimento y terminé\n"
-    .string "combinado con un POKéMON!\p"
+    .string "combinado con un Pokémon!\p"
     .string "Y, ¿que piensas?\n"
     .string "¡Sácame de esta!$"
 
@@ -51,20 +51,20 @@ Route25_SeaCottage_Text_NoPleaseBeautiful::
     .string "¡De acuerdo!$"
 
 Route25_SeaCottage_Text_ThanksBudTakeThis::
-    .string "BILL: ¡Yiijah!\n"
+    .string "Bill: ¡Yiijah!\n"
     .string "¡Gracias, amigo! ¡Te debo una!\p"
     .string "Así que, ¿viniste a ver mi\n"
-    .string "colección de POKéMON?\p"
+    .string "colección de Pokémon?\p"
     .string "¿No lo hiciste?\n"
     .string "Eso es una pena.\p"
     .string "Tengo que agradecerte…\n"
     .string "Oh, aquí, puede que esto sirva.$"
 
 Route25_SeaCottage_Text_ThanksLadyTakeThis::
-    .string "BILL: ¡Yiijah!\n"
+    .string "Bill: ¡Yiijah!\n"
     .string "¡Gracias, señorita! ¡Te debo una!\p"
     .string "Así que, ¿viniste a ver mi\n"
-    .string "colección de POKéMON?\p"
+    .string "colección de Pokémon?\p"
     .string "¿No lo hiciste?\n"
     .string "Eso es una pena.\p"
     .string "Tengo que agradecerte…\n"
@@ -72,24 +72,24 @@ Route25_SeaCottage_Text_ThanksLadyTakeThis::
 
 Route25_SeaCottage_Text_ReceivedSSTicketFromBill::
     .string "{PLAYER} recibió un BOLETO SANTA\n"
-    .string "ANA de BILL.$"
+    .string "ANA de Bill.$"
 
 Route25_SeaCottage_Text_YouveGotTooMuchStuff::
     .string "¡Llevas demasiadas cosas!$"
 
 Route25_SeaCottage_Text_SSAnnePartyYouGoInstead::
     .string "Ese crucero llamado SANTA ANA\n"
-    .string "está en CIUDAD CARMÍN.\p"
+    .string "está en Ciudad Carmín.\p"
     .string "También oí que hay muchos\n"
-    .string "ENTRENADORES a bordo.\p"
+    .string "Entrenadores a bordo.\p"
     .string "Me invitaron a la fiesta, pero no\n"
     .string "soporto los eventos lujosos.\p"
     .string "¿Por qué no vas en mi lugar?\n"
     .string "Ve y ten un buen rato.$"
 
 Route25_SeaCottage_Text_CheckOutRareMonsOnPC::
-    .string "BILL: ¿Quieres ver algunos de mis\n"
-    .string "POKéMON raros en mi PC?\p"
+    .string "Bill: ¿Quieres ver algunos de mis\n"
+    .string "Pokémon raros en mi PC?\p"
     .string "Adelante, revisa mi PC.$"
 
 Route25_SeaCottage_Text_TeleporterIsDisplayed::
@@ -101,9 +101,9 @@ Route25_SeaCottage_Text_InitiatedTeleportersCellSeparator::
     .string "Celular del TELETRANSPORTADOR.$"
 
 Route25_SeaCottage_Text_BillsFavoriteMonList::
-    .string "¡La lista de POKéMON favoritos\n"
-    .string "de BILL!$"
+    .string "¡La lista de Pokémon favoritos\n"
+    .string "de Bill!$"
 
 Route25_SeaCottage_Text_SeeWhichMon::
-    .string "¿A qué POKéMON quieres ver?$"
+    .string "¿A qué Pokémon quieres ver?$"
 

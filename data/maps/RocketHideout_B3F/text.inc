@@ -1,6 +1,6 @@
 RocketHideout_B3F_Text_Grunt1Intro::
     .string "¡Deja de meterte en los asuntos\n"
-    .string "del EQUIPO ROCKET o verás!$"
+    .string "del Equipo Rocket o verás!$"
 
 RocketHideout_B3F_Text_Grunt1Defeat::
     .string "¡Uf!\n"

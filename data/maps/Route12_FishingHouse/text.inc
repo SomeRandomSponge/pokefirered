@@ -34,7 +34,7 @@ Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
     .string "¿Has estado pescando?\p"
     .string "Intenta pescar con la SUPER CAÑA\n"
     .string "en cualquier cuerpo de agua.\p"
-    .string "Encontrarás diferentes POKéMON en\n"
+    .string "Encontrarás diferentes Pokémon en\n"
     .string "diferentes lugares.\p"
     .string "Oh, y no olvides traerme un\n"
     .string "MAGIKARP gigantesco.$"

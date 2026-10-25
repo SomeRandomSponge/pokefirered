@@ -1,25 +1,25 @@
 Route25_Text_JoeyIntro::
-    .string "ENTRENADORES locales vienen aquí\n"
+    .string "Entrenadores locales vienen aquí\n"
     .string "a practicar.$"
 
 Route25_Text_JoeyDefeat::
     .string "Eres decente.$"
 
 Route25_Text_JoeyPostBattle::
-    .string "Cada POKéMON tienen debilidades.\n"
+    .string "Cada Pokémon tienen debilidades.\n"
     .string "Incluso los más fuertes.\p"
     .string "Es por eso que es mejor criar a\n"
-    .string "POKéMON de diferentes tipos.$"
+    .string "Pokémon de diferentes tipos.$"
 
 Route25_Text_DanIntro::
     .string "Papá me llevó a una gran fiesta en\n"
-    .string "el SANTA ANA en CIUDAD CARMÍN.$"
+    .string "el SANTA ANA en Ciudad Carmín.$"
 
 Route25_Text_DanDefeat::
     .string "¡No estoy enojado!$"
 
 Route25_Text_DanPostBattle::
-    .string "En el SANTA ANA, ví ENTRENADORES\n"
+    .string "En el SANTA ANA, ví Entrenadores\n"
     .string "de todas partes del mundo.$"
 
 Route25_Text_FlintIntro::
@@ -52,12 +52,12 @@ Route25_Text_ChadDefeat::
     .string "¡También sabía que perdería!$"
 
 Route25_Text_ChadPostBattle::
-    .string "Si tu POKéMON está confuso en\n"
+    .string "Si tu Pokémon está confuso en\n"
     .string "batalla, usa a otro en su lugar.\p"
     .string "Esa es una buena táctica.$"
 
 Route25_Text_HaleyIntro::
-    .string "Mi amigo tiene muchos POKéMON\n"
+    .string "Mi amigo tiene muchos Pokémon\n"
     .string "lindos. ¡Me da mucha envidia!$"
 
 Route25_Text_HaleyDefeat::
@@ -90,10 +90,10 @@ Route25_Text_NobPostBattle::
     .string "Ese POKéMANÍACO si que le es fiel\n"
     .string "a su nombre.\p"
     .string "Su colección incluye muchas\n"
-    .string "especies raras de POKéMON.$"
+    .string "especies raras de Pokémon.$"
 
 Route25_Text_WayneIntro::
-    .string "¿Vas a ver a BILL?\n"
+    .string "¿Vas a ver a Bill?\n"
     .string "¡Primero, luchemos!$"
 
 Route25_Text_WayneDefeat::
@@ -101,19 +101,19 @@ Route25_Text_WayneDefeat::
 
 Route25_Text_WaynePostBattle::
     .string "La ruta debajo es un atajo a\n"
-    .string "CUIDAD CELESTE.$"
+    .string "Ciudad Celeste.$"
 
 Route25_Text_SeaCottageSign::
     .string "CASA DEL MAR\n"
-    .string "¡BILL vive aquí!$"
+    .string "¡Bill vive aquí!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
     .string "Este cabo es famoso para las citas.\p"
-    .string "MISTY, la LÍDER DE GIMNASIO, tiene\n"
+    .string "Misty, la Líder DE Gimnasio, tiene\n"
     .string "altas esperanzas sobre este lugar.$"
 
 Route25_Text_AreYouHereAlone::
     .string "Hola, ¿estás sol{OA}?\p"
-    .string "Si estás en el CABO CELESTE…\n"
+    .string "Si estás en el Cabo Celeste…\n"
     .string "Bueno, debería ser con una pareja.$"
 

@@ -1,5 +1,5 @@
 Route2_ViridianForest_SouthEntrance_Text_ForestIsMaze::
-    .string "¿Vas a ir al BOSQUE VERDE?\n"
+    .string "¿Vas a ir al Bosque Verde?\n"
     .string "Ese lugar es un laberinto natural.\l"
     .string "Ten cuidado de no perderte.$"
 

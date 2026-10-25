@@ -1,5 +1,5 @@
 Route13_Text_SebastianIntro::
-    .string "¡Mis POKéMON pájaros quieren\n"
+    .string "¡Mis Pokémon pájaros quieren\n"
     .string "luchar contigo!$"
 
 Route13_Text_SebastianDefeat::
@@ -7,7 +7,7 @@ Route13_Text_SebastianDefeat::
     .string "PIDGEOTTO perdió?$"
 
 Route13_Text_SebastianPostBattle::
-    .string "Mis POKéMON se ven felices aunque\n"
+    .string "Mis Pokémon se ven felices aunque\n"
     .string "hayan perdido.$"
 
 Route13_Text_SusieIntro::
@@ -31,10 +31,10 @@ Route13_Text_ValerieDefeat::
 
 Route13_Text_ValeriePostBattle::
     .string "Conseguiste esas MEDALLAS de los\n"
-    .string "LÍDERES de GIMNASIO. ¡Lo sé!$"
+    .string "LÍDERES de Gimnasio. ¡Lo sé!$"
 
 Route13_Text_GwenIntro::
-    .string "Mis lindos POKéMON quieren\n"
+    .string "Mis lindos Pokémon quieren\n"
     .string "conocerte.$"
 
 Route13_Text_GwenDefeat::
@@ -42,7 +42,7 @@ Route13_Text_GwenDefeat::
     .string "¡Fue una victoria total!$"
 
 Route13_Text_GwenPostBattle::
-    .string "Tienes que hacer que tus POKéMON\n"
+    .string "Tienes que hacer que tus Pokémon\n"
     .string "luchen para fortalecerlos.$"
 
 Route13_Text_AlmaIntro::
@@ -54,8 +54,8 @@ Route13_Text_AlmaDefeat::
     .string "¡Lo arruiné!$"
 
 Route13_Text_AlmaPostBattle::
-    .string "CARBURANTE aumentó la VELOCIDAD\n"
-    .string "de mis POKéMON.$"
+    .string "CARBURANTE aumentó la Velocidad\n"
+    .string "de mis Pokémon.$"
 
 Route13_Text_PerryIntro::
     .string "No voy a perder.\n"
@@ -77,17 +77,17 @@ Route13_Text_LolaDefeat::
 
 Route13_Text_LolaPostBattle::
     .string "Me pregunto cuál es más fuerte…\n"
-    .string "¿Un POKéMON macho, o una hembra?$"
+    .string "¿Un Pokémon macho, o una hembra?$"
 
 Route13_Text_SheilaIntro::
-    .string "¿Quieres que luchemos con POKéMON?$"
+    .string "¿Quieres que luchemos con Pokémon?$"
 
 Route13_Text_SheilaDefeat::
     .string "¿Ya se acabó?$"
 
 Route13_Text_SheilaPostBattle::
     .string "En realidad no sé nada sobre\n"
-    .string "POKéMON.\p"
+    .string "Pokémon.\p"
     .string "Los que uso… ¡los escogí por\n"
     .string "su apariencia!$"
 
@@ -102,7 +102,7 @@ Route13_Text_JaredPostBattle::
     .string "¡Piérdete!$"
 
 Route13_Text_RobertIntro::
-    .string "Siempre uso POKéMON pájaros.\n"
+    .string "Siempre uso Pokémon pájaros.\n"
     .string "He dedicado mi vida a ellos.$"
 
 Route13_Text_RobertDefeat::
@@ -113,16 +113,16 @@ Route13_Text_RobertPostBattle::
     .string "y PIDGEOTTO…$"
 
 Route13_Text_LookToLeftOfThatPost::
-    .string "CONSEJOS PARA ENTRENADORES\p"
+    .string "Consejos para Entrenadores\p"
     .string "¡Mira, mira!\n"
     .string "¡Mira a la izquierda de ese poste!$"
 
 Route13_Text_SelectToSwitchItems::
-    .string "CONSEJOS PARA ENTRENADORES\p"
+    .string "Consejos para Entrenadores\p"
     .string "Usa SELECT para cambiar objetos en\n"
     .string "la ventana de OBJETOS.$"
 
 Route13_Text_RouteSign::
-    .string "RUTA 13\n"
+    .string "Ruta 13\n"
     .string "PUENTE SILENCIO, al norte$"
 

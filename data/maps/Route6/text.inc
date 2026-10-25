@@ -30,7 +30,7 @@ Route6_Text_KeigoDefeat::
 
 Route6_Text_KeigoPostBattle::
     .string "Me gustan los insectos, así que\n"
-    .string "voy a volver al BOSQUE VERDE.$"
+    .string "voy a volver al Bosque Verde.$"
 
 Route6_Text_JeffIntro::
     .string "¿Uh?\n"
@@ -41,7 +41,7 @@ Route6_Text_JeffDefeat::
     .string "No pude vencer tu desafío…$"
 
 Route6_Text_JeffPostBattle::
-    .string "Debería traer más POKéMON conmigo.\n"
+    .string "Debería traer más Pokémon conmigo.\n"
     .string "Así me sentiré más seguro.$"
 
 Route6_Text_IsabelleIntro::
@@ -63,11 +63,11 @@ Route6_Text_ElijahDefeat::
     .string "¡Eres demasiado buen{OA}!$"
 
 Route6_Text_ElijahPostBattle::
-    .string "¿Son mis POKéMON débiles?\n"
+    .string "¿Son mis Pokémon débiles?\n"
     .string "O, ¿solo soy malo?\l"
     .string "¿Tú que crees?$"
 
 Route6_Text_UndergroundPathSign::
     .string "VÍA SUBTERRÁNEA\n"
-    .string "CIUDAD CELESTE - CIUDAD CARMÍN$"
+    .string "Ciudad Celeste - Ciudad Carmín$"
 

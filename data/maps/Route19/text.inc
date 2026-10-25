@@ -29,7 +29,7 @@ Route19_Text_MatthewDefeat::
     .string "¡Clavado!$"
 
 Route19_Text_MatthewPostBattle::
-    .string "Puedo ganarle a POKéMON marinos\n"
+    .string "Puedo ganarle a Pokémon marinos\n"
     .string "nadando.$"
 
 Route19_Text_DouglasIntro::
@@ -43,14 +43,14 @@ Route19_Text_DouglasPostBattle::
 
 Route19_Text_DavidIntro::
     .string "Intenté bucear en busca de\n"
-    .string "POKéMON, pero no funciono.$"
+    .string "Pokémon, pero no funciono.$"
 
 Route19_Text_DavidDefeat::
     .string "¡Ayuda!$"
 
 Route19_Text_DavidPostBattle::
     .string "Supongo tienes que pescar a los\n"
-    .string "POKéMON del mar.$"
+    .string "Pokémon del mar.$"
 
 Route19_Text_TonyIntro::
     .string "Miro al mar para olvidar todas las\n"
@@ -65,7 +65,7 @@ Route19_Text_TonyPostBattle::
     .string "mala que pasó!$"
 
 Route19_Text_AnyaIntro::
-    .string "¡Oh, tu POKéMON es genial!\n"
+    .string "¡Oh, tu Pokémon es genial!\n"
     .string "¿Me lo puedo quedar si gano?$"
 
 Route19_Text_AnyaDefeat::
@@ -74,7 +74,7 @@ Route19_Text_AnyaDefeat::
 Route19_Text_AnyaPostBattle::
     .string "Aún queda un largo camino hasta\n"
     .string "las ISLAS ESPUMA…\p"
-    .string "Quiero regresar a FUCSIA…$"
+    .string "Quiero regresar a Fucsia…$"
 
 Route19_Text_AliceIntro::
     .string "¡Nadar es genial!\n"
@@ -107,18 +107,18 @@ Route19_Text_ConnieDefeat::
     .string "Estoy exhausta…$"
 
 Route19_Text_ConniePostBattle::
-    .string "Si tuviera que ir sobre un POKéMON\n"
+    .string "Si tuviera que ir sobre un Pokémon\n"
     .string "en el mar, elegiría a LAPRAS.\p"
     .string "Los LAPRAS son grandes, seguro me\n"
     .string "mantendría seca en el agua.$"
 
 Route19_Text_RouteSign::
-    .string "RUTA MARINA 19\n"
-    .string "CIUDAD FUCSIA - ISLAS ESPUMA$"
+    .string "Ruta MARINA 19\n"
+    .string "Ciudad Fucsia - ISLAS ESPUMA$"
 
 Route19_Text_LiaIntro::
     .string "LIA: Estoy cuidando a mi hermano.\n"
-    .string "Acaba de hacerse ENTRENADOR.$"
+    .string "Acaba de hacerse Entrenador.$"
 
 Route19_Text_LiaDefeat::
     .string "LIA: ¡Ésa no es forma de tratar\n"
@@ -132,11 +132,11 @@ Route19_Text_LiaPostBattle::
 Route19_Text_LiaNotEnoughMons::
     .string "LIA: Quiero luchar junto a mi\n"
     .string "hermanito.\p"
-    .string "¿No tienes dos POKéMON?$"
+    .string "¿No tienes dos Pokémon?$"
 
 Route19_Text_LucIntro::
     .string "LUC: Mi hermana mayor me enseño\n"
-    .string "a nadar y a entrenar POKéMON.$"
+    .string "a nadar y a entrenar Pokémon.$"
 
 Route19_Text_LucDefeat::
     .string "LUC: ¡Oh, guau!\n"
@@ -149,4 +149,4 @@ Route19_Text_LucPostBattle::
 Route19_Text_LucNotEnoughMons::
     .string "LUC: No quiero hacerlo si no puedo\n"
     .string "luchar junto a mi hermana mayor.\p"
-    .string "¿No tienes dos POKéMON?$"
+    .string "¿No tienes dos Pokémon?$"

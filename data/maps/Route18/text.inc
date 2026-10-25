@@ -1,6 +1,6 @@
 Route18_Text_WiltonIntro::
     .string "Siempre reviso áreas con hierba\n"
-    .string "en busca de nuevos POKéMON.$"
+    .string "en busca de nuevos Pokémon.$"
 
 Route18_Text_WiltonDefeat::
     .string "¡Tch!$"
@@ -16,7 +16,7 @@ Route18_Text_RamiroDefeat::
     .string "¡Lo que me pasa por molestarte!$"
 
 Route18_Text_RamiroPostBattle::
-    .string "Recojo POKéMON marinos los fines\n"
+    .string "Recojo Pokémon marinos los fines\n"
     .string "de semana, por la cercanía del mar.$"
 
 Route18_Text_JacobIntro::
@@ -28,11 +28,11 @@ Route18_Text_JacobDefeat::
 
 Route18_Text_JacobPostBattle::
     .string "Esta es mi área favorita para\n"
-    .string "atrapar POKéMON.$"
+    .string "atrapar Pokémon.$"
 
 Route18_Text_RouteSign::
-    .string "RUTA 18\n"
-    .string "CIUDAD PRISMA - CIUDAD FUCSIA$"
+    .string "Ruta 18\n"
+    .string "Ciudad Prisma - Ciudad Fucsia$"
 
 Route18_Text_CyclingRoadSign::
     .string "CICLOVÍA\n"

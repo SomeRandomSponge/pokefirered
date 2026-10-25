@@ -1,13 +1,13 @@
 Route5_PokemonDayCare_Text_WantMeToRaiseMon::
 	.string "Soy el encargado de la GUARDERÍA.\p"
 	.string "¿Te gustaría que cuide a uno\n"
-	.string "de tus POKéMON?$"
+	.string "de tus Pokémon?$"
 
 Route5_PokemonDayCare_Text_ComeAgain::
 	.string "Vuelve pronto.$"
 
 Route5_PokemonDayCare_Text_WhichMonShouldIRaise::
-	.string "¿A qué POKéMON debería cuidar?$"
+	.string "¿A qué Pokémon debería cuidar?$"
 
 Route5_PokemonDayCare_Text_ComeAnytimeYouLike::
 	.string "Bien.\n"
@@ -27,22 +27,22 @@ Route5_PokemonDayCare_Text_MonNeedsToSpendMoreTime::
 
 Route5_PokemonDayCare_Text_OweMeXForMonsReturn::
 	.string "Me debes ¥{STR_VAR_2} por el\n"
-	.string "retorno de este POKéMON.$"
+	.string "retorno de este Pokémon.$"
 
 Route5_PokemonDayCare_Text_ThankYouHeresMon::
 	.string "¡Gracias!\n"
-	.string "Aquí esta tu POKéMON.$"
+	.string "Aquí esta tu Pokémon.$"
 
 Route5_PokemonDayCare_Text_PlayerGotMonBack::
 	.string "{PLAYER} obtuvo a {STR_VAR_1} de\n"
 	.string "vuelta del HOMBRE de la GUARDERÍA.$"
 
 Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYou::
-	.string "¿Oh? Solo tienes un POKéMON\n"
+	.string "¿Oh? Solo tienes un Pokémon\n"
 	.string "contigo.$"
 
 Route5_PokemonDayCare_Text_WhatWillYouBattleWith::
-	.string "Si me dejas a ese POKéMON,\n"
+	.string "Si me dejas a ese Pokémon,\n"
 	.string "¿con qué vas a luchar?$"
 
 Route5_PokemonDayCare_Text_MonHasGrownByXLevels::
@@ -53,7 +53,7 @@ Route5_PokemonDayCare_Text_MonHasGrownByXLevels::
 	.string "¿No soy genial?$"
 
 Route5_PokemonDayCare_Text_YouveGotNoRoomForIt::
-	.string "No puedes llevarte a ese POKéMON\n"
+	.string "No puedes llevarte a ese Pokémon\n"
 	.string "de vuelta si no tienes espacio.$"
 
 Route5_PokemonDayCare_Text_DontHaveEnoughMoney::

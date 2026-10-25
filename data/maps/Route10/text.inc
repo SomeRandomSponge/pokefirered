@@ -8,7 +8,7 @@ Route10_Text_MarkDefeat::
     .string "¡No estoy molesto!$"                     /* (E) "I'm not angry!$" */
 
 Route10_Text_MarkPostBattle::
-    .string "¡Tengo más POKéMON raros en casa!$"      /* (E) "I have more rare POKéMON at home!$" */
+    .string "¡Tengo más Pokémon raros en casa!$"      /* (E) "I have more rare Pokémon at home!$" */
 
 Route10_Text_ClarkIntro::
     .string "¡Ja-jaja-ja-ja!$"                        /* (E) "Ha-hahah-ah-ha!$" */
@@ -25,18 +25,18 @@ Route10_Text_ClarkPostBattle::
 
 Route10_Text_HermanIntro::
     .string "¡Hola, niñ{OA}!\n"                       /* (E) "Hi, kid!\n" */
-    .string "¿Quieres ver mis POKéMON?$"              /* (E) "Want to see my POKéMON?$" */
+    .string "¿Quieres ver mis Pokémon?$"              /* (E) "Want to see my Pokémon?$" */
 
 Route10_Text_HermanDefeat::
     .string "¡Oh, no!\n"                              /* (E) "Oh, no!\n" */
-    .string "¡Mis POKéMON!$"                          /* (E) "My POKéMON!$" */
+    .string "¡Mis Pokémon!$"                          /* (E) "My Pokémon!$" */
 
 Route10_Text_HermanPostBattle::
     .string "No me agradas.\n"                        /* (E) "I don't like you.\n" */
     .string "¡No me agrada nadie mejor que yo!$"      /* (E) "I don't like anyone better than me!$" */
 
 Route10_Text_HeidiIntro::
-    .string "He estado en un GIMNASIO POKéMON\n"      /* (E) "I've been out at a POKéMON GYM\n" */
+    .string "He estado en un Gimnasio Pokémon\n"      /* (E) "I've been out at a Pokémon GYM\n" */
     .string "varias veces.\p"                         /* (E) "a few times.\p" */
     .string "…Pero siempre pierdo.$"                  /* (E) "…But I always lose.$" */
 
@@ -69,14 +69,14 @@ Route10_Text_CarolDefeat::
     .string "No estaba lista para esto.$"             /* (E) "I wasn't up for it.$" */
 
 Route10_Text_CarolPostBattle::
-    .string "Los POKéMON aquí en las montañas\n"      /* (E) "The POKéMON here in the mountains\n" */
+    .string "Los Pokémon aquí en las montañas\n"      /* (E) "The Pokémon here in the mountains\n" */
     .string "son tan toscos…\p"                       /* (E) "are so chunky…\p" */
-    .string "¡Ojalá existiera un POKéMON\n"           /* (E) "I wish there were pink POKéMON\n" */
+    .string "¡Ojalá existiera un Pokémon\n"           /* (E) "I wish there were pink Pokémon\n" */
     .string "rosado con flores!$"                     /* (E) "with a floral pattern!$" */
 
 Route10_Text_RockTunnelDetourToLavender::
     .string "TÚNEL ROCA\n"                            /* (E) "ROCK TUNNEL\n" */
-    .string "Desvío a PUEBLO LAVANDA$"                /* (E) "Detour to LAVENDER TOWN$" */
+    .string "Desvío a Pueblo Lavanda$"                /* (E) "Detour to LAVENDER TOWN$" */
 
 Route10_Text_RockTunnel::
     .string "TÚNEL ROCA$"                             /* (E) "ROCK TUNNEL$" */

@@ -1,5 +1,5 @@
 Route12_Text_MonSprawledOutInSlumber::
-    .string "Un POKéMON está tumbado en un\n"
+    .string "Un Pokémon está tumbado en un\n"
     .string "cómodo y profundo sueño.$"
 
 Text_SnorlaxWokeUp::
@@ -38,7 +38,7 @@ Route12_Text_ChipDefeat::
 
 Route12_Text_ChipPostBattle::
     .string "Con una mejor CAÑA, podría atrapar\n"
-    .string "mejores POKéMON…$"
+    .string "mejores Pokémon…$"
 
 Route12_Text_JustinIntro::
     .string "Estoy buscando una PIEDRA LUNAR.\n"
@@ -49,25 +49,25 @@ Route12_Text_JustinDefeat::
 
 Route12_Text_JustinPostBattle::
     .string "Con una PIEDRA LUNAR, podría hacer\n"
-    .string "que mis POKéMON evolucionaran.\p"
+    .string "que mis Pokémon evolucionaran.\p"
     .string "Apuesto que entonces ganaría.$"
 
 Route12_Text_LucaIntro::
     .string "La electricidad es mi especialidad.\p"
     .string "Aunque no sé nada sobre los\n"
-    .string "POKéMON del mar.$"
+    .string "Pokémon del mar.$"
 
 Route12_Text_LucaDefeat::
     .string "¡Desconectado!$"
 
 Route12_Text_LucaPostBattle::
     .string "El agua conduce electricidad, así\n"
-    .string "que podrías electrocutar POKéMON\l"
+    .string "que podrías electrocutar Pokémon\l"
     .string "marinos.$"
 
 Route12_Text_HankIntro::
     .string "¡El PESCADOR TONTO contra {ELLA} NIÑ{OAM}\n"
-    .string "POKéMON!$"
+    .string "Pokémon!$"
 
 Route12_Text_HankDefeat::
     .string "¡Eso fue demasiado!$"
@@ -75,7 +75,7 @@ Route12_Text_HankDefeat::
 Route12_Text_HankPostBattle::
     .string "Supongo que tu logras ser buen{OA}\n"
     .string "en lo que te gusta.\p"
-    .string "Bueno, me vences con los POKéMON,\n"
+    .string "Bueno, me vences con los Pokémon,\n"
     .string "pero no me puedes ganar en\l"
     .string "la pesca.$"
 
@@ -104,8 +104,8 @@ Route12_Text_AndrewPostBattle::
     .string "Pero, si que son debiluchos.$"
 
 Route12_Text_RouteSign::
-    .string "RUTA 12\n"
-    .string "LAVANDA, al norte$"
+    .string "Ruta 12\n"
+    .string "Lavanda, al norte$"
 
 Route12_Text_SportfishingArea::
     .string "ZONA DE PESCA DEPORTIVA$"
@@ -125,7 +125,7 @@ Route12_Text_JesNotEnoughMons::
     .string "JES: GIA y yo, estaremos juntos\n"
     .string "para siempre.\p"
     .string "No lucharemos, a menos que tengas\n"
-    .string "dos POKéMON.$"
+    .string "dos Pokémon.$"
 
 Route12_Text_GiaIntro::
     .string "GIA: Ey, JES…\p"
@@ -141,4 +141,4 @@ Route12_Text_GiaPostBattle::
 Route12_Text_GiaNotEnoughMons::
     .string "GIA: ¡No soportaría luchar sin mi\n"
     .string "JES!\p"
-    .string "¿No tienes un POKéMON más?$"
+    .string "¿No tienes un Pokémon más?$"

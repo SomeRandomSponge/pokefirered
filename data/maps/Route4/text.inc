@@ -1,10 +1,10 @@
 Route4_Text_TrippedOverGeodude::
-    .string "¡Ouch! ¡Tropecé con un POKéMON\n"
+    .string "¡Ouch! ¡Tropecé con un Pokémon\n"
     .string "rocoso, GEODUDE!$"
 
 Route4_Text_CrissyIntro::
     .string "I came to MT. MOON in search of\n"
-    .string "mushroom POKéMON.$"
+    .string "mushroom Pokémon.$"
 
 Route4_Text_CrissyDefeat::
     .string "After all I did to catch them!$"
@@ -19,8 +19,8 @@ Route4_Text_MtMoonEntrance::
     .string "Entrada al túnel$"
 
 Route4_Text_RouteSign::
-    .string "RUTA 4\n"
-    .string "MONTE LUNA - CIUDAD CELESTE$"
+    .string "Ruta 4\n"
+    .string "MONTE LUNA - Ciudad Celeste$"
 
 Text_MegaPunchTeach::
     .string "¡Un puño de ferocidad rugiente!\p"
@@ -29,7 +29,7 @@ Text_MegaPunchTeach::
     .string "MEGA PUÑO es el ataque definitivo!\l"
     .string "¿Estás de acuerdo?\p"
     .string "¡Ahora!\n" 
-    .string "¡Déjame enseñarselo a un POKéMON!$"
+    .string "¡Déjame enseñarselo a un Pokémon!$"
 
 Text_MegaPunchDeclined::
     .string "Regresarás cuando entiendas el\n"
@@ -37,7 +37,7 @@ Text_MegaPunchDeclined::
 
 Text_MegaPunchWhichMon::
     .string "¡Bien!\n"
-    .string "¿Qué POKéMON quiere aprenderlo?$"
+    .string "¿Qué Pokémon quiere aprenderlo?$"
 
 Text_MegaPunchTaught::
     .string "¡Ahora somos camaradas en el\n"
@@ -53,7 +53,7 @@ Text_MegaKickTeach::
     .string "MEGA PATADA es el ataque definitivo!\l"
     .string "¿No estás de acuerdo?\p"
     .string "¡Bien!\n"
-    .string "¡Déjame enseñarselo a un POKéMON!$"
+    .string "¡Déjame enseñarselo a un Pokémon!$"
 
 Text_MegaKickDeclined::
     .string "Vendrás arrastrandote cuando\n"
@@ -61,7 +61,7 @@ Text_MegaKickDeclined::
 
 Text_MegaKickWhichMon::
     .string "¡De acuerdo!\n"
-    .string "¿Qué POKéMON quiere aprenderla?$"
+    .string "¿Qué Pokémon quiere aprenderla?$"
 
 Text_MegaKickTaught::
     .string "¡Ahora somos almas gemelas en el\n"
@@ -72,8 +72,8 @@ Text_MegaKickTaught::
 
 Route4_Text_PeopleLikeAndRespectBrock::
     .string "¡Vaya, esa es la MEDALLA ROCA!\n"
-    .string "Te la dio BROCK, ¿cierto?\p"
+    .string "Te la dio Brock, ¿cierto?\p"
     .string "Brock es además de fuerte, genial.\n"
     .string "Todos lo respetan y admiran.\p"
     .string "Quiero convertirme en\n"
-    .string "LÍDER de GIMNASIO como él.$"
+    .string "Líder de Gimnasio como él.$"

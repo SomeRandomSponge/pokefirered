@@ -22,7 +22,7 @@ RockTunnel_1F_Text_OliverDefeat::
     .string "¿Dónde está la salida?$"                 /* (E) "Which way is out?$" */
 
 RockTunnel_1F_Text_OliverPostBattle::
-    .string "Ese POKéMON dormido en la RUTA 12\n"     /* (E) "That sleeping POKéMON on ROUTE 12\n" */
+    .string "Ese Pokémon dormido en la Ruta 12\n"     /* (E) "That sleeping Pokémon on ROUTE 12\n" */
     .string "me obligó a tomar este desvío.$"         /* (E) "forced me to take this detour.$" */
 
 RockTunnel_1F_Text_LucasIntro::
@@ -36,7 +36,7 @@ RockTunnel_1F_Text_LucasPostBattle::
     .string "¡Tienes talento para escalar!$"          /* (E) "You're talented enough to hike!$" */
 
 RockTunnel_1F_Text_AshtonIntro::
-    .string "¡Batalla POKéMON!\n"                     /* (E) "POKéMON fight!\n" */
+    .string "¡Batalla Pokémon!\n"                     /* (E) "Pokémon fight!\n" */
     .string "¡List{OA}, vamos!$"                      /* (E) "Ready, go!$" */
 
 RockTunnel_1F_Text_AshtonDefeat::
@@ -57,18 +57,18 @@ RockTunnel_1F_Text_LeahPostBattle::
     .string "Vi a un MACHOP en este túnel.$"          /* (E) "I saw a MACHOP in this tunnel.$" */
 
 RockTunnel_1F_Text_DanaIntro::
-    .string "Vine hasta aquí buscando POKéMON\n"      /* (E) "I came this far looking for wild\n" */
-    .string "salvajes.$"                              /* (E) "POKéMON.$" */
+    .string "Vine hasta aquí buscando Pokémon\n"      /* (E) "I came this far looking for wild\n" */
+    .string "salvajes.$"                              /* (E) "Pokémon.$" */
 
 RockTunnel_1F_Text_DanaDefeat::
-    .string "¡Me quedé sin POKéMON!$"                 /* (E) "I'm out of POKéMON!$" */
+    .string "¡Me quedé sin Pokémon!$"                 /* (E) "I'm out of Pokémon!$" */
 
 RockTunnel_1F_Text_DanaPostBattle::
     .string "Parecías lind{OA} e inofensiv{OA}.\n"    /* (E) "You looked cute and harmless.\n" */
     .string "¡Sí que me equivoqué!$"                  /* (E) "Was I ever wrong!$" */
 
 RockTunnel_1F_Text_ArianaIntro::
-    .string "¡Tienes POKéMON!\n"                      /* (E) "You have POKéMON!\n" */
+    .string "¡Tienes Pokémon!\n"                      /* (E) "You have Pokémon!\n" */
     .string "¡Empecemos!$"                            /* (E) "Let's start!$" */
 
 RockTunnel_1F_Text_ArianaDefeat::
@@ -80,5 +80,5 @@ RockTunnel_1F_Text_ArianaPostBattle::
 
 RockTunnel_1F_Text_RouteSign::
     .string "TÚNEL ROCA\n"                            /* (E) "ROCK TUNNEL\n" */
-    .string "CIUDAD CELESTE - PUEBLO LAVANDA$"        /* (E) "CERULEAN CITY - LAVENDER TOWN$" */
+    .string "Ciudad Celeste - Pueblo Lavanda$"        /* (E) "CERULEAN CITY - LAVENDER TOWN$" */
 

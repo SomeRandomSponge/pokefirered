@@ -6,7 +6,7 @@ Route11_Text_HugoDefeat::
     .string "¡No terminó a mi favor!$"
 
 Route11_Text_HugoPostBattle::
-    .string "¡Los POKéMON son vida!\n"
+    .string "¡Los Pokémon son vida!\n"
     .string "¡Y vivir es jugar!$"
 
 Route11_Text_JasperIntro::
@@ -18,7 +18,7 @@ Route11_Text_JasperDefeat::
 
 Route11_Text_JasperPostBattle::
     .string "¡No puedes ser un cobarde en el\n"
-    .string "mundo de los POKéMON!$"
+    .string "mundo de los Pokémon!$"
 
 Route11_Text_EddieIntro::
     .string "¡Vamos allá, pero no hagas trampa!$"
@@ -43,11 +43,11 @@ Route11_Text_BraxtonPostBattle::
     .string "energía!$"
 
 Route11_Text_DillonIntro::
-    .string "Me acabo de volver ENTRENADOR.\n"
+    .string "Me acabo de volver Entrenador.\n"
     .string "Pero, creo que puedo ganar.$"
 
 Route11_Text_DillonDefeat::
-    .string "Mis POKéMON no pudieron ganar…\n"
+    .string "Mis Pokémon no pudieron ganar…\n"
     .string "¿No han crecido lo suficiente?$"
 
 Route11_Text_DillonPostBattle::
@@ -79,7 +79,7 @@ Route11_Text_YasuIntro::
 
 Route11_Text_YasuDefeat::
     .string "¡Rayos!\n"
-    .string "¡Mis POKéMON necesitan ser más\n"
+    .string "¡Mis Pokémon necesitan ser más\n"
     .string "fuertes!$"
 
 Route11_Text_YasuPostBattle::

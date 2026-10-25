@@ -8,11 +8,11 @@ RocketHideout_B1F_Text_Grunt1Defeat::
 
 RocketHideout_B1F_Text_Grunt1PostBattle::
     .string "Rayos… ¿le faltas el respeto al\n"
-    .string "EQUIPO ROCKET, eh?$"
+    .string "Equipo Rocket, eh?$"
 
 RocketHideout_B1F_Text_Grunt2Intro::
     .string "¿Irrumpiste en la operación del\n"
-    .string "EQUIPO ROCKET? ¡que atrevid{OA}!$"
+    .string "Equipo Rocket? ¡que atrevid{OA}!$"
 
 RocketHideout_B1F_Text_Grunt2Defeat::
     .string "¡Bum!$"

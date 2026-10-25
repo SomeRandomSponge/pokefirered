@@ -1,29 +1,29 @@
 Route14_Text_CarterIntro::
     .string "Necesitas usar MTs para enseñar\n"
-    .string "buenos movimientos a tus POKéMON.$"
+    .string "buenos movimientos a tus Pokémon.$"
 
 Route14_Text_CarterDefeat::
     .string "No soy tan bueno aún.$"
 
 Route14_Text_CarterPostBattle::
     .string "¿Tienes algunas MOs, cierto?\p"
-    .string "Los POKéMON no pueden olvidar esos\n"
+    .string "Los Pokémon no pueden olvidar esos\n"
     .string "movimientos fácilmente.$"
 
 Route14_Text_MitchIntro::
-    .string "Mis POKéMON pájaros deberían estar\n"
+    .string "Mis Pokémon pájaros deberían estar\n"
     .string "listos para la batalla.$"
 
 Route14_Text_MitchDefeat::
     .string "¡Aún no están listos!$"
 
 Route14_Text_MitchPostBattle::
-    .string "Mis POKéMON pájaros necesitan\n"
+    .string "Mis Pokémon pájaros necesitan\n"
     .string "aprender mejores movimientos.$"
 
 Route14_Text_BeckIntro::
     .string "Tienen MTs a la venta en la TIENDA\n"
-    .string "DEPARTAMENTAL PRISMA.\p"
+    .string "DEPARTAMENTAL Prisma.\p"
     .string "Las MTs no son muy raras, pero\n"
     .string "poca gente tiene MOs.$"
 
@@ -31,14 +31,14 @@ Route14_Text_BeckDefeat::
     .string "¡Aww, que mal!$"
 
 Route14_Text_BeckPostBattle::
-    .string "Intenta enseñar a tus POKéMON\n"
+    .string "Intenta enseñar a tus Pokémon\n"
     .string "ataques de sus mismos tipos.\p"
     .string "Eso aparentemente potencia el\n"
     .string "poder de ese ataque.$"
 
 Route14_Text_MarlonIntro::
     .string "¿Les enseñaste a VOLAR a tus\n"
-    .string "POKéMON pájaros?\p"
+    .string "Pokémon pájaros?\p"
     .string "¡Serás capaz de elevarte al cielo\n"
     .string "con ellos!$"
 
@@ -46,7 +46,7 @@ Route14_Text_MarlonDefeat::
     .string "¡Caí en llamas!$"
 
 Route14_Text_MarlonPostBattle::
-    .string "Los POKéMON pájaros son mi\n"
+    .string "Los Pokémon pájaros son mi\n"
     .string "única y verdadera pasión.\p"
     .string "No quiero criar otra cosa.$"
 
@@ -60,7 +60,7 @@ Route14_Text_DonaldDefeat::
 
 Route14_Text_DonaldPostBattle::
     .string "Bueno, los espejismos alados son\n"
-    .string "legendarias aves POKéMON.\p"
+    .string "legendarias aves Pokémon.\p"
     .string "Existen tres: ARTICUNO, ZAPDOS,\n"
     .string "y MOLTRES.$"
 
@@ -96,7 +96,7 @@ Route14_Text_IsaacDefeat::
     .string "¿¡Tú!?$"
 
 Route14_Text_IsaacPostBattle::
-    .string "Criar POKéMON es muy pesado.$"
+    .string "Criar Pokémon es muy pesado.$"
 
 Route14_Text_GeraldIntro::
     .string "Manejamos por aquí por el espacio\n"
@@ -107,12 +107,12 @@ Route14_Text_GeraldDefeat::
 
 Route14_Text_GeraldPostBattle::
     .string "Es genial que hicieras a tus\n"
-    .string "POKéMON tan fuertes.\p"
+    .string "Pokémon tan fuertes.\p"
     .string "¡El poder lo es todo!\n"
     .string "¡Y lo sabes!$"
 
 Route14_Text_MalikIntro::
-    .string "¿Batalla POKéMON?\n"
+    .string "¿Batalla Pokémon?\n"
     .string "¡Genial! ¡vamos!$"
 
 Route14_Text_MalikDefeat::
@@ -123,8 +123,8 @@ Route14_Text_MalikPostBattle::
     .string "uno-a-uno entre tú y yo!$"
 
 Route14_Text_RouteSign::
-    .string "RUTA 14\n"
-    .string "Al oeste de CIUDAD FUCSIA$"
+    .string "Ruta 14\n"
+    .string "Al oeste de Ciudad Fucsia$"
 
 Route14_Text_KiriIntro::
     .string "KIRI: JAN, esforcémonos mucho,\n"
@@ -139,7 +139,7 @@ Route14_Text_KiriPostBattle::
 
 Route14_Text_KiriNotEnoughMons::
     .string "KIRI: Podemos luchar si tienes dos\n"
-    .string "POKéMON.$"
+    .string "Pokémon.$"
 
 Route14_Text_JanIntro::
     .string "JAN: ¡KIRI, allá vamos!\n"
@@ -156,4 +156,4 @@ Route14_Text_JanPostBattle::
 
 Route14_Text_JanNotEnoughMons::
     .string "JAN: ¿Quieres luchar?\n"
-    .string "No tienes POKéMON suficientes.$"
+    .string "No tienes Pokémon suficientes.$"

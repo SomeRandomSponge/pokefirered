@@ -7,6 +7,6 @@ RocketHideout_B2F_Text_GruntDefeat::
 
 RocketHideout_B2F_Text_GruntPostBattle::
     .string "El CUARTEL GENERAL del EQUIPO \n"
-    .string "ROCKET tiene 4 pisos subterráneos.\p"
+    .string "Rocket tiene 4 pisos subterráneos.\p"
     .string "¿Crees poder alcanzar al JEFE?$"
 

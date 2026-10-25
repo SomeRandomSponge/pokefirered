@@ -1,12 +1,12 @@
 Route22_Text_EarlyRivalIntro::
 	.string "{RIVAL}: ¡Hey! ¡{PLAYER}!\p"
-	.string "¿Piensas ir a la LIGA POKéMON?\n"
+	.string "¿Piensas ir a la Liga Pokémon?\n"
 	.string "¡Olvídalo!\p"
 	.string "Problemente no tienes ninguna\n"
 	.string "MEDALLA, ¿verdad?\p"
 	.string "El guardia no te dejará pasar\n"
 	.string "sin ellas.\p"
-	.string "Por cierto, ¿tus POKéMON se han\n"
+	.string "Por cierto, ¿tus Pokémon se han\n"
 	.string "vuelto más fuertes?$"
 
 Route22_Text_EarlyRivalDefeat::
@@ -14,14 +14,14 @@ Route22_Text_EarlyRivalDefeat::
 	.string "¡Sólo tuviste suerte!$"
 
 Route22_Text_EarlyRivalPostBattle::
-	.string "Escuché que la LIGA POKéMON está\n"
-	.string "llena de ENTRENADORES fuertes.\p"
+	.string "Escuché que la Liga Pokémon está\n"
+	.string "llena de Entrenadores fuertes.\p"
 	.string "Tengo que buscar una forma\n"
 	.string "de superarlos.\p"
 	.string "¡Deberías dejar de perder\n"
 	.string "el tiempo y empezar a moverte!$"
 
-@ Translated in RB as "{RIVAL}: What? Why do I have 2 POKéMON? You should catch some more too!"
+@ Translated in RB as "{RIVAL}: What? Why do I have 2 Pokémon? You should catch some more too!"
 Route22_Text_RivalShouldCatchSomeMons::
 	.string "{RIVAL}“なんだ？\n"
 	.string "ポケモン　2ひきも\l"
@@ -32,12 +32,12 @@ Route22_Text_RivalShouldCatchSomeMons::
 Route22_Text_LateRivalIntro::
 	.string "{RIVAL}: ¿Qué? ¿{PLAYER}!\n"
 	.string "¡Qué sorpresa verte aquí!\p"
-	.string "¿Así que vas a la LIGA POKéMON?\p"
+	.string "¿Así que vas a la Liga Pokémon?\p"
 	.string "¿Y obtuviste todas las MEDALLAS?\n"
 	.string "¡Genial!\p"
 	.string "¡Entonces te venceré, {PLAYER},\n"
 	.string "como calentamiento para la\l"
-	.string "LIGA POKéMON!\p"
+	.string "Liga Pokémon!\p"
 	.string "¡Vamos!$"
 
 Route22_Text_LateRivalDefeat::
@@ -46,7 +46,7 @@ Route22_Text_LateRivalDefeat::
 
 Route22_Text_LateRivalPostBattle::
 	.string "Eso me sirvió para calentar.\n"
-	.string "¡Estoy listo para la LIGA POKéMON!\p"
+	.string "¡Estoy listo para la Liga Pokémon!\p"
 	.string "{PLAYER}, necesitas más práctica.\p"
 	.string "¡Aunque ya lo sabías!\n"
 	.string "Me voy. ¡Hasta nunca!$"
@@ -61,6 +61,6 @@ Route22_Text_LateRivalVictory::
 	.string "あははーッ！$"
 
 Route22_Text_LeagueGateSign::
-	.string "LIGA POKéMON\n"
+	.string "Liga Pokémon\n"
 	.string "Entrada Frontal$"
 

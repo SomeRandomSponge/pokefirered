@@ -1,5 +1,5 @@
 Route15_Text_KindraIntro::
-    .string "Acabo de obtener algunos POKéMON\n"
+    .string "Acabo de obtener algunos Pokémon\n"
     .string "en intercambios.\p"
     .string "¿Puedo probarlos contigo?$"
 
@@ -8,8 +8,8 @@ Route15_Text_KindraDefeat::
 
 Route15_Text_KindraPostBattle::
     .string "No puedes cambiar los apodos de\n"
-    .string "POKéMON obtenidos en intercambios.\p"
-    .string "Solo su ENTRENADOR ORIGINAL puede\n"
+    .string "Pokémon obtenidos en intercambios.\p"
+    .string "Solo su Entrenador ORIGINAL puede\n"
     .string "cambiarle el apodo.$"
 
 Route15_Text_BeckyIntro::
@@ -25,7 +25,7 @@ Route15_Text_BeckyPostBattle::
     .string "tan feos y crueles!$"
 
 Route15_Text_EdwinIntro::
-    .string "Puedo llamar a POKéMON pájaros\n"
+    .string "Puedo llamar a Pokémon pájaros\n"
     .string "silbando.$"
 
 Route15_Text_EdwinDefeat::
@@ -48,11 +48,11 @@ Route15_Text_ChesterPostBattle::
     .string "Esto es tan obvio, debes de\n"
     .string "saberlo, pero…\p"
     .string "Ataques como TERREMOTO y FISURA no\n"
-    .string "tienen efecto en POKéMON pájaros.$"
+    .string "tienen efecto en Pokémon pájaros.$"
 
 Route15_Text_GraceIntro::
     .string "¡Oh, eres tan tierno!\n"
-    .string "¡Que POKéMON tan encantador!$"
+    .string "¡Que Pokémon tan encantador!$"
 
 Route15_Text_GraceDefeat::
     .string "¡Tú también eres lind{OA}!$"
@@ -63,15 +63,15 @@ Route15_Text_GracePostBattle::
     .string "Soy una chica grande.$"
 
 Route15_Text_OliviaIntro::
-    .string "Crío POKéMON por protección,\n"
+    .string "Crío Pokémon por protección,\n"
     .string "porque vivo sola.$"
 
 Route15_Text_OliviaDefeat::
-    .string "Los POKéMON no tratan de ganar o\n"
+    .string "Los Pokémon no tratan de ganar o\n"
     .string "perder para mí.$"
 
 Route15_Text_OliviaPostBattle::
-    .string "Amo que mis POKéMON me den la\n"
+    .string "Amo que mis Pokémon me den la\n"
     .string "bienvenida cuando regreso a casa.\p"
     .string "Es muy reconfortante.$"
 
@@ -86,7 +86,7 @@ Route15_Text_ErnestDefeat::
 Route15_Text_ErnestPostBattle::
     .string "La vida es muy corta.\n"
     .string "Vivir como un forajido es genial.\l"
-    .string "¡EL EQUIPO ROCKET MANDA!$"
+    .string "¡EL Equipo Rocket MANDA!$"
 
 Route15_Text_AlexIntro::
     .string "¡Entrega todo tu dinero cuando\n"
@@ -101,17 +101,17 @@ Route15_Text_AlexPostBattle::
 
 Route15_Text_CeliaIntro::
     .string "¿Qué es algo genial y de moda?\n"
-    .string "¡Intercambiar POKéMON!$"
+    .string "¡Intercambiar Pokémon!$"
 
 Route15_Text_CeliaDefeat::
     .string "¡Dije intercambiar!$"
 
 Route15_Text_CeliaPostBattle::
-    .string "Intercambio POKéMON con mis amigos\n"
+    .string "Intercambio Pokémon con mis amigos\n"
     .string "todo el tiempo.$"
 
 Route15_Text_YazminIntro::
-    .string "¿Quieres jugar con mis POKéMON?$"
+    .string "¿Quieres jugar con mis Pokémon?$"
 
 Route15_Text_YazminDefeat::
     .string "¡Fui demasiado impaciente!$"
@@ -120,8 +120,8 @@ Route15_Text_YazminPostBattle::
     .string "Iré a entrenar con gente más débil.$"
 
 Route15_Text_RouteSign::
-    .string "RUTA 15\n"
-    .string "Al oeste de CIUDAD FUCSIA$"
+    .string "Ruta 15\n"
+    .string "Al oeste de Ciudad Fucsia$"
 
 Route15_Text_MyaIntro::
     .string "MYA: Eres {ELLA} indicad{OA}.\p"
@@ -139,7 +139,7 @@ Route15_Text_MyaPostBattle::
 
 Route15_Text_MyaNotEnoughMons::
     .string "MYA: ¿Quieres desafiarnos?\n"
-    .string "Necesitas dos POKéMON.$"
+    .string "Necesitas dos Pokémon.$"
 
 Route15_Text_RonIntro::
     .string "RON: Mi hermana se asusta cuando\n"
@@ -156,4 +156,4 @@ Route15_Text_RonPostBattle::
 Route15_Text_RonNotEnoughMons::
     .string "RON: ¿Quieres luchar con mi\n"
     .string "hermana y conmigo?\p"
-    .string "Entonces necesitas dos POKéMON.$"
+    .string "Entonces necesitas dos Pokémon.$"

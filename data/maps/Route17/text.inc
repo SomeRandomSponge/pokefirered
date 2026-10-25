@@ -24,7 +24,7 @@ Route17_Text_IsaiahPostBattle::
     .string "panza!$"
 
 Route17_Text_VirgilIntro::
-    .string "¿Te diriges a FUCSIA?$"
+    .string "¿Te diriges a Fucsia?$"
 
 Route17_Text_VirgilDefeat::
     .string "¡Destrozado y quemado!$"
@@ -53,14 +53,14 @@ Route17_Text_NikolasPostBattle::
     .string "CENTRAL DE ENERGÍA abandonada.$"
 
 Route17_Text_ZeekIntro::
-    .string "Subí de nivel a mi POKéMON, pero\n"
+    .string "Subí de nivel a mi Pokémon, pero\n"
     .string "no evoluciona. ¿Por qué?$"
 
 Route17_Text_ZeekDefeat::
     .string "¡Ah, tú!$"
 
 Route17_Text_ZeekPostBattle::
-    .string "Tal vez algunos POKéMON necesitan\n"
+    .string "Tal vez algunos Pokémon necesitan\n"
     .string "PIEDRAS elementales para\l"
     .string "evolucionar.$"
 
@@ -110,24 +110,24 @@ Route17_Text_WatchOutForDiscardedItems::
     .string "desechados.$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
-    .string "CONSEJOS PARA ENTRENADORES\p"
-    .string "Todos los POKéMON son únicos.\p"
-    .string "Incluso POKéMON del mismo tipo y\n"
+    .string "Consejos para Entrenadores\p"
+    .string "Todos los Pokémon son únicos.\p"
+    .string "Incluso Pokémon del mismo tipo y\n"
     .string "nivel crecen a ritmos diferentes.$"
 
 Route17_Text_PressBToStayInPlace::
-    .string "CONSEJOS PARA ENTRENADORES\p"
+    .string "Consejos para Entrenadores\p"
     .string "Presiona el Botón B para quedarte\n"
     .string "quieto en una pendiente.$"
 
 Route17_Text_RouteSign::
-    .string "RUTA 17\n"
-    .string "CIUDAD PRISMA - CIUDAD FUCSIA$"
+    .string "Ruta 17\n"
+    .string "Ciudad Prisma - Ciudad Fucsia$"
 
 Route17_Text_DontThrowGameThrowBalls::
     .string "Es un aviso.\p"
     .string "¡No lanzes tu juego, mejor lanza\n"
-    .string "POKéBOLAS!$"
+    .string "Pokébolas!$"
 
 Route17_Text_CyclingRoadSign::
     .string "CICLOVÍA\n"

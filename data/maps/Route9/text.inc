@@ -1,5 +1,5 @@
 Route9_Text_AliciaIntro::
-    .string "¡Tienes POKéMON contigo!\n"            /* (E) "You have POKéMON with you!\n" */
+    .string "¡Tienes Pokémon contigo!\n"            /* (E) "You have Pokémon with you!\n" */
     .string "¡Eres mí{OA}!$"                        /* (E) "You're mine!$" */
 
 Route9_Text_AliciaDefeat::
@@ -12,8 +12,8 @@ Route9_Text_AliciaPostBattle::
     .string "cruzarlo.$"                            /* (E) "there.$" */
 
 Route9_Text_ChrisIntro::
-    .string "¿Quién anda ahí con esos POKéMON\n"    /* (E) "Who's that walking there with those\n" */
-    .string "de tan buen aspecto?$"                 /* (E) "good-looking POKéMON?$" */
+    .string "¿Quién anda ahí con esos Pokémon\n"    /* (E) "Who's that walking there with those\n" */
+    .string "de tan buen aspecto?$"                 /* (E) "good-looking Pokémon?$" */
 
 Route9_Text_ChrisDefeat::
     .string "¡Apagado como una luz!$"               /* (E) "Out like a light!$" */
@@ -23,7 +23,7 @@ Route9_Text_ChrisPostBattle::
 
 Route9_Text_DrewIntro::
     .string "Tomaré el TÚNEL ROCA para ir a\n"      /* (E) "I'm taking the ROCK TUNNEL to\n" */
-    .string "PUEBLO LAVANDA…$"                      /* (E) "go to LAVENDER…$" */
+    .string "Pueblo Lavanda…$"                      /* (E) "go to LAVENDER…$" */
 
 Route9_Text_DrewDefeat::
     .string "No me puedo comparar…$"                /* (E) "Can't measure up…$" */
@@ -49,7 +49,7 @@ Route9_Text_JeremyIntro::
 Route9_Text_JeremyDefeat::
     .string "¡No te detengas, eh!\p"                /* (E) "Keep it coming, eh!\p" */
     .string "Oh, espera.\n"                         /* (E) "Oh wait.\n" */
-    .string "¡Me quede sin POKéMON!$"               /* (E) "I'm out of POKéMON!$" */
+    .string "¡Me quede sin Pokémon!$"               /* (E) "I'm out of Pokémon!$" */
 
 Route9_Text_JeremyPostBattle::
     .string "¿Sí que tuviste agallas para\n"        /* (E) "You sure had guts standing up to\n" */
@@ -68,7 +68,7 @@ Route9_Text_BricePostBattle::
 
 Route9_Text_BrentIntro::
     .string "¡Madrugo todos los días para criar\n"  /* (E) "I got up early every day to raise\n" */
-    .string "a mis POKéMON desde capullos!$"        /* (E) "my POKéMON from cocoons!$" */
+    .string "a mis Pokémon desde capullos!$"        /* (E) "my Pokémon from cocoons!$" */
 
 Route9_Text_BrentDefeat::
     .string "¿QUÉ?\p"                               /* (E) "WHAT?\p" */
@@ -91,16 +91,16 @@ Route9_Text_AlanPostBattle::
     .string "¡Los robustos siempre nos reímos!$"    /* (E) "Us hearty guys always laugh!$" */
 
 Route9_Text_ConnerIntro::
-    .string "¡Vamos, súper POKéMON INSECTOS!$"      /* (E) "Go, my super BUG POKéMON!$" */
+    .string "¡Vamos, súper Pokémon INSECTOS!$"      /* (E) "Go, my super BUG Pokémon!$" */
 
 Route9_Text_ConnerDefeat::
     .string "Mis insectos…$"                        /* (E) "My bugs…$" */
 
 Route9_Text_ConnerPostBattle::
-    .string "¡Si no te gustan los POKéMON\n"        /* (E) "If you don't like BUG POKéMON,\n" */
+    .string "¡Si no te gustan los Pokémon\n"        /* (E) "If you don't like BUG Pokémon,\n" */
     .string "INSECTO, me molestas!$"                /* (E) "you bug me!$" */
 
 Route9_Text_RouteSign::
-    .string "RUTA 9\n"                              /* (E) "ROUTE 9\n" */
-    .string "CIUDAD CELESTE - TÚNEL ROCA$"          /* (E) "CERULEAN CITY - ROCK TUNNEL$" */
+    .string "Ruta 9\n"                              /* (E) "ROUTE 9\n" */
+    .string "Ciudad Celeste - TÚNEL ROCA$"          /* (E) "CERULEAN CITY - ROCK TUNNEL$" */
 

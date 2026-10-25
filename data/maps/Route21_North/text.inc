@@ -7,7 +7,7 @@ Route21_North_Text_RonaldDefeat::
 
 Route21_North_Text_RonaldPostBattle::
 	.string "No puedo atrapar nada bueno.\n"
-	.string "¡No tengo ni un POKéMON bueno!$"
+	.string "¡No tengo ni un Pokémon bueno!$"
 
 Route21_North_Text_WadeIntro::
 	.string "¡Tengo una gran captura!\n"

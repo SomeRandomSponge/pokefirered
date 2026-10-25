@@ -24,7 +24,7 @@ RockTunnel_B1F_Text_DudleyPostBattle::
     .string "pensar.$"                                /* (E) "thinking.$" */
 
 RockTunnel_B1F_Text_CooperIntro::
-    .string "¿Tienes una POKéDEX?\n"                  /* (E) "You have a POKéDEX?\n" */
+    .string "¿Tienes una Pokédex?\n"                  /* (E) "You have a Pokédex?\n" */
     .string "Yo también quiero una.$"                 /* (E) "I want one, too.$" */
 
 RockTunnel_B1F_Text_CooperDefeat::
@@ -32,23 +32,23 @@ RockTunnel_B1F_Text_CooperDefeat::
     .string "¡Me das tanta envidia!$"                 /* (E) "I am so jealous!$" */
 
 RockTunnel_B1F_Text_CooperPostBattle::
-    .string "Cuando termines con tu POKéDEX,\n"       /* (E) "When you finish your POKéDEX,\n" */
+    .string "Cuando termines con tu Pokédex,\n"       /* (E) "When you finish your Pokédex,\n" */
     .string "¿me la puedes dar?$"                     /* (E) "can I have it?$" */
 
 RockTunnel_B1F_Text_SteveIntro::
-    .string "Um… ¿Conoces el cosplay de\n"            /* (E) "Um… Do you know about POKéMON\n" */
-    .string "POKéMON?$"                               /* (E) "cosplay?$" */
+    .string "Um… ¿Conoces el cosplay de\n"            /* (E) "Um… Do you know about Pokémon\n" */
+    .string "Pokémon?$"                               /* (E) "cosplay?$" */
 
 RockTunnel_B1F_Text_SteveDefeat::
     .string "Bueno, eso fue todo.$"                   /* (E) "Well, that's that.$" */
 
 RockTunnel_B1F_Text_StevePostBattle::
-    .string "Cosplay de POKéMON es disfrazarse\n"     /* (E) "POKéMON cosplay is dressing up as\n" */
-    .string "de POKéMON por diversión.\p"             /* (E) "POKéMON for fun.\p" */
+    .string "Cosplay de Pokémon es disfrazarse\n"     /* (E) "Pokémon cosplay is dressing up as\n" */
+    .string "de Pokémon por diversión.\p"             /* (E) "Pokémon for fun.\p" */
     .string "CLEFAIRY es un favorito para eso.$"      /* (E) "CLEFAIRY is a favorite.$" */
 
 RockTunnel_B1F_Text_AllenIntro::
-    .string "¡Mis técnicas de POKéMON te\n"           /* (E) "My POKéMON techniques will leave\n" */
+    .string "¡Mis técnicas de Pokémon te\n"           /* (E) "My Pokémon techniques will leave\n" */
     .string "dejarán llorando!$"                      /* (E) "you crying!$" */
 
 RockTunnel_B1F_Text_AllenDefeat::
@@ -57,7 +57,7 @@ RockTunnel_B1F_Text_AllenDefeat::
 
 RockTunnel_B1F_Text_AllenPostBattle::
     .string "En las montañas es fácil encontrar\n"    /* (E) "In mountains, you'll often find\n" */
-    .string "POKéMON de tipo ROCA.$"                  /* (E) "ROCK-type POKéMON.$" */
+    .string "Pokémon de tipo ROCA.$"                  /* (E) "ROCK-type Pokémon.$" */
 
 RockTunnel_B1F_Text_MarthaIntro::
     .string "No suelo venir aquí, pero lucharé\n"     /* (E) "I don't often come here, but I will\n" */
@@ -68,7 +68,7 @@ RockTunnel_B1F_Text_MarthaDefeat::
     .string "¡Perdí!$"                                /* (E) "I lost!$" */
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-    .string "Me gustan los POKéMON pequeños.\n"       /* (E) "I like tiny POKéMON.\n" */
+    .string "Me gustan los Pokémon pequeños.\n"       /* (E) "I like tiny Pokémon.\n" */
     .string "¡Los grandes dan mucho miedo!$"          /* (E) "Big ones are too scary!$" */
 
 RockTunnel_B1F_Text_EricIntro::
@@ -78,11 +78,11 @@ RockTunnel_B1F_Text_EricDefeat::
     .string "¡Me venciste!$"                          /* (E) "Fired away!$" */
 
 RockTunnel_B1F_Text_EricPostBattle::
-    .string "Criaré a mis POKéMON para vencer\n"      /* (E) "I'll raise my POKéMON to beat\n" */
+    .string "Criaré a mis Pokémon para vencer\n"      /* (E) "I'll raise my Pokémon to beat\n" */
     .string "a los tuyos, niñ{OA}.$"                  /* (E) "yours, kid.$" */
 
 RockTunnel_B1F_Text_WinstonIntro::
-    .string "Dibujo a varios POKéMON cuando\n"        /* (E) "I draw illustrations of POKéMON\n" */
+    .string "Dibujo a varios Pokémon cuando\n"        /* (E) "I draw illustrations of Pokémon\n" */
     .string "estoy en casa.$"                         /* (E) "when I'm home.$" */
 
 RockTunnel_B1F_Text_WinstonDefeat::

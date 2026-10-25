@@ -1,12 +1,12 @@
 Route21_South_Text_JackIntro::
-	.string "Conseguí a mi POKéMON en el mar.$"
+	.string "Conseguí a mi Pokémon en el mar.$"
 
 Route21_South_Text_JackDefeat::
 	.string "¡¡Buzo!!\n"
 	.string "¡¡Caído!!$"
 
 Route21_South_Text_JackPostBattle::
-	.string "¿Dónde atrapaste a tus POKéMON?$"
+	.string "¿Dónde atrapaste a tus Pokémon?$"
 
 Route21_South_Text_JeromeIntro::
 	.string "Estoy en un triatlón justo ahora.$"
@@ -67,7 +67,7 @@ Route21_North_Text_LilPostBattle::
 Route21_North_Text_LilNotEnoughMons::
 	.string "LIL: ¿Uh? ¿una batalla?\n"
 	.string "Me da pereza hacerlo sola.\l"
-	.string "¿Trae dos POKéMON, quieres?$"
+	.string "¿Trae dos Pokémon, quieres?$"
 
 Route21_North_Text_IanIntro::
 	.string "IAN: Mi hermana necesita hacer\n"
@@ -83,4 +83,4 @@ Route21_North_Text_IanPostBattle::
 
 Route21_North_Text_IanNotEnoughMons::
 	.string "IAN: Queremos una batalla de dos\n"
-	.string "contra dos. ¿Puedes traer dos POKéMON?$"
+	.string "contra dos. ¿Puedes traer dos Pokémon?$"

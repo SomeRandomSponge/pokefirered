@@ -1,4 +1,4 @@
 Route5_Text_UndergroundPathSign::
     .string "VÍA SUBTERRÁNEA\n"
-    .string "CIUDAD CELESTE - CIUDAD CARMÍN$"
+    .string "Ciudad Celeste - Ciudad Carmín$"
 

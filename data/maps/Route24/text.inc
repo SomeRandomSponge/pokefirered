@@ -1,21 +1,21 @@
 Route24_Text_JustEarnedFabulousPrize::
     .string "¡Felicidades! ¡Venciste a nuestros\n"
-    .string "cinco ENTRENADORES participantes!\p"
+    .string "cinco Entrenadores participantes!\p"
     .string "¡Te ganaste un fabuloso premio!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
     .string "¡{PLAYER} recibió una PEPITA\n"
-    .string "del ENTRENADOR misterioso!$"
+    .string "del Entrenador misterioso!$"
 
 Route24_Text_YouDontHaveAnyRoom::
     .string "¡No tienes espacio!$"
 
 Route24_Text_JoinTeamRocket::
     .string "Por cierto, ¿te gustaría unirte\n"
-    .string "al EQUIPO ROCKET?\p"
+    .string "al Equipo Rocket?\p"
     .string "¡Somos un grupo de criminales\n"
     .string "profesionales especializados\l"
-    .string "en POKéMON!\p"
+    .string "en Pokémon!\p"
     .string "¿Quieres unirte?\p"
     .string "¿Estás segur{OA}?\p"
     .string "¡Vamos, únete a nosotros!\p"
@@ -30,7 +30,7 @@ Route24_Text_RocketDefeat::
 
 Route24_Text_YoudBecomeTopRocketLeader::
     .string "Con tu habilidad, serías un{A}\n"
-    .string "líder en el EQUIPO ROCKET.\p"
+    .string "líder en el Equipo Rocket.\p"
     .string "¡Vamos, piensa en la oportunidad!\n"
     .string "No dejes que se desperdicie.$"
 
@@ -93,7 +93,7 @@ Route24_Text_AliPostBattle::
 Route24_Text_CaleIntro::
     .string "¡La gente se refiere a esto cómo\n"
     .string "el PUENTE PEPITA!\p"
-    .string "¡Vence a estos cinco ENTRENADORES\n"
+    .string "¡Vence a estos cinco Entrenadores\n"
     .string "y gana un fabuloso premio!\p"
     .string "¿Crees que tienes lo necesario?$"
 

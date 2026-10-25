@@ -1,18 +1,18 @@
 Route3_Text_TunnelFromCeruleanTiring::
     .string "Uff… Será mejor que descanse…\n"
     .string "Agh…\p"
-    .string "¡Ese túnel desde CELESTE te quita\n"
+    .string "¡Ese túnel desde Celeste te quita\n"
     .string "mucha energía!$"
 
 Route3_Text_ColtonIntro::
     .string "¡Hey!\n"
-    .string "¡Te ví en el BOSQUE VERDE!$"
+    .string "¡Te ví en el Bosque Verde!$"
 
 Route3_Text_ColtonDefeat::
     .string "¡Me venciste otra vez!$"
 
 Route3_Text_ColtonPostBattle::
-    .string "Hay otros tipos de POKéMON\n"
+    .string "Hay otros tipos de Pokémon\n"
     .string "diferentes a los del bosque.$"
 
 Route3_Text_BenIntro::
@@ -26,9 +26,9 @@ Route3_Text_BenDefeat::
 
 Route3_Text_BenPostBattle::
     .string "¿Estas usando la PC de un CENTRO\n"
-    .string "POKéMON para guardar POKéMON?\p"
+    .string "Pokémon para guardar Pokémon?\p"
     .string "Cada CAJA puede guardar hasta\n"
-    .string "30 POKéMON.$"
+    .string "30 Pokémon.$"
 
 Route3_Text_JaniceIntro::
     .string "¡Disculpa!\n"
@@ -42,15 +42,15 @@ Route3_Text_JanicePostBattle::
     .string "una batalla!$"
 
 Route3_Text_GregIntro::
-    .string "¿Eres un{A} ENTRENADOR{AM}?\n"
+    .string "¿Eres un{A} Entrenador{AM}?\n"
     .string "¡Luchemos de una vez!$"
 
 Route3_Text_GregDefeat::
-    .string "¡Si tuviera nuevos POKéMON\n"
+    .string "¡Si tuviera nuevos Pokémon\n"
     .string "te habría ganado!$"
 
 Route3_Text_GregPostBattle::
-    .string "¡Si una CAJA de POKéMON en la PC\n"
+    .string "¡Si una CAJA de Pokémon en la PC\n"
     .string "está llena, solo cambia de CAJA!$"
 
 Route3_Text_SallyIntro::
@@ -62,7 +62,7 @@ Route3_Text_SallyDefeat::
 
 Route3_Text_SallyPostBattle::
     .string "Puedes evitar batallas si evitas\n"
-    .string "que otros ENTRENADORES te vean.$"
+    .string "que otros Entrenadores te vean.$"
 
 Route3_Text_CalvinIntro::
     .string "¡Oye! ¡No llevas pantalón corto!\n"
@@ -78,13 +78,13 @@ Route3_Text_CalvinPostBattle::
 
 Route3_Text_JamesIntro::
     .string "Lucharas contra mis nuevos\n"
-    .string "POKéMON.$"
+    .string "Pokémon.$"
 
 Route3_Text_JamesDefeat::
     .string "¡Estoy acabado!$"
 
 Route3_Text_JamesPostBattle::
-    .string "Los POKéMON entrenados son más\n"
+    .string "Los Pokémon entrenados son más\n"
     .string "fuertes que los salvajes.$"
 
 Route3_Text_RobinIntro::
@@ -95,10 +95,10 @@ Route3_Text_RobinDefeat::
     .string "¿Eso es todo?$"
 
 Route3_Text_RobinPostBattle::
-    .string "La RUTA 4 está al pie del\n"
+    .string "La Ruta 4 está al pie del\n"
     .string "MONTE LUNA.$"
 
 Route3_Text_RouteSign::
-    .string "RUTA 3\n"
+    .string "Ruta 3\n"
     .string "MONTE LUNA ADELANTE$"
 
