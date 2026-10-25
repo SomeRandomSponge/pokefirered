@@ -9,13 +9,13 @@ VermilionCity_Text_DidYouSeeSSAnneInHarbor::
 
 VermilionCity_Text_SSAnneHasDepartedForYear::
     .string "Así que, ¿el SANTA ANA ya partió?\p"
-    .string "Volvera a CARMÍN cerca de esta\n"
+    .string "Volvera a Carmín cerca de esta\n"
     .string "fecha el próximo año.$"
 
 VermilionCity_Text_BuildingOnThisLand::
     .string "Pondré un edificio en esta parcela\n"
     .string "de tierra. Es de mi propiedad.\p"
-    .string "Mi POKéMON esta apisonando la\n"
+    .string "Mi Pokémon esta apisonando la\n"
     .string "tierra para sentar la fundación.$"
 
 VermilionCity_Text_Machop::
@@ -27,31 +27,31 @@ VermilionCity_Text_MachopStompingLandFlat::
 VermilionCity_Text_SSAnneVisitsOnceAYear::
     .string "El SANTA ANA es un famoso crusero\n"
     .string "de lujo.\p"
-    .string "Visita CARMÍN una vez al año.$"
+    .string "Visita Carmín una vez al año.$"
 
 VermilionCity_Text_CitySign::
-    .string "CIUDAD CARMÍN\n"
+    .string "Ciudad Carmín\n"
     .string "El puerto de los ocasos exquisitos$"
 
 VermilionCity_Text_SnorlaxBlockingRoute12::
     .string "¡AVISO!\p"
-    .string "La RUTA 12 puede estar bloqueada\n"
-    .string "por un POKéMON durmiente.\p"
+    .string "La Ruta 12 puede estar bloqueada\n"
+    .string "por un Pokémon durmiente.\p"
     .string "Tome el desvío a través del\n"
-    .string "TÚNEL ROCA al PUEBLO LAVANDA.\p"
-    .string "POLICIA DE CARMÍN$"
+    .string "TÚNEL ROCA al Pueblo Lavanda.\p"
+    .string "POLICIA DE Carmín$"
 
 VermilionCity_Text_PokemonFanClubSign::
-    .string "CLUB DE FANS DE POKéMON\n"
-    .string "¡Se acepta a todo fan de POKéMON!$"
+    .string "CLUB DE FANS DE Pokémon\n"
+    .string "¡Se acepta a todo fan de Pokémon!$"
 
 VermilionCity_Text_GymSign::
-    .string "GIMNASIO POKéMON de CIUDAD CARMÍN\n"
-    .string "LÍDER: TENIENTE SURGE\l"
+    .string "Gimnasio Pokémon de Ciudad Carmín\n"
+    .string "Líder: Teniente Surge\l"
     .string "¡El Rayo americano!$"
 
 VermilionCity_Text_VermilionHarbor::
-    .string "PUERTO CARMÍN$"
+    .string "PUERTO Carmín$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
     .string "¡Bienvenid{OA} al SANTA ANA!$"
@@ -120,12 +120,12 @@ VermilionCity_Text_Seagallop12Departing::
 VermilionCity_Text_Route2AideHasPackageForYou::
     .string "Oh, ¡hola, {PLAYER}!\n"
     .string "¿Cómo te va?\p"
-    .string "Soy yo, un AYUDANTE del PROF. OAK.\p"
+    .string "Soy yo, un AYUDANTE del PROF. Oak.\p"
     .string "¿Conociste al otro AYUDANTE?\p"
-    .string "Él tenía un paquete del PROF. OAK\n"
+    .string "Él tenía un paquete del PROF. Oak\n"
     .string "para tí, {PLAYER}.\p"
     .string "Dijo que te buscaría cerca de la\n"
-    .string "RUTA 2, {PLAYER}.\p"
-    .string "Si estás cerca de la RUTA 2,\n"
+    .string "Ruta 2, {PLAYER}.\p"
+    .string "Si estás cerca de la Ruta 2,\n"
     .string "por favor búscalo.$"
 

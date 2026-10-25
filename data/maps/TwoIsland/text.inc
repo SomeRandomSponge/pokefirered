@@ -44,7 +44,7 @@ TwoIsland_Text_BringingItemsFromDistantLands::
 
 TwoIsland_Text_FellowMovedFromCeladonCity::
     .string "Ese tipo de ahí, se mudó desde\n"
-    .string "CIUDAD PRISMA.\p"
+    .string "Ciudad Prisma.\p"
     .string "Inició una tienda con su hermano\n"
     .string "menor.\p"
     .string "Me pregunto si sabía en que se\n"
@@ -59,28 +59,28 @@ TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
 TwoIsland_Text_BrunoCameToIslandWhileBack::
     .string "Oye, oye.\n"
     .string "¿Sabes una cosa?\p"
-    .string "Un ENTRENADOR famoso vino a la\n"
+    .string "Un Entrenador famoso vino a la\n"
     .string "ISLA hace poco.\p"
-    .string "Era un miembro del ALTO MANDO.\n"
-    .string "Se llama BRUNO.\p"
+    .string "Era un miembro del Alto Mando.\n"
+    .string "Se llama Bruno.\p"
     .string "Se fue decepcionado cuando se\n"
     .string "enteró que ya no quedaban\l"
     .string "Pasteles de Furia.$"
 
 TwoIsland_Text_BuyRareItemsHere::
-    .string "¡Los ENTRENADORES expertos compran\n"
+    .string "¡Los Entrenadores expertos compran\n"
     .string "objetos extraños aquí!$"
 
 TwoIsland_Text_OldWomanLivesOutOnCape::
     .string "Hay una señora mayor que vive en\n"
     .string "una cabaña en el cabo.\p"
-    .string "Mira fijamente a los POKéMON.\n"
+    .string "Mira fijamente a los Pokémon.\n"
     .string "Es algo inquietante.$"
 
 TwoIsland_Text_HaveYouTriedJumpingGame::
     .string "¡Boing! ¡boing!\n"
     .string "¿Has probado el juego de saltos?\p"
-    .string "Los POKéMON que pueden participar…\n"
+    .string "Los Pokémon que pueden participar…\n"
     .string "¡Boing!\p"
     .string "¡Algunos hacen boing!\p"
     .string "¡Y algunos hacen boooooooing!\p"

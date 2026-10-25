@@ -1,6 +1,6 @@
 VictoryRoad_2F_Text_DawsonIntro::
     .string "Si logras pasar por aquí, podrás\n"
-    .string "enfrentarte al ALTO MANDO.$"
+    .string "enfrentarte al Alto Mando.$"
 
 VictoryRoad_2F_Text_DawsonDefeat::
     .string "¡No!\n"
@@ -8,12 +8,12 @@ VictoryRoad_2F_Text_DawsonDefeat::
 
 VictoryRoad_2F_Text_DawsonPostBattle::
     .string "¡Puedo vencerte en cuanto a\n"
-    .string "conocimientos sobre los POKéMON!$"
+    .string "conocimientos sobre los Pokémon!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
     .string "Este es el CAMINO VICTORIA.\p"
     .string "¡Es la prueba final para los\n"
-    .string "ENTRENADORES!$"
+    .string "Entrenadores!$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
     .string "¡Ayyyy!$"
@@ -24,7 +24,7 @@ VictoryRoad_2F_Text_DaisukePostBattle::
 
 VictoryRoad_2F_Text_NelsonIntro::
     .string "¿Ah, así que quieres desafiar al\n"
-    .string "ALTO MANDO?$"
+    .string "Alto Mando?$"
 
 VictoryRoad_2F_Text_NelsonDefeat::
     .string "¡Me ganaste!$"
@@ -50,7 +50,7 @@ VictoryRoad_2F_Text_GregoryDefeat::
     .string "¡Bien hecho!$"
 
 VictoryRoad_2F_Text_GregoryPostBattle::
-    .string "Muchos ENTRENADORES dejan\n"
+    .string "Muchos Entrenadores dejan\n"
     .string "el desafío y se rinden aquí.$"
 
 @ Unused, old text for Moltres

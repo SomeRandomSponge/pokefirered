@@ -26,14 +26,14 @@ VermilionCity_PokemonFanClub_Text_Seel::
 
 VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
     .string "¡Soy PRESIDENTE del Club de Fans\n"
-    .string "de POKéMON!\p"
+    .string "de Pokémon!\p"
     .string "¡He criado a más de cien\n"
-    .string "POKéMON!\p"
+    .string "Pokémon!\p"
     .string "¡Soy muy particular cúando se\n"
-    .string "trata de POKéMON! ¡Sí que lo soy!\p"
+    .string "trata de Pokémon! ¡Sí que lo soy!\p"
     .string "Así que…\p"
     .string "¿Viniste de visita a escuchar\n"
-    .string "sobre mis POKéMON?$"
+    .string "sobre mis Pokémon?$"
 
 VermilionCity_PokemonFanClub_Text_ChairmansStory::
     .string "¡Bien!\n"
@@ -57,7 +57,7 @@ VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
 
 VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
     .string "Lleva ese BONO a la TIENDA\n"
-    .string "DE BICICLETAS en CIUDAD CELESTE.\p"
+    .string "DE BICICLETAS en Ciudad Celeste.\p"
     .string "¡Cámbialo por una BICICLETA\n"
     .string "gratuita!\p"
     .string "No temas, mi FEAROW favorito me\n"
@@ -72,7 +72,7 @@ VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
 VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
     .string "¡Hola, {PLAYER}!\p"
     .string "¿Viniste a escuchar sobre mis\n"
-    .string "POKéMON otra vez?\p"
+    .string "Pokémon otra vez?\p"
     .string "¿No?\n"
     .string "¡Qué mal!$"
 
@@ -81,11 +81,11 @@ VermilionCity_PokemonFanClub_Text_MakeRoomForThis::
 
 VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon::
     .string "Nuestro PRESIDENTE es muy vocal\n"
-    .string "sobre los POKéMON.$"
+    .string "sobre los Pokémon.$"
 
 VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers::
     .string "¡Escuchemos todos a otros\n"
-    .string "ENTRENADORES educadamente!$"
+    .string "Entrenadores educadamente!$"
 
 VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::
     .string "Si alguien alardea, ¡alardea\n"
@@ -93,6 +93,6 @@ VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::
 
 VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons::
     .string "Nuestro PRESIDENTE realmente adora\n"
-    .string "a sus POKéMON.\p"
-    .string "Pero de todos, los POKéMON parecen\n"
-    .string "preferir a DAISY.$"
+    .string "a sus Pokémon.\p"
+    .string "Pero de todos, los Pokémon parecen\n"
+    .string "preferir a Daisy.$"

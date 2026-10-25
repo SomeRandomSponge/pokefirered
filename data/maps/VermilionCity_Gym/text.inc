@@ -3,7 +3,7 @@ VermilionCity_Gym_Text_LtSurgeIntro::
     .string "haciendo aquí?\p"
     .string "¡No resistirás mucho en combate!\n"
     .string "¡No con tu poder diminuto!\p"
-    .string "¡Los POKéMON eléctricos me\n"
+    .string "¡Los Pokémon eléctricos me\n"
     .string "salvaron durante la guerra!\p"
     .string "¡Electrocutaron a mis enemigos y\n"
     .string "con eso los paralizaron!\p"
@@ -12,24 +12,24 @@ VermilionCity_Gym_Text_LtSurgeIntro::
 VermilionCity_Gym_Text_LtSurgePostBattle::
     .string "¡Un pequeño consejo, niñ{OA}!\p"
     .string "¡La electricidad es muy poderosa!\p"
-    .string "Pero, ¡es inútil contra POKéMON\n"
+    .string "Pero, ¡es inútil contra Pokémon\n"
     .string "de tipo TIERRA!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
     .string "¡La MEDALLA TRUENO mejora la\n"
-    .string "VELOCIDAD de tus POKéMON!\p"
-    .string "¡Y deja a tus POKéMON volar cómo\n"
+    .string "Velocidad de tus Pokémon!\p"
+    .string "¡Y deja a tus Pokémon volar cómo\n"
     .string "el rayo cuando quieras, niñ{OA}!\p"
     .string "¡Eres especial, niñ{OA}!\n"
     .string "¡Toma esto!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
     .string "{PLAYER} recibió MT34\n"
-    .string "del TENIENTE SURGE.$"
+    .string "del Teniente Surge.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
     .string "¡MT34 contiene ONDA CHOQUE!\p"
-    .string "¡Úsala en un POKéMON ELÉCTRICO!$"
+    .string "¡Úsala en un Pokémon ELÉCTRICO!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
     .string "¡Niñ{OA}, haz espacio en tu MOCHILA!$"
@@ -41,7 +41,7 @@ VermilionCity_Gym_Text_LtSurgeDefeat::
 
 VermilionCity_Gym_Text_TuckerIntro::
     .string "Cuando estaba en el ejército, el\n"
-    .string "TENIENTE SURGE era mi jefe.\p"
+    .string "Teniente Surge era mi jefe.\p"
     .string "Era un jefe duro.$"
 
 VermilionCity_Gym_Text_TuckerDefeat::
@@ -50,20 +50,20 @@ VermilionCity_Gym_Text_TuckerDefeat::
 
 VermilionCity_Gym_Text_TuckerPostBattle::
     .string "Abrir esa puerta no es tan fácil.\p"
-    .string "El TENIENTE SURGE fue famoso por su\n"
+    .string "El Teniente Surge fue famoso por su\n"
     .string "naturaleza cautelosa en combate.$"
 
 VermilionCity_Gym_Text_BailyIntro::
     .string "No soy muy fuerte, ¡pero soy bueno\n"
     .string "con la electricidad!\p"
-    .string "Por eso me uní a este GIMNASIO.$"
+    .string "Por eso me uní a este Gimnasio.$"
 
 VermilionCity_Gym_Text_BailyDefeat::
     .string "¡Estoy frito!$"
 
 VermilionCity_Gym_Text_BailyPostBattle::
     .string "¡De acuerdo, hablaré!\p"
-    .string "El TENIENTE SURGE dijo que ocultó\n"
+    .string "El Teniente Surge dijo que ocultó\n"
     .string "los interruptores dentro de algo.$"
 
 VermilionCity_Gym_Text_DwayneIntro::
@@ -75,8 +75,8 @@ VermilionCity_Gym_Text_DwayneDefeat::
     .string "¡Me sorprendiste!$"
 
 VermilionCity_Gym_Text_DwaynePostBattle::
-    .string "El TENIENTE SURGE puso las trampas\n"
-    .string "en el GIMNASIO por su cuenta.\p"
+    .string "El Teniente Surge puso las trampas\n"
+    .string "en el Gimnasio por su cuenta.\p"
     .string "Instaló cerraduras dobles por\n"
     .string "todos lados.\l"
     .string "Déjame darte una pista.\p"
@@ -86,15 +86,15 @@ VermilionCity_Gym_Text_DwaynePostBattle::
 VermilionCity_Gym_Text_GymGuyAdvice::
     .string "¡Yo!\n"
     .string "¡Futur{OA} campe{ONONA}!\p"
-    .string "El TENIENTE SURGE tiene un apodo.\p"
+    .string "El Teniente Surge tiene un apodo.\p"
     .string "¡La gente se refiere a él cómo el\n"
     .string "Rayo americano!\p"
-    .string "Es un experto con los POKéMON\n"
+    .string "Es un experto con los Pokémon\n"
     .string "eléctricos.\p"
-    .string "Los POKéMON de tipo VOLADOR/AGUA\n"
+    .string "Los Pokémon de tipo VOLADOR/AGUA\n"
     .string "sufren contra el tipo ELÉCTRICO.\p"
     .string "Además, cuídate de la parálisis.\p"
-    .string "El TENIENTE SURGE es cauteloso.\p"
+    .string "El Teniente Surge es cauteloso.\p"
     .string "Se encerró a si mismo, para que\n"
     .string "llegar a él no sea fácil.$"
 
@@ -103,15 +103,15 @@ VermilionCity_Gym_Text_GymGuyPostVictory::
     .string "¡Esa batalla fue electrizante!$"
 
 VermilionCity_Gym_Text_GymStatue::
-    .string "GIMNASIO POKéMON DE CARMÍN\n"
-    .string "LÍDER: TENIENTE SURGE\p"
-    .string "ENTRENADORES VICTORIOSOS:\n"
+    .string "Gimnasio Pokémon DE Carmín\n"
+    .string "Líder: Teniente Surge\p"
+    .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-    .string "GIMNASIO POKéMON DE CARMÍN\n"
-    .string "LÍDER: TENIENTE SURGE\p"
-    .string "ENTRENADORES VICTORIOSOS:\n"
+    .string "Gimnasio Pokémon DE Carmín\n"
+    .string "Líder: Teniente Surge\p"
+    .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::

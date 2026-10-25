@@ -1,7 +1,7 @@
 ThreeIsland_BerryForest_Text_HelpScaryPokemon::
     .string "LOSTELLE: Guaa… Sniff…\n"
     .string "¡Oh! ¡por favor, ayuda!\p"
-    .string "Un POKéMON aterrador apareció hace\n"
+    .string "Un Pokémon aterrador apareció hace\n"
     .string "poco.\p"
     .string "Siguió asustando.\n"
     .string "Asustó a LOSTELLE.\p"
@@ -35,9 +35,9 @@ ThreeIsland_BerryForest_Text_BerryPouchIsFull::
 ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
     .string "Este es el BOSQUE BAYA\p"
     .string "Se amable y comparte BAYAS con\n"
-    .string "otras personas y con POKéMON.$"
+    .string "otras personas y con Pokémon.$"
 
 ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
-    .string "¡Cuidado con los POKéMON salvajes\n"
+    .string "¡Cuidado con los Pokémon salvajes\n"
     .string "que aman las BAYAS!$"
 

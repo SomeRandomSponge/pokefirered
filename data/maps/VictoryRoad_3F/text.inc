@@ -11,12 +11,12 @@ Text_DoubleEdgeDeclined::
     .string "quieras.$"
 
 Text_DoubleEdgeWhichMon::
-    .string "¿A qué POKéMON le debería enseñar\n"
+    .string "¿A qué Pokémon le debería enseñar\n"
     .string "DOBLE FILO?$"
 
 Text_DoubleEdgeTaught::
     .string "¡Sigue así cuando llegues a la\n"
-    .string "LIGA POKéMON!\p"
+    .string "Liga Pokémon!\p"
     .string "¡Da tu mejor esfuerzo y acaba con\n"
     .string "ellos!$"
 
@@ -29,10 +29,10 @@ VictoryRoad_3F_Text_GeorgeDefeat::
 
 VictoryRoad_3F_Text_GeorgePostBattle::
     .string "¿Entonces, tú derrotaste a\n"
-    .string "GIOVANNI del EQUIPO ROCKET?$"
+    .string "Giovanni del Equipo Rocket?$"
 
 VictoryRoad_3F_Text_AlexaIntro::
-    .string "Los ENTRENADORES viven para buscar\n"
+    .string "Los Entrenadores viven para buscar\n"
     .string "oponentes fuertes.$"
 
 VictoryRoad_3F_Text_AlexaDefeat::
@@ -61,8 +61,8 @@ VictoryRoad_3F_Text_ColbyDefeat::
     .string "¡No puedo creerlo!$"
 
 VictoryRoad_3F_Text_ColbyPostBattle::
-    .string "Todos los ENTRENADORES que están\n"
-    .string "aquí se dirigen a la LIGA POKéMON.\p"
+    .string "Todos los Entrenadores que están\n"
+    .string "aquí se dirigen a la Liga Pokémon.\p"
     .string "No bajes la guardia.$"
 
 VictoryRoad_3F_Text_RayIntro::
@@ -80,7 +80,7 @@ VictoryRoad_3F_Text_RayPostBattle::
 VictoryRoad_3F_Text_RayNotEnoughMons::
     .string "RAY: Juntos, los dos tratamos de\n"
     .string "alcanzar la cima.\p"
-    .string "Necesitamos que tengas dos POKéMON\n"
+    .string "Necesitamos que tengas dos Pokémon\n"
     .string "para que luches con nosotros.$"
 
 VictoryRoad_3F_Text_TyraIntro::
@@ -96,5 +96,5 @@ VictoryRoad_3F_Text_TyraPostBattle::
 
 VictoryRoad_3F_Text_TyraNotEnoughMons::
     .string "TYRA: No puedes luchar contra\n" 
-    .string "nosotros si solo tienes un POKéMON.$"
+    .string "nosotros si solo tienes un Pokémon.$"
 

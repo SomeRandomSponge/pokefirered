@@ -1,22 +1,22 @@
 ViridianCity_Text_CanCarryMonsAnywhere::
-    .string "¡Esas POKéBOLAS en tu cintura!\n"
-    .string "¿Tienes POKéMON, cierto?\p"
+    .string "¡Esas Pokébolas en tu cintura!\n"
+    .string "¿Tienes Pokémon, cierto?\p"
     .string "Es genial poder llevar y usar los\n"
-    .string "POKéMON en cualquier momento\l"
+    .string "Pokémon en cualquier momento\l"
     .string "y lugar.$"
 
 ViridianCity_Text_GymClosedWonderWhoLeaderIs::
-    .string "Este GIMNASIO POKéMON siempre\n"
+    .string "Este Gimnasio Pokémon siempre\n"
     .string "está cerrado.\p"
-    .string "¿Quién será su LÍDER?$"
+    .string "¿Quién será su Líder?$"
 
 ViridianCity_Text_ViridiansGymLeaderReturned::
-    .string "¡El LÍDER de GIMNASIO de VERDE\n"
+    .string "¡El Líder de Gimnasio de Verde\n"
     .string "regresó!$"
 
 ViridianCity_Text_WantToKnowAboutCaterpillarMons::
     .string "¿Quieres saber algo sobre los dos\n"
-    .string "tipos de orugas POKéMON?$"
+    .string "tipos de orugas Pokémon?$"
 
 ViridianCity_Text_OhOkayThen::
     .string "Oh, ¡de acuerdo!$"
@@ -24,7 +24,7 @@ ViridianCity_Text_OhOkayThen::
 ViridianCity_Text_ExplainCaterpieWeedle::
     .string "CATERPIE no tiene veneno,\n"
     .string "pero WEEDLE sí.\p"
-    .string "Ten cuidado, puede que tus POKéMON\n"
+    .string "Ten cuidado, puede que tus Pokémon\n"
     .string "reciban el PIQUETE VENENOSO\l"
     .string "de WEEDLE.$"
 
@@ -38,9 +38,9 @@ ViridianCity_Text_GrandpaHasntHadCoffeeYet::
 
 ViridianCity_Text_GoShoppingInPewterOccasionally::
     .string "De vez en cuando voy de compras\n"
-    .string "a CIUDAD PLATEADA.\p"
+    .string "a Ciudad Plateada.\p"
     .string "Cuando voy, tengo que tomar el\n"
-    .string "sinuoso camino del BOSQUE VERDE.$"
+    .string "sinuoso camino del Bosque Verde.$"
 
 ViridianCity_Text_ThisIsPrivateProperty::
     .string "¡Aagh…! Hip… ¡Quedate justo ahí!\n"
@@ -55,13 +55,13 @@ ViridianCity_Text_ShowYouHowToCatchMons::
     .string "¿Oh?\n"
     .string "¿Qué es esa caja roja?\p"
     .string "Ah, así que estás trabajando\n"
-    .string "en tu POKéDEX.\p"
+    .string "en tu Pokédex.\p"
     .string "Entonces, dejame darte algo de\n"
     .string "información.\p"
-    .string "Cuando atrapes un POKéMON,\n"
-    .string "la POKéDEX actualizará sus datos\l"
+    .string "Cuando atrapes un Pokémon,\n"
+    .string "la Pokédex actualizará sus datos\l"
     .string "automáticamente.\p"
-    .string "…¿No sabes atrapar POKéMON?\p"
+    .string "…¿No sabes atrapar Pokémon?\p"
     .string "¡En ese caso, supongo que tendre\n"
     .string "que mostrarte como!$"
 
@@ -74,16 +74,16 @@ ViridianCity_Text_WatchThatToLearnBasics::
     .string "Úsala si es que hay algo que\n"
     .string "no entiendas.\p"
     .string "Te enseñara lo básico de ser un{A}\n"
-    .string "ENTRENADOR{AM} POKéMON.$"
+    .string "Entrenador{AM} Pokémon.$"
 
 ViridianCity_Text_WeakenMonsFirstToCatch::
     .string "¡Parece que estaba bastante\n"
     .string "borracho!\p"
     .string "Me duele la cabeza…\p"
     .string "Por cierto, ¿estás llenando tu\n"
-    .string "POKéDEX?\p"
+    .string "Pokédex?\p"
     .string "Primero, concentrate en debilitar\n"
-    .string "al POKéMON antes de intentar\l"
+    .string "al Pokémon antes de intentar\l"
     .string "atraparlo.$"
 
 ViridianCity_Text_HowsTeachyTVHelping::
@@ -106,28 +106,28 @@ ViridianCity_Text_TooBusyForTeachyTV::
     .string "los dos debería ser malgastado…$"
 
 ViridianCity_Text_CitySign::
-    .string "CIUDAD VERDE\n"
+    .string "Ciudad Verde\n"
     .string "El paraíso del eterno verdor.$"
 
 ViridianCity_Text_CatchMonsForEasierBattles::
-    .string "CONSEJOS PARA ENTRENADORES\p"
-    .string "Atrapa POKéMON y amplía tu\n"
+    .string "Consejos para Entrenadores\p"
+    .string "Atrapa Pokémon y amplía tu\n"
     .string "colección.\p"
     .string "Cuantos más tengas, las batallas\n"
     .string "serán más fáciles.$"
 
 ViridianCity_Text_MovesLimitedByPP::
-    .string "CONSEJOS PARA ENTRENADORES\p"
-    .string "Los ataques de los POKéMON están\n"
+    .string "Consejos para Entrenadores\p"
+    .string "Los ataques de los Pokémon están\n"
     .string "limitados por sus PUNTOS de PODER,\l"
     .string "o PP.\p"
     .string "Para rellenar PP, deja que tus\n"
-    .string "POKéMON cansados descansen en\l"
-    .string "un CENTRO POKéMON.$"
+    .string "Pokémon cansados descansen en\l"
+    .string "un Centro Pokémon.$"
 
 ViridianCity_Text_GymSign::
-    .string "GIMNASIO POKéMON DE CIUDAD VERDE$"
+    .string "Gimnasio Pokémon DE Ciudad Verde$"
 
 ViridianCity_Text_GymDoorsAreLocked::
-    .string "Las puertas del GIMNASIO están\n"
+    .string "Las puertas del Gimnasio están\n"
     .string "cerradas…$"

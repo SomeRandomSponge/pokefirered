@@ -8,13 +8,13 @@ ThreeIsland_BondBridge_Text_NikkiDefeat::
 
 ThreeIsland_BondBridge_Text_NikkiPostBattle::
     .string "Tal vez ese olor viene de tus\n"
-    .string "POKéMON sudorosos…$"
+    .string "Pokémon sudorosos…$"
 
 ThreeIsland_BondBridge_Text_VioletIntro::
     .string "¿A dónde vas con tanta prisa?$"
 
 ThreeIsland_BondBridge_Text_VioletDefeat::
-    .string "Estas criando a unos POKéMON\n"
+    .string "Estas criando a unos Pokémon\n"
     .string "maravillosos.$"
 
 ThreeIsland_BondBridge_Text_VioletPostBattle::
@@ -35,7 +35,7 @@ ThreeIsland_BondBridge_Text_AmiraPostBattle::
 
 ThreeIsland_BondBridge_Text_AlexisIntro::
     .string "¡Yay, yay!\n"
-    .string "¡POKéMON!$"
+    .string "¡Pokémon!$"
 
 ThreeIsland_BondBridge_Text_AlexisDefeat::
     .string "¿Ahora que pasa?$"
@@ -53,13 +53,13 @@ ThreeIsland_BondBridge_Text_TishaDefeat::
     .string "¿Te puedes ir ahora, por favor?$"
 
 ThreeIsland_BondBridge_Text_TishaPostBattle::
-    .string " Un POKéMON mordió mi traje\n"
+    .string " Un Pokémon mordió mi traje\n"
     .string "de baño.\p"
     .string "¡No puedo salir del agua!$"
 
 ThreeIsland_BondBridge_Text_JoyIntro::
     .string "JOY: ¡Te enseñaremos cual es\n"
-    .string "nuestro POKéMON favorito!$"
+    .string "nuestro Pokémon favorito!$"
 
 ThreeIsland_BondBridge_Text_JoyDefeat::
     .string "JOY: Ohh…\n"
@@ -72,11 +72,11 @@ ThreeIsland_BondBridge_Text_JoyPostBattle::
 ThreeIsland_BondBridge_Text_JoyNotEnoughMons::
     .string "JOY: Realmente quiero luchar junto\n"
     .string "a MEG.\p"
-    .string "Un POKéMON no es suficiente.$"
+    .string "Un Pokémon no es suficiente.$"
 
 ThreeIsland_BondBridge_Text_MegIntro::
     .string "MEG: Te mostraremos a nuestro\n"
-    .string "POKéMON favorito.$"
+    .string "Pokémon favorito.$"
 
 ThreeIsland_BondBridge_Text_MegDefeat::
     .string "MEG: Ohh…\n"
@@ -88,7 +88,7 @@ ThreeIsland_BondBridge_Text_MegPostBattle::
 ThreeIsland_BondBridge_Text_MegNotEnoughMons::
     .string "MEG: Quiero una batalla junto con\n"
     .string "JOY.\p"
-    .string "Un POKéMON no es suficiente.$"
+    .string "Un Pokémon no es suficiente.$"
 
 ThreeIsland_BondBridge_Text_BerryForestAhead::
     .string "BOSQUE BAYA ADELANTE$"

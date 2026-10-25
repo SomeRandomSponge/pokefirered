@@ -88,7 +88,7 @@ TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
     .string "al papá de LOSTELLE.$"
 
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
-    .string "¡Oh, ya veo, esto viene de BILL!\n"
+    .string "¡Oh, ya veo, esto viene de Bill!\n"
     .string "¡Tienes que agradecerle de mi\n"
     .string "parte!\p"
     .string "Sabes, has sido fantástic{OA}.\n"

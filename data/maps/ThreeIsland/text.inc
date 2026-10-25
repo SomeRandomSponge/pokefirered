@@ -121,7 +121,7 @@ ThreeIsland_Text_PaxtonPostBattle::
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
     .string "¡Gracias! esos tipos no eran más\n"
     .string "que un gran problema.\p"
-    .string "Oh, tus POKéMON están heridos por\n"
+    .string "Oh, tus Pokémon están heridos por\n"
     .string "mi culpa.$"
 
 ThreeIsland_Text_GivenFullRestore::
@@ -133,7 +133,7 @@ ThreeIsland_Text_OhYourBagIsFull::
     .string "Tu MOCHILA está llena.$"
 
 ThreeIsland_Text_YouveGotImpressiveMons::
-    .string "Tienes unos POKéMON impresionantes\n"
+    .string "Tienes unos Pokémon impresionantes\n"
     .string "contigo.$"
 
 ThreeIsland_Text_LostelleWentOffTowardsBondBridge::

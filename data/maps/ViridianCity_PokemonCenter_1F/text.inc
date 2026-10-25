@@ -5,14 +5,14 @@ ViridianCity_PokemonCenter_1F_Text_FeelFreeToUsePC::
     .string "¡Eso es muy amable de su parte!$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCenterInEveryTown::
-    .string "Hay un CENTRO POKéMON en todos\n"
+    .string "Hay un Centro Pokémon en todos\n"
     .string "los pueblos y ciudades.\p"
     .string "Todos son gratuitos, así que\n"
-    .string "no temas curar a tus POKéMON.$"
+    .string "no temas curar a tus Pokémon.$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCentersHealMons::
-    .string "Los CENTROS POKéMON curan a tus\n"
-    .string "POKéMON cansados, heridos\l"
+    .string "Los CENTROS Pokémon curan a tus\n"
+    .string "Pokémon cansados, heridos\l"
     .string "o debilitados.\p"
-    .string "Dejan a todos los POKéMON\n"
+    .string "Dejan a todos los Pokémon\n"
     .string "completamente sanos.$"

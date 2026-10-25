@@ -1,6 +1,6 @@
 VermilionCity_House3_Text_PidgeyFlyLetterToSaffron::
     .string "Haré que mi PIDGEY vuele con una\n"
-    .string "carta a AZAFRÁN en el norte.$"
+    .string "carta a Azafrán en el norte.$"
 
 VermilionCity_House3_Text_Pidgey::
     .string "PIDGEY: ¡Kurukkuu!$"
@@ -8,9 +8,9 @@ VermilionCity_House3_Text_Pidgey::
 VermilionCity_House3_Text_DearPippiLetter::
     .string "Querido PIPPI,\n"
     .string "Espero verte pronto.\p"
-    .string "Oí que AZAFRÁN tiene problemas con\n"
-    .string "el EQUIPO ROCKET.\p"
-    .string "CARMÍN parece ser segura.$"
+    .string "Oí que Azafrán tiene problemas con\n"
+    .string "el Equipo Rocket.\p"
+    .string "Carmín parece ser segura.$"
 
 VermilionCity_House3_Text_SendMyPidgeyToUnionRoom::
     .string "Quiero intercambiar CORREO con\n"

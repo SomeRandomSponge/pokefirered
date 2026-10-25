@@ -7,7 +7,7 @@ ViridianCity_House_Text_NicknamingIsFun::
 
 ViridianCity_House_Text_MyDaddyLovesMonsToo::
     .string "A mi papá también le encantan los\n"
-    .string "POKéMON.$"
+    .string "Pokémon.$"
 
 ViridianCity_House_Text_Speary::
     .string "SPEARY: ¡Pío!$"
