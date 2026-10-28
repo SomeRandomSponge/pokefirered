@@ -23,8 +23,8 @@ struct MultiBattlePokemonTx
     /*0x1D*/ u8 language;
 };
 
-#define TYPE_NAME_LENGTH 7
-#define ABILITY_NAME_LENGTH 13
+#define TYPE_NAME_LENGTH 9
+#define ABILITY_NAME_LENGTH 21
 
 // defines for the u8 array gTypeEffectiveness
 #define TYPE_EFFECT_ATK_TYPE(i)((gTypeEffectiveness[i + 0]))
