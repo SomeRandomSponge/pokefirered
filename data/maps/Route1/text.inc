@@ -1,6 +1,6 @@
 Route1_Text_WorkAtPokeMartTakeSample::
     .string "¡Hola!\n"
-    .string "Trabajo en una TIENDA Pokémon.\p"
+    .string "Trabajo en una Tienda Pokémon.\p"
     .string "Es parte de una cadena de tiendas\n"
     .string "que vende todo tipo de objetos.\p"
     .string "Por favor, visítanos en Ciudad Verde.\p"
@@ -12,9 +12,9 @@ Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
     .string "Pokébolas para atrapar Pokémon.$"
 
 Route1_Text_PutPotionAway::
-    .string "{PLAYER} puso la POCIÓN\n"
-    .string "en el BOLSILLO de OBJETOS\l"
-    .string "de la MOCHILA.$"
+    .string "{PLAYER} puso la Poción\n"
+    .string "en el Bolsillo de Objetos\l"
+    .string "de la Mochila.$"
 
 Route1_Text_CanJumpFromLedges::
     .string "¿Ves esos bordes en el camino?\p"

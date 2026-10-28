@@ -9,7 +9,7 @@ Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
 Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
     .string "Veamos lo que estos binoculares\n"
     .string "tienen para mostrar…\p"
-    .string "¡Es la TIENDA DEPT. Prisma!$"
+    .string "¡Es la Tienda Dept. Prisma!$"
 
 Route16_NorthEntrance_2F_Text_LongPathOverWater::
     .string "Veamos lo que estos binoculares\n"
@@ -19,13 +19,13 @@ Route16_NorthEntrance_2F_Text_LongPathOverWater::
 
 Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
     .string "¡Hola! ¿me recuerdas?\n"
-    .string "Soy uno de los AYUDANTES del\l"
-    .string "PROF. Oak.\p"
+    .string "Soy uno de los Ayudantes del\l"
+    .string "Prof. Oak.\p"
     .string "Si tu Pokédex tiene datos completos\n"
     .string "de 40 especies, se supone que\l"
     .string "debería darte una recompensa.\p"
-    .string "El PROF. Oak me encargo una\n"
-    .string "MONEDA AMULETO para ti.\p"
+    .string "El Prof. Oak me encargo una\n"
+    .string "Moneda Amuleto para ti.\p"
     .string "Entonces, {PLAYER}, dime algo.\p"
     .string "¿Ya recolectaste datos de al menos\n"
     .string "40 tipos de Pokémon?$"
@@ -37,11 +37,11 @@ Route16_NorthEntrance_2F_Text_GreatHereYouGo::
     .string "¡Aquí tienes!$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
-    .string "{PLAYER} recibió la MONEDA AMULETO\n"
-    .string "del AYUDANTE.$"
+    .string "{PLAYER} recibió la Moneda Amuleto\n"
+    .string "del Ayudante.$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
-    .string "Las MONEDAS AMULETO son objetos\n"
+    .string "Las Monedas Amuleto son objetos\n"
     .string "que debe llevar un Pokémon.\p"
     .string "Si ganas una batalla y su portador\n"
     .string "participa, ganarás más dinero.$"

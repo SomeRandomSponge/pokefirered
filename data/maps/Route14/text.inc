@@ -22,8 +22,8 @@ Route14_Text_MitchPostBattle::
     .string "aprender mejores movimientos.$"
 
 Route14_Text_BeckIntro::
-    .string "Tienen MTs a la venta en la TIENDA\n"
-    .string "DEPARTAMENTAL Prisma.\p"
+    .string "Tienen MTs a la venta en la Tienda\n"
+    .string "Departamental Prisma.\p"
     .string "Las MTs no son muy raras, pero\n"
     .string "poca gente tiene MOs.$"
 
@@ -37,7 +37,7 @@ Route14_Text_BeckPostBattle::
     .string "poder de ese ataque.$"
 
 Route14_Text_MarlonIntro::
-    .string "¿Les enseñaste a VOLAR a tus\n"
+    .string "¿Les enseñaste a Volar a tus\n"
     .string "Pokémon pájaros?\p"
     .string "¡Serás capaz de elevarte al cielo\n"
     .string "con ellos!$"
@@ -61,8 +61,8 @@ Route14_Text_DonaldDefeat::
 Route14_Text_DonaldPostBattle::
     .string "Bueno, los espejismos alados son\n"
     .string "legendarias aves Pokémon.\p"
-    .string "Existen tres: ARTICUNO, ZAPDOS,\n"
-    .string "y MOLTRES.$"
+    .string "Existen tres: Articuno, Zapdos,\n"
+    .string "y Moltres.$"
 
 Route14_Text_BennyIntro::
     .string "No es lo mío, pero esta bien.\n"
@@ -127,33 +127,33 @@ Route14_Text_RouteSign::
     .string "Al oeste de Ciudad Fucsia$"
 
 Route14_Text_KiriIntro::
-    .string "KIRI: JAN, esforcémonos mucho,\n"
+    .string "Kiri: Jan, esforcémonos mucho,\n"
     .string "mucho juntas.$"
 
 Route14_Text_KiriDefeat::
-    .string "KIRI: Ayy…\n"
+    .string "Kiri: Ayy…\n"
     .string "¿Perdimos, verdad?$"
 
 Route14_Text_KiriPostBattle::
-    .string "KIRI: ¿Perdimos por mi culpa?$"
+    .string "Kiri: ¿Perdimos por mi culpa?$"
 
 Route14_Text_KiriNotEnoughMons::
-    .string "KIRI: Podemos luchar si tienes dos\n"
+    .string "Kiri: Podemos luchar si tienes dos\n"
     .string "Pokémon.$"
 
 Route14_Text_JanIntro::
-    .string "JAN: ¡KIRI, allá vamos!\n"
+    .string "Jan: ¡Kiri, allá vamos!\n"
     .string "¡Tenemos que esforzarnos mucho!$"
 
 Route14_Text_JanDefeat::
-    .string "JAN: ¡Eeeeh!\n"
+    .string "Jan: ¡Eeeeh!\n"
     .string "¡No es justo!$"
 
 Route14_Text_JanPostBattle::
-    .string "JAN: ¡KIRI, no llores!\p"
+    .string "Jan: ¡Kiri, no llores!\p"
     .string "Nos esforzaremos más la próxima\n"
     .string "vez.$"
 
 Route14_Text_JanNotEnoughMons::
-    .string "JAN: ¿Quieres luchar?\n"
+    .string "Jan: ¿Quieres luchar?\n"
     .string "No tienes Pokémon suficientes.$"

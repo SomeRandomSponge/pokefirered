@@ -1,10 +1,10 @@
 Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
     .string "¡Hola! ¿me recuerdas?\n"
-    .string "Soy un AYUDANTE del PROF. Oak.\p"
+    .string "Soy un Ayudante del Prof. Oak.\p"
     .string "Si tu Pokédex tiene datos completos\n"
     .string "de 10 especies, se supone que\l"
     .string "debería darte una recompensa.\p"
-    .string "El PROF. Oak me encargo la\n"
+    .string "El Prof. Oak me encargo la\n"
     .string "MO05 para ti.\p"
     .string "Entonces, {PLAYER}, dime algo.\p"
     .string "¿Ya recolectaste datos de al menos\n"
@@ -18,16 +18,16 @@ Route2_EastBuilding_Text_GreatHereYouGo::
 
 Route2_EastBuilding_Text_ReceivedHM05FromAide::
     .string "{PLAYER} recibió MO05\n"
-    .string "del AYUDANTE.$"
+    .string "del Ayudante.$"
 
 Route2_EastBuilding_Text_ExplainHM05::
     .string "MO05 contiene el movimiento oculto\n"
-    .string "DESTELLO.\p"
-    .string "DESTELLO ilumina incluso las\n"
+    .string "Destello.\p"
+    .string "Destello ilumina incluso las\n"
     .string "cuevas y mazmorras más oscuras.$"
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel::
     .string "Una vez que un Pokémon aprenda\n"
-    .string "DESTELLO, podrás atravesar el\l"
-    .string "TÚNEL ROCA.$"
+    .string "Destello, podrás atravesar el\l"
+    .string "Túnel Roca.$"
 

@@ -53,34 +53,34 @@ Route21_South_Text_NolanPostBattle::
 	.string "¡Algo está picando! ¡sí!$"
 
 Route21_North_Text_LilIntro::
-	.string "LIL: ¿Uh? ¿una batalla?\n"
-	.string "¿IAN, no podrías hacerlo solo?$"
+	.string "Lil: ¿Uh? ¿una batalla?\n"
+	.string "¿Ian, no podrías hacerlo solo?$"
 
 Route21_North_Text_LilDefeat::
-	.string "LIL: Oh, ¿ves?\n"
+	.string "Lil: Oh, ¿ves?\n"
 	.string "Perdimos. ¿Ya estás contento?$"
 
 Route21_North_Text_LilPostBattle::
-	.string "LIL: Estoy cansada.\n"
+	.string "Lil: Estoy cansada.\n"
 	.string "¿Nos podemos ir a casa ya?$"
 
 Route21_North_Text_LilNotEnoughMons::
-	.string "LIL: ¿Uh? ¿una batalla?\n"
+	.string "Lil: ¿Uh? ¿una batalla?\n"
 	.string "Me da pereza hacerlo sola.\l"
 	.string "¿Trae dos Pokémon, quieres?$"
 
 Route21_North_Text_IanIntro::
-	.string "IAN: Mi hermana necesita hacer\n"
+	.string "Ian: Mi hermana necesita hacer\n"
 	.string "más ejercicio, así que la traje.$"
 
 Route21_North_Text_IanDefeat::
-	.string "IAN: ¡Awww, hermana!\n"
+	.string "Ian: ¡Awww, hermana!\n"
 	.string "¡Concéntrate!$"
 
 Route21_North_Text_IanPostBattle::
-	.string "IAN: ¡Vamos, hermana!\p"
+	.string "Ian: ¡Vamos, hermana!\p"
 	.string "¡Así no vas a bajar de peso!$"
 
 Route21_North_Text_IanNotEnoughMons::
-	.string "IAN: Queremos una batalla de dos\n"
+	.string "Ian: Queremos una batalla de dos\n"
 	.string "contra dos. ¿Puedes traer dos Pokémon?$"

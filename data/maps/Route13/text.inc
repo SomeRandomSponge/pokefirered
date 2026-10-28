@@ -3,8 +3,8 @@ Route13_Text_SebastianIntro::
     .string "luchar contigo!$"
 
 Route13_Text_SebastianDefeat::
-    .string "¿Mi combinación de PIDGEY y\n"
-    .string "PIDGEOTTO perdió?$"
+    .string "¿Mi combinación de Pidgey y\n"
+    .string "Pidgeotto perdió?$"
 
 Route13_Text_SebastianPostBattle::
     .string "Mis Pokémon se ven felices aunque\n"
@@ -19,19 +19,19 @@ Route13_Text_SusieDefeat::
     .string "¡Perdí!$"
 
 Route13_Text_SusiePostBattle::
-    .string "Quiero ser una buena ENTRENADORA.\n"
+    .string "Quiero ser una buena Entrenadora.\n"
     .string "Entrenaré mucho, ya verás.$"
 
 Route13_Text_ValerieIntro::
     .string "¡Guau!\n"
-    .string "¡Tus MEDALLAS son geniales!$"
+    .string "¡Tus Medallas son geniales!$"
 
 Route13_Text_ValerieDefeat::
     .string "¡No fue suficiente!$"
 
 Route13_Text_ValeriePostBattle::
-    .string "Conseguiste esas MEDALLAS de los\n"
-    .string "LÍDERES de Gimnasio. ¡Lo sé!$"
+    .string "Conseguiste esas Medallas de los\n"
+    .string "Líderes de Gimnasio. ¡Lo sé!$"
 
 Route13_Text_GwenIntro::
     .string "Mis lindos Pokémon quieren\n"
@@ -46,7 +46,7 @@ Route13_Text_GwenPostBattle::
     .string "luchen para fortalecerlos.$"
 
 Route13_Text_AlmaIntro::
-    .string "Una vez encontré CARBURANTE en\n"
+    .string "Una vez encontré Carbohidratos en\n"
     .string "una cueva mientras exploraba.$"
 
 Route13_Text_AlmaDefeat::
@@ -54,7 +54,7 @@ Route13_Text_AlmaDefeat::
     .string "¡Lo arruiné!$"
 
 Route13_Text_AlmaPostBattle::
-    .string "CARBURANTE aumentó la Velocidad\n"
+    .string "Carbohidratos aumentó la Velocidad\n"
     .string "de mis Pokémon.$"
 
 Route13_Text_PerryIntro::
@@ -66,7 +66,7 @@ Route13_Text_PerryDefeat::
 
 Route13_Text_PerryPostBattle::
     .string "Perdí.\n"
-    .string "Creo que me iré a casa con VUELO.$"
+    .string "Creo que me iré a casa con Vuelo.$"
 
 Route13_Text_LolaIntro::
     .string "Claro, jugaré contigo, cielo.$"
@@ -109,8 +109,8 @@ Route13_Text_RobertDefeat::
     .string "¡Me quedé sin energía!$"
 
 Route13_Text_RobertPostBattle::
-    .string "Ojalá pudiera volar como PIDGEY\n"
-    .string "y PIDGEOTTO…$"
+    .string "Ojalá pudiera volar como Pidgey\n"
+    .string "y Pidgeotto…$"
 
 Route13_Text_LookToLeftOfThatPost::
     .string "Consejos para Entrenadores\p"
@@ -119,10 +119,10 @@ Route13_Text_LookToLeftOfThatPost::
 
 Route13_Text_SelectToSwitchItems::
     .string "Consejos para Entrenadores\p"
-    .string "Usa SELECT para cambiar objetos en\n"
-    .string "la ventana de OBJETOS.$"
+    .string "Usa Select para cambiar objetos en\n"
+    .string "la ventana de Objetos.$"
 
 Route13_Text_RouteSign::
     .string "Ruta 13\n"
-    .string "PUENTE SILENCIO, al norte$"
+    .string "Puente Silencio, al norte$"
 

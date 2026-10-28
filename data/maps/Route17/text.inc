@@ -7,7 +7,7 @@ Route17_Text_RaulDefeat::
 
 Route17_Text_RaulPostBattle::
     .string "Puedes encontrar cosas buenas por\n"
-    .string "la CICLOVÍA.\p"
+    .string "la Ciclovía.\p"
     .string "El recogerlas y venderlas puede\n"
     .string "dejar un buen dinero.$"
 
@@ -33,7 +33,7 @@ Route17_Text_VirgilPostBattle::
     .string "¡Amo las carreras cuesta abajo!$"
 
 Route17_Text_BillyIntro::
-    .string "¡Somos MOTORISTAS!\n"
+    .string "¡Somos Motoristas!\n"
     .string "¡Dominamos los caminos, viejo!$"
 
 Route17_Text_BillyDefeat::
@@ -43,14 +43,14 @@ Route17_Text_BillyPostBattle::
     .string "¿Estás buscando aventuras?$"
 
 Route17_Text_NikolasIntro::
-    .string "¡Deja que VOLTORB te electrifique!$"
+    .string "¡Deja que Voltorb te electrifique!$"
 
 Route17_Text_NikolasDefeat::
     .string "¡Su electricidad fue a la tierra!$"
 
 Route17_Text_NikolasPostBattle::
-    .string "Obtuve a mis VOLTORB en la\n"
-    .string "CENTRAL DE ENERGÍA abandonada.$"
+    .string "Obtuve a mis Voltorb en la\n"
+    .string "Central de Energía abandonada.$"
 
 Route17_Text_ZeekIntro::
     .string "Subí de nivel a mi Pokémon, pero\n"
@@ -61,7 +61,7 @@ Route17_Text_ZeekDefeat::
 
 Route17_Text_ZeekPostBattle::
     .string "Tal vez algunos Pokémon necesitan\n"
-    .string "PIEDRAS elementales para\l"
+    .string "Piedras elementales para\l"
     .string "evolucionar.$"
 
 Route17_Text_JamalIntro::
@@ -85,7 +85,7 @@ Route17_Text_CoreyPostBattle::
     .string "creencias!$"
 
 Route17_Text_JaxonIntro::
-    .string "¡Bonita BICI!\n"
+    .string "¡Bonita Bici!\n"
     .string "¿Qué tan bien se maneja?$"
 
 Route17_Text_JaxonDefeat::
@@ -130,6 +130,6 @@ Route17_Text_DontThrowGameThrowBalls::
     .string "Pokébolas!$"
 
 Route17_Text_CyclingRoadSign::
-    .string "CICLOVÍA\n"
+    .string "Ciclovía\n"
     .string "¡El descenso acaba aquí!$"
 

@@ -1,9 +1,9 @@
 Route18_EastEntrance_1F_Text_NeedBicycleForCyclingRoad::
-    .string "¡Necesitas una BICICLETA para ir\n"
-    .string "a la CICLOVÍA!$"
+    .string "¡Necesitas una Bicicleta para ir\n"
+    .string "a la Ciclovía!$"
 
 Route18_EastEntrance_1F_Text_CyclingRoadAllUphillFromHere::
-    .string "Toda la CICLOVÍA va cuesta arriba\n"
+    .string "Toda la Ciclovía va cuesta arriba\n"
     .string "desde aquí.$"
 
 Route18_EastEntrance_1F_Text_ExcuseMe::

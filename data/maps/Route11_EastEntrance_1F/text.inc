@@ -14,8 +14,8 @@ Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
     .string "sus apodos.$"
 
 Route11_EastEntrance_1F_Text_RockTunnelToReachLavender::
-    .string "Si tu objetivo es llegar a PUEBLO\n"
-    .string "Lavanda, ve por el TÚNEL ROCA.\p"
-    .string "Puedes llegar al TÚNEL ROCA desde\n"
+    .string "Si tu objetivo es llegar a Pueblo\n"
+    .string "Lavanda, ve por el Túnel Roca.\p"
+    .string "Puedes llegar al Túnel Roca desde\n"
     .string "Ciudad Celeste.$"
 

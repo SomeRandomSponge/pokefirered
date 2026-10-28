@@ -8,7 +8,7 @@ Route9_Text_AliciaDefeat::
 Route9_Text_AliciaPostBattle::
     .string "El túnel cerca de aquí está\n"         /* (E) "The tunnel coming up is pitch-black\n" */
     .string "totalmente oscuro.\p"                  /* (E) "inside.\p" */
-    .string "Necesitarás DESTELLO para poder\n"     /* (E) "You'll need FLASH to get through\n" */
+    .string "Necesitarás Destello para poder\n"     /* (E) "You'll need FLASH to get through\n" */
     .string "cruzarlo.$"                            /* (E) "there.$" */
 
 Route9_Text_ChrisIntro::
@@ -22,14 +22,14 @@ Route9_Text_ChrisPostBattle::
     .string "¡Sigue caminando!$"                    /* (E) "Keep walking!$" */
 
 Route9_Text_DrewIntro::
-    .string "Tomaré el TÚNEL ROCA para ir a\n"      /* (E) "I'm taking the ROCK TUNNEL to\n" */
+    .string "Tomaré el Túnel Roca para ir a\n"      /* (E) "I'm taking the ROCK TUNNEL to\n" */
     .string "Pueblo Lavanda…$"                      /* (E) "go to LAVENDER…$" */
 
 Route9_Text_DrewDefeat::
     .string "No me puedo comparar…$"                /* (E) "Can't measure up…$" */
 
 Route9_Text_DrewPostBattle::
-    .string "¿Vas a ir al TÚNEL ROCA también?$"     /* (E) "Are you off to ROCK TUNNEL, too?$" */
+    .string "¿Vas a ir al Túnel Roca también?$"     /* (E) "Are you off to ROCK TUNNEL, too?$" */
 
 Route9_Text_CaitlinIntro::
     .string "¡No te atrevas a subestimarme!$"       /* (E) "Don't you dare patronize me!$" */
@@ -91,16 +91,16 @@ Route9_Text_AlanPostBattle::
     .string "¡Los robustos siempre nos reímos!$"    /* (E) "Us hearty guys always laugh!$" */
 
 Route9_Text_ConnerIntro::
-    .string "¡Vamos, súper Pokémon INSECTOS!$"      /* (E) "Go, my super BUG Pokémon!$" */
+    .string "¡Vamos, súper Pokémon Insectos!$"      /* (E) "Go, my super BUG Pokémon!$" */
 
 Route9_Text_ConnerDefeat::
     .string "Mis insectos…$"                        /* (E) "My bugs…$" */
 
 Route9_Text_ConnerPostBattle::
     .string "¡Si no te gustan los Pokémon\n"        /* (E) "If you don't like BUG Pokémon,\n" */
-    .string "INSECTO, me molestas!$"                /* (E) "you bug me!$" */
+    .string "Insectos, me molestas!$"                /* (E) "you bug me!$" */
 
 Route9_Text_RouteSign::
     .string "Ruta 9\n"                              /* (E) "ROUTE 9\n" */
-    .string "Ciudad Celeste - TÚNEL ROCA$"          /* (E) "CERULEAN CITY - ROCK TUNNEL$" */
+    .string "Ciudad Celeste - Túnel Roca$"          /* (E) "CERULEAN CITY - ROCK TUNNEL$" */
 

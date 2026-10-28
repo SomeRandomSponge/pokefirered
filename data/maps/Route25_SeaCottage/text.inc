@@ -2,7 +2,7 @@ Route25_SeaCottage_Text_ImBillHelpMeOutPal::
     .string "¡Hola! soy un Pokémon…\n"
     .string "…¡No, no lo soy!\p"
     .string "¡Llámame Bill!\n"
-    .string "¡Soy un verdadero POKéMANÍACO!\p"
+    .string "¡Soy un verdadero Pokémaniaco!\p"
     .string "¡Ey!\n"
     .string "¿Por qué esa mirada escéptica?\p"
     .string "No te bromeo, amigo.\p"
@@ -15,7 +15,7 @@ Route25_SeaCottage_Text_ImBillHelpMeOutLady::
     .string "¡Hola! soy un Pokémon…\n"
     .string "…¡No, no lo soy!\p"
     .string "¡Llámame Bill!\n"
-    .string "¡Soy un verdadero POKéMANÍACO!\p"
+    .string "¡Soy un verdadero Pokémaniaco!\p"
     .string "¡Ey!\n"
     .string "¿Por qué esa mirada escéptica?\p"
     .string "No te bromeo, señorita.\p"
@@ -26,7 +26,7 @@ Route25_SeaCottage_Text_ImBillHelpMeOutLady::
 
 Route25_SeaCottage_Text_RunCellSeparationOnPC::
     .string "Espera hasta que entre al\n"
-    .string "TELETRANSPORTADOR.\p"
+    .string "Teletransportador.\p"
     .string "Cuando entre, ve a mi PC y ejecuta\n"
     .string "el Sistema de Separación Celular.$"
 
@@ -71,14 +71,14 @@ Route25_SeaCottage_Text_ThanksLadyTakeThis::
     .string "Oh, aquí, puede que esto sirva.$"
 
 Route25_SeaCottage_Text_ReceivedSSTicketFromBill::
-    .string "{PLAYER} recibió un BOLETO SANTA\n"
-    .string "ANA de Bill.$"
+    .string "{PLAYER} recibió un Boleto del\n"
+    .string "Barco de Bill.$"
 
 Route25_SeaCottage_Text_YouveGotTooMuchStuff::
     .string "¡Llevas demasiadas cosas!$"
 
 Route25_SeaCottage_Text_SSAnnePartyYouGoInstead::
-    .string "Ese crucero llamado SANTA ANA\n"
+    .string "Ese crucero llamado Santa Ana\n"
     .string "está en Ciudad Carmín.\p"
     .string "También oí que hay muchos\n"
     .string "Entrenadores a bordo.\p"
@@ -94,11 +94,11 @@ Route25_SeaCottage_Text_CheckOutRareMonsOnPC::
 
 Route25_SeaCottage_Text_TeleporterIsDisplayed::
     .string "En el monitor de la PC aparece\n"
-    .string "el texto: TELETRANSPORTADOR$"
+    .string "el texto: Teletransportador$"
 
 Route25_SeaCottage_Text_InitiatedTeleportersCellSeparator::
     .string "{PLAYER} inició el Separador\n"
-    .string "Celular del TELETRANSPORTADOR.$"
+    .string "Celular del Teletransportador.$"
 
 Route25_SeaCottage_Text_BillsFavoriteMonList::
     .string "¡La lista de Pokémon favoritos\n"

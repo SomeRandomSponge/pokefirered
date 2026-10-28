@@ -1,5 +1,5 @@
 Route5_PokemonDayCare_Text_WantMeToRaiseMon::
-	.string "Soy el encargado de la GUARDERÍA.\p"
+	.string "Soy el encargado de la Guardería.\p"
 	.string "¿Te gustaría que cuide a uno\n"
 	.string "de tus Pokémon?$"
 
@@ -35,7 +35,7 @@ Route5_PokemonDayCare_Text_ThankYouHeresMon::
 
 Route5_PokemonDayCare_Text_PlayerGotMonBack::
 	.string "{PLAYER} obtuvo a {STR_VAR_1} de\n"
-	.string "vuelta del HOMBRE de la GUARDERÍA.$"
+	.string "vuelta del Hombre de la Guardería.$"
 
 Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYou::
 	.string "¿Oh? Solo tienes un Pokémon\n"

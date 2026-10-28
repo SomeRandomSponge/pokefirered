@@ -4,7 +4,7 @@ Route6_NorthEntrance_Text_ThirstyOnGuardDuty::
     .string "Espera, el camino está cerrado.$"
 
 Route6_NorthEntrance_Text_ThatTeaLooksTasty::
-    .string "Oh, ese TÉ…\n"
+    .string "Oh, ese Té…\n"
     .string "Se ve delicioso…$"
 
 Route6_NorthEntrance_Text_ThanksIllShareTeaWithGuards::
@@ -18,7 +18,7 @@ Route6_NorthEntrance_Text_ThanksIllShareTeaWithGuards::
     .string "Azafrán…\l"
     .string "… …\l"
     .string "Puedes pasar.\p"
-    .string "¡Compartiré este TÉ con los otros\n"
+    .string "¡Compartiré este Té con los otros\n"
     .string "guardas!$"
 
 Route6_NorthEntrance_Text_HiHowsItGoing::

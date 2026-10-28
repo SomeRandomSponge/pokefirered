@@ -1,6 +1,6 @@
 Route10_Text_MarkIntro::
     .string "¿Wow, viniste hasta aquí?\n"             /* (E) "Wow, you came all the way here?\n" */
-    .string "¿También eres un{OA} POKéMANÍAC{OAM}?\l" /* (E) "Maybe you're a POKéMANIAC, too?\l" */
+    .string "¿También eres un{OA} Pokémaniac{OA}?\l" /* (E) "Maybe you're a POKéMANIAC, too?\l" */
     .string "¿Quieres ver mi colección?$"             /* (E) "Want to see my collection?$" */
 
 Route10_Text_MarkDefeat::
@@ -45,7 +45,7 @@ Route10_Text_HeidiDefeat::
     .string "¡Después de tanto entrenamiento!$"       /* (E) "After all my training!$" */
 
 Route10_Text_HeidiPostBattle::
-    .string "Ví a algunos POKéMANÍACOS\n"             /* (E) "I noticed some POKéMANIACS\n" */
+    .string "Ví a algunos Pokémaniacos\n"             /* (E) "I noticed some POKéMANIACS\n" */
     .string "merodeando por aquí.\p"                  /* (E) "prowling around.\p" */
     .string "¿Puedes imaginarlo? ¿Ellos?\n"           /* (E) "Can you imagine? Them?\n" */
     .string "¿Aquí en las montañas?$"                 /* (E) "Up here in the mountains?$" */
@@ -75,12 +75,12 @@ Route10_Text_CarolPostBattle::
     .string "rosado con flores!$"                     /* (E) "with a floral pattern!$" */
 
 Route10_Text_RockTunnelDetourToLavender::
-    .string "TÚNEL ROCA\n"                            /* (E) "ROCK TUNNEL\n" */
+    .string "Túnel Roca\n"                            /* (E) "ROCK TUNNEL\n" */
     .string "Desvío a Pueblo Lavanda$"                /* (E) "Detour to LAVENDER TOWN$" */
 
 Route10_Text_RockTunnel::
-    .string "TÚNEL ROCA$"                             /* (E) "ROCK TUNNEL$" */
+    .string "Túnel Roca$"                             /* (E) "ROCK TUNNEL$" */
 
 Route10_Text_PowerPlant::
-    .string "CENTRAL ENERGÍA$"                        /* (E) "POWER PLANT$" */
+    .string "Central Energía$"                        /* (E) "POWER PLANT$" */
 

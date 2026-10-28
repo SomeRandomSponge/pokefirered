@@ -1,11 +1,11 @@
 Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
     .string "¡Hola! ¿me recuerdas?\n"
-    .string "Soy uno de los AYUDANTES del\l"
-    .string "PROF. Oak.\p"
+    .string "Soy uno de los Ayudantes del\l"
+    .string "Prof. Oak.\p"
     .string "Si tu Pokédex tiene datos completos\n"
     .string "de {STR_VAR_1} especies, se supone que\l"
     .string "debería darte una recompensa.\p"
-    .string "El PROF. Oak me encargo un\n"
+    .string "El Prof. Oak me encargo un\n"
     .string "{STR_VAR_2} para ti.\p"
     .string "Entonces, {PLAYER}, dime algo.\p"
     .string "¿Ya recolectaste datos de al menos\n"
@@ -19,12 +19,12 @@ Route11_EastEntrance_2F_Text_GreatHereYouGo::
 
 Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
     .string "{PLAYER} recibió {STR_VAR_2}\n"
-    .string "del AYUDANTE.$"
+    .string "del Ayudante.$"
 
 Route11_EastEntrance_2F_Text_ExplainItemfinder::
     .string "Hay objetos en el suelo que pueden\n"
     .string "estar ocultos a la vista.\p"
-    .string "Usa el BUSCA OBJETOS para detectar\n"
+    .string "Usa el Detector para detectar\n"
     .string "objetos ocultos cerca de ti.\p"
     .string "Pero es un poco limitado.\n"
     .string "No puede localizar objetos con\l"
@@ -50,6 +50,6 @@ Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender::
     .string "tienen para mostrar…\p"
     .string "Para llegar a Pueblo Lavanda desde\n"
     .string "Ciudad Celeste…\p"
-    .string "parece que ir por el TÚNEL ROCA\n"
+    .string "parece que ir por el Túnel Roca\n"
     .string "sería una buena ruta.$"
 

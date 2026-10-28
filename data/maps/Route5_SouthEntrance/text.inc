@@ -4,7 +4,7 @@ Route5_SouthEntrance_Text_ThirstyOnGuardDuty::
     .string "Oh, espera, el camino fue cerrado.$"
 
 Route5_SouthEntrance_Text_ThatTeaLooksTasty::
-    .string "Oh, ese TÉ…\n"
+    .string "Oh, ese Té…\n"
     .string "Parece que está delicioso…$"
 
 Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
@@ -18,7 +18,7 @@ Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
     .string "Azafrán…\l"
     .string "… …\l"
     .string "Puedes pasar.\p"
-    .string "¡Compartiré este TÉ con los otros\n"
+    .string "¡Compartiré este Té con los otros\n"
     .string "guardias!$"
 
 Route5_SouthEntrance_Text_HiHowsItGoing::

@@ -1,6 +1,6 @@
 Route4_Text_TrippedOverGeodude::
     .string "¡Ouch! ¡Tropecé con un Pokémon\n"
-    .string "rocoso, GEODUDE!$"
+    .string "rocoso, Geodude!$"
 
 Route4_Text_CrissyIntro::
     .string "I came to MT. MOON in search of\n"
@@ -15,25 +15,25 @@ Route4_Text_CrissyPostBattle::
     .string "I think I got them all.$"
 
 Route4_Text_MtMoonEntrance::
-    .string "MONTE LUNA\n"
+    .string "Monte Luna\n"
     .string "Entrada al túnel$"
 
 Route4_Text_RouteSign::
     .string "Ruta 4\n"
-    .string "MONTE LUNA - Ciudad Celeste$"
+    .string "Monte Luna - Ciudad Celeste$"
 
 Text_MegaPunchTeach::
     .string "¡Un puño de ferocidad rugiente!\p"
     .string "¡Lleno de poder destructivo!\p"
     .string "¡Cuando no queda energía,\n"
-    .string "MEGA PUÑO es el ataque definitivo!\l"
+    .string "Megapuño es el ataque definitivo!\l"
     .string "¿Estás de acuerdo?\p"
     .string "¡Ahora!\n" 
     .string "¡Déjame enseñarselo a un Pokémon!$"
 
 Text_MegaPunchDeclined::
     .string "Regresarás cuando entiendas el\n"
-    .string "valor del MEGA PUÑO.$"
+    .string "valor del Megapuño.$"
 
 Text_MegaPunchWhichMon::
     .string "¡Bien!\n"
@@ -50,14 +50,14 @@ Text_MegaKickTeach::
     .string "¡Una patada de ferocidad brutal!\p"
     .string "¡Llena de poder destructivo!\p"
     .string "Cuando quieres ser direct{OA},\n"
-    .string "MEGA PATADA es el ataque definitivo!\l"
+    .string "Megapatada es el ataque definitivo!\l"
     .string "¿No estás de acuerdo?\p"
     .string "¡Bien!\n"
     .string "¡Déjame enseñarselo a un Pokémon!$"
 
 Text_MegaKickDeclined::
     .string "Vendrás arrastrandote cuando\n"
-    .string "entiendas el valor de MEGA PATADA.$"
+    .string "entiendas el valor de Megapatada.$"
 
 Text_MegaKickWhichMon::
     .string "¡De acuerdo!\n"
@@ -71,7 +71,7 @@ Text_MegaKickTaught::
     .string "solo entrena sus simples puños.$"
 
 Route4_Text_PeopleLikeAndRespectBrock::
-    .string "¡Vaya, esa es la MEDALLA ROCA!\n"
+    .string "¡Vaya, esa es la Medalla Roca!\n"
     .string "Te la dio Brock, ¿cierto?\p"
     .string "Brock es además de fuerte, genial.\n"
     .string "Todos lo respetan y admiran.\p"

@@ -1,11 +1,11 @@
 Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
     .string "¡Hola! ¿me recuerdas?\n"
-    .string "Soy uno de los AYUDANTES del\l"
-    .string "PROF. Oak.\p"
+    .string "Soy uno de los Ayudantes del\l"
+    .string "Prof. Oak.\p"
     .string "Si tu Pokédex tiene datos completos\n"
     .string "de {STR_VAR_1} especies, se supone que\l"
     .string "debería darte una recompensa.\p"
-    .string "El PROF. Oak me encargo un\n"
+    .string "El Prof. Oak me encargo un\n"
     .string "{STR_VAR_2} para ti.\p"
     .string "Entonces, {PLAYER}, dime algo.\p"
     .string "¿Ya recolectaste datos de al menos\n"
@@ -19,13 +19,13 @@ Route15_WestEntrance_2F_Text_GreatHereYouGo::
 
 Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
     .string "{PLAYER} recibió {STR_VAR_2}\n"
-    .string "del AYUDANTE.$"
+    .string "del Ayudante.$"
 
 Route15_WestEntrance_2F_Text_ExplainExpShare::
-    .string "REPARTIR EXP. es un objeto que\n"
+    .string "Divide Experiencia es un objeto que\n"
     .string "debe llevar un Pokémon.\p"
     .string "El Pokémon recibirá parte de los\n"
-    .string "puntos de EXP. obtenidos en\l"
+    .string "puntos de Exp. obtenidos en\l"
     .string "batalla sin tener que luchar.$"
 
 Route15_WestEntrance_2F_Text_LargeShiningBird::

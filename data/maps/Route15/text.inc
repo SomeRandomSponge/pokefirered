@@ -9,7 +9,7 @@ Route15_Text_KindraDefeat::
 Route15_Text_KindraPostBattle::
     .string "No puedes cambiar los apodos de\n"
     .string "Pokémon obtenidos en intercambios.\p"
-    .string "Solo su Entrenador ORIGINAL puede\n"
+    .string "Solo su Entrenador Original puede\n"
     .string "cambiarle el apodo.$"
 
 Route15_Text_BeckyIntro::
@@ -21,7 +21,7 @@ Route15_Text_BeckyDefeat::
     .string "¡No, mal!$"
 
 Route15_Text_BeckyPostBattle::
-    .string "Los MOTORISTAS me dan miedo. ¡Son\n"
+    .string "Los Motoristas me dan miedo. ¡Son\n"
     .string "tan feos y crueles!$"
 
 Route15_Text_EdwinIntro::
@@ -47,7 +47,7 @@ Route15_Text_ChesterDefeat::
 Route15_Text_ChesterPostBattle::
     .string "Esto es tan obvio, debes de\n"
     .string "saberlo, pero…\p"
-    .string "Ataques como TERREMOTO y FISURA no\n"
+    .string "Ataques como Terremoto y Fisura no\n"
     .string "tienen efecto en Pokémon pájaros.$"
 
 Route15_Text_GraceIntro::
@@ -124,36 +124,36 @@ Route15_Text_RouteSign::
     .string "Al oeste de Ciudad Fucsia$"
 
 Route15_Text_MyaIntro::
-    .string "MYA: Eres {ELLA} indicad{OA}.\p"
+    .string "Mya: Eres {ELLA} indicad{OA}.\p"
     .string "¿Me ayudas a entrenar a mi\n"
     .string "hermanito?$"
 
 Route15_Text_MyaDefeat::
-    .string "MYA: ¡RON, debes concentrarte!\n"
+    .string "Mya: ¡Ron, debes concentrarte!\n"
     .string "¡Concéntrate en lo que haces!$"
 
 Route15_Text_MyaPostBattle::
-    .string "MYA: Bien, mejoraremos.\p"
+    .string "Mya: Bien, mejoraremos.\p"
     .string "¡Te añadiré a nuestro menú de\n"
     .string "entrenamientos!$"
 
 Route15_Text_MyaNotEnoughMons::
-    .string "MYA: ¿Quieres desafiarnos?\n"
+    .string "Mya: ¿Quieres desafiarnos?\n"
     .string "Necesitas dos Pokémon.$"
 
 Route15_Text_RonIntro::
-    .string "RON: Mi hermana se asusta cuando\n"
+    .string "Ron: Mi hermana se asusta cuando\n"
     .string "perdemos.$"
 
 Route15_Text_RonDefeat::
-    .string "RON: Oh, no, no…\n"
+    .string "Ron: Oh, no, no…\n"
     .string "¡Hermana, lo siento!$"
 
 Route15_Text_RonPostBattle::
-    .string "RON: Oh, bleh…\n"
+    .string "Ron: Oh, bleh…\n"
     .string "Quisiera tener una hermana amable…$"
 
 Route15_Text_RonNotEnoughMons::
-    .string "RON: ¿Quieres luchar con mi\n"
+    .string "Ron: ¿Quieres luchar con mi\n"
     .string "hermana y conmigo?\p"
     .string "Entonces necesitas dos Pokémon.$"

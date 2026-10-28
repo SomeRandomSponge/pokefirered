@@ -18,7 +18,7 @@ Route19_Text_ReeceDefeat::
     .string "¡Qué frí{OA}!$"
 
 Route19_Text_ReecePostBattle::
-    .string "Cuidado con los TENTACOOL.\n"
+    .string "Cuidado con los Tentacool.\n"
     .string "Su picadura duele mucho.$"
 
 Route19_Text_MatthewIntro::
@@ -73,7 +73,7 @@ Route19_Text_AnyaDefeat::
 
 Route19_Text_AnyaPostBattle::
     .string "Aún queda un largo camino hasta\n"
-    .string "las ISLAS ESPUMA…\p"
+    .string "las Islas Espuma…\p"
     .string "Quiero regresar a Fucsia…$"
 
 Route19_Text_AliceIntro::
@@ -85,7 +85,7 @@ Route19_Text_AliceDefeat::
 
 Route19_Text_AlicePostBattle::
     .string "Mi novio quería nadar hasta\n"
-    .string "las ISLAS ESPUMA.$"
+    .string "las Islas Espuma.$"
 
 Route19_Text_AxleIntro::
     .string "¡Ajoy!\n"
@@ -108,45 +108,45 @@ Route19_Text_ConnieDefeat::
 
 Route19_Text_ConniePostBattle::
     .string "Si tuviera que ir sobre un Pokémon\n"
-    .string "en el mar, elegiría a LAPRAS.\p"
-    .string "Los LAPRAS son grandes, seguro me\n"
+    .string "en el mar, elegiría a Lapras.\p"
+    .string "Los Lapras son grandes, seguro me\n"
     .string "mantendría seca en el agua.$"
 
 Route19_Text_RouteSign::
-    .string "Ruta MARINA 19\n"
-    .string "Ciudad Fucsia - ISLAS ESPUMA$"
+    .string "Ruta Marina 19\n"
+    .string "Ciudad Fucsia - Islas Espuma$"
 
 Route19_Text_LiaIntro::
-    .string "LIA: Estoy cuidando a mi hermano.\n"
+    .string "Lia: Estoy cuidando a mi hermano.\n"
     .string "Acaba de hacerse Entrenador.$"
 
 Route19_Text_LiaDefeat::
-    .string "LIA: ¡Ésa no es forma de tratar\n"
+    .string "Lia: ¡Ésa no es forma de tratar\n"
     .string "a mi hermanito!$"
 
 Route19_Text_LiaPostBattle::
-    .string "LIA: ¿Tienes un hermano menor?\p"
+    .string "Lia: ¿Tienes un hermano menor?\p"
     .string "Espero que le estes enseñando todo\n"
     .string "tipo de cosas.$"
 
 Route19_Text_LiaNotEnoughMons::
-    .string "LIA: Quiero luchar junto a mi\n"
+    .string "Lia: Quiero luchar junto a mi\n"
     .string "hermanito.\p"
     .string "¿No tienes dos Pokémon?$"
 
 Route19_Text_LucIntro::
-    .string "LUC: Mi hermana mayor me enseño\n"
+    .string "Luc: Mi hermana mayor me enseño\n"
     .string "a nadar y a entrenar Pokémon.$"
 
 Route19_Text_LucDefeat::
-    .string "LUC: ¡Oh, guau!\n"
+    .string "Luc: ¡Oh, guau!\n"
     .string "¡Eres más fuerte que mi hermana!$"
 
 Route19_Text_LucPostBattle::
-    .string "LUC: Mi hermana mayor es fuerte\n"
+    .string "Luc: Mi hermana mayor es fuerte\n"
     .string "y amable. ¡Creo que es asombrosa!$"
 
 Route19_Text_LucNotEnoughMons::
-    .string "LUC: No quiero hacerlo si no puedo\n"
+    .string "Luc: No quiero hacerlo si no puedo\n"
     .string "luchar junto a mi hermana mayor.\p"
     .string "¿No tienes dos Pokémon?$"

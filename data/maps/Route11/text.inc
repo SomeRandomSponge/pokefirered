@@ -83,7 +83,7 @@ Route11_Text_YasuDefeat::
     .string "fuertes!$"
 
 Route11_Text_YasuPostBattle::
-    .string "Hay un POKÉMON gordo que llega\n"
+    .string "Hay un Pokémon gordo que llega\n"
     .string "bajando de las montañas.\p"
     .string "Apuesto a que sería fuerte si lo\n"
     .string "pudieras atrapar.$"
@@ -100,7 +100,7 @@ Route11_Text_BerniePostBattle::
     .string "trabajo.$"
 
 Route11_Text_DaveIntro::
-    .string "Críe a mis POKÉMON con cuidado.\n"
+    .string "Críe a mis Pokémon con cuidado.\n"
     .string "¡Ya deberían estar listos!$"
 
 Route11_Text_DaveDefeat::
@@ -112,5 +112,5 @@ Route11_Text_DavePostBattle::
     .string "¡Mejor buscaré unos más fuertes!$"
 
 Route11_Text_DiglettsCave::
-    .string "CUEVA DIGLETT$"
+    .string "Cueva Diglett$"
 

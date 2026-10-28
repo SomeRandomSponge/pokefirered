@@ -1,4 +1,4 @@
 Route23_Text_VictoryRoadGateSign::
-    .string "ENTRADA AL CAMINO VICTORIA -\n"
+    .string "Entrada al Camino Victoria -\n"
     .string "Liga Pokémon$"
 

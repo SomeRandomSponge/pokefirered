@@ -9,14 +9,14 @@ Route16_Text_LaoPostBattle::
     .string "¿A ti qué te pasa?$"
 
 Route16_Text_KojiIntro::
-    .string "¡Bonita BICICLETA!\n"
+    .string "¡Bonita Bicicleta!\n"
     .string "¡Dámela!$"
 
 Route16_Text_KojiDefeat::
     .string "¡Fuera de combate!$"
 
 Route16_Text_KojiPostBattle::
-    .string "¡Olvídalo, nadie necesita tu BICI!$"
+    .string "¡Olvídalo, nadie necesita tu Bici!$"
 
 Route16_Text_LukeIntro::
     .string "¡Ven y sal a jugar, ratoncit{OA}!$"
@@ -72,44 +72,44 @@ Route16_Text_MonSprawledOutInSlumber::
 
 Route16_Text_CyclingRoadSign::
     .string "¡Disfruta el descenso!\n"
-    .string "CICLOVÍA$"
+    .string "Ciclovía$"
 
 Route16_Text_RouteSign::
     .string "Ruta 16\n"
     .string "Ciudad Prisma - Ciudad Fucsia$"
 
 Route16_Text_JedIntro::
-    .string "JED: Nuestro amor no conoce\n"
+    .string "Jed: Nuestro amor no conoce\n"
     .string "barreras.\p"
     .string "¡Estamos enamorados y lo\n"
     .string "demostramos!$"
 
 Route16_Text_JedDefeat::
-    .string "JED: ¡Oh, no!\n"
+    .string "Jed: ¡Oh, no!\n"
     .string "¡Mi amor me vió como un perdedor!$"
 
 Route16_Text_JedPostBattle::
-    .string "JED: Escucha, LEA.\n"
+    .string "Jed: Escucha, Lea.\n"
     .string "Necesitas enfocarte menos en mí.$"
 
 Route16_Text_JedNotEnoughMons::
-    .string "JED: ¿Solo tienes un Pokémon?\n"
+    .string "Jed: ¿Solo tienes un Pokémon?\n"
     .string "¿Acaso no hay amor en tu corazón?$"
 
 Route16_Text_LeaIntro::
-    .string "LEA: A veces, la intensidad de\n"
+    .string "Lea: A veces, la intensidad de\n"
     .string "nuestro amor me asusta.$"
 
 Route16_Text_LeaDefeat::
-    .string "LEA: ¡Ohh! ¡pero JED se ve genial\n"
+    .string "Lea: ¡Ohh! ¡pero Jed se ve genial\n"
     .string "incluso al perder!$"
 
 Route16_Text_LeaPostBattle::
-    .string "LEA: Ejeje, lo siento.\n"
-    .string "JED es tan genial.$"
+    .string "Lea: Ejeje, lo siento.\n"
+    .string "Jed es tan genial.$"
 
 Route16_Text_LeaNotEnoughMons::
-    .string "LEA: Oh, ¿no tienes dos Pokémon\n"
+    .string "Lea: Oh, ¿no tienes dos Pokémon\n"
     .string "contigo?\p"
     .string "¿No se sienten solitarios tú o\n"
     .string "tu Pokémon?$"

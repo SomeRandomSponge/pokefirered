@@ -6,7 +6,7 @@ Route18_Text_WiltonDefeat::
     .string "¡Tch!$"
 
 Route18_Text_WiltonPostBattle::
-    .string "¡Ojalá tuviera una BICICLETA!$"
+    .string "¡Ojalá tuviera una Bicicleta!$"
 
 Route18_Text_RamiroIntro::
     .string "¡Kurukukuuu!\n"
@@ -35,6 +35,6 @@ Route18_Text_RouteSign::
     .string "Ciudad Prisma - Ciudad Fucsia$"
 
 Route18_Text_CyclingRoadSign::
-    .string "CICLOVÍA\n"
+    .string "Ciclovía\n"
     .string "¡No se permiten peatones!$"
 

@@ -14,11 +14,11 @@ Route21_North_Text_WadeIntro::
 	.string "¿Quierer ver?$"
 
 Route21_North_Text_WadeDefeat::
-	.string "Jeje, los MAGIKARP no son\n"
+	.string "Jeje, los Magikarp no son\n"
 	.string "suficiente, ¿verdad?$"
 
 Route21_North_Text_WadePostBattle::
-	.string "¡Parece que solo atrapo MAGIKARP!$"
+	.string "¡Parece que solo atrapo Magikarp!$"
 
 Route21_North_Text_SpencerIntro::
 	.string "¡El mar limpia mi cuerpo y mi\n"

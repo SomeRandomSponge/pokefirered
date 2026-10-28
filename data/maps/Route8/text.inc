@@ -28,11 +28,11 @@ Route8_Text_GlennDefeat::
     .string "¡Esto no es lógico!$"
 
 Route8_Text_GlennPostBattle::
-    .string "Usar a GRIMER primero…y…\n"
+    .string "Usar a Grimer primero…y…\n"
     .string "…y…entonces…$"
 
 Route8_Text_PaigeIntro::
-    .string "¡Me gustan los NIDORAN, así que\n"
+    .string "¡Me gustan los Nidoran, así que\n"
     .string "los colecciono!$"
 
 Route8_Text_PaigeDefeat::
@@ -58,14 +58,14 @@ Route8_Text_LesliePostBattle::
     .string "entradas en Azafrán.$"
 
 Route8_Text_AndreaIntro::
-    .string "¡MEOWTH es muy lindo, meow, meow,\n"
+    .string "¡Meowth es muy lindo, meow, meow,\n"
     .string "meow!$"
 
 Route8_Text_AndreaDefeat::
     .string "¡Meeeeyow!$"
 
 Route8_Text_AndreaPostBattle::
-    .string "¡Creo que PIDGEY y RATTATA también\n"
+    .string "¡Creo que Pidgey y Rattata también\n"
     .string "son lindos!$"
 
 Route8_Text_MeganIntro::
@@ -98,47 +98,47 @@ Route8_Text_JuliaIntro::
 
 Route8_Text_JuliaDefeat::
     .string "¡Detente!\p"
-    .string "¡No seas rud{OA} con mis CLEFAIRY!$"
+    .string "¡No seas rud{OA} con mis Clefairy!$"
 
 Route8_Text_JuliaPostBattle::
-    .string "Leí que CLEFAIRY evoluciona cuando\n"
-    .string "es expuesto a una PIEDRA LUNAR.\p"
-    .string "Lo leí en un DIARIO Pokémon.\n"
+    .string "Leí que Clefairy evoluciona cuando\n"
+    .string "es expuesto a una Piedra Lunar.\p"
+    .string "Lo leí en un Diario Pokémon.\n"
     .string "¿Será verdad?$"
 
 Route8_Text_UndergroundPathSign::
-    .string "VÍA SUBTERRÁNEA\n"
+    .string "Vía Subterránea\n"
     .string "Ciudad Prisma - Pueblo Lavanda$"
 
 Route8_Text_EliIntro::
-    .string "ELI: El poder de gemelas es\n"
+    .string "Eli: El poder de gemelas es\n"
     .string "fantástico. ¿Lo sabías?$"
 
 Route8_Text_EliDefeat::
-    .string "ELI: Pero…\n"
+    .string "Eli: Pero…\n"
     .string "Usamos nuestro poder de gemelas…$"
 
 Route8_Text_EliPostBattle::
-    .string "ELI: ¡Atrapé a mis Pokémon con\n"
-    .string "ANNE!$"
+    .string "Eli: ¡Atrapé a mis Pokémon con\n"
+    .string "Anne!$"
 
 Route8_Text_EliNotEnoughMons::
-    .string "ELI: No podemos luchar si no\n"
+    .string "Eli: No podemos luchar si no\n"
     .string "tienes dos Pokémon.$"
 
 Route8_Text_AnneIntro::
-    .string "ANNE: ¡Te asombraremos con nuestro\n"
+    .string "Anne: ¡Te asombraremos con nuestro\n"
     .string "poder de gemelas!$"
 
 Route8_Text_AnneDefeat::
-    .string "ANNE: Nuestro poder de gemelas…$"
+    .string "Anne: Nuestro poder de gemelas…$"
 
 Route8_Text_AnnePostBattle::
-    .string "ANNE: Estoy criando Pokémon con\n"
-    .string "ELI.$"
+    .string "Anne: Estoy criando Pokémon con\n"
+    .string "Eli.$"
 
 Route8_Text_AnneNotEnoughMons::
-    .string "ANNE: ¡Hola, hola! ¡Luchemos!\n"
+    .string "Anne: ¡Hola, hola! ¡Luchemos!\n"
     .string "Pero trae dos Pokémon.$"
 
 Route8_Text_RicardoIntro::

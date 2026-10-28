@@ -10,7 +10,7 @@ Route16_House_Text_ReceivedHM02FromGirl::
     .string "de la chica.$"
 
 Route16_House_Text_ExplainHM02::
-    .string "MO02 es VUELO.\n"
+    .string "MO02 es Vuelo.\n"
     .string "Es un movimiento súper conveniente.\p"
     .string "Por favor, dale un buen uso.$"
 
@@ -18,5 +18,5 @@ Route16_House_Text_DontHaveAnyRoomForThis::
     .string "No tienes espacio para esto.$"
 
 Route16_House_Text_Fearow::
-    .string "FEAROW: ¡Kyueen!$"
+    .string "Fearow: ¡Kyueen!$"
 

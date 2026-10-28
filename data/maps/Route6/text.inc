@@ -68,6 +68,6 @@ Route6_Text_ElijahPostBattle::
     .string "¿Tú que crees?$"
 
 Route6_Text_UndergroundPathSign::
-    .string "VÍA SUBTERRÁNEA\n"
+    .string "Vía Subterránea\n"
     .string "Ciudad Celeste - Ciudad Carmín$"
 

@@ -4,7 +4,7 @@ Route24_Text_JustEarnedFabulousPrize::
     .string "¡Te ganaste un fabuloso premio!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-    .string "¡{PLAYER} recibió una PEPITA\n"
+    .string "¡{PLAYER} recibió una Pepita de Oro\n"
     .string "del Entrenador misterioso!$"
 
 Route24_Text_YouDontHaveAnyRoom::
@@ -92,7 +92,7 @@ Route24_Text_AliPostBattle::
 
 Route24_Text_CaleIntro::
     .string "¡La gente se refiere a esto cómo\n"
-    .string "el PUENTE PEPITA!\p"
+    .string "el Puente Pepita!\p"
     .string "¡Vence a estos cinco Entrenadores\n"
     .string "y gana un fabuloso premio!\p"
     .string "¿Crees que tienes lo necesario?$"

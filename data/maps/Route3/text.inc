@@ -25,9 +25,9 @@ Route3_Text_BenDefeat::
     .string "¡No lo puedo creer!$"
 
 Route3_Text_BenPostBattle::
-    .string "¿Estas usando la PC de un CENTRO\n"
+    .string "¿Estas usando la PC de un Centro\n"
     .string "Pokémon para guardar Pokémon?\p"
-    .string "Cada CAJA puede guardar hasta\n"
+    .string "Cada Caja puede guardar hasta\n"
     .string "30 Pokémon.$"
 
 Route3_Text_JaniceIntro::
@@ -42,7 +42,7 @@ Route3_Text_JanicePostBattle::
     .string "una batalla!$"
 
 Route3_Text_GregIntro::
-    .string "¿Eres un{A} Entrenador{AM}?\n"
+    .string "¿Eres un{A} Entrenador{A}?\n"
     .string "¡Luchemos de una vez!$"
 
 Route3_Text_GregDefeat::
@@ -50,8 +50,8 @@ Route3_Text_GregDefeat::
     .string "te habría ganado!$"
 
 Route3_Text_GregPostBattle::
-    .string "¡Si una CAJA de Pokémon en la PC\n"
-    .string "está llena, solo cambia de CAJA!$"
+    .string "¡Si una Caja de Pokémon en la PC\n"
+    .string "está llena, solo cambia de Caja!$"
 
 Route3_Text_SallyIntro::
     .string "Esa mirada que me diste…\n"
@@ -96,9 +96,9 @@ Route3_Text_RobinDefeat::
 
 Route3_Text_RobinPostBattle::
     .string "La Ruta 4 está al pie del\n"
-    .string "MONTE LUNA.$"
+    .string "Monte Luna.$"
 
 Route3_Text_RouteSign::
     .string "Ruta 3\n"
-    .string "MONTE LUNA ADELANTE$"
+    .string "Monte Luna Adelante$"
 

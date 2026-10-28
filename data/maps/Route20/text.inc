@@ -10,7 +10,7 @@ Route20_Text_BarryPostBattle::
     .string "Seguro tú no estas cansad{OA}.$"
 
 Route20_Text_ShirleyIntro::
-    .string "Las ISLAS ESPUMA son tranquilas.\n"
+    .string "Las Islas Espuma son tranquilas.\n"
     .string "Estoy de vacaciones aquí.$"
 
 Route20_Text_ShirleyDefeat::
@@ -37,8 +37,8 @@ Route20_Text_IreneDefeat::
     .string "¡No tuviste piedad!$"
 
 Route20_Text_IrenePostBattle::
-    .string "En un pasado distante, las ISLAS\n"
-    .string "ESPUMA solían ser una sola isla.$"
+    .string "En un pasado distante, las Islas\n"
+    .string "Espuma solían ser una sola isla.$"
 
 Route20_Text_DeanIntro::
     .string "¡Mira mis músculos!$"
@@ -72,7 +72,7 @@ Route20_Text_RogerDefeat::
 
 Route20_Text_RogerPostBattle::
     .string "Mis pájaros están exhaustos.\n"
-    .string "¡No podemos VOLAR de regreso!$"
+    .string "¡No podemos Volar de regreso!$"
 
 Route20_Text_NoraIntro::
     .string "Mi novio me dio unas perlas\n"
@@ -84,7 +84,7 @@ Route20_Text_NoraDefeat::
 
 Route20_Text_NoraPostBattle::
     .string "¿Crecerán mis perlas dentro de\n"
-    .string "CLOYSTER?$"
+    .string "Cloyster?$"
 
 Route20_Text_MissyIntro::
     .string "Nadé hasta aquí desde Isla Canela.\n"
@@ -96,7 +96,7 @@ Route20_Text_MissyDefeat::
 Route20_Text_MissyPostBattle::
     .string "Los Pokémon invadieron una mansión\n"
     .string "abandonada en Isla Canela.\p"
-    .string "Ahora la llaman MANSIÓN Pokémon.$"
+    .string "Ahora la llaman Mansión Pokémon.$"
 
 Route20_Text_MelissaIntro::
     .string "Al oeste de Isla Canela, hay un\n"
@@ -113,10 +113,10 @@ Route20_Text_MelissaPostBattle::
     .string "la erupción de un volcán.$"
 
 Route20_Text_SeafoamIslands::
-    .string "ISLAS ESPUMA$"
+    .string "Islas Espuma$"
 
 Route20_Text_MistyTrainsHere::
     .string "Hay muchos Entrenadores fuertes\n"
-    .string "y Pokémon de tipo AGUA por aquí.\p"
+    .string "y Pokémon de tipo Agua por aquí.\p"
     .string "Dicen que Misty, del Gimnasio\n"
     .string "de Celeste, entrena aquí.$"

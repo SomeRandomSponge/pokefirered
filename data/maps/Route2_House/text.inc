@@ -2,5 +2,5 @@ Route2_House_Text_FaintedMonsCanUseFieldMoves::
     .string "Un Pokémon debilitado no tiene\n"
     .string "energía para luchar.\p"
     .string "Pero puede usar movimientos como\n"
-    .string "CORTE fuera de batalla.$"
+    .string "Corte fuera de batalla.$"
 

@@ -3,5 +3,5 @@ Route2_Text_RouteSign::
     .string "Ciudad Verde - Ciudad Plateada$"
 
 Route2_Text_DiglettsCave::
-    .string "CUEVA DIGLETT$"
+    .string "Cueva Diglett$"
 
