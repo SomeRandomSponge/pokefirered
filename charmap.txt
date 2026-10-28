@@ -155,7 +155,7 @@ SUPER_RE    = A0
 TALL_PLUS   = FC 0C FB
 '$'         = FF
 
-@ (Linea 155) Semantica del género gramatical
+@ Semantica del género gramatical
 OA          = FD 0E
 A           = FD 0F
 ELLA        = FD 10
