@@ -5,11 +5,11 @@ CeladonCity_Restaurant_Text_TakingBreakRightNow::
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
     .string "Mis Pokémon son débiles, así que\n"
-    .string "debo ir a la FARMACIA seguido.$"
+    .string "debo ir a la Farmacia seguido.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
     .string "¡Pss! se dice que hay un sótano\n"
-    .string "bajo la SALA DE JUEGOS.$"
+    .string "bajo la Sala de Juegos.$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
     .string "Nom…\p"
@@ -25,7 +25,7 @@ CeladonCity_Restaurant_Text_TakeThisImBusted::
     .string "¡Ya no necesitaré esto!$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
-    .string "{PLAYER} recibió un MONEDERO\n"
+    .string "{PLAYER} recibió un Monedero\n"
     .string "del hombre.$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::

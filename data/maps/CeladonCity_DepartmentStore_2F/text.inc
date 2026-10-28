@@ -1,16 +1,16 @@
 CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
-    .string "El SUPER REPELENTE mantiene lejos\n"
+    .string "El Superrepelente mantiene lejos\n"
     .string "a Pokémon débiles…p"
-    .string "Hmm, es un REPELENTE más poderoso.$"
+    .string "Hmm, es un Repelente más poderoso.$"
 
 CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings::
     .string "Para viajes largos, deberías\n"
-    .string "comprar REVIVIR.$"
+    .string "comprar Revivir.$"
 
 CeladonCity_DepartmentStore_2F_Text_FloorSign::
     .string "¡Objetos de la mejor calidad para\n"
     .string "Entrenadores!\p"
-    .string "P2: MERCADO DE ENTRENADORES$"
+    .string "P2: Mercado de Entrenadores$"
 
 CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes::
     .string "Tenemos un cliente, Lance, que\n"

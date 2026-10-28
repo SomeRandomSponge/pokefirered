@@ -13,11 +13,11 @@ CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
     .string "Conectarte con tus amigos\n"
     .string "de siempre es divertido, claro.\p"
     .string "Pero, ¿qué tal si visitas la\n"
-    .string "SALA UNIÓN de vez en cuando?\p"
+    .string "Sala Unión de vez en cuando?\p"
     .string "Quién sabe, tal vez termines\n"
     .string "haciendo nuevos amigos.\p"
     .string "Creo que valdría la pena que\n"
-    .string "probaras la SALA UNIÓN.$"
+    .string "probaras la Sala Unión.$"
 
 CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMoves::
     .string "Los Pokémon pueden seguir\n"
@@ -28,7 +28,7 @@ CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMoves::
 
 CinnabarIsland_PokemonCenter_1F_Text_ReadyToSailToOneIsland::
     .string "Bill: ¡Ey, me dejaste esperando!\n"
-    .string "¿List{OA} para ir a la ISLA PRIMA?$"
+    .string "¿List{OA} para ir a la Isla Prima?$"
 
 CinnabarIsland_PokemonCenter_1F_Text_OhNotDoneYet::
     .string "Oh, ¿aún no estás list{OA}?$"

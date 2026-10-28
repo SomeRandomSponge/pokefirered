@@ -18,7 +18,7 @@ CeruleanCity_Text_RivalPostBattle::
     .string "¡Eso añadió muchas páginas a mi\n"
     .string "Pokédex!\p"
     .string "Después de todo, Bill es un\n"
-    .string "POKéMANÍACO mundialmente famoso.\p"
+    .string "Pokémaniaco mundialmente famoso.\p"
     .string "También invento el Sistema de\n"
     .string "Almacenamiento de Pokémon.\p"
     .string "Cómo usas su sistema, deberías ir\n"
@@ -55,7 +55,7 @@ CeruleanCity_Text_GruntIntro::
     .string "¿No me crees?{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
 
 CeruleanCity_Text_GruntDefeat::
-    .string "RECLUTA: ¡Basta! ¡Me rindo!\n"
+    .string "Recluta: ¡Basta! ¡Me rindo!\n"
     .string "¡Me iré silenciosamente!$"
 
 CeruleanCity_Text_OkayIllReturnStolenTM::
@@ -64,7 +64,7 @@ CeruleanCity_Text_OkayIllReturnStolenTM::
 
 CeruleanCity_Text_RecoveredTM28FromGrunt::
     .string "{PLAYER} recuperó la MT28 del\n"
-    .string "RECLUTA del Equipo Rocket.$"
+    .string "Recluta del Equipo Rocket.$"
 
 CeruleanCity_Text_BetterGetMovingBye::
     .string "¡Será mejor que me vaya!\n"
@@ -80,16 +80,16 @@ CeruleanCity_Text_TrainerLifeIsToughIsntIt::
     .string "Es una vida dura, ¿no es así?$"
 
 CeruleanCity_Text_YouCanCutDownSmallTrees::
-    .string "¿Sabías que puedes CORTAR árboles\n"
+    .string "¿Sabías que puedes Cortar árboles\n"
     .string "pequeños?\p"
-    .string "Incluso puedes CORTARS ese pequeño\n"
+    .string "Incluso puedes Cortar ese pequeño\n"
     .string "árbol enfrente de la tienda,\p"
     .string "Aunque creo que hay una forma de\n"
     .string "rodearlo.$"
 
 CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
-    .string "Si ese SLOWBRO no estuviera ahí,\n"
-    .string "podrías CORTAR ese pequeño árbol.\p"
+    .string "Si ese Slowbro no estuviera ahí,\n"
+    .string "podrías Cortar ese pequeño árbol.\p"
     .string "Así podrías pasar al otro lado.\p"
     .string "Aunque creo que hay una forma de\n"
     .string "rodearlo.$"
@@ -102,25 +102,25 @@ CeruleanCity_Text_PeopleHereWereRobbed::
     .string "La gente aquí sufrió un robo.\p"
     .string "¡Es obvio que el Equipo Rocket\n"
     .string "está detrás de este crimen atroz!\p"
-    .string "¡Incluso nuestra FUERZA POLICIAL\n"
+    .string "¡Incluso nuestra Fuerza Policial\n"
     .string "tiene problemas con los Rocket!$"
 
 CeruleanCity_Text_SlowbroUseSonicboom::
-    .string "¡Bien! SLOWBRO!\n"
-    .string "¡Usa EXPLOSIÓN SÓNICA!$"
+    .string "¡Bien! Slowbro!\n"
+    .string "¡Usa Explosión Sónica!$"
 
 CeruleanCity_Text_SlowbroPayAttention::
-    .string "¡Vamos, SLOWBRO, pon atención!$"
+    .string "¡Vamos, Slowbro, pon atención!$"
 
 CeruleanCity_Text_SlowbroPunch::
-    .string "¡SLOWBRO, golpea!$"
+    .string "¡Slowbro, golpea!$"
 
 CeruleanCity_Text_NoYouBlewItAgain::
     .string "¡No!\n"
     .string "¡Lo arruinaste otra vez!$"
 
 CeruleanCity_Text_SlowbroWithdraw::
-    .string "¡SLOWBRO, REFUGIO!$"
+    .string "¡Slowbro, Refugio!$"
 
 CeruleanCity_Text_HardToControlMonsObedience::
     .string "¡No! ¡Eso está mal!\n"
@@ -128,22 +128,22 @@ CeruleanCity_Text_HardToControlMonsObedience::
     .string "Pokémon!\p"
     .string "La obediencia de tus Pokémon\n"
     .string "depende de tus habilidades\l"
-    .string "cómo Entrenador{AM}.$"
+    .string "cómo Entrenador{A}.$"
 
 CeruleanCity_Text_SlowbroTookSnooze::
-    .string "SLOWBRO se tomó un descanso…$"
+    .string "Slowbro se tomó un descanso…$"
 
 CeruleanCity_Text_SlowbroLoafingAround::
-    .string "SLOWBRO está holgazaneando…$"
+    .string "Slowbro está holgazaneando…$"
 
 CeruleanCity_Text_SlowbroTurnedAway::
-    .string "SLOWBRO volteo hacia otro lado…$"
+    .string "Slowbro volteo hacia otro lado…$"
 
 CeruleanCity_Text_SlowbroIgnoredOrders::
-    .string "SLOWBRO ignoró las órdenes…$"
+    .string "Slowbro ignoró las órdenes…$"
 
 CeruleanCity_Text_WantBrightRedBicycle::
-    .string "Quiero una bonita BICICLETA roja.\p"
+    .string "Quiero una bonita Bicicleta roja.\p"
     .string "La guardaré en casa, para que\n"
     .string "no se ensucie.$"
 
@@ -151,10 +151,10 @@ CeruleanCity_Text_ThisIsCeruleanCave::
     .string "Esta es la Cueva Celeste.\p"
     .string "Ahí viven Pokémon horriblemente\n"
     .string "fuertes.\p"
-    .string "Necesitas ser un{A} Entrenador{AM} muy\n"
+    .string "Necesitas ser un{A} Entrenador{A} muy\n"
     .string "especial para puedas pasar.\p"
     .string "Para empezar, necesitas tan fuerte\n"
-    .string "como para volverte CAMPE{ONONAM} de\l"
+    .string "como para volverte Campe{ONONA} de\l"
     .string "la Liga Pokémon.\p"
     .string "Y, tienes que haber realizado un\n"
     .string "gran logro.$"
@@ -173,7 +173,7 @@ CeruleanCity_Text_TrainerTipsHeldItems::
 
 CeruleanCity_Text_BikeShopSign::
     .string "¡Césped y cuevas bajo control!\n"
-    .string "TIENDA DE BICICLETAS$"
+    .string "Tienda de Bicicletas$"
 
 CeruleanCity_Text_GymSign::
     .string "Gimnasio Pokémon de Ciudad Celeste\n"

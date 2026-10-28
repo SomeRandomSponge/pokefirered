@@ -6,12 +6,12 @@ LavenderTown_PokemonCenter_1F_Text_RocketsDoAnythingForMoney::
     .string "incapaces de hacer!$"
 
 LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRockets::
-    .string "Vi a la madre de CUBONE intentando\n"
+    .string "Vi a la madre de Cubone intentando\n"
     .string "escapar del Equipo Rocket.\p"
     .string "Murió mientras intentaba escapar…$"
 
 LavenderTown_PokemonCenter_1F_Text_PeoplePayForCuboneSkulls::
-    .string "¿Sabes que los CUBONE llevan\n"
+    .string "¿Sabes que los Cubone llevan\n"
     .string "cráneos puestos, verdad?\p"
     .string "Hay gente que paga mucho por uno.$"
 

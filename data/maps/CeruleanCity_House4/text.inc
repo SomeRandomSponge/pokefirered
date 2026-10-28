@@ -24,7 +24,7 @@ CeruleanCity_House4_Text_IncredibleNewsHaveBerries::
     .string "¡No había visto una historia tan\n"
     .string "increíble en un largo tiempo!\p"
     .string "Gracias por compartir noticias\n"
-    .string "fantásticas. ¡Ten estas BAYAS!$"
+    .string "fantásticas. ¡Ten estas Bayas!$"
 
 CeruleanCity_House4_Text_WishCouldShareNewsWithOthers::
     .string "Parece una pena el no compartir\n"
@@ -47,7 +47,7 @@ CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries::
     .string "¡Si, así es!\p"
     .string "Considera esto una muestra de\n"
     .string "apreciación de mi y las noticias.\p"
-    .string "Te daré más BAYAS que lo usual.$"
+    .string "Te daré más Bayas que lo usual.$"
 
 CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews::
     .string "Estoy disfrutando bastante todas\n"
@@ -56,6 +56,6 @@ CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews::
     .string "No estaré aburrido por un tiempo.$"
 
 CeruleanCity_House4_Text_YourBerryPouchIsFull::
-    .string "¿Hm? Tu SACO DE BAYAS esta lleno.\n"
+    .string "¿Hm? Tu Saco de Bayas esta lleno.\n"
     .string "Mi regalo se queda aquí, entonces.$"
 

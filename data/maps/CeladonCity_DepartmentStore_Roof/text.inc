@@ -8,7 +8,7 @@ CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
 
 CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
     .string "¡Yey!\p"
-    .string "¡AGUA FRESCA!\p"
+    .string "¡Agua Fresca!\p"
     .string "¡Gracias!\n"
     .string "¡Puedes tener esto!$"
 
@@ -17,29 +17,29 @@ Text_ReceivedItemFromLittleGirl::
     .string "de la pequeña niña.$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
-    .string "MT16 contiene PANTALLA DE LUZ.\p"
+    .string "MT16 contiene Pantalla de Luz.\p"
     .string "Es un movimiento que debilita\n"
     .string "los ataques especiales enemigos.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
     .string "¡Yey!\p"
-    .string "¡SODA!\p"
+    .string "¡Refresco!\p"
     .string "¡Gracias!\n"
     .string "¡Puedes tener esto!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
-    .string "MT20 contiene SALVAGUARDA.\p"
+    .string "MT20 contiene Salvaguarda.\p"
     .string "El movimiento previene problemas\n"
     .string "de estado entre tus Pokémon.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
     .string "¡Yey!\p"
-    .string "¡LIMONADA!\p"
+    .string "¡Leche con Frutas!\p"
     .string "¡Gracias!\n"
     .string "¡Puedes tener esto!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
-    .string "MT33 contiene REFLEJO.\p"
+    .string "MT33 contiene Reflejo.\p"
     .string "Es un movimiento que debilita\n"
     .string "los ataques físicos enemigos.$"
 
@@ -51,7 +51,7 @@ CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
     .string "¡No tengo sed después de todo!$"
 
 CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature::
-    .string "Mi hermana es una ENTRENADORA,\n"
+    .string "Mi hermana es una Entrenadora,\n"
     .string "lo creas o no.\p"
     .string "Pero es tan inmadura, ¡me vuelve\n"
     .string "loca!$"
@@ -61,8 +61,8 @@ CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink::
     .string "¡Quiero algo de beber!$"
 
 CeladonCity_DepartmentStore_Roof_Text_FloorSign::
-    .string "AZOTEA:\n"
-    .string "MÁQUINAS EXPENDEDORAS$"
+    .string "Azotea:\n"
+    .string "Máquinas Expendedoras$"
 
 CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHave::
     .string "¡Una máquina expendedora!\n"

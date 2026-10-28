@@ -1,6 +1,6 @@
 FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
     .string "¿No tendrán algún banderín para\n"
-    .string "promocionar la ZONA SAFARI?\p"
+    .string "promocionar la Zona Safari?\p"
     .string "¿Qué tal unas linternas de papel?\n"
     .string "¿Tienen calendarios al menos?$"
 

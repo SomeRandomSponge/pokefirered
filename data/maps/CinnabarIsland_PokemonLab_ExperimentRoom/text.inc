@@ -3,7 +3,7 @@ Text_MetronomeTeach::
     .string "Te enseñaré un movimiento genial.\p"
     .string "Enseñaselo a un Pokémon,\n"
     .string "¡y admira la diversión!\p"
-    .string "Se llama METRÓNOMO.\n"
+    .string "Se llama Metrónomo.\n"
     .string "¿Te interesa?$"
 
 Text_MetronomeDeclined::
@@ -15,7 +15,7 @@ Text_MetronomeWhichMon::
 
 Text_MetronomeTaught::
     .string "¡Tac-tac-tac!\n"
-    .string "Ese es el sonido de un METRÓNOMO.\p"
+    .string "Ese es el sonido de un Metrónomo.\p"
     .string "Altera el cerebro de tu Pokémon\n"
     .string "y lo lleva a usar movimientos que\l"
     .string "ni siquiera conoce.$"

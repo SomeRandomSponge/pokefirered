@@ -1,7 +1,7 @@
 CeruleanCity_BikeShop_Text_WelcomeToBikeShop::
     .string "¡Hola!\n"
-    .string "Bienvenid{OA} a la TIENDA DE BICIS.\p"
-    .string "¡Tenemos una BICICLETA justo para\n"
+    .string "Bienvenid{OA} a la Tienda de Bicis.\p"
+    .string "¡Tenemos una Bicicleta justo para\n"
     .string "ti!$"
 
 CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
@@ -10,41 +10,41 @@ CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
 
 CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
     .string "Oh, eso es…\p"
-    .string "¡Un BONO BICICLETA!\p"
+    .string "¡Un Cupón Bicicleta!\p"
     .string "¡Bien!\n"
     .string "¡Aquí tienes!$"
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
     .string "{PLAYER} cambió el\n"
-    .string "BONO por una BICICLETA.$"
+    .string "Cupón por una Bicicleta.$"
 
 CeruleanCity_BikeShop_Text_ThankYouComeAgain::
     .string "¡Gracias!\n"
     .string "¡Vuelve cuando quieras!$"
 
 CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle::
-    .string "¿Te gusta tu nueva BICICLETA?\n"
+    .string "¿Te gusta tu nueva Bicicleta?\n"
     .string "¿Te gusta cómo se maneja?\p"
-    .string "¡Puedes llevarla al CAMINO\n"
-    .string "DE CICLISTAS e incluso a cuevas!$"
+    .string "¡Puedes llevarla al Camino\n"
+    .string "DE Ciclistas e incluso a cuevas!$"
 
 CeruleanCity_BikeShop_Text_MakeRoomForBicycle::
     .string "¡Será mejor que hagas espacio para\n"
-    .string "tu BICICLETA!$"
+    .string "tu Bicicleta!$"
 
 CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe::
-    .string "Una plana BICICLETA de ciudad\n"
+    .string "Una plana Bicicleta de ciudad\n"
     .string "basta para mí.\p"
     .string "Después de todo, no puedes poner\n"
-    .string "una cesta en una BICI de montaña.$"
+    .string "una cesta en una Bici de montaña.$"
 
 CeruleanCity_BikeShop_Text_BikesCoolButExpensive::
-    .string "¡Estas BICIS son geniales, pero\n"
+    .string "¡Estas Bicis son geniales, pero\n"
     .string "son muy caras!$"
 
 CeruleanCity_BikeShop_Text_WowYourBikeIsCool::
     .string "Wow.\n"
-    .string "¡Tu BICI es realmente genial!$"
+    .string "¡Tu Bici es realmente genial!$"
 
 @ Unused
 CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
@@ -53,5 +53,5 @@ CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
     .string "おりたたみ　じてんしゃ！$"
 
 CeruleanCity_BikeShop_Text_ShinyNewBicycle::
-    .string "¡Una BICICLETA nueva y reluciente!$"
+    .string "¡Una Bicicleta nueva y reluciente!$"
 

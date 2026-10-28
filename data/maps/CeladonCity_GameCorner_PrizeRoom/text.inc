@@ -1,5 +1,5 @@
 CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon::
-    .string "¡Sí que quiero a ese PORYGON!\p"
+    .string "¡Sí que quiero a ese Porygon!\p"
     .string "¡Pero es difícil ganar en las\n"
     .string "tragamonedas!$"
 
@@ -8,10 +8,10 @@ CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday::
     .string "Ojalá fuera así todos los días…$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequired::
-    .string "Se necesita un MONEDERO…$"
+    .string "Se necesita un Monedero…$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizes::
-    .string "Cambiamos tus MONEDAS por premios.$"
+    .string "Cambiamos tus Monedas por premios.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize::
     .string "¿Cúal premio te gustaría?$"
@@ -27,7 +27,7 @@ CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM::
     .string "{STR_VAR_2}?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins::
-    .string "Lo siento, necesitas más MONEDAS\n"
+    .string "Lo siento, necesitas más Monedas\n"
     .string "que esas.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom::

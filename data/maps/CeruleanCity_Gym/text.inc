@@ -5,18 +5,18 @@ CeruleanCity_Gym_Text_MistyIntro::
     .string "¿Cuál es tu plan al atrapar y\n"
     .string "entrenar Pokémon?\p"
     .string "¡Mi estrategia es la ofensiva\n"
-    .string "total con Pokémon de tipo AGUA!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "total con Pokémon de tipo Agua!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
-    .string "MT03 enseña PULSO AGUA.\p"
+    .string "MT03 enseña Pulso de Agua.\p"
     .string "¡Úsala en un Pokémon acuático!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-    .string "La MEDALLA CASCADA hace que todo\n"
+    .string "La Medalla Cascada hace que todo\n"
     .string "Pokémon hasta el Nv. 30 obedezca.\p"
     .string "Eso incluso incluye a los que\n"
     .string "obtengas en intercambios.\p"
-    .string "Hay más. Puedes usar CORTE cuándo\n"
+    .string "Hay más. Puedes usar Corte cuándo\n"
     .string "sea, incluso fuera de batalla.\p"
     .string "Puedes cortar pequeños árboles\n"
     .string "para abrir nuevos caminos.\p"
@@ -33,7 +33,7 @@ CeruleanCity_Gym_Text_MistyDefeat::
     .string "¡Wow!\n"
     .string "¡Eres demasiado!\p"
     .string "¡De acuerdo!\p"
-    .string "Puedes tener la MEDALLA CASCADA\n"
+    .string "Puedes tener la Medalla Cascada\n"
     .string "para mostrar que me venciste.$"
 
 CeruleanCity_Gym_Text_DianaIntro::
@@ -58,7 +58,7 @@ CeruleanCity_Gym_Text_LuisDefeat::
     .string "¡No puede ser!$"
 
 CeruleanCity_Gym_Text_LuisPostBattle::
-    .string "Misty es una ENTRENADORA que va\n"
+    .string "Misty es una Entrenadora que va\n"
     .string "a seguir mejorando.\p"
     .string "¡No perderá contra alguien cómo tú!$"
 
@@ -67,11 +67,11 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
     .string "¡Futur{OA} campe{ONONA}!\p"
     .string "¡Dejáme darte un consejo!\p"
     .string "La Líder, Misty, es una profesional\n"
-    .string "que usa Pokémon de tipo AGUA.\p"
+    .string "que usa Pokémon de tipo Agua.\p"
     .string "Puedes drenar toda su agua con\n"
-    .string "Pokémon de tipo PLANTA.\p"
+    .string "Pokémon de tipo Planta.\p"
     .string "¡O, puedes usar Pokémon de tipo\n"
-    .string "ELÉCTRICO para dejarlos fritos!$"
+    .string "Eléctrico para dejarlos fritos!$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
     .string "¡Venciste a Misty!\n"
@@ -80,13 +80,13 @@ CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
     .string "equipo bastante bueno!$"
 
 CeruleanCity_Gym_Text_GymStatue::
-    .string "Gimnasio Pokémon DE Celeste\n"
+    .string "Gimnasio Pokémon de Celeste\n"
     .string "Líder: Misty\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-    .string "Gimnasio Pokémon DE Celeste\n"
+    .string "Gimnasio Pokémon de Celeste\n"
     .string "Líder: Misty\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}, {PLAYER}$"

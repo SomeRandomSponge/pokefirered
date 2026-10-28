@@ -1,5 +1,5 @@
 FuchsiaCity_WardensHouse_Text_HifFuffHefifoo::
-    .string "GUARDA: ¡Fif fuff fefifuu!\p"
+    .string "Guarda: ¡Fif fuff fefifuu!\p"
     .string "A fof a fif ee afahi fo.\n"
     .string "¡Eff fi fuii!$"
 
@@ -12,41 +12,41 @@ FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
     .string "¡Fe fofei feh fa oo ee fafeh!$"
 
 FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
-    .string "{PLAYER} le dió la DENTADURA DE ORO\n"
-    .string "al GUARDA.$"
+    .string "{PLAYER} le dió la Dentadura de Oro\n"
+    .string "al Guarda.$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
-    .string "¡El GUARDA se puso sus dientes!$"
+    .string "¡El Guarda se puso sus dientes!$"
 
 FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
-    .string "GUARDA: ¡Gracias, hijo!\n"
+    .string "Guarda: ¡Gracias, hijo!\n"
     .string "¡Eres un verdadero salvavidas!\p"
     .string "¡Nadie podía entender una palabra\n"
     .string "de lo que decía, ni una!\p"
-    .string "Incluso el ir a la OFICINA me daba\n"
+    .string "Incluso el ir a la Oficina me daba\n"
     .string "vergüenza.\p"
     .string "Déjame darte algo por tu esfuerzo.$"
 
 FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
-    .string "GUARDA: ¡Gracias, señorita!\n"
+    .string "Guarda: ¡Gracias, señorita!\n"
     .string "¡Eres una verdadera salvavidas!\p"
     .string "¡Nadie podía entender una palabra\n"
     .string "de lo que decía, ni una!\p"
-    .string "Incluso el ir a la OFICINA me daba\n"
+    .string "Incluso el ir a la Oficina me daba\n"
     .string "vergüenza.\p"
     .string "Déjame darte algo por tu esfuerzo.$"
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
     .string "{PLAYER} recibió MO04\n"
-    .string "del GUARDA.$"
+    .string "del Guarda.$"
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
-    .string "GUARDA: Dentro de la MO04 se\n"
-    .string "encuentra FUERZA.\p"
+    .string "Guarda: Dentro de la MO04 se\n"
+    .string "encuentra Fuerza.\p"
     .string "Le permite a un Pokémon mover\n"
     .string "piedras fuera de batalla.\p"
-    .string "Ah sí, ¿encontraste la CASA\n"
-    .string "SECRETA en la ZONA SAFARI?$"
+    .string "Ah sí, ¿encontraste la Casa\n"
+    .string "Secreta en la Zona Safari?$"
 
 @ Unused
 FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::

@@ -11,7 +11,7 @@ CinnabarIsland_Text_ScientistsExperimentInMansion::
     .string "Hay cientificos que experimentan\n"
     .string "en el edificio quemado.\p"
     .string "Ya sabes, ese que llaman\n"
-    .string "MANSIÓN Pokémon.$"
+    .string "Mansión Pokémon.$"
 
 CinnabarIsland_Text_IslandSign::
     .string "Isla Canela\n"
@@ -21,7 +21,7 @@ CinnabarIsland_Text_PokemonLab::
     .string "Laboratorio Pokémon$"
 
 CinnabarIsland_Text_GymSign::
-    .string "Gimnasio Pokémon DE Isla Canela\n"
+    .string "Gimnasio Pokémon de Isla Canela\n"
     .string "Líder: Blaine\l"
     .string "¡Exaltado maestro de los acertijos!$"
 
@@ -37,7 +37,7 @@ CinnabarIsland_Text_ComeWithMeToOneIsland::
     .string "Bueno, ya que nos estamos aquí,\n"
     .string "¿qué tal si pasas un rato conmigo?\p"
     .string "Hay una pequeña isla hacia el sur\n"
-    .string "llamada ISLA PRIMA.\p"
+    .string "llamada Isla Prima.\p"
     .string "Un amigo me invitó a ir, así que\n"
     .string "estoy por partir.\p"
     .string "¿Qué te parece?\n"
@@ -64,12 +64,12 @@ CinnabarIsland_Text_MyPalsBoatArrived::
 
 CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
     .string "Ey, ¿no fue ese un viaje largo?\p"
-    .string "Parece que mi compañero, CELIO,\n"
+    .string "Parece que mi compañero, Celio,\n"
     .string "disfrutó de tu compañia.\p"
     .string "Estoy seguro de que te dará la\n"
     .string "bienvenida si lo visitas otra vez.\p"
-    .string "Si tienes un TRI-PASE, puedes\n"
+    .string "Si tienes un Tri-Pase, puedes\n"
     .string "subirte a un transbordador en\l"
-    .string "el PUERTO Carmín cuando quieras.\p"
+    .string "el Puerto Carmín cuando quieras.\p"
     .string "¡Bien, gracias por tu compañia!$"
 

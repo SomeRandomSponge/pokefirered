@@ -1,16 +1,16 @@
 FuchsiaCity_Text_DidYouTrySafariGame::
-    .string "¿Probaste el JUEGO SAFARI?\p"
+    .string "¿Probaste el Juego Safari?\p"
     .string "Hay algunos Pokémon raros que solo\n"
     .string "se pueden atrapar ahí.$"
 
 FuchsiaCity_Text_SafariZoneZooInFront::
-    .string "La ZONA SAFARI tiene un zoológico\n"
+    .string "La Zona Safari tiene un zoológico\n"
     .string "frente a la entrada.\p"
     .string "En la parte de atrás está el\n"
-    .string "JUEGO SAFARI para atrapar Pokémon.$"
+    .string "Juego Safari para atrapar Pokémon.$"
 
 FuchsiaCity_Text_WheresSara::
-    .string "ERIK: ¿Dónde está SARA?\n"
+    .string "Erik: ¿Dónde está Sara?\n"
     .string "Dijo que la vería aquí.$"
 
 FuchsiaCity_Text_ItemBallInThere::
@@ -24,56 +24,56 @@ FuchsiaCity_Text_CitySign::
     .string "¡Observa! ¡es pasión rosa!$"
 
 FuchsiaCity_Text_SafariZoneSign::
-    .string "PARAÍSO Pokémon\n"
-    .string "ZONA SAFARI$"
+    .string "Paraíso Pokémon\n"
+    .string "Zona Safari$"
 
 FuchsiaCity_Text_SafariGameSign::
-    .string "JUEGO SAFARI\n"
-    .string "¡ATRAPA-Pokémon!$"
+    .string "Juego Safari\n"
+    .string "¡Atrapa-Pokémon!$"
 
 FuchsiaCity_Text_WardensHomeSign::
-    .string "ZONA SAFARI\n"
-    .string "CASA DEL GUARDA$"
+    .string "Zona Safari\n"
+    .string "Casa del Guarda$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign::
-    .string "¡PARAÍSO Pokémon!\n"
-    .string "¡BIENVENIDOS A LA ZONA SAFARI!\l"
-    .string "OFICINA DE LA ZONA SAFARI$"
+    .string "¡Paraíso Pokémon!\n"
+    .string "¡Bienvenidos a la Zona Safari!\l"
+    .string "Oficina de la Zona Safari$"
 
 FuchsiaCity_Text_GymSign::
-    .string "Gimnasio Pokémon DE Ciudad Fucsia\n"
+    .string "Gimnasio Pokémon de Ciudad Fucsia\n"
     .string "Líder: Koga\l"
     .string "El venenoso maestro ninja$"
 
 FuchsiaCity_Text_ChanseySign::
-    .string "Nombre: CHANSEY\n"
+    .string "Nombre: Chansey\n"
     .string "Atrapar uno depende de la suerte.$"
 
 FuchsiaCity_Text_VoltorbSign::
-    .string "Nombre: VOLTORB\n"
-    .string "La viva imagen de una POKÉBOLA.$"
+    .string "Nombre: Voltorb\n"
+    .string "La viva imagen de una Pokébola.$"
 
 FuchsiaCity_Text_KangaskhanSign::
-    .string "Nombre: KANGASKHAN\p"
+    .string "Nombre: Kangaskhan\p"
     .string "Pokémon maternal que cría a sus\n"
     .string "hijos en una bolsa en su vientre.$"
 
 FuchsiaCity_Text_SlowpokeSign::
-    .string "Nombre: SLOWPOKE\n"
+    .string "Nombre: Slowpoke\n"
     .string "Amigable y de movimiento lento.$"
 
 FuchsiaCity_Text_LaprasSign::
-    .string "Nombre: LAPRAS\n"
+    .string "Nombre: Lapras\n"
     .string "Tambíen conocido como el rey\l"
     .string "de los mares.$"
 
 FuchsiaCity_Text_OmanyteSign::
-    .string "Nombre: OMANYTE\n"
+    .string "Nombre: Omanyte\n"
     .string "Un Pokémon extremadamente raro que\l"
     .string "fue regenerado de un fósil.$"
 
 FuchsiaCity_Text_KabutoSign::
-    .string "Nombre: KABUTO\n"
+    .string "Nombre: Kabuto\n"
     .string "Un Pokémon extremadamente raro que\l"
     .string "fue regenerado de un fósil.$"
 
@@ -83,31 +83,31 @@ FuchsiaCity_Text_Ellipsis::
 
 Text_SubstituteTeach::
     .string "Aww, quisiera ser un bebé de\n"
-    .string "KANGASKHAN.\p"
+    .string "Kangaskhan.\p"
     .string "Me encantaría sustituir a ese\n"
     .string "bebé…\p"
     .string "Y acurrucarme en la bolsa de la\n"
-    .string "KANGASKHAN madre.\p"
+    .string "Kangaskhan madre.\p"
     .string "Pero solo los Pokémon pueden usar\n"
-    .string "técnicas como SUSTITUTO…\p"
-    .string "¿Quieres que le enseñe SUSTITUTO a\n"
+    .string "técnicas como Sustituto…\p"
+    .string "¿Quieres que le enseñe Sustituto a\n"
     .string "uno de tus Pokémon?$"
 
 Text_SubstituteDeclined::
     .string "¿Oh, en serio?\n"
-    .string "Si SUSTITUTO parece genial…$"
+    .string "Si Sustituto parece genial…$"
 
 Text_SubstituteWhichMon::
     .string "¿Qué Pokémon quiere aprender\n"
-    .string "SUSTITUTO?$"
+    .string "Sustituto?$"
 
 Text_SubstituteTaught::
     .string "Lo que daría por meterme en la\n"
-    .string "bolsa de un KANGASKHAN…$"
+    .string "bolsa de un Kangaskhan…$"
 
 FuchsiaCity_Text_MyFatherIsGymLeader::
-    .string "Mi padre es el Líder DE Gimnasio\n"
+    .string "Mi padre es el Líder de Gimnasio\n"
     .string "de esta ciudad.\p"
     .string "Entreno para usar Pokémon de tipo\n"
-    .string "VENENO tan bien como mi padre.$"
+    .string "Veneno tan bien como mi padre.$"
 

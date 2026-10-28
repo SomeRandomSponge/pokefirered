@@ -4,14 +4,14 @@ CeladonCity_House1_Text_SlotsReelInTheDough::
     .string "muchísimo!$"
 
 CeladonCity_House1_Text_ShippedMonsAsSlotPrizes::
-    .string "¡JEFE!\p"
+    .string "¡Jefe!\p"
     .string "¡Acabamos de enviar dos mil\n"
     .string "Pokémon más como premios de las\l"
     .string "tragamonedas hoy!$"
 
 CeladonCity_House1_Text_DontTouchGameCornerPoster::
-    .string "¡No toques el cartel en la SALA\n"
-    .string "DE JUEGOS!\p"
+    .string "¡No toques el cartel en la Sala\n"
+    .string "de Juegos!\p"
     .string "¡No hay ningún interruptor detrás!$"
 
 @ Text for the replaced altars in the rocket chiefs house / celadon mansion

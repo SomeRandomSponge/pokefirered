@@ -25,10 +25,10 @@ IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
     .string "está cerrada por el momento.$"
 
 IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
-    .string "Los Pokémon de tipo FANTASMA de\n"
+    .string "Los Pokémon de tipo Fantasma de\n"
     .string "Agatha son escalofriantemente\l"
     .string "fuertes.\p"
-    .string "Críe a mis Pokémon de tipo PELEA\n"
+    .string "Críe a mis Pokémon de tipo Pelea\n"
     .string "hasta el límite.\p"
     .string "Fuí contra Agatha lleno\n"
     .string "de confianza, pero nos destrozó.\p"

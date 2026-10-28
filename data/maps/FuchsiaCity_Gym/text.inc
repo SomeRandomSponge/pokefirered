@@ -9,16 +9,16 @@ FuchsiaCity_Gym_Text_KogaIntro::
     .string "El veneno trae perdición constante.\n"
     .string "El sueño deja indefenso al rival.\p"
     .string "¡Sufre por el insidioso horror de\n"
-    .string "mis Pokémon de tipo VENENO!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "mis Pokémon de tipo Veneno!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 FuchsiaCity_Gym_Text_KogaDefeat::
     .string "¡Humph!\n"
     .string "¡Has demostrado tu valor!\p"
     .string "¡Bien!\n"
-    .string "¡Toma la MEDALLA ALMA!$"
+    .string "¡Toma la Medalla Alma!$"
 
 FuchsiaCity_Gym_Text_KogaPostBattle::
-    .string "Bajo los efectos de TÓXICO, un\n"
+    .string "Bajo los efectos de Tóxico, un\n"
     .string "Pokémon sufre más y más.\p"
     .string "¡El daño que recibe empeora\n"
     .string "mientras más dura la batalla!\p"
@@ -26,9 +26,9 @@ FuchsiaCity_Gym_Text_KogaPostBattle::
     .string "adversarios!$"
 
 FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
-    .string "Ahora que tienes la MEDALLA ALMA,\n"
+    .string "Ahora que tienes la Medalla Alma,\n"
     .string "la Defensa de tus Pokémon aumenta.\p"
-    .string "Y podrás usar SURF fuera de las\n"
+    .string "Y podrás usar Surf fuera de las\n"
     .string "batallas.\p"
     .string "¡Ah!\n"
     .string "¡Toma esto también!$"
@@ -39,7 +39,7 @@ FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
 
 FuchsiaCity_Gym_Text_KogaExplainTM06::
     .string "¡Dentro de la MT06 se encuentra\n"
-    .string "TÓXICO!\p"
+    .string "Tóxico!\p"
     .string "Es una técnica secreta de hace más\n"
     .string "cuatrocientos años.$"
 
@@ -63,12 +63,12 @@ FuchsiaCity_Gym_Text_KaydenPostBattle::
     .string "ingenio?\l"
     .string "¡Buena estrategia!\p"
     .string "Eso es notable para un{A}\n"
-    .string "Entrenador{AM} joven.$"
+    .string "Entrenador{A} joven.$"
 
 FuchsiaCity_Gym_Text_KirkIntro::
     .string "Fuí un mago una vez.\p"
     .string "Pero soñaba con convertirme en\n"
-    .string "ninja, así que me uní a este GIMN.$"
+    .string "ninja, así que me uní a este Gimn.$"
 
 FuchsiaCity_Gym_Text_KirkDefeat::
     .string "¡Estoy acabado!$"
@@ -146,13 +146,13 @@ FuchsiaCity_Gym_Text_GymGuyPostVictory::
     .string "pueden atemorizar, incluso ahora!$"
 
 FuchsiaCity_Gym_Text_GymStatue::
-    .string "Gimnasio Pokémon DE Fucsia\n"
+    .string "Gimnasio Pokémon de Fucsia\n"
     .string "Líder: Koga\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-    .string "Gimnasio Pokémon DE Fucsia\n"
+    .string "Gimnasio Pokémon de Fucsia\n"
     .string "Líder: Koga\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}, {PLAYER}$"

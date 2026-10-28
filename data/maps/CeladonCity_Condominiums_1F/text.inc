@@ -1,5 +1,5 @@
 CeladonCity_Condominiums_1F_Text_Meowth::
-    .string "MEOWTH: ¡Meow!$"
+    .string "Meowth: ¡Meow!$"
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
     .string "No deberías gastar todo tu dinero\n"
@@ -7,29 +7,29 @@ CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
     .string "Mejor prueba esto.$"
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
-    .string "Nada vence a la sed como un TÉ\n"
+    .string "Nada vence a la sed como un Té\n"
     .string "caliente.\p"
     .string "Realmente es lo mejor.$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
     .string "Mis queridos Pokémon me acompañan.\n"
-    .string "¡MEOWTH hasta trae dinero a casa!$"
+    .string "¡Meowth hasta trae dinero a casa!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
     .string "Oh, hola, querid{OA}.\n"
-    .string "¿Disfrutaste mi TÉ?\p"
+    .string "¿Disfrutaste mi Té?\p"
     .string "Por cierto, querid{OA}. ¿Eres,\n"
     .string "por casualidad, de Pueblo Paleta?\p"
     .string "Una chica del Pueblo Paleta,\n"
-    .string "Daisy, disfruta del TÉ cada día.\p"
-    .string "Ella visita la TIENDA DEPARTAMENTAL\n"
-    .string "Prisma para comprar algo de TÉ.$"
+    .string "Daisy, disfruta del Té cada día.\p"
+    .string "Ella visita la Tienda Departamental\n"
+    .string "Prisma para comprar algo de Té.$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
-    .string "CLEFAIRY: ¡Pi pippippi!$"
+    .string "Clefairy: ¡Pi pippippi!$"
 
 CeladonCity_Condominiums_1F_Text_Nidoran::
-    .string "NIDORAN♀: ¡Kya kyaoo!$"
+    .string "Nidoran♀: ¡Kya kyaoo!$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
     .string "Condominio Prisma\n"

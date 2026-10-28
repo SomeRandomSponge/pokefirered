@@ -1,5 +1,5 @@
 FuchsiaCity_House1_Text_WardenIsOldHasFalseTeeth::
-    .string "El GUARDA de la ZONA SAFARI es\n"
+    .string "El Guarda de la Zona Safari es\n"
     .string "viejo, pero sigue estando activo.\p"
     .string "Aunque sus dientes son postizos.$"
 

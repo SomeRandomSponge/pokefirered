@@ -1,9 +1,9 @@
 FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
-    .string "¡Bienvenid{OA} a la ZONA SAFARI!$"
+    .string "¡Bienvenid{OA} a la Zona Safari!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
     .string "Por solo ¥500, puedes jugar el\n"
-    .string "JUEGO SAFARI.\p"
+    .string "Juego Safari.\p"
     .string "Puedes explorar el gran safari\n"
     .string "y atrapar lo que quieras.\p"
     .string "¿Quieres jugar?$"
@@ -14,12 +14,12 @@ FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
     .string "Pokébolas aquí.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
-    .string "{PLAYER} recibió 30 BOLAS SAFARI\n"
+    .string "{PLAYER} recibió 30 Safaribolas\n"
     .string "del recepcionista.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
     .string "Te avisaremos cuando te quedes\n"
-    .string "sin tiempo o sin BOLAS SAFARI.\p"
+    .string "sin tiempo o sin Safaribolas.\p"
     .string "¡Bueno, te deseo la mejor de las\n"
     .string "suertes!$"
 
@@ -32,12 +32,12 @@ FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoney::
     .string "¡Te falta dinero!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
-    .string "¿Vas a salir de la ZONA SAFARI\n"
+    .string "¿Vas a salir de la Zona Safari\n"
     .string "antes de tiempo?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
     .string "Por favor regresa cualquier\n"
-    .string "BOLA SAFARI sobrante.$"
+    .string "Safaribola sobrante.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
     .string "¡Buena suerte!$"
@@ -48,25 +48,25 @@ FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain::
 
 FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
     .string "¡Hola! ¿es tu primera vez\n"
-    .string "en la ZONA SAFARI?$"
+    .string "en la Zona Safari?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
-    .string "La ZONA SAFARI realmente consiste\n"
+    .string "La Zona Safari realmente consiste\n"
     .string "de cuatro zonas.\p"
     .string "Cada zona tiene tipos de Pokémon\n"
     .string "diferentes, incluso algunos raros.\p"
-    .string "Usa las BOLAS SAFARI para\n"
+    .string "Usa las Safaribolas para\n"
     .string "atraparlos.\p"
-    .string "También puedes lanzar CEBO o\n"
-    .string "ROCAS, aparte de las BOLAS SAFARI.\p"
-    .string "Si lanzas CEBO, es menos probable\n"
+    .string "También puedes lanzar Cebo o\n"
+    .string "Rocas, aparte de las Safaribolas.\p"
+    .string "Si lanzas Cebo, es menos probable\n"
     .string "que el Pokémon escape, pero será\l"
     .string "más difícil de atrapar.\p"
-    .string "Si lanzas ROCAS, es más probable\n"
+    .string "Si lanzas Rocas, es más probable\n"
     .string "que el Pokémon escape, pero será\l"
     .string "más fácil de atrapar.\p"
     .string "¡Cuando ya no tengas tiempo o\n"
-    .string "BOLAS SAFARI, el juego termina!$"
+    .string "Safaribolas, el juego termina!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::
     .string "¡Lo siento, eres alguien habitual!$"

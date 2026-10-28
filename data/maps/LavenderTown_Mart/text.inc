@@ -4,11 +4,11 @@ LavenderTown_Mart_Text_SearchingForStatRaiseItems::
     .string "Son efectivos por la duración de\n"
     .string "una sola batalla.\p"
     .string "Ataque X, Defensa X, Velocidad X\n"
-    .string "y ATAQ. ESP. X son los que busco.\p"
+    .string "y Ataq. Esp. X son los que busco.\p"
     .string "¿Sabes donde puedo encontrarlos?$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
-    .string "¿Compraste algunos REVIVIR?\n"
+    .string "¿Compraste algunos Revivir?\n"
     .string "¡Reviven a cualquier Pokémon\l"
     .string "debilitado!$"
 

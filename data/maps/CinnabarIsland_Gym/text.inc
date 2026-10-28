@@ -6,21 +6,21 @@ CinnabarIsland_Gym_Text_BlaineIntro::
     .string "están listos con calor intenso!\p"
     .string "¡Incinerarán a cualquier rival!\p"
     .string "¡Ja!\n"
-    .string "¡Ojalá tengas ANTIQUEMADURAS!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "¡Ojalá tengas Antiquemaduras!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 CinnabarIsland_Gym_Text_BlaineDefeat::
     .string "¡Me quemé hasta no dejar nada!\n"
     .string "¡Ni siquiera quedan cenizas!\p"
-    .string "Te ganaste la MEDALLA VOLCÁN.$"
+    .string "Te ganaste la Medalla Volcán.$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
-    .string "LLAMARADA es la técnica de fuego\n"
+    .string "Llamarada es la técnica de fuego\n"
     .string "definitiva.\p"
-    .string "No la gastes en Pokémon de AGUA.$"
+    .string "No la gastes en Pokémon de Agua.$"
 
 CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
     .string "¡Ja!\p"
-    .string "La MEDALLAVOLCÁN aumenta las\n"
+    .string "La MedallaVolcán aumenta las\n"
     .string "estadísticas Especiales de tus\l"
     .string "Pokémon.\p"
     .string "¡Mira, también te daré esto!$"
@@ -30,9 +30,9 @@ CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
     .string "de Blaine.$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
-    .string "La MT38 contiene LLAMARADA.\n"
-    .string "Enséñasela a Pokémon de FUEGO.\p"
-    .string "VULPIX o CHARMELEON serían ideales\n"
+    .string "La MT38 contiene Llamarada.\n"
+    .string "Enséñasela a Pokémon de Fuego.\p"
+    .string "Vulpix o Charmeleon serían ideales\n"
     .string "para ese movimiento.$"
 
 CinnabarIsland_Gym_Text_MakeSpaceForThis::
@@ -77,7 +77,7 @@ CinnabarIsland_Gym_Text_AveryPostBattle::
     .string "complicadas para tu entendimiento.$"
 
 CinnabarIsland_Gym_Text_RamonIntro::
-    .string "Me gusta usar Pokémon de FUEGO.\n"
+    .string "Me gusta usar Pokémon de Fuego.\n"
     .string "Solo eso.$"
 
 CinnabarIsland_Gym_Text_RamonDefeat::
@@ -111,8 +111,8 @@ CinnabarIsland_Gym_Text_DustyDefeat::
     .string "¡Demasiado caliente!$"
 
 CinnabarIsland_Gym_Text_DustyPostBattle::
-    .string "PONYTA, NINETALES…\n"
-    .string "Son Pokémon de FUEGO populares.$"
+    .string "Ponyta, Ninetales…\n"
+    .string "Son Pokémon de Fuego populares.$"
 
 CinnabarIsland_Gym_Text_ZacIntro::
     .string "El fuego es débil contra el H2O.$"
@@ -124,30 +124,30 @@ CinnabarIsland_Gym_Text_ZacDefeat::
 CinnabarIsland_Gym_Text_ZacPostBattle::
     .string "El agua vence al fuego, claro.\p"
     .string "Pero el fuego derrite al hielo,\n"
-    .string "así que los Pokémon de tipo FUEGO\l"
-    .string "vencen a los de tipo HIELO.$"
+    .string "así que los Pokémon de tipo Fuego\l"
+    .string "vencen a los de tipo Hielo.$"
 
 CinnabarIsland_Gym_Text_GymGuyAdvice::
     .string "¡Yo!\n"
     .string "¡Futur{OA} campe{ONONA}!\p"
     .string "Blaine es un profesional de los\n"
-    .string "Pokémon de tipo FUEGO.\p"
+    .string "Pokémon de tipo Fuego.\p"
     .string "¡Baja sus ánimos con agua!\p"
     .string "Será mejor que también lleves unas\n"
-    .string "ANTIQUEMADURAS.$"
+    .string "Antiquemaduras.$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
     .string "¡{PLAYER}!\n"
     .string "¡Venciste a esa antorcha!$"
 
 CinnabarIsland_Gym_Text_GymStatue::
-    .string "Gimnasio Pokémon DE Canela\n"
+    .string "Gimnasio Pokémon de Canela\n"
     .string "Líder Blaine\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}$"
 
 CinnabarIsland_Gym_Text_GymStatuePlayerWon::
-    .string "Gimnasio Pokémon DE Canela\n"
+    .string "Gimnasio Pokémon de Canela\n"
     .string "Líder Blaine\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}, {PLAYER}$"
@@ -164,26 +164,26 @@ CinnabarIsland_Gym_Text_PokemonQuizRules::
     .string "¡Allá vamos!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion1::
-    .string "¿CATERPIE evoluciona en METAPOD?$"
+    .string "¿Caterpie evoluciona en Metapod?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion2::
-    .string "¿Hay 9 MEDALLAS certificadas de la\n"
+    .string "¿Hay 9 Medallas certificadas de la\n"
     .string "Liga Pokémon?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion3::
-    .string "¿POLIWAG evoluciona tres veces?$"
+    .string "¿Poliwag evoluciona tres veces?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion4::
-    .string "¿Los movimientos ELÉCTRICOS\n"
+    .string "¿Los movimientos Eléctricos\n"
     .string "afectan a los Pokémon de\l"
-    .string "tipo TIERRA?$"
+    .string "tipo Tierra?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion5::
     .string "¿Los Pokémon del mismo tipo\n"
     .string "y nivel son distintos?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion6::
-    .string "¿La MT28 contiene TUMBA PIEDRA?$"
+    .string "¿La MT28 contiene Tumba Piedra?$"
 
 CinnabarIsland_Gym_Text_CorrectGoOnThrough::
     .string "¡Tienes toda la razón!\p"

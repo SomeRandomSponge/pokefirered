@@ -1,6 +1,6 @@
 LavenderTown_House2_Text_WantMeToRateNicknames::
     .string "¡Hola, hola!\n"
-    .string "¡Soy el INSPECTOR DE APODOS!\p"
+    .string "¡Soy el Inspector de Apodos!\p"
     .string "¿Quieres que evalue los apodos de\n"
     .string "tus Pokémon?$"
 
@@ -43,5 +43,5 @@ LavenderTown_House2_Text_TrulyImpeccableName::
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
     .string "Espera, espera.\n"
-    .string "¡Eso es solo un HUEVO!$"
+    .string "¡Eso es solo un Huevo!$"
 

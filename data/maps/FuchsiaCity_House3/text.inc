@@ -1,6 +1,6 @@
 FuchsiaCity_House3_Text_WouldYouLikeToForgetMove::
     .string "Uh…\n"
-    .string "Oh, sí, soy el OLVIDA MOVIMIENTOS.\p"
+    .string "Oh, sí, soy el Olvida Movimientos.\p"
     .string "Puedo hacer que los Pokémon\n"
     .string "olviden sus movimientos.\p"
     .string "¿Quieres que haga eso?$"
@@ -32,6 +32,6 @@ FuchsiaCity_House3_Text_ComeAgainToForgetOtherMoves::
 
 FuchsiaCity_House3_Text_NoEggShouldKnowMoves::
     .string "¿Qué?\n"
-    .string "Ningún HUEVO debería conocer un\l"
+    .string "Ningún Huevo debería conocer un\l"
     .string "movimiento.$"
 

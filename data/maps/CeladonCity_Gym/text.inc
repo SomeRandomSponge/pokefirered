@@ -9,7 +9,7 @@ CeladonCity_Gym_Text_ErikaIntro::
     .string "Soy una estudiante en el arte del\n"
     .string "arreglo floral.\p"
     .string "Mis Pokémon son únicamente del\n"
-    .string "tipo PLANTA.\p"
+    .string "tipo Planta.\p"
     .string "…Oh, lo siento, no tenía idea de\n"
     .string "que deseabas desafiarme.\p"
     .string "Muy bien, pero no perderé.{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
@@ -18,7 +18,7 @@ CeladonCity_Gym_Text_ErikaDefeat::
     .string "¡Oh!\n"
     .string "Admito la derrota.\l"
     .string "Eres notablemente fuerte.\p"
-    .string "Debo otorgarte la MEDALLA ARCOÍRIS.$"
+    .string "Debo otorgarte la Medalla Arcoíris.$"
 
 CeladonCity_Gym_Text_ErikaPostBattle::
     .string "¿Estás catalogando Pokémon?\n"
@@ -27,10 +27,10 @@ CeladonCity_Gym_Text_ErikaPostBattle::
     .string "sean poco atractivos.$"
 
 CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
-    .string "La MEDALLAARCOÍRIS hace que todo\n"
+    .string "La MedallaArcoíris hace que todo\n"
     .string "Pokémon hasta el Nv. 50 obedezca.\p"
     .string "También permite usar el movimiento\n"
-    .string "FUERZA fuera de las batallas.\p"
+    .string "Fuerza fuera de las batallas.\p"
     .string "También lleva esto contigo.$"
 
 CeladonCity_Gym_Text_ReceivedTM19FromErika::
@@ -38,7 +38,7 @@ CeladonCity_Gym_Text_ReceivedTM19FromErika::
     .string "de Erika.$"
 
 CeladonCity_Gym_Text_ExplainTM19::
-    .string "MT19 contiene GIGA DRENADO.\p"
+    .string "MT19 contiene Gigadrenado.\p"
     .string "La mitad del daño que ejerce\n"
     .string "se drena para curar a tu Pokémon.\p"
     .string "¿No estás de acuerdo en que es un\n"
@@ -67,10 +67,10 @@ CeladonCity_Gym_Text_BridgetDefeat::
     .string "¡Mi maquillaje!$"
 
 CeladonCity_Gym_Text_BridgetPostBattle::
-    .string "Los Pokémon de tipo PLANTA son\n"
-    .string "fuertes contra los de tipo AGUA.\p"
+    .string "Los Pokémon de tipo Planta son\n"
+    .string "fuertes contra los de tipo Agua.\p"
     .string "También tienen ventaja contra los\n"
-    .string "del tipo ROCA y del tipo TIERRA.$"
+    .string "del tipo Roca y del tipo Tierra.$"
 
 CeladonCity_Gym_Text_TinaIntro::
     .string "…¿No estabas espiando este lugar\n"
@@ -86,14 +86,14 @@ CeladonCity_Gym_Text_TinaPostBattle::
 CeladonCity_Gym_Text_TamiaIntro::
     .string "¡Mira, mira!\n"
     .string "¡Ve a mis Pokémon!\p"
-    .string "Me gustan los de tipo PLANTA.\n"
+    .string "Me gustan los de tipo Planta.\n"
     .string "Me gusta que son fáciles de criar.$"
 
 CeladonCity_Gym_Text_TamiaDefeat::
     .string "¡No!$"
 
 CeladonCity_Gym_Text_TamiaPostBattle::
-    .string "Solo usamos Pokémon de tipo PLANTA\n"
+    .string "Solo usamos Pokémon de tipo Planta\n"
     .string "en nuestro Gimnasio.\p"
     .string "¿Por qué? ¡también los usamos para\n"
     .string "hacer arreglos florales!$"
@@ -101,7 +101,7 @@ CeladonCity_Gym_Text_TamiaPostBattle::
 CeladonCity_Gym_Text_LisaIntro::
     .string "¡Oh, ey!\p"
     .string "¡Aquí no nos gustan los Pokémon\n"
-    .string "de tipo INSECTO o FUEGO!$"
+    .string "de tipo Insecto o Fuego!$"
 
 CeladonCity_Gym_Text_LisaDefeat::
     .string "¡Oh!\n"
@@ -138,13 +138,13 @@ CeladonCity_Gym_Text_MaryPostBattle::
     .string "¡Espera la próxima vez!$"
 
 CeladonCity_Gym_Text_GymStatue::
-    .string "Gimnasio Pokémon DE Prisma\n"
+    .string "Gimnasio Pokémon de Prisma\n"
     .string "Líder: Erika\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-    .string "Gimnasio Pokémon DE Prisma\n"
+    .string "Gimnasio Pokémon de Prisma\n"
     .string "Líder: Erika\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}, {PLAYER}$"
