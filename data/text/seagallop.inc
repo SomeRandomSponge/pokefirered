@@ -5,4 +5,4 @@ Text_WhereDoYouWantToGo::
 Text_AllAboardSeagallopNum::
 	.string "¡De acuerdo!\p"
 	.string "¡Todos abordo del\n"
-	.string "SURCAMAR VELOZ {STR_VAR_1}!$"
+	.string "Surcamar Veloz {STR_VAR_1}!$"

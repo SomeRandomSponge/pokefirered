@@ -14,7 +14,7 @@ PalletTown_Text_ReadItReadIt::
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
 	.string "Consejos para Entrenadores\p"
-	.string "¡Presiona START para abrir el MENÚ!$"
+	.string "¡Presiona Start para abrir el Menú!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
 	.string "Los carteles son útiles, ¿verdad?$"
@@ -28,4 +28,4 @@ PalletTown_Text_LookCopiedTrainerTipsSign::
 @ Used by NPC
 PalletTown_Text_PressStartToOpenMenuCopy::
 	.string "¡Consejos para Entrenadores!\p"
-	.string "¡Presiona START para abrir el MENÚ!$"
+	.string "¡Presiona Start para abrir el Menú!$"

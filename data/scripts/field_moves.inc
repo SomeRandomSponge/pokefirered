@@ -46,15 +46,15 @@ EventScript_DontCutTree::
 
 Text_CutTreeDown::
 	.string "¡Parece que este árbol se puede\n"
-	.string "CORTAR!$"
-	.string "¿Quieres CORTARLO?$"
+	.string "Cortar!$"
+	.string "¿Quieres Cortarlo?$"
 
 Text_MonUsedMove::
 	.string "¡{STR_VAR_1} usó {STR_VAR_2}!$"
 
 Text_TreeCanBeCutDown::
 	.string "¡Parece que este árbol se puede\n"
-	.string "CORTAR!$"
+	.string "Cortar!$"
 
 EventScript_RockSmash::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -110,7 +110,7 @@ EventScript_DontSmashRock::
 
 Text_UseRockSmash::
 	.string "Quizás puedas romper esta roca.\n"
-	.string "¿Quieres usar ROMPE ROCAS?$"
+	.string "¿Quieres usar Rompe Rocas?$"
 
 Text_MonMaySmashRock::
 	.string "Es una roca dura, pero un Pokémon\n"
@@ -160,11 +160,11 @@ EventScript_DontUseStrength::
 Text_UseStrength::
 	.string "Es una gran piedra, pero un\n"
 	.string "Pokémon podría empujarla.\p"
-	.string "¿Quieres usar FUERZA?$"
+	.string "¿Quieres usar Fuerza?$"
 
 Text_MonUsedStrengthCanMoveBoulders::
-	.string "¡{STR_VAR_1} usó FUERZA!\p"
-	.string "¡La FUERZA de {STR_VAR_1} le\n"
+	.string "¡{STR_VAR_1} usó Fuerza!\p"
+	.string "¡La Fuerza de {STR_VAR_1} le\n"
 	.string "permitió mover piedras!$"
 
 Text_MonMayPushBoulder::
@@ -172,7 +172,7 @@ Text_MonMayPushBoulder::
 	.string "Pokémon podría empujarla.$"
 
 Text_StrengthMadeMovingBouldersPossible::
-	.string "FUERZA permitió mover piedras.$"
+	.string "Fuerza permitió mover piedras.$"
 
 EventScript_Waterfall::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -201,10 +201,10 @@ Text_WallOfWaterCrashingDown::
 
 Text_UseWaterfall::
 	.string "Es una gran cascada.\n"
-	.string "¿Quieres usar CASCADA?$"
+	.string "¿Quieres usar Cascada?$"
 
 Text_MonUsedWaterfall::
-	.string "{STR_VAR_1} usó CASCADA.$"
+	.string "{STR_VAR_1} usó Cascada.$"
 
 @ Unused leftover from R/S
 EventScript_DeepWater::
@@ -259,10 +259,10 @@ Text_MonMayGoUnderwater::
 
 Text_SeaIsDeepUseDive::
 	.string "El mar es profundo aquí.\n"
-	.string "¿Quieres usar BUCEO?$"
+	.string "¿Quieres usar Buceo?$"
 
 Text_MonUsedDive::
-	.string "{STR_VAR_1} usó BUCEO.$"
+	.string "{STR_VAR_1} usó Buceo.$"
 
 Text_MonMaySurface::
 	.string "La luz se filtra desde arriba.\n"
@@ -271,11 +271,11 @@ Text_MonMaySurface::
 
 Text_LightFilteringUseDive::
 	.string "La luz se filtra desde arriba.\n"
-	.string "¿Quieres usar BUCEO?$"
+	.string "¿Quieres usar Buceo?$"
 
 Text_DiveCantBeUsedHere::
 	.string "Hay un obstáculo arriba.\n"
-	.string "No se puede usar BUCEO aquí.$"
+	.string "No se puede usar Buceo aquí.$"
 
 EventScript_FailSweetScent::
 	msgbox Text_LooksLikeNothingHere, MSGBOX_SIGN

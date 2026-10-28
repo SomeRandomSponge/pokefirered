@@ -2,7 +2,7 @@ Text_ObtainedTheX::
 	.string "¡Obtuviste {STR_VAR_2}!$"
 
 Text_BagIsFull::
-	.string "La MOCHILA está llena…$"
+	.string "La Mochila está llena…$"
 
 Text_PutItemAway::
 	.string "{PLAYER} puso {STR_VAR_2}\n"
@@ -13,19 +13,19 @@ Text_FoundOneItem::
 
 Text_TooBadBagFull::
 	.string "¡Que mal!\n"
-	.string "La MOCHILA está llena…$"
+	.string "La Mochila está llena…$"
 
 Text_FoundXCoins::
 	.string "¡{PLAYER} encontró\n"
 	.string "{STR_VAR_1} {STR_VAR_2}!$"
 
 Text_PutCoinsAwayInCoinCase::
-	.string "{PLAYER} puso las MONEDAS en el\n"
-	.string "ESTUCHE DE MONEDAS.$"
+	.string "{PLAYER} puso las Monedas en el\n"
+	.string "Monedero.$"
 
 Text_CoinCaseIsFull::
 	.string "¡Que mal!\n"
-	.string "El ESTUCHE DE MONEDAS está lleno…$"
+	.string "El Monedero está lleno…$"
 
 Text_NothingToPutThemIn::
 	.string "¡Que mal!\n"

@@ -16,14 +16,14 @@ Text_YouKnowThoseWords::
 	.string "¿Oh, hola!\n"
 	.string "¿Conoces estas palabras?\p"
 	.string "Entonces debes conocer el\n"
-	.string "REGALO MISTERIOSO.\p"
+	.string "Regalo Misterioso.\p"
 	.string "¿A partir de ahora, podrás recibir\n"
-	.string "REGALOS MISTERIOSOS!$"
+	.string "Regalos Misteriosos!$"
 
 Text_YouCanAccessMysteryGift::
 	.string "Una vez guardes tu partida, podrás\n"
-	.string "acceder al REGALO MISTERIOSO.$"
+	.string "acceder al Regalo Misterioso.$"
 
 Text_ThankYouForAccessingMysteryGift::
 	.string "Gracias por acceder al sistema de\n"
-	.string "REGALOS MISTERIOSOS.$"
+	.string "Regalos Misteriosos.$"

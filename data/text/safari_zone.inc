@@ -1,18 +1,18 @@
 @ The text here is a copy/paste from Hoenn's Safari Zone, and any unused text was left untranslated
 
 SafariZone_Text_WouldYouLikeToExit::
-	.string "¿Quieres salir de la ZONA SAFARI\n"
+	.string "¿Quieres salir de la Zona Safari\n"
 	.string "ahora mismo?$"
 
 SafariZone_Text_TimesUp::
 	.string "AVISO: ¡Ding-dong!\p"
 	.string "¡Se acabó el tiempo!\p"
-	.string "AVISO: ¡Tu JUEGO SAFARI terminó!$"
+	.string "AVISO: ¡Tu Juego Safari terminó!$"
 
 SafariZone_Text_OutOfBalls::
 	.string "AVISO: ¡Ding-dong!\p"
-	.string "¡Te quedaste sin BOLAS SAFARI!\p"
-	.string "AVISO: ¡Tu JUEGO SAFARI terminó!$"
+	.string "¡Te quedaste sin Safaribolas!\p"
+	.string "AVISO: ¡Tu Juego Safari terminó!$"
 
 SafariZone_Text_WelcomeToSafariZone::
 	.string "サファリゾーンへ　ようこそ！\p"

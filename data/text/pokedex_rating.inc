@@ -8,7 +8,7 @@ PokedexRating_Text_SeenXOwnedY::
 	.string "tu Pokédex es:\p"
 	.string "{STR_VAR_1} Pokémon vistos y\n"
 	.string "{STR_VAR_2} Pokémon atrapados.\p"
-	.string "{FONT_NORMAL}Evaluación del PROFESOR Oak:$"
+	.string "{FONT_NORMAL}Evaluación del Profesor Oak:$"
 
 PokedexRating_Text_LessThan10::
 	.string "Aún tienes mucho que hacer.\p"
@@ -18,8 +18,8 @@ PokedexRating_Text_LessThan10::
 PokedexRating_Text_LessThan20::
 	.string "¡Parece que vas por el camino\n"
 	.string "correcto!\p"
-	.string "Le di una MO de DESTELLO a uno de\n"
-	.string "mis AYUDANTES. ¡Ve a conseguirla!$"
+	.string "Le di una MO de Destello a uno de\n"
+	.string "mis Ayudantes. ¡Ve a conseguirla!$"
 
 PokedexRating_Text_LessThan30::
 	.string "¡Tu Pokédex podría usar algo más\n"
@@ -30,20 +30,20 @@ PokedexRating_Text_LessThan30::
 PokedexRating_Text_LessThan40::
 	.string "¡Bien, esta claro que estas\n"
 	.string "trabajando duro!\p"
-	.string "Le di un BUSCA OBJETOS a uno de\n"
-	.string "mis AYUDANTES. ¡Ve a conseguirlo!$"
+	.string "Le di un Detector a uno de\n"
+	.string "mis Ayudantes. ¡Ve a conseguirlo!$"
 
 PokedexRating_Text_LessThan50::
 	.string "¡Tu Pokédex ha avanzado bastante\n"
 	.string "bien!\p"
-	.string "Le di una MONEDA AMULETO a uno de\n"
-	.string "mis AYUDANTES. ¡Ve a conseguirla!$"
+	.string "Le di una Moneda Amuleto a uno de\n"
+	.string "mis Ayudantes. ¡Ve a conseguirla!$"
 
 PokedexRating_Text_LessThan60::
 	.string "¡Ah, finalmente superaste las\n"
 	.string "50 especies!\p"
-	.string "Le di un REPARTIR EXP. a uno de\n"
-	.string "mis AYUDANTES. ¡Ve a conseguirlo!$"
+	.string "Le di un Divide Experiencia a uno de\n"
+	.string "mis Ayudantes. ¡Ve a conseguirlo!$"
 
 PokedexRating_Text_LessThan70::
 	.string "¡Jojo! ¡tu Pokédex se esta\n"
@@ -82,20 +82,20 @@ PokedexRating_Text_LessThan140::
 PokedexRating_Text_LessThan150::
 	.string "¡No tengo nada más que decir!\n"
 	.string "¡Ahora tu eres {ELLA}\l"
-	.string "PROFESOR{AM} Pokémon!$"
+	.string "Profesor{A} Pokémon!$"
 
 PokedexRating_Text_Complete::
 	.string "¡Tu Pokédex está completa!\n"
 	.string "¡¡Felicidades!!$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
-	.string "Y tu Pokédex NACIONAL es:\p"
+	.string "Y tu Pokédex Nacional es:\p"
 	.string "{STR_VAR_1} Pokémon vistos y\n"
 	.string "{STR_VAR_2} Pokémon capturados.$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
 	.string "¡Estaré esperando ver como llenas\n"
-	.string "la Pokédex NACIONAL!$"
+	.string "la Pokédex Nacional!$"
 
 PokedexRating_Text_YouveCompletedDex::
 	.string "Al fin…\p"

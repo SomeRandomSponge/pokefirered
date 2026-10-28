@@ -9,7 +9,7 @@ Text_NothingButPokemonBooks::
 	.string "ポケモンの　ほん　ばかりだ$"
 
 Text_ATownMap::
-	.string "Un MAPA REGIONAL.$"
+	.string "Un Mapa Regional.$"
 
 Text_PokeMartShelf::
 	.string "¡Wow!\n"
@@ -32,19 +32,19 @@ Text_Snacks::
 
 Text_PokemartSign::
 	.string "¡Todos los objetos que necesitas!\n"
-	.string "TIENDA Pokémon$"
+	.string "Tienda Pokémon$"
 
 Text_PokecenterSign::
 	.string "¡Cura a tus Pokémon!\n"
 	.string "Centro Pokémon$"
 
 Text_Indigo_UltimateGoal::
-	.string "MESETA AÑIL\p"
+	.string "Meseta Añil\p"
 	.string "¡La última meta para Entrenadores!\n"
 	.string "SC de la Liga Pokémon$"
 
 Text_Indigo_HighestAuthority::
-	.string "MESETA AÑIL\p"
+	.string "Meseta Añil\p"
 	.string "¡La más alta autoridad en Pokémon!\n"
 	.string "SC de la Liga Pokémon$"
 

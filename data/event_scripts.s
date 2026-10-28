@@ -856,7 +856,7 @@ Text_WantWhichFloor::
 
 Text_BagItemCanBeRegistered::
 	.string "Puedes asignar un objeto en la\n"
-	.string "MOCHILA a SELECT para uso fácil.$"
+	.string "Mochila a Select para uso fácil.$"
 
 @ Unused (email from R/S Rivals computer)
 Text_TrainerSchoolEmail::
@@ -916,7 +916,7 @@ Text_BigHoleInTheWall::
 
 Text_WirelessClubUndergoingAdjustments::
 	.string "Lo siento mucho.\n"
-	.string "El CLUB INALÁMBRICO Pokémon esta\l"
+	.string "El Club Inalámbrico Pokémon esta\l"
 	.string "siendo modificado.$"
 
 Text_AppearsToBeUndergoingAdjustments::
@@ -938,17 +938,17 @@ Text_GiveNicknameToThisMon::
 
 Text_CardKeyOpenedDoor::
 	.string "¡Bingo!\n"
-	.string "¡La LLAVE MAGNÉTICA abrió\l"
+	.string "¡La Llave Magnética abrió\l"
 	.string "la puerta!$"
 
 Text_ItNeedsCardKey::
 	.string "¡No!\n"
-	.string "¡Necesita una LLAVE MAGNÉTICA!$"
+	.string "¡Necesita una Llave Magnética!$"
 
 Text_AccessedProfOaksPC::
-	.string "Accediste a la PC del PROF. Oak…\p"
+	.string "Accediste a la PC del Prof. Oak…\p"
 	.string "Accediste al Sistema de Evaluación\n"
-	.string "de la POKéDEX…$"
+	.string "de la Pokédex…$"
 
 Text_HavePokedexRated::
 	.string "¿Quieres que tu Pokédex sea\n"
@@ -956,7 +956,7 @@ Text_HavePokedexRated::
 
 Text_ClosedLinkToProfOaksPC::
 	.string "Se cerró la conexión con la PC\n"
-	.string "del PROFESOR Oak.$"
+	.string "del Profesor Oak.$"
 
 Text_VoiceRangOutDontRunAway::
 	.string "La voz de alguien resonó,\n"

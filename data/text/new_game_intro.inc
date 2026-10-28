@@ -1,128 +1,128 @@
 gOtherText_NewName::
-    .string "OTRO NOMBRE$"
+    .string "Otro nombre$"
 
 gNameChoice_Green::
-    .string "AZUL$"
+    .string "Azul$"
 
 gNameChoice_Red::
-    .string "ROJO$"
+    .string "Rojo$"
 
 gNameChoice_Leaf::
-    .string "HOJA$"
+    .string "Hoja$"
 
 gNameChoice_Fire::
-    .string "FUEGO$"
+    .string "Fuego$"
 
 gNameChoice_Gary::
-    .string "GARY$"
+    .string "Gary$"
 
 gNameChoice_Kaz::
-    .string "VERDE$"
+    .string "Verde$"
 
 gNameChoice_Toru::
-    .string "TORU$"
+    .string "Toru$"
 
 gNameChoice_Ash::
-    .string "ASH$"
+    .string "Ash$"
 
 gNameChoice_Kene::
-    .string "KENE$"
+    .string "Kene$"
 
 gNameChoice_Geki::
-    .string "GEKI$"
+    .string "Geki$"
 
 gNameChoice_Jak::
-    .string "JAK$"
+    .string "Jak$"
 
 gNameChoice_Janne::
-    .string "JANNE$"
+    .string "Janne$"
 
 gNameChoice_Jonn::
-    .string "JONN$"
+    .string "Jonn$"
 
 gNameChoice_Kamon::
-    .string "KAMON$"
+    .string "Kamon$"
 
 gNameChoice_Karl::
-    .string "KARL$"
+    .string "Karl$"
 
 gNameChoice_Taylor::
-    .string "TAYLOR$"
+    .string "Taylor$"
 
 gNameChoice_Oscar::
-    .string "OSCAR$"
+    .string "Oscar$"
 
 gNameChoice_Hiro::
-    .string "HIRO$"
+    .string "Hiro$"
 
 gNameChoice_Max::
-    .string "MAX$"
+    .string "Max$"
 
 gNameChoice_Jon::
-    .string "JON$"
+    .string "Jon$"
 
 gNameChoice_Ralph::
-    .string "RALPH$"
+    .string "Ralph$"
 
 gNameChoice_Kay::
-    .string "KAY$"
+    .string "Kay$"
 
 gNameChoice_Tosh::
-    .string "TOSH$"
+    .string "Tosh$"
 
 gNameChoice_Roak::
-    .string "ROAK$"
+    .string "Roak$"
 
 gNameChoice_Omi::
-    .string "OMI$"
+    .string "Omi$"
 
 gNameChoice_Jodi::
-    .string "JODI$"
+    .string "Jodi$"
 
 gNameChoice_Amanda::
-    .string "AMANDA$"
+    .string "Amanda$"
 
 gNameChoice_Hillary::
-    .string "HILLARY$"
+    .string "Hillary$"
 
 gNameChoice_Makey::
-    .string "MAKEY$"
+    .string "Makey$"
 
 gNameChoice_Michi::
-    .string "MICHI$"
+    .string "Michi$"
 
 gNameChoice_Paula::
-    .string "PAULA$"
+    .string "Paula$"
 
 gNameChoice_June::
-    .string "JUNE$"
+    .string "June$"
 
 gNameChoice_Cassie::
-    .string "CASSIE$"
+    .string "Cassie$"
 
 gNameChoice_Rey::
-    .string "REY$"
+    .string "Rey$"
 
 gNameChoice_Seda::
-    .string "SEDA$"
+    .string "Seda$"
 
 gNameChoice_Kiko::
-    .string "KIKO$"
+    .string "Kiko$"
 
 gNameChoice_Mina::
-    .string "MINA$"
+    .string "Mina$"
 
 gNameChoice_Norie::
-    .string "NORIE$"
+    .string "Norie$"
 
 gNameChoice_Sai::
-    .string "SAI$"
+    .string "Sai$"
 
 gNameChoice_Momo::
-    .string "MOMO$"
+    .string "Momo$"
 
 gNameChoice_Suzi::
-    .string "SUZI$"
+    .string "Suzi$"
 
 gControlsGuide_Text_Intro::
     .string "La explicación de los botones\n"
@@ -149,8 +149,8 @@ gControlsGuide_Text_SelectButton::
     .string "el que se haya registrado.$"
 
 gControlsGuide_Text_LRButtons::
-    .string "Si necesitas AYUDA jugando,\n"
-    .string "presiona el botón L or el botón R.$"
+    .string "Si necesitas Ayuda jugando,\n"
+    .string "presiona los botones L o R.$"
 
 gOakSpeech_Text_AskPlayerGender::
     .string "Primero dime. ¿Eres un chico?\n"
@@ -190,7 +190,7 @@ gOakSpeech_Text_WelcomeToTheWorld::
     .string "¡Este es el mundo de Pokémon!\p"
     .string "Mi nombre es Oak.\p"
     .string "Pero la gente me llama\n"
-    .string "PROFESOR Pokémon.\p$"
+    .string "Profesor Pokémon.\p$"
 
 gOakSpeech_Text_ThisWorld::
     .string "Este mundo…$"
