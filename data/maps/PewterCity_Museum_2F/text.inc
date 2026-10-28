@@ -6,7 +6,7 @@ Text_SeismicTossTeach::
     .string "Pero eso debería motivarnos a\n"
     .string "estudiar duro, no tirar la toalla.\p"
     .string "La unica cosa que deberias tirar…\p"
-    .string "Bueno, ¿que tal TIRO SÍSMICO?\n"
+    .string "Bueno, ¿que tal Tiro Sísmico?\n"
     .string "¿Debería enseñarselo a un Pokémon?$"
 
 Text_SeismicTossDeclined::
@@ -15,14 +15,14 @@ Text_SeismicTossDeclined::
 
 Text_SeismicTossWhichMon::
     .string "¿Qué Pokémon quiere aprender\n"
-    .string "TIRO SÍSMICO?$"
+    .string "Tiro Sísmico?$"
 
 Text_SeismicTossTaught::
     .string "Espero que no tires la toalla.\n"
     .string "Sigue así.$"
 
 PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
-    .string "¿PIEDRA LUNAR, eh?\p"
+    .string "¿Piedra Lunar, eh?\p"
     .string "¿Que tiene de especial?\n"
     .string "Solo veo una roca ordinaria.$"
 
@@ -38,19 +38,19 @@ PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth::
     .string "este mes.$"
 
 PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachu::
-    .string "¡Quiero un PIKACHU!\n"
+    .string "¡Quiero un Pikachu!\n"
     .string "¡Es tan lindo!\p"
     .string "¡Le pedí a mi papi que me\n"
     .string "atrapara uno!$"
 
 PewterCity_Museum_1F_Text_PikachuSoonIPromise::
-    .string "¡Si, tendrás un PIKACHU pronto,\n"
+    .string "¡Si, tendrás un Pikachu pronto,\n"
     .string "lo prometo!$"
 
 PewterCity_Museum_1F_Text_SpaceShuttle::
-    .string "NAVE ESPACIAL$"
+    .string "Nave Espacial$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
-    .string "Meteorito caído en el MONTE LUNA.\n"
-    .string "Se cree que es una PIEDRA LUNAR.$"
+    .string "Meteorito caído en el Monte Luna.\n"
+    .string "Se cree que es una Piedra Lunar.$"
 

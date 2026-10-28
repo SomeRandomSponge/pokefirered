@@ -8,7 +8,7 @@ PokemonTower_3F_Text_HopeDefeat::
 
 PokemonTower_3F_Text_HopePostBattle::
     .string "Los fantasmas pueden ser\n"
-    .string "identificados con el VISOR SILPH.$"
+    .string "identificados con el Visor Silph.$"
 
 PokemonTower_3F_Text_CarlyIntro::
     .string "Jejeje…\n"

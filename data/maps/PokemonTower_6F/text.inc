@@ -35,7 +35,7 @@ PokemonTower_6F_Text_BeGoneIntruders::
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
     .string "¡Ese fantasma era el espíritu sin\n"
-    .string "descanso de la madre de CUBONE!$"
+    .string "descanso de la madre de Cubone!$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::
     .string "El espíritu de la madre se calmó.\p"

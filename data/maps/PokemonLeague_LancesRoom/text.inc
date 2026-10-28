@@ -38,7 +38,7 @@ PokemonLeague_LancesRoom_Text_Defeat::
 PokemonLeague_LancesRoom_Text_PostBattle::
     .string "No puedo creer que mis dragones\n"
     .string "perdieran ante tí, {PLAYER}.\p"
-    .string "¡Ahora eres CAMPE{ONONAM} de la\n"
+    .string "¡Ahora eres Campe{ONONA} de la\n"
     .string "Liga Pokémon!\p"
     .string "…O, lo serías, pero tienes\n"
     .string "un desafío más.\p"
@@ -47,6 +47,6 @@ PokemonLeague_LancesRoom_Text_PostBattle::
     .string "¡{RIVAL}!\p"
     .string "Derrotó al Alto Mando antes\n"
     .string "que tú.\p"
-    .string "Es el auténtico CAMPEÓN de la\n"
+    .string "Es el auténtico Campeón de la\n"
     .string "Liga Pokémon.$"
 

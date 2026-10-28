@@ -21,8 +21,8 @@ PokemonTower_2F_Text_RivalVictory::
 
 PokemonTower_2F_Text_RivalPostBattle::
     .string "¿Cómo va tu Pokédex?\n"
-    .string "¡Acabo de atrapar a un CUBONE!\p"
-    .string "Aún no encuentro un MAROWAK.\n"
+    .string "¡Acabo de atrapar a un Cubone!\p"
+    .string "Aún no encuentro un Marowak.\n"
     .string "¿Donde podrían estar?\p"
     .string "¡Apuesto que ya no queda ninguno!\p"
     .string "Bueno, será mejor que me vaya.\n"
@@ -33,6 +33,6 @@ PokemonTower_2F_Text_RivalPostBattle::
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
     .string "Ni siquiera nosotros podemos\n"
     .string "identificar a los fantasmas.\p"
-    .string "Tal vez un VISOR SILPH podría\n"
+    .string "Tal vez un Visor Silph podría\n"
     .string "desenmascararlos.$"
 

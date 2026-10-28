@@ -31,6 +31,6 @@ PokemonMansion_1F_Text_BraydonPostBattle::
 
 PokemonMansion_1F_Text_MewGaveBirthToMewtwo::
     .string "Diario: 6 de Febrero\n"
-    .string "MEW dio a luz.\p"
-    .string "Llamamos al recién nacido: MEWTWO.$"
+    .string "Mew dio a luz.\p"
+    .string "Llamamos al recién nacido: Mewtwo.$"
 

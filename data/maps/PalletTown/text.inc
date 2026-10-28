@@ -21,8 +21,8 @@ PalletTown_Text_CanStoreItemsAndMonsInPC::
     .string "objetos y Pokémon, via PC.$"
 
 PalletTown_Text_OakPokemonResearchLab::
-    .string "Laboratorio DE INVESTIGACIÓN\n"
-    .string "DE Pokémon DEL PROFESOR Oak$"
+    .string "Laboratorio de Investigación\n"
+    .string "Pokémon del Profesor Oak$"
                
 PalletTown_Text_PlayersHouse::
     .string "Casa de {PLAYER}$"

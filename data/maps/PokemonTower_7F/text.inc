@@ -10,7 +10,7 @@ PokemonTower_7F_Text_Grunt1PostBattle::
 
 PokemonTower_7F_Text_Grunt2Intro::
     .string "Este viejo marchó directo hacia\n"
-    .string "nuestra GUARIDA.\p"
+    .string "nuestra Guarida.\p"
     .string "Luego, empezó a decir que el\n"
     .string "Equipo Rocket abusa a los Pokémon.\p"
     .string "Entonces, lo estamos resolviendo\n"
@@ -40,11 +40,11 @@ PokemonTower_7F_Text_MrFujiThankYouFollowMe::
     .string "Gracias. Pero, estoy aquí por mi\n"
     .string "propia voluntad.\p"
     .string "Vine a calmar el espíritu de\n"
-    .string "la madre de CUBONE.\p"
-    .string "Creo que el espíritu de MAROWAK\n"
+    .string "la madre de Cubone.\p"
+    .string "Creo que el espíritu de Marowak\n"
     .string "finalmente se ha ido.\p"
     .string "Debo agradecerte por tu amable\n"
     .string "preocupación.\p"
-    .string "Sígueme a mi hogar, CASA Pokémon,\n"
+    .string "Sígueme a mi hogar, Casa Pokémon,\n"
     .string "al pie de esta torre.$"
 

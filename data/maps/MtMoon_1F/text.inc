@@ -78,16 +78,16 @@ MtMoon_1F_Text_RobbyDefeat::
     .string "Perdí.$"
 
 MtMoon_1F_Text_RobbyPostBattle::
-    .string "¡ZUBAT is duro!\n"
+    .string "¡Zubat is duro!\n"
     .string "Pero si atrapas uno, podrás contar\l"
     .string "con el.$"
 
 MtMoon_1F_Text_ZubatIsABloodsucker::
     .string "¡Cuidado!\n"
-    .string "¡Los ZUBAT chupan sangre!$"
+    .string "¡Los Zubat chupan sangre!$"
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
     .string "Hola, estoy excavando para buscar\n"
-    .string "fósiles aquí en el MONTE LUNA.\p"
+    .string "fósiles aquí en el Monte Luna.\p"
     .string "A veces me ayuda Brock,\n"
     .string "del Gimnasio de Plateada.$"

@@ -35,14 +35,14 @@ OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
     .string "entrenamiento, no hay nada como\l"
     .string "un baño en las aguas termales.\p"
     .string "Bruno, que es superior a mí,\n"
-    .string "visita el SPA ocasionalmente.\p"
+    .string "visita el Spa ocasionalmente.\p"
     .string "Viene para rehabilitación, tanto\n"
     .string "para él como para sus Pokémon.$"
 
 OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
     .string "Las aguas termales tienen una\n"
     .string "relación estrecha con los volcanes.\p"
-    .string "Este SPA BRASAS, bueno, lo hice\n"
+    .string "Este Spa Brasas, bueno, lo hice\n"
     .string "hace años.\p"
     .string "Tallé la piscina directo de\n"
     .string "una roca gigante a mano.\p"

@@ -11,7 +11,7 @@ PokemonLeague_AgathasRoom_Text_Intro::
     .string "Él se equivoca.\n"
     .string "¡Los Pokémon son para luchar!\p"
     .string "¡{PLAYER}! ¡Te mostraré cómo lucha\n"
-    .string "una ENTRENADORA de verdad!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "una Entrenadora de verdad!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_RematchIntro::
     .string "Soy Agatha, del Alto Mando.\p"
@@ -26,7 +26,7 @@ PokemonLeague_AgathasRoom_Text_RematchIntro::
     .string "Él se equivoca.\n"
     .string "¡Los Pokémon son para luchar!\p"
     .string "¡{PLAYER}! ¡Te mostraré cómo lucha\n"
-    .string "una ENTRENADORA de verdad!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "una Entrenadora de verdad!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_Defeat::
     .string "¡Oh, oh!\n"

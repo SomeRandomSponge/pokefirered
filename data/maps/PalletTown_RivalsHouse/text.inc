@@ -15,15 +15,15 @@ PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
     .string "Ten, esto te ayudará.$"
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
-    .string "{PLAYER} recibió un MAPA\n"
+    .string "{PLAYER} recibió un Mapa\n"
     .string "de Daisy.$"
 
 PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
     .string "No tienes espacio para esto en tu\n"
-    .string "MOCHILA.$"
+    .string "Mochila.$"
 
 PalletTown_RivalsHouse_Text_ExplainTownMap::
-    .string "Puedes usar el MAPA para\n"
+    .string "Puedes usar el Mapa para\n"
     .string "encontrar donde estás, o revisar\l"
     .string "los nombres de lugares.$"
 
@@ -35,7 +35,7 @@ PalletTown_RivalsHouse_Text_PleaseGiveMonsRest::
 
 PalletTown_RivalsHouse_Text_ItsBigMapOfKanto::
     .string "Es un gran mapa de la región\n"
-    .string "de KANTO. ¡Esto podría ser útil!$"
+    .string "de Kanto. ¡Esto podría ser útil!$"
 
 PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooks::
     .string "Los estantes están llenos de\n"
@@ -71,7 +71,7 @@ PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
     .string "Oh, lo siento. Honestamente no\n"
-    .string "puedo limpiar a un HUEVO.$"
+    .string "puedo limpiar a un Huevo.$"
 
 PalletTown_RivalsHouse_Text_MayISeeFirstMon::
     .string "Daisy: Tus Pokémon aprenderán a\n"
@@ -117,5 +117,5 @@ PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch::
 
 PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy::
     .string "“El cariñoso y dulce\n"
-    .string "CLEFAIRY”$"
+    .string "Clefairy”$"
 

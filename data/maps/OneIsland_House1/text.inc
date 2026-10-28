@@ -6,5 +6,5 @@ OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays::
 OneIsland_House1_Text_LastTimeMtEmberErupted::
     .string "Déjame pensar…\p"
     .string "¿Cuándo fue la última vez que el\n"
-    .string "MONTE BRASAS hizo erupción?$"
+    .string "Monte Brasas hizo erupción?$"
 

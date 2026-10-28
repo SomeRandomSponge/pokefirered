@@ -1,8 +1,8 @@
 PewterCity_House1_Text_Nidoran::
-    .string "NIDORAN♂: ¡Bowbow!$"
+    .string "Nidoran♂: ¡Bowbow!$"
 
 PewterCity_House1_Text_NidoranSit::
-    .string "¡NIDORAN, sentado!$"
+    .string "¡Nidoran, sentado!$"
 
 PewterCity_House1_Text_TradeMonsAreFinicky::
     .string "Nuestro Pokémon es un forastero,\n"
@@ -12,4 +12,4 @@ PewterCity_House1_Text_TradeMonsAreFinicky::
     .string "Crece rapido, pero a veces ignora\n"
     .string "a los Entrenadores novatos\l"
     .string "en batalla.\p"
-    .string "Ojalá tuvieramos algunas MEDALLAS…$"
+    .string "Ojalá tuvieramos algunas Medallas…$"

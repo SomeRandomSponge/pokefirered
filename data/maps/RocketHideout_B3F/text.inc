@@ -7,8 +7,8 @@ RocketHideout_B3F_Text_Grunt1Defeat::
     .string "¡Derribado!$"
 
 RocketHideout_B3F_Text_Grunt1PostBattle::
-    .string "¿VISOR SILPH?\n"
-    .string "Oh, esa máquina que el JEFE robó.\p"
+    .string "¿Visor Silph?\n"
+    .string "Oh, esa máquina que el Jefe robó.\p"
     .string "Está por aquí.$"
 
 RocketHideout_B3F_Text_Grunt2Intro::
@@ -22,5 +22,5 @@ RocketHideout_B3F_Text_Grunt2Defeat::
 RocketHideout_B3F_Text_Grunt2PostBattle::
     .string "¡Adelante, ve!\p"
     .string "Pero no podrás llegar sin una\n"
-    .string "LLAVE ASCENSOR.$"
+    .string "Llave del Elevador.$"
 

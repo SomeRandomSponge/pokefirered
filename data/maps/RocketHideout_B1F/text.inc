@@ -28,7 +28,7 @@ RocketHideout_B1F_Text_Grunt3Defeat::
     .string "¡No puedo hacerlo!$"
 
 RocketHideout_B1F_Text_Grunt3PostBattle::
-    .string "¿VISOR SILPH? ¡Humph!\n"
+    .string "¿Visor Silph? ¡Humph!\n"
     .string "No se donde está eso.$"
 
 RocketHideout_B1F_Text_Grunt4Intro::
@@ -39,7 +39,7 @@ RocketHideout_B1F_Text_Grunt4Defeat::
 
 RocketHideout_B1F_Text_Grunt4PostBattle::
     .string "Bien, hablaré…\n"
-    .string "Usa el ascensor para ver al JEFE.$"
+    .string "Usa el ascensor para ver al Jefe.$"
 
 RocketHideout_B1F_Text_Grunt5Intro::
     .string "¿Te perdiste, pequeñ{OA} rat{ONONA}?$"

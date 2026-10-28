@@ -6,7 +6,7 @@ PewterCity_Gym_Text_BrockIntro::
     .string "Mis Pokémon son duros como la\n"
     .string "roca, justo como su determinación.\p"
     .string "¡Así es - todos mis Pokémon son\n"
-    .string "de tipo ROCA!\p"
+    .string "de tipo Roca!\p"
     .string "¡Fuajaja! ¿Vas a retarme sabiendo\n"
     .string "que perderás?\p"
     .string "Eso que te motiva a retarme es el\n"
@@ -21,14 +21,14 @@ PewterCity_Gym_Text_BrockDefeat::
     .string "Te he subestimado, y por\n"
     .string "eso perdí.\p"
     .string "Como prueba de tu victoria, te daré\n"
-    .string "esto… La MEDALLA ROCA oficial de\l"
+    .string "esto… La Medalla Roca oficial de\l"
     .string "la Liga Pokémon.\p"
-    .string "{FONT_NORMAL}¡{PLAYER} recibió la MEDALLA ROCA\n"
+    .string "{FONT_NORMAL}¡{PLAYER} recibió la Medalla Roca\n"
     .string "de Brock!{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}\p"
-    .string "{FONT_MALE}El tener la MEDALLA ROCA hace que\n"
+    .string "{FONT_MALE}El tener la Medalla Roca hace que\n"
     .string "tus Pokémon sean más poderosos.\p"
     .string "También permite usar el movimiento\n"
-    .string "DESTELLO fuera de las batallas.\p"
+    .string "Destello fuera de las batallas.\p"
     .string "Obviamente, un Pokémon debe\n"
     .string "conocer el movimiento para usarlo.$"
 
@@ -41,7 +41,7 @@ PewterCity_Gym_Text_ReceivedTM39FromBrock::
     .string "de Brock.$"
 
 PewterCity_Gym_Text_ExplainTM39::
-    .string "Las MÁQUINAS TÉCNICAS, o MT,\n"
+    .string "Las Máquinas Técnicas, o MT,\n"
     .string "contienen técnicas para Pokémon.\p"
     .string "Usar una MT le enseña el\n"
     .string "movimiento contenido a un Pokémon.\p"
@@ -49,7 +49,7 @@ PewterCity_Gym_Text_ExplainTM39::
     .string "Así que, cuando uses una, elige\n"
     .string "al Pokémon con cuidado.\p"
     .string "Como sea…\n"
-    .string "La MT39 contiene TUMBA ROCAS.\p"
+    .string "La MT39 contiene Tumba de Rocas.\p"
     .string "Lanza rocas al rival y reduce\n"
     .string "su Velocidad.$"
 
@@ -57,7 +57,7 @@ PewterCity_Gym_Text_BrockPostBattle::
     .string "Hay todo tipo de Entrenadores en\n"
     .string "este enorme mundo.\p"
     .string "Pareces tener mucho talento como\n"
-    .string "Entrenador{AM} Pokémon.\p"
+    .string "Entrenador{A} Pokémon.\p"
     .string "Dejame hacer una sugerencia.\p"
     .string "Ve al Gimnasio en Celeste y prueba\n"
     .string "tus habilidades.$"
@@ -95,7 +95,7 @@ PewterCity_Gym_Text_LetsGetHappening::
 PewterCity_Gym_Text_TryDifferentPartyOrders::
     .string "El primer Pokémon que sale a\n"
     .string "pelear es el que esta a la\l"
-    .string "izquierda de la LISTA de Pokémon.\p"
+    .string "izquierda de la Lista de Pokémon.\p"
     .string "Puede que ganes una ventaja al\n"
     .string "cambiar el orden de tus Pokémon.\p"
     .string "Intenta órdenes diferentes para\n"
@@ -117,7 +117,7 @@ PewterCity_Gym_Text_GymStatue::
     .string "{RIVAL}$"
 
 PewterCity_Gym_Text_GymStatuePlayerWon::
-    .string "Gimnasio Pokémon DE Plateada\n"
+    .string "Gimnasio Pokémon de Plateada\n"
     .string "Líder: Brock\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}, {PLAYER}$"

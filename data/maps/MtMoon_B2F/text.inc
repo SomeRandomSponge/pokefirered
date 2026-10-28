@@ -71,14 +71,14 @@ MtMoon_B2F_Text_Grunt4PostBattle::
     .string "antes de que llegara la gente.$"
 
 MtMoon_B2F_Text_YouWantDomeFossil::
-    .string "¿Quieres el FÓSIL DOMO?$"
+    .string "¿Quieres el Fósil Domo?$"
 
 MtMoon_B2F_Text_YouWantHelixFossil::
-    .string "¿Quieres el FÓSIL HÉLIX?$"
+    .string "¿Quieres el Fósil Hélix?$"
 
 MtMoon_B2F_Text_ObtainedHelixFossil::
-    .string "¡Obtuviste el FÓSIL HÉLIX!$"
+    .string "¡Obtuviste el Fósil Hélix!$"
 
 MtMoon_B2F_Text_ObtainedDomeFossil::
-    .string "¡Obtuviste el FÓSIL DOMO!$"
+    .string "¡Obtuviste el Fósil Domo!$"
 

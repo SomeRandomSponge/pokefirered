@@ -45,7 +45,7 @@ RockTunnel_B1F_Text_SteveDefeat::
 RockTunnel_B1F_Text_StevePostBattle::
     .string "Cosplay de Pokémon es disfrazarse\n"     /* (E) "Pokémon cosplay is dressing up as\n" */
     .string "de Pokémon por diversión.\p"             /* (E) "Pokémon for fun.\p" */
-    .string "CLEFAIRY es un favorito para eso.$"      /* (E) "CLEFAIRY is a favorite.$" */
+    .string "Clefairy es un favorito para eso.$"      /* (E) "CLEFAIRY is a favorite.$" */
 
 RockTunnel_B1F_Text_AllenIntro::
     .string "¡Mis técnicas de Pokémon te\n"           /* (E) "My Pokémon techniques will leave\n" */
@@ -57,7 +57,7 @@ RockTunnel_B1F_Text_AllenDefeat::
 
 RockTunnel_B1F_Text_AllenPostBattle::
     .string "En las montañas es fácil encontrar\n"    /* (E) "In mountains, you'll often find\n" */
-    .string "Pokémon de tipo ROCA.$"                  /* (E) "ROCK-type Pokémon.$" */
+    .string "Pokémon de tipo Roca.$"                  /* (E) "ROCK-type Pokémon.$" */
 
 RockTunnel_B1F_Text_MarthaIntro::
     .string "No suelo venir aquí, pero lucharé\n"     /* (E) "I don't often come here, but I will\n" */

@@ -20,7 +20,7 @@ OneIsland_KindleRoad_Text_AbigailPostBattle::
     .string "Tal vez debería llevar algo así…$"
 
 OneIsland_KindleRoad_Text_FinnIntro::
-    .string "Visto desde aquí, el MONTE BRASAS\n"
+    .string "Visto desde aquí, el Monte Brasas\n"
     .string "atraviesa el cielo.$"
 
 OneIsland_KindleRoad_Text_FinnDefeat::
@@ -39,7 +39,7 @@ OneIsland_KindleRoad_Text_GarrettDefeat::
     .string "¡Eres buen{OA}!$"
 
 OneIsland_KindleRoad_Text_GarrettPostBattle::
-    .string "En vez de usar SURF todo el\n"
+    .string "En vez de usar Surf todo el\n"
     .string "tiempo, deberías nadar un poco.$"
 
 OneIsland_KindleRoad_Text_TommyIntro::
@@ -121,45 +121,45 @@ OneIsland_KindleRoad_Text_ClairePostBattle::
     .string "Me siento hambrienta otra vez.$"
 
 OneIsland_KindleRoad_Text_KiaIntro::
-    .string "KIA: ¡Mi hermano mayor y yo\n"
+    .string "Kia: ¡Mi hermano mayor y yo\n"
     .string "hacemos una combinación asombrosa!$"
 
 OneIsland_KindleRoad_Text_KiaDefeat::
-    .string "KIA: ¡¿Huh?!\n"
+    .string "Kia: ¡¿Huh?!\n"
     .string "¡No puedo creerlo!$"
 
 OneIsland_KindleRoad_Text_KiaPostBattle::
-    .string "KIA: ¿Cómo puede haber alguien\n"
+    .string "Kia: ¿Cómo puede haber alguien\n"
     .string "mejor que mi hermano mayor?$"
 
 OneIsland_KindleRoad_Text_KiaNotEnoughMons::
-    .string "KIA: Si quieres luchar con\n"
+    .string "Kia: Si quieres luchar con\n"
     .string "nosotros, tienes que traer al\l"
     .string "menos dos Pokémon contigo.$"
 
 OneIsland_KindleRoad_Text_MikIntro::
-    .string "MIK: ¡Junto con KIA, no le temo\n"
+    .string "Mik: ¡Junto con Kia, no le temo\n"
     .string "a nada!$"
 
 OneIsland_KindleRoad_Text_MikDefeat::
-    .string "MIK: ¡Woa!\n"
+    .string "Mik: ¡Woa!\n"
     .string "¡Eso es demasiado!$"
 
 OneIsland_KindleRoad_Text_MikPostBattle::
-    .string "MIK: ¿Cómo pudo fallar mi\n"
-    .string "combinación con KIA?$"
+    .string "Mik: ¿Cómo pudo fallar mi\n"
+    .string "combinación con Kia?$"
 
 OneIsland_KindleRoad_Text_MikNotEnoughMons::
-    .string "MIK: ¿Ey, quieres luchar con\n"
+    .string "Mik: ¿Ey, quieres luchar con\n"
     .string "nosotros?\p"
     .string "Entonces trae a dos o más Pokémon\n"
     .string "contigo.$"
 
 OneIsland_KindleRoad_Text_RouteSign::
-    .string "Este es el CAMINO CANDENTE.\p"
-    .string "Va directo al MONTE BRASAS.$"
+    .string "Este es el Camino Candente.\p"
+    .string "Va directo al Monte Brasas.$"
 
 OneIsland_KindleRoad_Text_EmberSpaSign::
     .string "¡Enciende el fuego en tu corazón!\n"
-    .string "SPA BRASAS$"
+    .string "Spa Brasas$"
 

@@ -29,5 +29,5 @@ PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
     .string "Diario: 10 de Julio\n"
     .string "Nombramos al Pokémon recién\l"
-    .string "descubierto como MEW.$"
+    .string "descubierto como Mew.$"
 

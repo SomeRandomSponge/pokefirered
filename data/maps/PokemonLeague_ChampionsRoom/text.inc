@@ -10,7 +10,7 @@ PokemonLeague_ChampionsRoom_Text_Intro::
     .string "podrían vencer a cualquier tipo\l"
     .string "de Pokémon.\p"
     .string "Y ahora…\p"
-    .string "¡Soy el CAMPEÓN de la Liga Pokémon!\p"
+    .string "¡Soy el Campeón de la Liga Pokémon!\p"
     .string "¡{PLAYER}!\n"
     .string "¿Sabes que significa eso?\p"
     .string "Te lo diré.\p"
@@ -29,7 +29,7 @@ PokemonLeague_ChampionsRoom_Text_RematchIntro::
     .string "podrían vencer a cualquier tipo\l"
     .string "de Pokémon.\p"
     .string "Y ahora…\p"
-    .string "¡Soy el CAMPEÓN de la Liga Pokémon!\p"
+    .string "¡Soy el Campeón de la Liga Pokémon!\p"
     .string "¡{PLAYER}!\n"
     .string "¿Sabes que significa eso?\p"
     .string "Te lo diré.\p"
@@ -41,7 +41,7 @@ PokemonLeague_ChampionsRoom_Text_Defeat::
     .string "¡No puede ser!\l"
     .string "¡Me venciste en mi mejor momento!\p"
     .string "¿Después de todo ese trabajo para\n"
-    .string "convertirme en CAMPEÓN de la Liga?\p"
+    .string "convertirme en Campeón de la Liga?\p"
     .string "¿Mi reinado ya terminó?\n"
     .string "¡No es justo!$"
 
@@ -61,7 +61,7 @@ PokemonLeague_ChampionsRoom_Text_PostBattle::
     .string "¿Por qué perdí?\p"
     .string "No cometí ningún error al criar\n"
     .string "a mis Pokémon…\p"
-    .string "¡Rayos! ¡eres {ELLA} nuev{OA} CAMPE{ONONAM}\n"
+    .string "¡Rayos! ¡eres {ELLA} nuev{OA} Campe{ONONA}\n"
     .string "de la Liga Pokémon!\p"
     .string "Aunque no me guste admitirlo…$"
 
@@ -71,7 +71,7 @@ PokemonLeague_ChampionsRoom_Text_OakPlayer::
 PokemonLeague_ChampionsRoom_Text_OakCongratulations::
     .string "Oak: ¡Ganaste!\n"
     .string "¡Sinceramente, felicidades!\p"
-    .string "¡Eres {ELLA} nuev{OA} CAMPE{ONONAM}\n"
+    .string "¡Eres {ELLA} nuev{OA} Campe{ONONA}\n"
     .string "de la Liga Pokémon!\p"
     .string "Has crecido tanto desde que\n"
     .string "te fuiste con {STR_VAR_1} para\l"
@@ -90,7 +90,7 @@ PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
     .string "Olvidaste tratar a tus Pokémon con\n"
     .string "amor y confianza.\p"
     .string "¡Sin ellos, jámas volverás a\n"
-    .string "ser CAMPEÓN!$"
+    .string "ser Campeón!$"
 
 PokemonLeague_ChampionsRoom_Text_OakPlayerComeWithMe::
     .string "Oak: {PLAYER}.\p"

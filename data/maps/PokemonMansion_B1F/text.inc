@@ -24,7 +24,7 @@ PokemonMansion_B1F_Text_IvanPostBattle::
 
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
     .string "Diario: 1 de Septiembre\n"
-    .string "MEWTWO es demasiado poderoso.\p"
+    .string "Mewtwo es demasiado poderoso.\p"
     .string "Fallamos en frenar sus tendencias\n"
     .string "violentas…$"
 

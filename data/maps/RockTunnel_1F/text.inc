@@ -7,7 +7,7 @@ RockTunnel_1F_Text_LennyDefeat::
     .string "¡Tú ganas!$"                             /* (E) "You win!$" */
 
 RockTunnel_1F_Text_LennyPostBattle::
-    .string "Cuidado con los ONIX.\n"                 /* (E) "Watch for ONIX.\n" */
+    .string "Cuidado con los Onix.\n"                 /* (E) "Watch for ONIX.\n" */
     .string "Solo aparecen ocasionalmente.\p"         /* (E) "They appear only occasionally.\p" */
     .string "Si encuentras uno de nivel alto,\n"      /* (E) "High-level ones can put the\n" */
     .string "¡te podría dar un apretón!$"             /* (E) "squeeze on you!$" */
@@ -43,7 +43,7 @@ RockTunnel_1F_Text_AshtonDefeat::
     .string "¡Se acabó!$"                             /* (E) "Game over!$" */
 
 RockTunnel_1F_Text_AshtonPostBattle::
-    .string "¡Conseguiré un ZUBAT por el camino!$"    /* (E) "Oh well, I'll get a ZUBAT as I go!$" */
+    .string "¡Conseguiré un Zubat por el camino!$"    /* (E) "Oh well, I'll get a ZUBAT as I go!$" */
 
 RockTunnel_1F_Text_LeahIntro::
     .string "¡Ey!\p"                                  /* (E) "Eek!\p" */
@@ -54,7 +54,7 @@ RockTunnel_1F_Text_LeahDefeat::
     .string "Estaba demasiado oscuro…$"               /* (E) "It was too dark…$" */
 
 RockTunnel_1F_Text_LeahPostBattle::
-    .string "Vi a un MACHOP en este túnel.$"          /* (E) "I saw a MACHOP in this tunnel.$" */
+    .string "Vi a un Machop en este túnel.$"          /* (E) "I saw a MACHOP in this tunnel.$" */
 
 RockTunnel_1F_Text_DanaIntro::
     .string "Vine hasta aquí buscando Pokémon\n"      /* (E) "I came this far looking for wild\n" */
@@ -79,6 +79,6 @@ RockTunnel_1F_Text_ArianaPostBattle::
     .string "Ahora estoy sudando.$"                   /* (E) "I'm all sweaty now.$" */
 
 RockTunnel_1F_Text_RouteSign::
-    .string "TÚNEL ROCA\n"                            /* (E) "ROCK TUNNEL\n" */
+    .string "Túnel Roca\n"                            /* (E) "ROCK TUNNEL\n" */
     .string "Ciudad Celeste - Pueblo Lavanda$"        /* (E) "CERULEAN CITY - LAVENDER TOWN$" */
 

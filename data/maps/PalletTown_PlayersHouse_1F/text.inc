@@ -2,14 +2,14 @@ PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
     .string "Mamá: …Claro.\n"
     .string "Todos los niños se van de casa\l"
     .string "algún día. O eso dice la TV.\p"
-    .string "Ah, nuestro vecino, el PROF. Oak,\n"
+    .string "Ah, nuestro vecino, el Prof. Oak,\n"
     .string "estaba buscándote.$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
     .string "Mamá: …Claro.\n"
     .string "Todas las niñas sueñan con viajar.\l"
     .string "O eso dice la TV.\p"
-    .string "Ah, nuestro vecino, el PROF. Oak,\n"
+    .string "Ah, nuestro vecino, el Prof. Oak,\n"
     .string "estaba buscándote.$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
