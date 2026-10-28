@@ -15,7 +15,7 @@ ViridianCity_Gym_Text_GiovanniDefeat::
     .string "Fue una batalla intensa.\l"
     .string "¡Ganaste!\p"
     .string "¡Como prueba, toma la\n"
-    .string "MEDALLA TIERRA!{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$"
+    .string "Medalla Tierra!{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$"
 
 ViridianCity_Gym_Text_GiovanniPostBattle::
     .string "Tras perder de esta manera,\n"
@@ -29,10 +29,10 @@ ViridianCity_Gym_Text_GiovanniPostBattle::
     .string "¡Adiós!$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
-    .string "La MEDALLATIERRA hace que\n"
+    .string "La MedallaTierra hace que\n"
     .string "cualquier Pokémon obedezca.\p"
     .string "Es evidencia de tu maestría como\n"
-    .string "Entrenador{AM} Pokémon.\p"
+    .string "Entrenador{A} Pokémon.\p"
     .string "Con ella, podrás desafiar a la\n"
     .string "Liga Pokémon.\p"
     .string "Toma esta MT también.\p"
@@ -44,7 +44,7 @@ ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
     .string "de Giovanni.$"
 
 ViridianCity_Gym_Text_ExplainTM26::
-    .string "La MT26 contiene TERREMOTO.\p"
+    .string "La MT26 contiene Terremoto.\p"
     .string "Es un ataque poderoso que causa\n"
     .string "un temblor masivo.\p"
     .string "La creé cuando dirigía este\n"
@@ -107,7 +107,7 @@ ViridianCity_Gym_Text_WarrenPostBattle::
     .string "perder así…$"
 
 ViridianCity_Gym_Text_TakashiIntro::
-    .string "¡Soy el REY DEL KÁRATE!\n"
+    .string "¡Soy el Rey del Kárate!\n"
     .string "¡Tu destino depende de mí!$"
 
 ViridianCity_Gym_Text_TakashiDefeat::
@@ -149,22 +149,22 @@ ViridianCity_Gym_Text_GymGuyAdvice::
     .string "del Líder de este Gimnasio.\p"
     .string "Pero una cosa es segura.\n"
     .string "Este será el más duro de todos los\l"
-    .string "LÍDERES de Gimnasio.\p"
+    .string "Líderes de Gimnasio.\p"
     .string "Dicen que estos Entrenadores usan\n"
-    .string "Pokémon del tipo TIERRA.$"
+    .string "Pokémon del tipo Tierra.$"
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
-    .string "¡Qué sorpresa! ¿GIOVANNI era\n"
+    .string "¡Qué sorpresa! ¿Giovanni era\n"
     .string "el Líder de Gimnasio de Verde?$"
 
 ViridianCity_Gym_Text_GymStatue::
-    .string "Gimnasio Pokémon DE Verde\n"
+    .string "Gimnasio Pokémon de Verde\n"
     .string "Líder: ¿?\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-    .string "Gimnasio Pokémon DE Verde\n"
+    .string "Gimnasio Pokémon de Verde\n"
     .string "Líder: Giovanni\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}, {PLAYER}$"

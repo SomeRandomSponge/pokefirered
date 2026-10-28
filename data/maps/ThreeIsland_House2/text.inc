@@ -9,7 +9,7 @@ ThreeIsland_House2_Text_CantMakeThisSpoonBend::
 ThreeIsland_House2_Text_IAdmireSabrina::
     .string "¿Conoces a una chica Líder\n"
     .string "de Gimnasio en Ciudad Azafrán?\p"
-    .string "Usa Pokémon del tipo PSÍQUICO,\n"
+    .string "Usa Pokémon del tipo Psíquico,\n"
     .string "¿verdad?\p"
     .string "Yo la admiro, realmente la admiro.\p"
     .string "Escuché que es buena cliente y\n"

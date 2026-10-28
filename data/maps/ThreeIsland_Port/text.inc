@@ -15,13 +15,13 @@ ThreeIsland_Port_Text_IllCallThePolice::
     .string "Vo… ¡voy a llamar a la policía!$"
 
 ThreeIsland_Port_Text_ThankGoodnessBikersGone::
-    .string "Esos MOTORISTAS…\n"
+    .string "Esos Motoristas…\n"
     .string "¿Se han ido?\p"
     .string "¡Oh, qué suerte!\n"
     .string "¡Me habían dejado horrorizada!$"
 
 ThreeIsland_Port_Text_EverythingTurnedOutForBest::
-    .string "Esos MOTORISTAS huyeron,\n"
-    .string "y LOSTELLE fue encontrada a salvo.\p"
+    .string "Esos Motoristas huyeron,\n"
+    .string "y Lostelle fue encontrada a salvo.\p"
     .string "¡Todo termino bien!$"
 

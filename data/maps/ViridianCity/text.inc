@@ -22,11 +22,11 @@ ViridianCity_Text_OhOkayThen::
     .string "Oh, ¡de acuerdo!$"
 
 ViridianCity_Text_ExplainCaterpieWeedle::
-    .string "CATERPIE no tiene veneno,\n"
-    .string "pero WEEDLE sí.\p"
+    .string "Caterpie no tiene veneno,\n"
+    .string "pero Weedle sí.\p"
     .string "Ten cuidado, puede que tus Pokémon\n"
-    .string "reciban el PIQUETE VENENOSO\l"
-    .string "de WEEDLE.$"
+    .string "reciban el Piquete Venenoso\l"
+    .string "de Weedle.$"
 
 ViridianCity_Text_GrandpaHasntHadCoffeeYet::
     .string "¡Oh, Abuelo!\n"
@@ -74,7 +74,7 @@ ViridianCity_Text_WatchThatToLearnBasics::
     .string "Úsala si es que hay algo que\n"
     .string "no entiendas.\p"
     .string "Te enseñara lo básico de ser un{A}\n"
-    .string "Entrenador{AM} Pokémon.$"
+    .string "Entrenador{A} Pokémon.$"
 
 ViridianCity_Text_WeakenMonsFirstToCatch::
     .string "¡Parece que estaba bastante\n"
@@ -91,7 +91,7 @@ ViridianCity_Text_HowsTeachyTVHelping::
     .string "borracho!\p"
     .string "Me duele la cabeza…\p"
     .string "Por cierto, ¿te esta ayudando\n"
-    .string "mi vieja ENSEÑAME TV?$"
+    .string "mi vieja Enseñame TV?$"
 
 ViridianCity_Text_MyGrandsonOnTheShow::
     .string "¡Wajaja!\n"
@@ -101,7 +101,7 @@ ViridianCity_Text_MyGrandsonOnTheShow::
 
 ViridianCity_Text_TooBusyForTeachyTV::
     .string "Hm… Estás muy ocupad{OA}, incluso\n"
-    .string "para usar la ENSEÑAME TV…\p"
+    .string "para usar la Enseñame TV…\p"
     .string "El tiempo es dinero, y ninguno de\n"
     .string "los dos debería ser malgastado…$"
 
@@ -119,14 +119,14 @@ ViridianCity_Text_CatchMonsForEasierBattles::
 ViridianCity_Text_MovesLimitedByPP::
     .string "Consejos para Entrenadores\p"
     .string "Los ataques de los Pokémon están\n"
-    .string "limitados por sus PUNTOS de PODER,\l"
+    .string "limitados por sus Puntos de Poder,\l"
     .string "o PP.\p"
     .string "Para rellenar PP, deja que tus\n"
     .string "Pokémon cansados descansen en\l"
     .string "un Centro Pokémon.$"
 
 ViridianCity_Text_GymSign::
-    .string "Gimnasio Pokémon DE Ciudad Verde$"
+    .string "Gimnasio Pokémon de Ciudad Verde$"
 
 ViridianCity_Text_GymDoorsAreLocked::
     .string "Las puertas del Gimnasio están\n"

@@ -38,7 +38,7 @@ ViridianCity_School_Text_NotebookFourthPage::
     .string "Cuarta página…\p"
     .string "El objetivo de todo Entrenador\n"
     .string "es el derrotar a los ocho mejores\l"
-    .string "LÍDERES DE Gimnasio.\p"
+    .string "Líderes de Gimnasio.\p"
     .string "El que lo consiga, podrá desafiar…\p"
     .string "¡Al Alto Mando de la Liga\n"
     .string "Pokémon!$"
@@ -47,12 +47,12 @@ ViridianCity_School_Text_TurnThePage::
     .string "¿Paso la página?$"
 
 ViridianCity_School_Text_HeyDontLookAtMyNotes::
-    .string "NIÑA: ¡Oye!\n"
+    .string "Niña: ¡Oye!\n"
     .string "¡No mires mis apuntes!$"
 
 ViridianCity_School_Text_BlackboardListsStatusProblems::
     .string "La pizarra indica los problemas de\n"
-    .string "ESTADO de los Pokémon durante\l"
+    .string "Estado de los Pokémon durante\l"
     .string "las batallas.$"
 
 ViridianCity_School_Text_ReadWhichTopic::
@@ -63,14 +63,14 @@ ViridianCity_School_Text_ExplainSleep::
     .string "está dormido.\p"
     .string "Los Pokémon seguirán dormidos\n"
     .string "incluso después de pelear.\p"
-    .string "Usa DESPERTAR para que despierten.$"
+    .string "Usa Despertar para que despierten.$"
 
 ViridianCity_School_Text_ExplainBurn::
     .string "Las quemaduras reducen el poder de\n"
     .string "Ataque y van restando PS.\p"
     .string "Las quemaduras permanecerán tras\n"
     .string "la batalla.\p"
-    .string "Usa ANTIQUEMAR para curar las\n"
+    .string "Usa Antiquemaduras para curar las\n"
     .string "quemaduras.$"
 
 ViridianCity_School_Text_ExplainPoison::
@@ -78,7 +78,7 @@ ViridianCity_School_Text_ExplainPoison::
     .string "seguirá perdiendo energía.\p"
     .string "El veneno sigue haciendo efecto\n"
     .string "tras la batalla.\p"
-    .string "¡Usa un ANTÍDOTO para curar\n" 
+    .string "¡Usa un Antídoto para curar\n" 
     .string "el envenenamiento!$"
 
 ViridianCity_School_Text_ExplainFreeze::
@@ -86,12 +86,12 @@ ViridianCity_School_Text_ExplainFreeze::
     .string "vuelve totalmente inmovil.\p"
     .string "Y seguira congelado tras la\n"
     .string "batalla.\p"
-    .string "Usa el ANTIHIELO para descongelar\n"
+    .string "Usa el Antihielo para descongelar\n"
     .string "a los pobres Pokémon.$"
 
 ViridianCity_School_Text_ExplainParalysis::
     .string "La parálisis reduce Velocidad y\n"
     .string "puede anular movimientos.\p"
     .string "Persiste tras las batallas.\p"
-    .string "Usa ANTIPARALIZAR para tratarla.$"
+    .string "Usa Antiparalizador para tratarla.$"
 

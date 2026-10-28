@@ -1,10 +1,10 @@
 TwoIsland_Text_IslandSign::
-    .string "ISLA SECUNDA\n"
+    .string "Isla Secunda\n"
     .string "Isla ideal para dos$"
 
 TwoIsland_Text_JoyfulGameCornerSign::
     .string "¡Salta y muerde!\n"
-    .string "SALA DE JUEGOS ALEGRE$"
+    .string "Sala de Juegos Alegre$"
 
 TwoIsland_Text_DangerFastCurrent::
     .string "¡PELIGRO! ¡CORRIENTE RÁPIDA!\n"
@@ -19,12 +19,12 @@ TwoIsland_Text_WelcomeToShopMerchandiseLimited::
 
 TwoIsland_Text_AddedMerchandiseForLostelle::
     .string "No puedo decir lo agradecido que\n"
-    .string "estoy por tu rescate de LOSTELLE.\p"
+    .string "estoy por tu rescate de Lostelle.\p"
     .string "Gracias a tu hazaña, la gente de\n"
-    .string "ISLA TERA ha cambiado su actitud\l"
-    .string "con a la gente de KANTO.\p"
-    .string "Y, verás, yo soy de KANTO.\p"
-    .string "La gente de ISLA TERA me ayudó a\n"
+    .string "Isla Tera ha cambiado su actitud\l"
+    .string "con a la gente de Kanto.\p"
+    .string "Y, verás, yo soy de Kanto.\p"
+    .string "La gente de Isla Tera me ayudó a\n"
     .string "aumentar mi mercancía.$"
 
 TwoIsland_Text_HopeYouGiveItYourBest::
@@ -52,7 +52,7 @@ TwoIsland_Text_FellowMovedFromCeladonCity::
 
 TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
     .string "El hermano del tendero tomó un\n"
-    .string "trabajo en la SALA DE JUEGOS.\p"
+    .string "trabajo en la Sala de Juegos.\p"
     .string "Intenta juntar dinero para que\n"
     .string "puedan comprar más mercancía.$"
 
@@ -60,7 +60,7 @@ TwoIsland_Text_BrunoCameToIslandWhileBack::
     .string "Oye, oye.\n"
     .string "¿Sabes una cosa?\p"
     .string "Un Entrenador famoso vino a la\n"
-    .string "ISLA hace poco.\p"
+    .string "Isla hace poco.\p"
     .string "Era un miembro del Alto Mando.\n"
     .string "Se llama Bruno.\p"
     .string "Se fue decepcionado cuando se\n"

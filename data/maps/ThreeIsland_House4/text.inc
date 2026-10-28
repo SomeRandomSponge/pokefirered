@@ -1,6 +1,6 @@
 ThreeIsland_House4_Text_GhostsInBerryForest::
     .string "Nunca, jámas debes ir al\n"
-    .string "BOSQUE BAYA solo.\p"
+    .string "Bosque Baya solo.\p"
     .string "¿Porqué?\n"
     .string "Hay fantasmas en ese lugar.$"
 

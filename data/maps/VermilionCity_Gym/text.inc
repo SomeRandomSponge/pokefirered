@@ -13,10 +13,10 @@ VermilionCity_Gym_Text_LtSurgePostBattle::
     .string "¡Un pequeño consejo, niñ{OA}!\p"
     .string "¡La electricidad es muy poderosa!\p"
     .string "Pero, ¡es inútil contra Pokémon\n"
-    .string "de tipo TIERRA!$"
+    .string "de tipo Tierra!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
-    .string "¡La MEDALLA TRUENO mejora la\n"
+    .string "¡La Medalla Trueno mejora la\n"
     .string "Velocidad de tus Pokémon!\p"
     .string "¡Y deja a tus Pokémon volar cómo\n"
     .string "el rayo cuando quieras, niñ{OA}!\p"
@@ -28,16 +28,16 @@ VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
     .string "del Teniente Surge.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
-    .string "¡MT34 contiene ONDA CHOQUE!\p"
-    .string "¡Úsala en un Pokémon ELÉCTRICO!$"
+    .string "¡MT34 contiene Onda de Choque!\p"
+    .string "¡Úsala en un Pokémon Eléctrico!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
-    .string "¡Niñ{OA}, haz espacio en tu MOCHILA!$"
+    .string "¡Niñ{OA}, haz espacio en tu Mochila!$"
 
 VermilionCity_Gym_Text_LtSurgeDefeat::
     .string "¡Esto sí que es una sorpresa!\p"
     .string "¡Sí que eres fuerte, niñ{OA}!\p"
-    .string "¡Entonces, toma la MEDALLA TRUENO!$"
+    .string "¡Entonces, toma la Medalla Trueno!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
     .string "Cuando estaba en el ejército, el\n"
@@ -91,8 +91,8 @@ VermilionCity_Gym_Text_GymGuyAdvice::
     .string "Rayo americano!\p"
     .string "Es un experto con los Pokémon\n"
     .string "eléctricos.\p"
-    .string "Los Pokémon de tipo VOLADOR/AGUA\n"
-    .string "sufren contra el tipo ELÉCTRICO.\p"
+    .string "Los Pokémon de tipo Volador/Agua\n"
+    .string "sufren contra el tipo Eléctrico.\p"
     .string "Además, cuídate de la parálisis.\p"
     .string "El Teniente Surge es cauteloso.\p"
     .string "Se encerró a si mismo, para que\n"
@@ -103,13 +103,13 @@ VermilionCity_Gym_Text_GymGuyPostVictory::
     .string "¡Esa batalla fue electrizante!$"
 
 VermilionCity_Gym_Text_GymStatue::
-    .string "Gimnasio Pokémon DE Carmín\n"
+    .string "Gimnasio Pokémon de Carmín\n"
     .string "Líder: Teniente Surge\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-    .string "Gimnasio Pokémon DE Carmín\n"
+    .string "Gimnasio Pokémon de Carmín\n"
     .string "Líder: Teniente Surge\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}, {PLAYER}$"

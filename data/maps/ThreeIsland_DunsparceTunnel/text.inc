@@ -4,7 +4,7 @@ ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
     .string "¿Qué estoy haciendo aquí?\n"
     .string "¡Estoy excavando en busca de oro!\p"
     .string "Cuando me haga rico, compraré\n"
-    .string "una casa en KANTO.$"
+    .string "una casa en Kanto.$"
 
 ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
     .string "¡Hola! ¿cómo te va?\n"
@@ -17,11 +17,11 @@ ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
     .string "¡Esto es para ti!$"
 
 ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
-    .string "¡Esa es una PEPITA!\p"
+    .string "¡Esa es una Pepita de Oro!\p"
     .string "No puedo darte pepitas de\n"
     .string "sabiduría, ¡lo siento!$"
 
 ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull::
-    .string "¡Ups, tu MOCHILA está llena!\n"
+    .string "¡Ups, tu Mochila está llena!\n"
     .string "Te daré esto después.$"
 

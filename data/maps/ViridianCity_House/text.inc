@@ -10,9 +10,9 @@ ViridianCity_House_Text_MyDaddyLovesMonsToo::
     .string "Pokémon.$"
 
 ViridianCity_House_Text_Speary::
-    .string "SPEARY: ¡Pío!$"
+    .string "Speary: ¡Pío!$"
 
 ViridianCity_House_Text_SpearowNameSpeary::
-    .string "SPEAROW\n"
-    .string "Nombre: SPEARY$"
+    .string "Spearow\n"
+    .string "Nombre: Speary$"
 

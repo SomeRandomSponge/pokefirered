@@ -1,14 +1,14 @@
 VermilionCity_Text_GrimerMultipliesInSludge::
     .string "Somos cuidadosos con la polución.\p"
-    .string "Escuchamos que GRIMER se\n"
+    .string "Escuchamos que Grimer se\n"
     .string "multiplica en desechos tóxicos.$"
 
 VermilionCity_Text_DidYouSeeSSAnneInHarbor::
-    .string "¿Viste al SANTA ANA amarrado en\n"
+    .string "¿Viste al Santa Ana amarrado en\n"
     .string "el puerto?$"
 
 VermilionCity_Text_SSAnneHasDepartedForYear::
-    .string "Así que, ¿el SANTA ANA ya partió?\p"
+    .string "Así que, ¿el Santa Ana ya partió?\p"
     .string "Volvera a Carmín cerca de esta\n"
     .string "fecha el próximo año.$"
 
@@ -19,13 +19,13 @@ VermilionCity_Text_BuildingOnThisLand::
     .string "tierra para sentar la fundación.$"
 
 VermilionCity_Text_Machop::
-    .string "MACHOP: ¡Guoh! ¡Gogogoh!$"
+    .string "Machop: ¡Guoh! ¡Gogogoh!$"
 
 VermilionCity_Text_MachopStompingLandFlat::
-    .string "Un MACHOP aplana la tierra.$"
+    .string "Un Machop aplana la tierra.$"
 
 VermilionCity_Text_SSAnneVisitsOnceAYear::
-    .string "El SANTA ANA es un famoso crusero\n"
+    .string "El Santa Ana es un famoso crusero\n"
     .string "de lujo.\p"
     .string "Visita Carmín una vez al año.$"
 
@@ -38,11 +38,11 @@ VermilionCity_Text_SnorlaxBlockingRoute12::
     .string "La Ruta 12 puede estar bloqueada\n"
     .string "por un Pokémon durmiente.\p"
     .string "Tome el desvío a través del\n"
-    .string "TÚNEL ROCA al Pueblo Lavanda.\p"
-    .string "POLICIA DE Carmín$"
+    .string "Túnel Roca al Pueblo Lavanda.\p"
+    .string "Policia de Carmín$"
 
 VermilionCity_Text_PokemonFanClubSign::
-    .string "CLUB DE FANS DE Pokémon\n"
+    .string "Club de Fans de Pokémon\n"
     .string "¡Se acepta a todo fan de Pokémon!$"
 
 VermilionCity_Text_GymSign::
@@ -51,23 +51,23 @@ VermilionCity_Text_GymSign::
     .string "¡El Rayo americano!$"
 
 VermilionCity_Text_VermilionHarbor::
-    .string "PUERTO Carmín$"
+    .string "Puerto Carmín$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
-    .string "¡Bienvenid{OA} al SANTA ANA!$"
+    .string "¡Bienvenid{OA} al Santa Ana!$"
 
 VermilionCity_Text_DoYouHaveATicket::
-    .string "¡Bienvenid{OA} al SANTA ANA!\p"
+    .string "¡Bienvenid{OA} al Santa Ana!\p"
     .string "Disculpe, ¿tiene un boleto?$"
 
 VermilionCity_Text_FlashedSSTicket::
-    .string "{FONT_NORMAL}¡{PLAYER} dió el BOLETO SANTA ANA!\p"
+    .string "{FONT_NORMAL}¡{PLAYER} dió el Boleto del Barco!\p"
     .string "{FONT_MALE}¡Muy bien!\n"
-    .string "¡Bienvenid{OA} al SANTA ANA!$"
+    .string "¡Bienvenid{OA} al Santa Ana!$"
 
 VermilionCity_Text_DontHaveNeededSSTicket::
-    .string "{FONT_NORMAL}{PLAYER} no tiene el BOLETO\n"
-    .string "SANTA ANA requerido.\p"
+    .string "{FONT_NORMAL}{PLAYER} no tiene el Boleto\n"
+    .string "del Barco requerido.\p"
     .string "{FONT_MALE}¡Lo siento!\p"
     .string "Necesitas boleto para ir a bordo.$"
 
@@ -75,7 +75,7 @@ VermilionCity_Text_TheShipSetSail::
     .string "El barco zarpó.$"
 
 VermilionCity_Text_BoardSeagallopTriPass::
-    .string "Ah, así que tienes un TRI-PASE.\p"
+    .string "Ah, así que tienes un Tri-Pase.\p"
     .string "¿Te gustaría ir a bordo de\n"
     .string "un barco Surcarmar?$"
 
@@ -85,21 +85,21 @@ VermilionCity_Text_Seagallop7Departing::
     .string "inmediatamente.$"
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
-    .string "Ah, tienes un PASE ARCOÍRIS.\p"
+    .string "Ah, tienes un Pase Arcoíris.\p"
     .string "¿Te gustaría ir a bordo de\n"
     .string "un barco Surcarmar?$"
 
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
-    .string "¡Oh! ¡Ese es un BOLETO MÍSTICO!\n"
+    .string "¡Oh! ¡Ese es un Boleto Místico!\n"
     .string "Eso es raro de ver.\p"
     .string "Estaríamos felices de llevarte a\n"
-    .string "ROCA OMBLIGO cuándo quieras.$"
+    .string "Roca Ombligo cuándo quieras.$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
-    .string "¡Oh! ¡Ese es un BOLETO AURORA!\n"
+    .string "¡Oh! ¡Ese es un Boleto Aurora!\n"
     .string "Eso es raro de ver.\p"
     .string "Estaríamos felices de llevarte a\n"
-    .string "ISLA ORIGEN cuándo quieras.$"
+    .string "Isla Origen cuándo quieras.$"
 
 VermilionCity_Text_BoardSeagallopFerry::
     .string "¿Te gustaría ir a bordo de\n"
@@ -120,9 +120,9 @@ VermilionCity_Text_Seagallop12Departing::
 VermilionCity_Text_Route2AideHasPackageForYou::
     .string "Oh, ¡hola, {PLAYER}!\n"
     .string "¿Cómo te va?\p"
-    .string "Soy yo, un AYUDANTE del PROF. Oak.\p"
-    .string "¿Conociste al otro AYUDANTE?\p"
-    .string "Él tenía un paquete del PROF. Oak\n"
+    .string "Soy yo, un Ayudante del Prof. Oak.\p"
+    .string "¿Conociste al otro Ayudante?\p"
+    .string "Él tenía un paquete del Prof. Oak\n"
     .string "para tí, {PLAYER}.\p"
     .string "Dijo que te buscaría cerca de la\n"
     .string "Ruta 2, {PLAYER}.\p"

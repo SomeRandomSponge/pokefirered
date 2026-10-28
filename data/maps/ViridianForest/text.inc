@@ -1,6 +1,6 @@
 ViridianForest_Text_FriendsItchingToBattle::
     .string "¡Vine aquí con unos amigos para\n"
-    .string "atrapar Pokémon de tipo INSECTO!\p"
+    .string "atrapar Pokémon de tipo Insecto!\p"
     .string "¡Todos ellos están buscando\n"
     .string "batallas Pokémon!$"
 
@@ -10,7 +10,7 @@ ViridianForest_Text_RickIntro::
     .string "¡Hay que hacer que luchen!$"
 
 ViridianForest_Text_RickDefeat::
-    .string "¡No!\n¡CATERPIE no pudo lograrlo!$"
+    .string "¡No!\n¡Caterpie no pudo lograrlo!$"
 
 ViridianForest_Text_RickPostBattle::
     .string "¡Ssh! espantarás a los insectos.\n"
@@ -18,7 +18,7 @@ ViridianForest_Text_RickPostBattle::
 
 ViridianForest_Text_DougIntro::
     .string "¡Hey!\n"
-    .string "Si eres un{A} Entrenador{AM} Pokémon,\l"
+    .string "Si eres un{A} Entrenador{A} Pokémon,\l"
     .string "¡no puedes negarte a una batalla!$"
 
 ViridianForest_Text_DougDefeat::
@@ -63,7 +63,7 @@ ViridianForest_Text_CharlieDefeat::
     .string "¡Perdí!$"
 
 ViridianForest_Text_CharliePostBattle::
-    .string "Los Pokémon INSECTO evolucionan\n"
+    .string "Los Pokémon Insecto evolucionan\n"
     .string "rápido. ¡Son muy divertidos!$"
 
 ViridianForest_Text_RanOutOfPokeBalls::
@@ -79,12 +79,12 @@ ViridianForest_Text_AvoidGrassyAreasWhenWeak::
     .string "¡aléjate de las zonas de hierba!$"
 
 ViridianForest_Text_UseAntidoteForPoison::
-    .string "¡Para el veneno, usa ANTÍDOTO!\n"
-    .string "¡Consíguelo en TIENDAS Pokémon!$"
+    .string "¡Para el veneno, usa Antídotos!\n"
+    .string "¡Consíguelo en Tiendas Pokémon!$"
 
 ViridianForest_Text_ContactOakViaPCToRatePokedex::
     .string "Consejos para Entrenadores\p"
-    .string "¡Contacta al PROF. Oak vía PC para\n"
+    .string "¡Contacta al Prof. Oak vía PC para\n"
     .string "que tu Pokédex sea evaluada!$"
 
 ViridianForest_Text_CantCatchOwnedMons::
@@ -101,6 +101,6 @@ ViridianForest_Text_WeakenMonsBeforeCapture::
     .string "¡Si están sanos, podrían escapar!$"
 
 ViridianForest_Text_LeavingViridianForest::
-    .string "SALIENDO DEL Bosque Verde\n"
-    .string "Ciudad Plateada ADELANTE$"  
+    .string "Saliendo del Bosque Verde\n"
+    .string "Ciudad Plateada Adelante$"  
 

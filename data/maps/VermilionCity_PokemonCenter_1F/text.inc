@@ -34,7 +34,7 @@ VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
     .string "batería para usarlo.$"
 
 VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
-    .string "¿Cómo se usa el BUSCA PELEAS?\n"
+    .string "¿Cómo se usa el Buscapeleas?\n"
     .string "Realmente es muy simple.\p"
     .string "Deja que haga bip-bip-bip, y los\n"
     .string "Entrenadores cerca lo notarán.\p"

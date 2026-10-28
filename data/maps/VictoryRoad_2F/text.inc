@@ -11,7 +11,7 @@ VictoryRoad_2F_Text_DawsonPostBattle::
     .string "conocimientos sobre los Pokémon!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
-    .string "Este es el CAMINO VICTORIA.\p"
+    .string "Este es el Camino Victoria.\p"
     .string "¡Es la prueba final para los\n"
     .string "Entrenadores!$"
 
@@ -41,10 +41,10 @@ VictoryRoad_2F_Text_VincentDefeat::
 
 VictoryRoad_2F_Text_VincentPostBattle::
     .string "Te ganaste el derecho de estar en\n"
-    .string "el CAMINO VICTORIA…$"
+    .string "el Camino Victoria…$"
 
 VictoryRoad_2F_Text_GregoryIntro::
-    .string "¿El CAMINO VICTORIA es muy duro?$"
+    .string "¿El Camino Victoria es muy duro?$"
 
 VictoryRoad_2F_Text_GregoryDefeat::
     .string "¡Bien hecho!$"

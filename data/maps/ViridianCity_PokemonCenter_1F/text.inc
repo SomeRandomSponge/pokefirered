@@ -11,7 +11,7 @@ ViridianCity_PokemonCenter_1F_Text_PokeCenterInEveryTown::
     .string "no temas curar a tus Pokémon.$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCentersHealMons::
-    .string "Los CENTROS Pokémon curan a tus\n"
+    .string "Los Centros Pokémon curan a tus\n"
     .string "Pokémon cansados, heridos\l"
     .string "o debilitados.\p"
     .string "Dejan a todos los Pokémon\n"

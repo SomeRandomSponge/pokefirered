@@ -1,5 +1,5 @@
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-    .string "¡Soy el GURÚ DE LA PESCA!\p"
+    .string "¡Soy el Gurú de la Pesca!\p"
     .string "¡Simplemente aaamo pescar!\n"
     .string "No soporto vivir sin ello.\p"
     .string "¿Dime, te gusta pescar?$"
@@ -10,8 +10,8 @@ VermilionCity_House1_Text_TakeThisAndFish::
     .string "¡Toma esto y pesca, joven amig{OA}!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-    .string "{PLAYER} recibió una CAÑA VIEJA\n"
-    .string "del GURÚ DE LA PESCA.$"
+    .string "{PLAYER} recibió una Caña Vieja\n"
+    .string "del Gurú de la Pesca.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
     .string "¡Pescar es una forma de vida!\n"

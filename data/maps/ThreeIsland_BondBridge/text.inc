@@ -19,7 +19,7 @@ ThreeIsland_BondBridge_Text_VioletDefeat::
 
 ThreeIsland_BondBridge_Text_VioletPostBattle::
     .string "Si sigues este camino, terminarás\n"
-    .string "llegando al BOSQUE BAYA.$"
+    .string "llegando al Bosque Baya.$"
 
 ThreeIsland_BondBridge_Text_AmiraIntro::
     .string "Mi mami dijo que no puedo nadar\n"
@@ -58,43 +58,43 @@ ThreeIsland_BondBridge_Text_TishaPostBattle::
     .string "¡No puedo salir del agua!$"
 
 ThreeIsland_BondBridge_Text_JoyIntro::
-    .string "JOY: ¡Te enseñaremos cual es\n"
+    .string "Joy: ¡Te enseñaremos cual es\n"
     .string "nuestro Pokémon favorito!$"
 
 ThreeIsland_BondBridge_Text_JoyDefeat::
-    .string "JOY: Ohh…\n"
-    .string "¡MEG!$"
+    .string "Joy: Ohh…\n"
+    .string "¡Meg!$"
 
 ThreeIsland_BondBridge_Text_JoyPostBattle::
-    .string "JOY: ¿No fue eso divertido?\n"
+    .string "Joy: ¿No fue eso divertido?\n"
     .string "¡Espero que se pueda repetir!$"
 
 ThreeIsland_BondBridge_Text_JoyNotEnoughMons::
-    .string "JOY: Realmente quiero luchar junto\n"
-    .string "a MEG.\p"
+    .string "Joy: Realmente quiero luchar junto\n"
+    .string "a Meg.\p"
     .string "Un Pokémon no es suficiente.$"
 
 ThreeIsland_BondBridge_Text_MegIntro::
-    .string "MEG: Te mostraremos a nuestro\n"
+    .string "Meg: Te mostraremos a nuestro\n"
     .string "Pokémon favorito.$"
 
 ThreeIsland_BondBridge_Text_MegDefeat::
-    .string "MEG: Ohh…\n"
-    .string "¡JOY!$"
+    .string "Meg: Ohh…\n"
+    .string "¡Joy!$"
 
 ThreeIsland_BondBridge_Text_MegPostBattle::
-    .string "MEG: ¿JOY, te divertiste?$"
+    .string "Meg: ¿Joy, te divertiste?$"
 
 ThreeIsland_BondBridge_Text_MegNotEnoughMons::
-    .string "MEG: Quiero una batalla junto con\n"
-    .string "JOY.\p"
+    .string "Meg: Quiero una batalla junto con\n"
+    .string "Joy.\p"
     .string "Un Pokémon no es suficiente.$"
 
 ThreeIsland_BondBridge_Text_BerryForestAhead::
-    .string "BOSQUE BAYA ADELANTE$"
+    .string "Bosque Baya Adelante$"
 
 ThreeIsland_BondBridge_Text_BondBridgeSign::
-    .string "PUENTE UNIÓN\n"
+    .string "Puente Unión\n"
     .string "Por favor cruce tranquilamente.\p"
-    .string "BOSQUE BAYA ADELANTE$"
+    .string "Bosque Baya Adelante$"
 

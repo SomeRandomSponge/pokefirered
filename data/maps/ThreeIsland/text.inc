@@ -1,5 +1,5 @@
 ThreeIsland_Text_IslandSign::
-    .string "ISLA TERA\n"
+    .string "Isla Tera\n"
     .string "Isla Familiar$"
 
 ThreeIsland_Text_IslandBelongsToUs::
@@ -28,7 +28,7 @@ ThreeIsland_Text_WhosGonnaMakeMe::
 
 ThreeIsland_Text_AreYouBossGoBackToKanto::
     .string "¿Tu eres el jefe?\n"
-    .string "¡Vuelvan a KANTO ahora mismo!$"
+    .string "¡Vuelvan a Kanto ahora mismo!$"
 
 ThreeIsland_Text_JustGotHerePal::
     .string "¿Jah?\p"
@@ -78,7 +78,7 @@ ThreeIsland_Text_Biker1PostBattle::
     .string "¡No te atrevas a reirte!$"
 
 ThreeIsland_Text_Biker2Intro::
-    .string "¿No eres de KANTO?\n"
+    .string "¿No eres de Kanto?\n"
     .string "¡Deberías estar de nuestro lado!$"
 
 ThreeIsland_Text_Biker2Defeat::
@@ -126,11 +126,11 @@ ThreeIsland_Text_ThankYouOhYourMonGotHurt::
 
 ThreeIsland_Text_GivenFullRestore::
     .string "{PLAYER} recibió un\n"
-    .string "RESTAURA TODO.$"
+    .string "Restauratodo.$"
 
 ThreeIsland_Text_OhYourBagIsFull::
     .string "¿Oh?\n"
-    .string "Tu MOCHILA está llena.$"
+    .string "Tu Mochila está llena.$"
 
 ThreeIsland_Text_YouveGotImpressiveMons::
     .string "Tienes unos Pokémon impresionantes\n"
@@ -142,23 +142,23 @@ ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
     .string "Espero que al menos te quedes por\n"
     .string "un tiempo.\p"
     .string "…¿Perdón?\n"
-    .string "¿Estás buscando a LOSTELLE?\p"
+    .string "¿Estás buscando a Lostelle?\p"
     .string "Hace tiempo se fue hacia el\n"
-    .string "PUENTE UNIÓN.$"
+    .string "Puente Unión.$"
 
 ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
-    .string "ISLA TERA es la isla más poblada\n"
+    .string "Isla Tera es la isla más poblada\n"
     .string "en esta región.\p"
     .string "Aún así, podría ser más animada.\p"
     .string "Pero no quiero volver a ver a\n"
-    .string "tipos como esos MOTORISTAS aquí.$"
+    .string "tipos como esos Motoristas aquí.$"
 
 ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
-    .string "Voy a entrenar a mi DODUO en el\n"
-    .string "BOSQUE BAYA.\p"
+    .string "Voy a entrenar a mi Doduo en el\n"
+    .string "Bosque Baya.\p"
     .string "Cuando evolucione, voy a llevarlo\n"
-    .string "a un juego en ISLA SECUNDA.$"
+    .string "a un juego en Isla Secunda.$"
 
 ThreeIsland_Text_Doduo::
-    .string "DODUO: ¡Gigiih!$"
+    .string "Doduo: ¡Gigiih!$"
 
