@@ -8,14 +8,14 @@ SilphCo_4F_Text_TeamRocketIsGone::
 
 SilphCo_4F_Text_Grunt1Intro::
     .string "¡El Equipo Rocket tomó el control\n"
-    .string "de SILPH S.A.!$"
+    .string "de Silph S.A.!$"
 
 SilphCo_4F_Text_Grunt1Defeat::
     .string "¡Arrgh!$"
 
 SilphCo_4F_Text_Grunt1PostBattle::
     .string "¡Fuajajaja!\n"
-    .string "¡Mi JEFE buscaba este lugar!$"
+    .string "¡Mi Jefe buscaba este lugar!$"
 
 SilphCo_4F_Text_RodneyIntro::
     .string "Mi Pokémon es mi sirviente leal.$"
@@ -27,7 +27,7 @@ SilphCo_4F_Text_RodneyDefeat::
 SilphCo_4F_Text_RodneyPostBattle::
     .string "Las puertas están bloqueadas\n"
     .string "eléctronicamente.\p"
-    .string "Se necesita una LLAVE MAGNÉTICA\n"
+    .string "Se necesita una Llave Magnética\n"
     .string "para abrir las puertas aquí.$"
 
 SilphCo_4F_Text_Grunt2Intro::
@@ -37,9 +37,9 @@ SilphCo_4F_Text_Grunt2Defeat::
     .string "¿Quíen eres?$"
 
 SilphCo_4F_Text_Grunt2PostBattle::
-    .string "¡Mejor le aviso al JEFE en el P11!$"
+    .string "¡Mejor le aviso al Jefe en el P11!$"
 
 SilphCo_4F_Text_FloorSign::
-    .string "OFICINA CENTRAL DE SILPH S.A.\n"
+    .string "Oficina Central de Silph S.A.\n"
     .string "P4$"
 

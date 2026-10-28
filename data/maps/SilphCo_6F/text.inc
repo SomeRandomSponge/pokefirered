@@ -30,15 +30,15 @@ SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
     .string "es gracias a ti!$"
 
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
-    .string "Debieron haber elegido a SILPH por\n"
+    .string "Debieron haber elegido a Silph por\n"
     .string "nuestros productos Pokémon.$"
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
-    .string "Ven a trabajar para SILPH cuando\n"
+    .string "Ven a trabajar para Silph cuando\n"
     .string "crezcas.$"
 
 SilphCo_6F_Text_Grunt1Intro::
-    .string "¡Soy uno de los cuatro HERMANOS\n"
+    .string "¡Soy uno de los cuatro Hermanos\n"
     .string "Rocket!$"
 
 SilphCo_6F_Text_Grunt1Defeat::
@@ -49,9 +49,9 @@ SilphCo_6F_Text_Grunt1PostBattle::
     .string "¡Mis hermanos me vengarán!$"
 
 SilphCo_6F_Text_TaylorIntro::
-    .string "¡Ese podrido PRESIDENTE!\p"
+    .string "¡Ese podrido Presidente!\p"
     .string "¡Se lo merece por enviarme a la\n"
-    .string "SUCURSAL TIKSI!\p"
+    .string "Sucursal Tiksi!\p"
     .string "¡Es por eso que el Equipo Rocket\n"
     .string "vino tras nosotros, estoy seguro!$"
 
@@ -59,7 +59,7 @@ SilphCo_6F_Text_TaylorDefeat::
     .string "¡Rayos!$"
 
 SilphCo_6F_Text_TaylorPostBattle::
-    .string "¿La SUCURSAL TIKSI?\n"
+    .string "¿La Sucursal Tiksi?\n"
     .string "¡Es una tierra de nadie en Rusia!$"
 
 SilphCo_6F_Text_Grunt2Intro::
@@ -73,6 +73,6 @@ SilphCo_6F_Text_Grunt2PostBattle::
     .string "traicionas a nosotros, los malos!$"
 
 SilphCo_6F_Text_FloorSign::
-    .string "OFICINA CENTRAL DE SILPH S.A.\n"
+    .string "Oficina Central de Silph S.A.\n"
     .string "P6$"
 

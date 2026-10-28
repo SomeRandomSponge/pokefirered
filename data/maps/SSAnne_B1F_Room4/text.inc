@@ -18,6 +18,6 @@ SSAnne_B1F_Room4_Text_DuncanDefeat::
     .string "¡Tú spíritu me hundió!$"
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
-    .string "¿Viste al GURÚ DE LA PESCA en\n"
+    .string "¿Viste al Gurú de la Pesca en\n"
     .string "Ciudad Carmín?$"
 

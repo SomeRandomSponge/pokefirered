@@ -9,11 +9,11 @@ SaffronCity_PokemonTrainerFanClub_Text_YourePlayerWereYourFansNow::
     .string "¡Eres {PLAYER}!\p"
     .string "¡Estábamos hablando sobre tí!\p"
     .string "Hablabamos sobre como apareció un{A}\n"
-    .string "Entrenador{AM} increíblemente buen{OA}.\p"
+    .string "Entrenador{A} increíblemente buen{OA}.\p"
     .string "¡Y es{EA} eres tú!\n"
     .string "¡Eres tan genial!\p"
     .string "Entonces, decidimos que nos\n"
-    .string "convertiremos en tu CLUB DE FANS!\p"
+    .string "convertiremos en tu Club de Fans!\p"
     .string "Esperamos que sigas luchando y nos\n"
     .string "muestres lo genial que eres.\p"
     .string "De esa forma, tal vez más personas\n"
@@ -106,7 +106,7 @@ SaffronCity_PokemonTrainerFanClub_Text_NeverSeenTrainerOfYourMagnificence::
     .string "He viajado largo y ancho por\n"
     .string "el mundo.\p"
     .string "Pero nunca había visto un{A}\n"
-    .string "Entrenador{AM} tan magnífic{OA} como tú.\p"
+    .string "Entrenador{A} tan magnífic{OA} como tú.\p"
     .string "¡Confía en tus habilidades y sigue\n"
     .string "luchando!\p"
     .string "¡Prométeme que lo harás, mi joven\n"
@@ -116,7 +116,7 @@ SaffronCity_PokemonTrainerFanClub_Text_HmmAndYouAre::
     .string "Hmm…\n"
     .string "¿Y tú eres?\p"
     .string "¿Esperabas obtener una membresía\n"
-    .string "en nuestro CLUB DE FANS?$"
+    .string "en nuestro Club de Fans?$"
 
 SaffronCity_PokemonTrainerFanClub_Text_YouveStillAWaysToGo::
     .string "Ah, así que eres es{EA} {PLAYER}\n"
@@ -165,7 +165,7 @@ SaffronCity_PokemonTrainerFanClub_Text_WontStopBeingSabrinasFan::
 
 SaffronCity_PokemonTrainerFanClub_Text_CanIBecomeCoolTrainerOneDay::
     .string "Me pregunto si me puedo convertir\n"
-    .string "en una gran ENTRENADORA algún día.$"
+    .string "en una gran Entrenadora algún día.$"
 
 SaffronCity_PokemonTrainerFanClub_Text_TheWayYouBattleIsCool::
     .string "¡Oh, sí, oh, sí!\n"
@@ -265,7 +265,7 @@ SaffronCity_PokemonTrainerFanClub_Text_YourBattleStyleIsEducational::
 SaffronCity_PokemonTrainerFanClub_Text_WontStopBeingYourFan::
     .string "¡En vez de ver a otros luchar,\n"
     .string "lucha tú mism{OA}!\p"
-    .string "…El DOJO de mi MAESTRO me hizo\n" 
+    .string "…El Dojo de mi Maestro me hizo\n" 
     .string "así…\p"
     .string "¡Pero eso no evitará que sea\n"
     .string "tu fan!\p"
@@ -275,16 +275,16 @@ SaffronCity_PokemonTrainerFanClub_Text_OnlyMasterHasMyRespect::
     .string "¡Hayiah! solo hay un Entrenador\n"
     .string "que tiene mi respeto.\p"
     .string "Y no es nadie más que mi\n"
-    .string "MAESTRO del DOJO DE PELEA.\p"
+    .string "Maestro del Dojo de Pelea.\p"
     .string "¡Deberías convertirte en fan de mi\n"
-    .string "MAESTRO, como yo! ¡hayiah!$"
+    .string "Maestro, como yo! ¡hayiah!$"
 
 SaffronCity_PokemonTrainerFanClub_Text_NeverBeFanOfAnyoneButMaster::
-    .string "¡Hayiah! Respeto a mi MAESTRO del\n"
-    .string "DOJO DE PELEA.\p"
+    .string "¡Hayiah! Respeto a mi Maestro del\n"
+    .string "Dojo de Pelea.\p"
     .string "¡Nunca seré fan de alguien que\n"
-    .string "no sea mi MAESTRO!\p"
-    .string "Incluso me escabulliré del DOJO\n"
+    .string "no sea mi Maestro!\p"
+    .string "Incluso me escabulliré del Dojo\n"
     .string "para informar de su grandeza.\p"
     .string "¡Hayiah!$"
 

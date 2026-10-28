@@ -4,7 +4,7 @@ SSAnne_Kitchen_Text_BusyOutOfTheWay::
     .string "¡Fuera del camino!$"
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
-    .string "Ví una BAYA extraña en la basura.\n"
+    .string "Ví una Baya extraña en la basura.\n"
     .string "Me pregunto, ¿de qué tipo era?$"
 
 SSAnne_Kitchen_Text_SoBusyImDizzy::
@@ -17,10 +17,10 @@ SSAnne_Kitchen_Text_PeelSpudsEveryDay::
     .string "Jum-jum…$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-    .string "¿Has escuchado sobre SNORLAX?\n"
+    .string "¿Has escuchado sobre Snorlax?\n"
     .string "Es un glotón.\p"
     .string "¡No hay Pokémon que coma y duerma\n"
-    .string "cómo lo hace SNORLAX!$"
+    .string "cómo lo hace Snorlax!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
     .string "Sniff… Sniff…\p"
@@ -29,7 +29,7 @@ SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
 
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
     .string "¡Ejem!\n"
-    .string "¡Claro que soy le CHEF!\p"
+    .string "¡Claro que soy le Chef!\p"
     .string "Le plato principal es:$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::

@@ -1,5 +1,5 @@
 SilphCo_10F_Text_GruntIntro::
-    .string "¡Bienvenid{OA} al PISO 10!\n"
+    .string "¡Bienvenid{OA} al Piso 10!\n"
     .string "¡Me alegra que me acompañes!$"
 
 SilphCo_10F_Text_GruntDefeat::
@@ -28,6 +28,6 @@ SilphCo_10F_Text_KeepMeCryingASecret::
     .string "Por favor mantenlo en secreto.$"
 
 SilphCo_10F_Text_FloorSign::
-    .string "OFICINA CENTRAL DE SILPH S.A.\n"
+    .string "Oficina Central de Silph S.A.\n"
     .string "P10$"
 

@@ -6,8 +6,8 @@ SaffronCity_CopycatsHouse_1F_Text_DaughterLikesToMimicPeople::
     .string "A mi hija le gusta imitar a otros.\n"
     .string "Es bastante molesto.\p"
     .string "Su mímica le dió el apodo de\n"
-    .string "IMITADORA por aquí.$"
+    .string "Imitadora por aquí.$"
 
 SaffronCity_CopycatsHouse_1F_Text_Chansey::
-    .string "CHANSEY: ¡Chaan! ¡sii!$"
+    .string "Chansey: ¡Chaan! ¡sii!$"
 

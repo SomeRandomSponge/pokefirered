@@ -3,7 +3,7 @@ SaffronCity_PokemonCenter_1F_Text_GrowthRatesDifferBySpecies::
     .string "Pokémon varía entre especies.$"
 
 SaffronCity_PokemonCenter_1F_Text_SilphCoVictimOfFame::
-    .string "SILPH es conocida por todos.\p"
+    .string "Silph es conocida por todos.\p"
     .string "Es víctima de su propia fama - eso\n"
     .string "atrajo al Equipo Rocket.$"
 

@@ -28,9 +28,9 @@ SSAnne_2F_Corridor_Text_RivalVictory::
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
     .string "{RIVAL}: Escuché que había un\n"
-    .string "maestro del CORTE a bordo.\p"
+    .string "maestro del Corte a bordo.\p"
     .string "¡Pero sólo era un viejo mareado!\p"
-    .string "Aunque la técnica de CORTE en sí\n"
+    .string "Aunque la técnica de Corte en sí\n"
     .string "es muy útil.\p"
     .string "Sí, la necesitaré.\p"
     .string "Tú también deberías ir a verlo.\n"

@@ -4,7 +4,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
     .string "{PLAYER}: No, te lo pregunté a tí.\p"
     .string "{PLAYER}: ¿Huh?\n"
     .string "¡Eres extraña!\p"
-    .string "IMITADORA: ¿Hmm? ¿dejar de imitar?\n"
+    .string "Imitadora: ¿Hmm? ¿dejar de imitar?\n"
     .string "¡Pero es mi pasatiempo favorito!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
@@ -14,22 +14,22 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
     .string "Yo te pregunté a tí.\p"
     .string "{PLAYER}: ¿Perdón?\n"
     .string "¡Eres rara!\p"
-    .string "IMITADORA: ¿Hmm? ¿dejar de imitar?\n"
+    .string "Imitadora: ¿Hmm? ¿dejar de imitar?\n"
     .string "¡Pero es mi pasatiempo favorito!$"
 
 Text_MimicTeach::
     .string "¡Oh, guau!\n"
-    .string "¡Un POké MUÑECO!\p"
+    .string "¡Un Pokémuñeco!\p"
     .string "¿Para mí?\n"
     .string "¡Gracias!\p"
     .string "¿Sabes qué?\n"
-    .string "Puedo enseñar el movimiento MÍMICA.$"
+    .string "Puedo enseñar el movimiento Mímica.$"
 
 Text_MimicDeclined::
-    .string "¿No te gusta MÍMICA?$"
+    .string "¿No te gusta Mímica?$"
 
 Text_MimicWhichMon::
-    .string "¡Adoro MÍMICA!\n"
+    .string "¡Adoro Mímica!\n"
     .string "¿Quién va a aprenderlo?$"
 
 Text_MimicTaughtMale::
@@ -38,7 +38,7 @@ Text_MimicTaughtMale::
     .string "{PLAYER}: ¿Perdón?\p"
     .string "{PLAYER}: ¿Es tan divertido imitar\n"
     .string "mis movimientos?\p"
-    .string "IMITADORA: ¡Claro que sí!\n"
+    .string "Imitadora: ¡Claro que sí!\n"
     .string "¡Es muy gracioso!$"
 
 Text_MimicTaughtFemale::
@@ -48,7 +48,7 @@ Text_MimicTaughtFemale::
     .string "{PLAYER}: ¿Perdón?\p"
     .string "{PLAYER}: ¿Es tan divertido copiar\n"
     .string "lo que digo y lo que hago?\p"
-    .string "IMITADORA: ¡Claro que sí!\n"
+    .string "Imitadora: ¡Claro que sí!\n"
     .string "¡Es muy gracioso!$"
 
 SaffronCity_CopycatsHouse_2F_Text_TooMuchInBag::
@@ -79,7 +79,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemaleJP::
     .string "ものまね　しゅみ　なんだ　もん！$"
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo::
-    .string "DODUO: ¡Giiih!\p"
+    .string "Doduo: ¡Giiih!\p"
     .string "¡ESPEJITO, ESPEJITO! ¿QUIÉN ES\n"
     .string "LA MÁS BELLA DE TODAS?$"
 
@@ -88,7 +88,7 @@ SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
     .string "¿Uh? ¡es solo un muñeco!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
-    .string "¡Un juego donde MARIO tiene un\n"
+    .string "¡Un juego donde Mario tiene un\n"
     .string "balde en la cabeza!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MySecrets::
@@ -96,7 +96,7 @@ SaffronCity_CopycatsHouse_2F_Text_MySecrets::
     .string "¡Mis secretos!\p"
     .string "Habilidad: ¡La mímica!\n"
     .string "Pasatiempo: ¡Coleccionar muñecos!\l"
-    .string "Pokémon favorito: ¡CLEFAIRY!$"
+    .string "Pokémon favorito: ¡Clefairy!$"
 
 SaffronCity_CopycatsHouse_2F_Text_HuhCantSee::
     .string "？　みえないぞ‥$"

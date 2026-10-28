@@ -6,10 +6,10 @@ SafariZone_East_Text_KeepAnyItemFoundOnSafari::
 
 SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
     .string "Ve a la parte más profunda de la\n"
-    .string "ZONA SAFARI. ¡Ganarás un premio!$"
+    .string "Zona Safari. ¡Ganarás un premio!$"
 
 SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
-    .string "Mi EEVEE evolucionó en un FLAREON.\p"
-    .string "Pero el EEVEE de un amigo se\n"
-    .string "transformó en VAPOREON. ¿Por qué?$"
+    .string "Mi Eevee evolucionó en un Flareon.\p"
+    .string "Pero el Eevee de un amigo se\n"
+    .string "transformó en Vaporeon. ¿Por qué?$"
 

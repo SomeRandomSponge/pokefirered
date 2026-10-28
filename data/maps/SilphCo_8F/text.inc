@@ -1,5 +1,5 @@
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-    .string "Me pregunto si SILPH está acabada…$"
+    .string "Me pregunto si Silph está acabada…$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
     .string "¡Gracias por salvarnos!$"
@@ -23,10 +23,10 @@ SilphCo_8F_Text_ParkerDefeat::
 
 SilphCo_8F_Text_ParkerPostBattle::
     .string "Así que, ¿que piensas del\n"
-    .string "laberinto del EDIFICIO SILPH?$"
+    .string "laberinto del Edificio Silph?$"
 
 SilphCo_8F_Text_Grunt2Intro::
-    .string "¡Soy uno de los cuatro HERMANOS\n"
+    .string "¡Soy uno de los cuatro Hermanos\n"
     .string "Rocket!$"
 
 SilphCo_8F_Text_Grunt2Defeat::
@@ -37,11 +37,11 @@ SilphCo_8F_Text_Grunt2PostBattle::
     .string "Te dejaré para mis hermanos.$"
 
 SilphCo_8F_Text_FloorSign::
-    .string "OFICINA CENTRAL DE SILPH S.A.\n"
+    .string "Oficina Central de Silph S.A.\n"
     .string "P8$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-    .string "¡El JEFE del Equipo Rocket es\n"
+    .string "¡El Jefe del Equipo Rocket es\n"
     .string "terriblemente cruel!\p"
     .string "Para él, los Pokédex solo son\n"
     .string "herramientas para ser usadas.\p"

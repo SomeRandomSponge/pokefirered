@@ -1,5 +1,5 @@
 SSAnne_2F_Room6_Text_CaptainIsAwfullySick::
-    .string "El CAPITÁN dijo que está enfermo.\n"
+    .string "El Capitán dijo que está enfermo.\n"
     .string "Se veía muy pálido.$"
 
 SSAnne_2F_Room6_Text_ManyPeopleGetSeasick::

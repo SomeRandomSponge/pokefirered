@@ -3,7 +3,7 @@ SafariZone_East_Text_HowManyDidYouCatch::
     .string "¡Yo estoy agotado del esfuerzo!$"
 
 SafariZone_East_Text_CaughtChanseyAllWorthwhile::
-    .string "¡Atrapé un CHANSEY!\p"
+    .string "¡Atrapé un Chansey!\p"
     .string "Eso hizo que todo valiera la pena.$"
 
 SafariZone_East_Text_TiredFromAllTheFun::

@@ -31,7 +31,7 @@ SilphCo_9F_Text_EdPostBattle::
     .string "Piensa en las ventajas de tipos.$"
 
 SilphCo_9F_Text_Grunt2Intro::
-    .string "¡Soy uno de los cuatro HERMANOS\n"
+    .string "¡Soy uno de los cuatro Hermanos\n"
     .string "Rocket!$"
 
 SilphCo_9F_Text_Grunt2Defeat::
@@ -42,6 +42,6 @@ SilphCo_9F_Text_Grunt2PostBattle::
     .string "¡Mis hermanos me vengarán!$"
 
 SilphCo_9F_Text_FloorSign::
-    .string "OFICINA CENTRAL DE SILPH S.A.\n"
+    .string "Oficina Central de Silph S.A.\n"
     .string "P9$"
 

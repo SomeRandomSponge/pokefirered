@@ -5,14 +5,14 @@ SaffronCity_House_Text_DontLookAtMyLetter::
     .string "¡No mires mi carta!$"
 
 SaffronCity_House_Text_Pidgey::
-    .string "PIDGEY: ¡Kurukkoo!$"
+    .string "Pidgey: ¡Kurukkoo!$"
 
 SaffronCity_House_Text_GettingCopycatPokeDoll::
-    .string "¡La IMITADORA es linda!\n"
-    .string "Le voy a comprar un POKé MUÑECO.$"
+    .string "¡La Imitadora es linda!\n"
+    .string "Le voy a comprar un Pokémuñeco.$"
 
 SaffronCity_House_Text_ExplainPPUp::
-    .string "Me dieron un MÁS PP como regalo.\p"
+    .string "Me dieron un Más PP como regalo.\p"
     .string "Se usa para aumentar los PP del\n"
     .string "movimiento de un Pokémon.\p"
     .string "Debería usarlo en un movimiento\n"

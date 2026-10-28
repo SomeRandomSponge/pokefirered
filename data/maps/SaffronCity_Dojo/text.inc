@@ -1,6 +1,6 @@
 SaffronCity_Dojo_Text_MasterKoichiIntro::
     .string "¡Grr!\p"
-    .string "¡Soy el MAESTRO DEL KÁRATE!\n"
+    .string "¡Soy el Maestro del Kárate!\n"
     .string "¡Soy el Líder aquí!\p"
     .string "¿Nos quieres desafiar?\n"
     .string "¡No esperes piedad!\p"
@@ -15,7 +15,7 @@ SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
     .string "Pero, te lo suplico, ¡no te lleves\n"
     .string "nuestro emblema como trofeo!\p"
     .string "¡En su lugar, te daré un valioso\n"
-    .string "Pokémon de PELEA!\p"
+    .string "Pokémon de Pelea!\p"
     .string "¡Elige el que tú quieras!$"
 
 SaffronCity_Dojo_Text_StayAndTrainWithUs::
@@ -30,7 +30,7 @@ SaffronCity_Dojo_Text_MikeDefeat::
     .string "¡Me rindo!$"
 
 SaffronCity_Dojo_Text_MikePostBattle::
-    .string "¡Espera a ver a nuestro MAESTRO!\n"
+    .string "¡Espera a ver a nuestro Maestro!\n"
     .string "¡No soy nadie comparado con él!$"
 
 SaffronCity_Dojo_Text_HidekiIntro::
@@ -42,7 +42,7 @@ SaffronCity_Dojo_Text_HidekiDefeat::
     .string "¡Un punto!$"
 
 SaffronCity_Dojo_Text_HidekiPostBattle::
-    .string "Nuestro MAESTRO es un profesional.\n"
+    .string "Nuestro Maestro es un profesional.\n"
     .string "¡Prepárate para perder!$"
 
 SaffronCity_Dojo_Text_AaronIntro::
@@ -61,8 +61,8 @@ SaffronCity_Dojo_Text_AaronPostBattle::
 
 SaffronCity_Dojo_Text_HitoshiIntro::
     .string "¡Waah!\p"
-    .string "¡Estás invadiendo nuestro DOJO\n"
-    .string "DE PELEA!$"
+    .string "¡Estás invadiendo nuestro Dojo\n"
+    .string "de Pelea!$"
 
 SaffronCity_Dojo_Text_HitoshiDefeat::
     .string "¡Uf!\n"
@@ -74,15 +74,15 @@ SaffronCity_Dojo_Text_HitoshiPostBattle::
 
 SaffronCity_Dojo_Text_YouWantHitmonlee::
     .string "¿Quieres las duras patadas de\n"
-    .string "HITMONLEE?$"
+    .string "Hitmonlee?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster::
     .string "{PLAYER} recibió {STR_VAR_1}\n"
-    .string "del MAESTRO DEL KÁRATE.$"
+    .string "del Maestro del Kárate.$"
 
 SaffronCity_Dojo_Text_YouWantHitmonchan::
     .string "¿Quieres los superpuños de\n"
-    .string "HITMONLEE?$"
+    .string "Hitmonchan?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
     .string "{PLAYER}は　カラテ　だいおう　から\n"
@@ -98,5 +98,5 @@ SaffronCity_Dojo_Text_GoesAroundComesAround::
     .string "Lo que se da se recibe.$"
 
 SaffronCity_Dojo_Text_FightingDojo::
-    .string "DOJO DE PELEA$"
+    .string "Dojo de Pelea$"
 

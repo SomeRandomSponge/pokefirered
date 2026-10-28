@@ -13,7 +13,7 @@ SaffronCity_Gym_Text_SabrinaDefeat::
     .string "Lo admito, no me esforcé lo\n"
     .string "suficiente como para ganar.\p"
     .string "Tu victoria te ha otorgado la\n"
-    .string "MEDALLA PANTANO.$"
+    .string "Medalla Pantano.$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle::
     .string "El poder psíquico no es algo que\n"
@@ -22,7 +22,7 @@ SaffronCity_Gym_Text_SabrinaPostBattle::
     .string "Solo que la gente no se da cuenta.$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-    .string "La MEDALLAPANTANO hace que todo\n"
+    .string "La MedallaPantano hace que todo\n"
     .string "Pokémon hasta el Nv. 70 obedezca.\p"
     .string "Pokémon más fuertes se volverán\n"
     .string "salvajes, ignorando tus órdenes\l"
@@ -36,13 +36,13 @@ SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
     .string "Sabrina.$"
 
 SaffronCity_Gym_Text_ExplainTM04::
-    .string "La MT04 es PAZ MENTAL.\p"
+    .string "La MT04 es Paz Mental.\p"
     .string "Hace que el Pokémon se concentre\n"
-    .string "para aumentar tanto la DEF. ESP.\l"
-    .string "como el ATQ. ESP.$"
+    .string "para aumentar tanto la Def. Esp.\l"
+    .string "como el Atq. Esp.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
-    .string "Tu MOCHILA está llena de objetos.$"
+    .string "Tu Mochila está llena de objetos.$"
 
 SaffronCity_Gym_Text_AmandaIntro::
     .string "Sabrina es mucho más joven que yo,\n"
@@ -65,7 +65,7 @@ SaffronCity_Gym_Text_JohanDefeat::
     .string "¡Nunca predije esto!$"
 
 SaffronCity_Gym_Text_JohanPostBattle::
-    .string "¡Los Pokémon PSÍQUICOS solo le\n"
+    .string "¡Los Pokémon Psíquicos solo le\n"
     .string "temen a los fantasmas e insectos!$"
 
 SaffronCity_Gym_Text_StacyIntro::
@@ -79,7 +79,7 @@ SaffronCity_Gym_Text_StacyDefeat::
 
 SaffronCity_Gym_Text_StacyPostBattle::
     .string "Aún tengo mucho que aprender…\p"
-    .string "Debo dominar PSÍQUICO y enseñarlo\n"
+    .string "Debo dominar Fuerza Psíquica y enseñarlo\n"
     .string "a mis Pokémon…$"
 
 SaffronCity_Gym_Text_TyronIntro::
@@ -91,8 +91,8 @@ SaffronCity_Gym_Text_TyronDefeat::
     .string "¡No puedo creerlo!$"
 
 SaffronCity_Gym_Text_TyronPostBattle::
-    .string "Sabrina le ganó al MAESTRO\n"
-    .string "DEL KÁRATE de al lado.$"
+    .string "Sabrina le ganó al Maestro\n"
+    .string "del Kárate de al lado.$"
 
 SaffronCity_Gym_Text_TashaIntro::
     .string "¡Tú y yo, nuestros Pokémon\n"
@@ -116,10 +116,10 @@ SaffronCity_Gym_Text_CameronDefeat::
 SaffronCity_Gym_Text_CameronPostBattle::
     .string "Habían dos Gimnasios Pokémon\n"
     .string "en Azafrán.\p"
-    .string "Aunque el DOJO DE PELEA de al lado\n"
+    .string "Aunque el Dojo de Pelea de al lado\n"
     .string "perdió su condición de Gimnasio.\p"
     .string "Simplemente los aplastamos cuando\n"
-    .string "decidimos que solo habría un GIMN.$"
+    .string "decidimos que solo habría un Gimn.$"
 
 SaffronCity_Gym_Text_PrestonIntro::
     .string "El Gimnasio Pokémon de Azafrán es\n"
@@ -139,9 +139,9 @@ SaffronCity_Gym_Text_GymGuyAdvice::
     .string "¡Futur{OA} campe{ONONA}!\p"
     .string "Los Pokémon de Sabrina usan poder\n"
     .string "psíquico en lugar de la fuerza.\p"
-    .string "Los Pokémon de tipo PELEA son\n"
+    .string "Los Pokémon de tipo Pelea son\n"
     .string "especialmente débiles contra los\l"
-    .string "Pokémon PSÍQUICOS.\p"
+    .string "Pokémon Psíquicos.\p"
     .string "¡Serán destruidos antes de que\n"
     .string "puedan apuntar para un golpe!$"
 
@@ -151,13 +151,13 @@ SaffronCity_Gym_Text_GymGuyPostVictory::
     .string "fortuna en las tragamonedas!$"
 
 SaffronCity_Gym_Text_GymStatue::
-    .string "Gimnasio Pokémon DE Azafrán\n"
+    .string "Gimnasio Pokémon de Azafrán\n"
     .string "Líder: Sabrina\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-    .string "Gimnasio Pokémon DE Azafrán\n"
+    .string "Gimnasio Pokémon de Azafrán\n"
     .string "Líder: Sabrina\p"
     .string "Entrenadores victoriosos:\n"
     .string "{RIVAL}, {PLAYER}$"

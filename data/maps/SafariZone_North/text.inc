@@ -1,12 +1,12 @@
 SafariZone_North_Text_RestHouse::
-    .string "CASA DE DESCANSO$"
+    .string "Casa de Descanso$"
 
 SafariZone_North_Text_SecretHouseStillAhead::
     .string "Consejos para Entrenadores\p"
-    .string "La CASA SECRETA aún está adelante.$"
+    .string "La Casa Secreta aún está adelante.$"
 
 SafariZone_North_Text_Area2::
-    .string "ZONA 2$"
+    .string "Zona 2$"
 
 SafariZone_North_Text_ZigzagThroughTallGrass::
     .string "Consejos para Entrenadores\p"
@@ -18,5 +18,5 @@ SafariZone_North_Text_ZigzagThroughTallGrass::
 SafariZone_North_Text_WinFreeHMFindSecretHouse::
     .string "Consejos para Entrenadores\p"
     .string "Gana una MO gratis por encontrar\n"
-    .string "la CASA SECRETA.$"
+    .string "la Casa Secreta.$"
 

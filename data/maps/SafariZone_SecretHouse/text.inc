@@ -1,7 +1,7 @@
 SafariZone_SecretHouse_Text_CongratsYouveWon::
     .string "¡Ah! ¡al fin!\p"
     .string "¡Eres la primera persona en llegar\n"
-    .string "a la CASA SECRETA!\p"
+    .string "a la Casa Secreta!\p"
     .string "Aunque hice una campaña para\n"
     .string "nuestra gran inauguración,\p"
     .string "empezaba a preocuparme la idea de\n"
@@ -14,7 +14,7 @@ SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
     .string "del empleado!$"
 
 SafariZone_SecretHouse_Text_ExplainSurf::
-    .string "MO03 es SURF.\p"
+    .string "MO03 es Surf.\p"
     .string "Un Pokémon usándola podrá llevarte\n"
     .string "a través del agua.\p"
     .string "Y esta MO no es desechable, así\n"

@@ -1,10 +1,10 @@
 SaffronCity_Mart_Text_MaxRepelMoreEffectiveThanSuper::
-    .string "El REPELENTE MÁXIMO mantiene lejos\n"
+    .string "El Repelente Máximo mantiene lejos\n"
     .string "a Pokémon débiles.\p"
-    .string "Un REPELENTE MÁXIMO funciona por\n"
-    .string "más tiempo que un SUPER REPELENTE.$"
+    .string "Un Repelente Máximo funciona por\n"
+    .string "más tiempo que un Superrepelente.$"
 
 SaffronCity_Mart_Text_ReviveIsCostly::
-    .string "¡Un REVIVIR es costoso, pero\n"
+    .string "¡Un Revivir es costoso, pero\n"
     .string "revive a Pokémon debilitados!$"
 

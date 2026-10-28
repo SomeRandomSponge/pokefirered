@@ -1,5 +1,5 @@
 SilphCo_3F_Text_WhatAmIToDo::
-    .string "Trabajo para SILPH S.A.\n"
+    .string "Trabajo para Silph S.A.\n"
     .string "¿Qué debo hacer?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
@@ -14,11 +14,11 @@ SilphCo_3F_Text_GruntDefeat::
 
 SilphCo_3F_Text_GruntPostBattle::
     .string "¿Una pista? ¡puedes abrir puertas\n"
-    .string "con una LLAVE MAGNÉTICA!$"
+    .string "con una Llave Magnética!$"
 
 SilphCo_3F_Text_JoseIntro::
     .string "¡Apoyo al Equipo Rocket más de lo\n"
-    .string "que apoyo a SILPH S.A.!$"
+    .string "que apoyo a Silph S.A.!$"
 
 SilphCo_3F_Text_JoseDefeat::
     .string "¡Realmente me venciste!$"
@@ -29,6 +29,6 @@ SilphCo_3F_Text_JosePostBattle::
     .string "me dejarían estudiar Pokémon.$"
 
 SilphCo_3F_Text_FloorSign::
-    .string "OFICINA CENTRAL DE SILPH S.A.\n"
+    .string "Oficina Central de Silph S.A.\n"
     .string "P3$"
 

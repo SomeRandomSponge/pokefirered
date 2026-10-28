@@ -6,14 +6,14 @@ Text_RockSlideTeach::
     .string "Eso sería, cómo, ¡aaaaaaaaaaah!\n"
     .string "¡Terror total!\p"
     .string "No pareces tener miedo.\n"
-    .string "¿Quieres aprender AVALANCHA?$"
+    .string "¿Quieres aprender AAvalancha?$"
 
 Text_RockSlideDeclined::
     .string "Oh, entonces si tenías miedo.$"
 
 Text_RockSlideWhichMon::
     .string "¿Qué Pokémon quiere aprender\n"
-    .string "AVALANCHA?$"
+    .string "Avalancha?$"
 
 Text_RockSlideTaught::
     .string "Puede que de miedo usar eso en\n"

@@ -8,5 +8,5 @@ SSAnne_B1F_Room3_Text_DylanDefeat::
 SSAnne_B1F_Room3_Text_DylanPostBattle::
     .string "Los Pokémon marinos viven en las\n"
     .string "profundidades.\p"
-    .string "¡Necesitarás una CAÑA DE PESCAR!$"
+    .string "¡Necesitarás una Caña de pescar!$"
 

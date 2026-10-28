@@ -6,23 +6,23 @@ SilphCo_7F_Text_HaveMonForSavingUs::
     .string "por salvarnos.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
-    .string "¡{PLAYER} recibió un LAPRAS del\n"
-    .string "empleado de SILPH!$"
+    .string "¡{PLAYER} recibió un Lapras del\n"
+    .string "empleado de Silph!$"
 
 SilphCo_7F_Text_ExplainLapras::
-    .string "Es un LAPRAS.\n"
+    .string "Es un Lapras.\n"
     .string "Es un Pokémon muy inteligente.\p"
     .string "Lo teníamos en el laboratorio,\n"
     .string "pero estaría mucho mejor contigo.\p"
     .string "¡Creo que serás un{A} buen{A}\n"
-    .string "Entrenador{AM} para LAPRAS!\p"
+    .string "Entrenador{A} para Lapras!\p"
     .string "Es buen nadador.\n"
     .string "¡Te llevará a través del agua!$"
 
 SilphCo_7F_Text_RocketBossWentToBoardroom::
-    .string "¡El JEFE del Equipo Rocket fue a\n"
+    .string "¡El Jefe del Equipo Rocket fue a\n"
     .string "la sala de juntas!\p"
-    .string "¿Nuestro PRESIDENTE está bien?\n"
+    .string "¿Nuestro Presidente está bien?\n"
     .string "Estoy preocupado.$"
 
 SilphCo_7F_Text_OhNo::
@@ -33,16 +33,16 @@ SilphCo_7F_Text_SavedAtLast::
 
 SilphCo_7F_Text_RocketsAfterMasterBall::
     .string "El Equipo Rocket estaba tras la\n"
-    .string "BOLA MAESTRA, que atrapa a\l"
+    .string "Bola Maestra, que atrapa a\l"
     .string "cualquier Pokémon.$"
 
 SilphCo_7F_Text_CanceledMasterBallProject::
-    .string "Cancelamos el proyecto de la BOLA\n"
-    .string "MAESTRA gracias al Equipo Rocket.$"
+    .string "Cancelamos el proyecto de la Bola\n"
+    .string "Maestra gracias al Equipo Rocket.$"
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
     .string "Sería malo si los Rocket se quedan\n"
-    .string "con SILPH o con nuestros Pokémon.$"
+    .string "con Silph o con nuestros Pokémon.$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
     .string "¡Guau!\p"
@@ -66,23 +66,23 @@ SilphCo_7F_Text_Grunt3Defeat::
     .string "¡Luces fuera!$"
 
 SilphCo_7F_Text_Grunt3PostBattle::
-    .string "¡No encontrarás a mi JEFE si solo\n"
+    .string "¡No encontrarás a mi Jefe si solo\n"
     .string "corres por todos lados!$"
 
 SilphCo_7F_Text_JoshuaIntro::
     .string "¡Jeje!\p"
     .string "¿Me confundiste con un empleado de\n"
-    .string "SILPH?$"
+    .string "Silph?$"
 
 SilphCo_7F_Text_JoshuaDefeat::
     .string "¡Estoy acabado!$"
 
 SilphCo_7F_Text_JoshuaPostBattle::
     .string "¡A pesar de tu edad, eres un{A}\n"
-    .string "Entrenador{AM} hábil!$"
+    .string "Entrenador{A} hábil!$"
 
 SilphCo_7F_Text_Grunt1Intro::
-    .string "¡Soy uno de los cuatro HERMANOS\n"
+    .string "¡Soy uno de los cuatro Hermanos\n"
     .string "Rocket!$"
 
 SilphCo_7F_Text_Grunt1Defeat::
@@ -102,7 +102,7 @@ SilphCo_7F_Text_Grunt2Defeat::
     .string "¡Perdí!$"
 
 SilphCo_7F_Text_Grunt2PostBattle::
-    .string "¡Vete a casa antes de que mi JEFE\n"
+    .string "¡Vete a casa antes de que mi Jefe\n"
     .string "se enoje!$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
@@ -119,7 +119,7 @@ SilphCo_7F_Text_RivalIntro::
 SilphCo_7F_Text_RivalDefeat::
     .string "¡Ajá!\n"
     .string "¡Entonces, estás list{OA} para el\l"
-    .string "JEFE de los Rocket!$"
+    .string "Jefe de los Rocket!$"
 
 SilphCo_7F_Text_RivalVictory::
     .string "{RIVAL}“おまえなあ‥\p"
@@ -143,6 +143,6 @@ SilphCo_7F_Text_RivalPostBattle::
     .string "¡Hasta nunca!$"
 
 SilphCo_7F_Text_FloorSign::
-    .string "OFICINA CENTRAL DE SILPH S.A.\n"
+    .string "Oficina Central de Silph S.A.\n"
     .string "P7$"
 

@@ -38,8 +38,8 @@ SilphCo_5F_Text_DaltonDefeat::
     .string "¡Oh, cielos!$"
 
 SilphCo_5F_Text_DaltonPostBattle::
-    .string "Solo has llegado al PISO 5.\n"
-    .string "¡Mi JEFE aún está muy lejos!$"
+    .string "Solo has llegado al Piso 5.\n"
+    .string "¡Mi Jefe aún está muy lejos!$"
 
 SilphCo_5F_Text_Grunt2Intro::
     .string "¡Muestra algo de respeto por el\n"
@@ -51,33 +51,33 @@ SilphCo_5F_Text_Grunt2Defeat::
 
 SilphCo_5F_Text_Grunt2PostBattle::
     .string "Eso me recuerda…\p"
-    .string "¡KOFFING evoluciona en WEEZING!$"
+    .string "¡Koffing evoluciona en Weezing!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-    .string "¡Es un INFORME sobre los Pokémon!\p"
+    .string "¡Es un Informe sobre los Pokémon!\p"
     .string "El Laboratorio Pokémon creó a\n"
-    .string "PORYGON, el primer Pokémon de\l"
+    .string "Porygon, el primer Pokémon de\l"
     .string "realidad virtual.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-    .string "¡Es un INFORME sobre los Pokémon!\p"
+    .string "¡Es un Informe sobre los Pokémon!\p"
     .string "Se han confirmado más de 350\n"
     .string "técnicas Pokémon.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-    .string "¡Es un INFORME sobre los Pokémon!\p"
+    .string "¡Es un Informe sobre los Pokémon!\p"
     .string "Se ha confirmado que algunos\n"
     .string "Pokémon evolucionan cuando son\l"
     .string "intercambiados.$"
 
 SilphCo_5F_Text_FloorSign::
-    .string "OFICINA CENTRAL DE SILPH S.A.\n"
+    .string "Oficina Central de Silph S.A.\n"
     .string "P5$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
     .string "Esos matones que invadieron\n"
     .string "nuestro edificio…\p"
-    .string "Su JEFE dijo que buscaba Pokémon\n"
+    .string "Su Jefe dijo que buscaba Pokémon\n"
     .string "fuertes.\p"
-    .string "Espero que nuestro PRESIDENTE haya\n"
+    .string "Espero que nuestro Presidente haya\n"
     .string "logrado evitarse problemas…$"
