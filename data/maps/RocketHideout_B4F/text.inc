@@ -54,5 +54,5 @@ RocketHideout_B4F_Text_Grunt1Defeat::
 
 RocketHideout_B4F_Text_Grunt1PostBattle::
     .string "¡Oh, no!\n"
-    .string "¡Solté la LLAVE del ASCENSOR!$"
+    .string "¡Solté la LLAVE DEL ELEVADOR!$"
 

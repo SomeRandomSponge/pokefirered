@@ -22,7 +22,7 @@ Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
     .string "del AYUDANTE.$"
 
 Route15_WestEntrance_2F_Text_ExplainExpShare::
-    .string "REPARTIR EXP. es un objeto que\n"
+    .string "DIVIDE EXPERIENCIA es un objeto que\n"
     .string "debe llevar un POKéMON.\p"
     .string "El POKéMON recibirá parte de los\n"
     .string "puntos de EXP. obtenidos en\l"

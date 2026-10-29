@@ -8,7 +8,7 @@ CeruleanCity_Gym_Text_MistyIntro::
     .string "total con POKéMON de tipo AGUA!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
-    .string "MT03 enseña PULSO AGUA.\p"
+    .string "MT03 enseña PULSO DE AGUA.\p"
     .string "¡Úsala en un POKéMON acuático!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::

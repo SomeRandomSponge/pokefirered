@@ -1,5 +1,5 @@
 CeladonCity_PokemonCenter_1F_Text_PokeFluteAwakensSleepingMons::
-    .string "Una POKé FLAUTA despierta a los\n"
+    .string "Una POKéFLAUTA despierta a los\n"
     .string "POKéMON dormidos. Ya sabes eso.\p"
     .string "Lo hace con un sonido que solo\n"
     .string "ellos pueden escuchar.$"

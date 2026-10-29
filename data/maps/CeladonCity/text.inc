@@ -53,7 +53,7 @@ CeladonCity_Text_GymSign::
     .string "¡Princesa amante de la naturaleza!$"
 
 CeladonCity_Text_MansionSign::
-    .string "MANSIÓN PRISMA$"
+    .string "CONDOMINIO PRISMA$"
 
 CeladonCity_Text_DeptStoreSign::
     .string "¡Encuentra lo que necesites en la\n"
@@ -61,7 +61,7 @@ CeladonCity_Text_DeptStoreSign::
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
     .string "CONSEJOS PARA ENTRENADORES\p"
-    .string "GUARDIA X protege a POKéMON de la\n"
+    .string "PROTECCIÓN X protege a POKéMON de la\n"
     .string "reducción de estadísticas durante\l"
     .string "la batalla.\p"
     .string "¡Consigue tus objetos en la TIENDA\n"
@@ -78,8 +78,8 @@ CeladonCity_Text_GameCornerSign::
 CeladonCity_Text_ScaldedTongueOnTea::
     .string "Aaaagh, ow…\n"
     .string "¡Me quemé la lengua!\p"
-    .string "Esa ancianita agradable en la\n"
-    .string "MANSIÓN me dió algo de TÉ.\p"
+    .string "Esa ancianita agradable en el\n"
+    .string "CONDOMINIO me dió algo de TÉ.\p"
     .string "¡Pero estaba hirviendo!\n"
     .string "Tendré que enfriarlo para beberlo.$"
 
@@ -90,7 +90,7 @@ Text_SoftboiledTeach::
     .string "Debe ser buena suerte que\n"
     .string "finalmente nos reunieramos.\p"
     .string "Quiero celebrar enseñándote\n"
-    .string "el movimiento HUEVO COCIDO.$"
+    .string "el movimiento OVOCURACIÓN.$"
 
 Text_SoftboiledDeclined::
     .string "Te estaré esperando siempre.\p"
@@ -99,7 +99,7 @@ Text_SoftboiledDeclined::
 
 Text_SoftboiledWhichMon::
     .string "¿Qué POKéMON tendrá la oportunidad\n"
-    .string "de aprender HUEVO COCIDO?$"
+    .string "de aprender OVOCURACIÓN?$"
 
 Text_SoftboiledTaught::
     .string "¡Te deseo la mejor de las suertes!$"

@@ -7,7 +7,7 @@ CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
     .string "de un POKéMON.\p"
     .string "El ZINC incrementa la DEF. ESP.\n"
     .string "base de un POKéMON.\p"
-    .string "El CARBURANTE mejora la VELOCIDAD\n"
+    .string "El CARBOHIDRATOS mejora la VELOCIDAD\n"
     .string "base de un POKéMON.$"
 
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::

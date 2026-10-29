@@ -155,7 +155,7 @@ SUPER_RE    = A0
 TALL_PLUS   = FC 0C FB
 '$'         = FF
 
-@ (Linea 155) Semantica del género gramatical
+@ Semantica del género gramatical
 OA          = FD 0E
 A           = FD 0F
 ELLA        = FD 10
@@ -468,6 +468,9 @@ FONT_NORMAL = FC 06 02
 FONT_NORMAL_COPY_2 = FC 06 03
 FONT_MALE = FC 06 04
 FONT_FEMALE = FC 06 05
+FONT_SMALL_NARROWER = FC 06 06
+FONT_SHORT_NARROW = FC 06 07
+FONT_SHORT_NARROWER = FC 06 08
 
 @ colors
 

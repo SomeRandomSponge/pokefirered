@@ -46,7 +46,7 @@ Route13_Text_GwenPostBattle::
     .string "luchen para fortalecerlos.$"
 
 Route13_Text_AlmaIntro::
-    .string "Una vez encontré CARBURANTE en\n"
+    .string "Una vez encontré CARBOHIDRATOS en\n"
     .string "una cueva mientras exploraba.$"
 
 Route13_Text_AlmaDefeat::
@@ -54,7 +54,7 @@ Route13_Text_AlmaDefeat::
     .string "¡Lo arruiné!$"
 
 Route13_Text_AlmaPostBattle::
-    .string "CARBURANTE aumentó la VELOCIDAD\n"
+    .string "CARBOHIDRATOS aumentó la VELOCIDAD\n"
     .string "de mis POKéMON.$"
 
 Route13_Text_PerryIntro::

@@ -84,6 +84,15 @@ $(FONTGFXDIR)/braille.fwjpnfont: $(FONTGFXDIR)/braille.png
 $(FONTGFXDIR)/japanese_bold.fwjpnfont: $(FONTGFXDIR)/japanese_bold.png
 	$(GFX) $< $@
 
+$(FONTGFXDIR)/latin_small_narrower.fwlatfont: $(FONTGFXDIR)/latin_small_narrower.png
+	$(GFX) $< $@
+
+$(FONTGFXDIR)/latin_short_narrow.fwlatfont: $(FONTGFXDIR)/latin_short_narrow.png
+	$(GFX) $< $@
+
+$(FONTGFXDIR)/latin_short_narrower.fwlatfont: $(FONTGFXDIR)/latin_short_narrower.png
+	$(GFX) $< $@
+
 graphics/pokemon_jump/bg.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -num_tiles 63 -Wnum_tiles
 

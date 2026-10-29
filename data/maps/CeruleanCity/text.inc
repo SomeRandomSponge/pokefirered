@@ -82,7 +82,7 @@ CeruleanCity_Text_TrainerLifeIsToughIsntIt::
 CeruleanCity_Text_YouCanCutDownSmallTrees::
     .string "¿Sabías que puedes CORTAR árboles\n"
     .string "pequeños?\p"
-    .string "Incluso puedes CORTARS ese pequeño\n"
+    .string "Incluso puedes CORTAR ese pequeño\n"
     .string "árbol enfrente de la tienda,\p"
     .string "Aunque creo que hay una forma de\n"
     .string "rodearlo.$"
@@ -103,7 +103,7 @@ CeruleanCity_Text_PeopleHereWereRobbed::
     .string "¡Es obvio que el EQUIPO ROCKET\n"
     .string "está detrás de este crimen atroz!\p"
     .string "¡Incluso nuestra FUERZA POLICIAL\n"
-    .string "tiene problemas con los ROCKETS!$"
+    .string "tiene problemas con los ROCKET!$"
 
 CeruleanCity_Text_SlowbroUseSonicboom::
     .string "¡Bien! SLOWBRO!\n"

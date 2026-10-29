@@ -6,7 +6,7 @@ TwoIsland_House_Text_TeachMonMoveForMushroom::
     .string "mientras crece.\p"
     .string "También soy un maníaco de los\n"
     .string "hongos.\p"
-    .string "Tráeme dos HONGOS PEQUEÑOS, o un\n"
+    .string "Tráeme dos MINIHONGOS, o un\n"
     .string "HONGO GRANDE.\p"
     .string "Si haces eso por mi, le enseñaré\n"
     .string "un movimiento a un POKéMON.$"
@@ -34,7 +34,7 @@ TwoIsland_House_Text_IllNeedMushroomOrTwo::
 
 TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
     .string "{PLAYER} entregó dos\n"
-    .string "HONGOS PEQUEÑOS.$"
+    .string "MINIHONGOS.$"
 
 TwoIsland_House_Text_HandedOverOneBigMushroom::
     .string "{PLAYER} entregó un\n"

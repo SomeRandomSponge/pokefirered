@@ -10,13 +10,13 @@ CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
 
 CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
     .string "Oh, eso es…\p"
-    .string "¡Un BONO BICICLETA!\p"
+    .string "¡Un CUPÓN BICICLETA!\p"
     .string "¡Bien!\n"
     .string "¡Aquí tienes!$"
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
     .string "{PLAYER} cambió el\n"
-    .string "BONO por una BICICLETA.$"
+    .string "CUPÓN por una BICICLETA.$"
 
 CeruleanCity_BikeShop_Text_ThankYouComeAgain::
     .string "¡Gracias!\n"

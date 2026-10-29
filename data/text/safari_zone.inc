@@ -11,7 +11,7 @@ SafariZone_Text_TimesUp::
 
 SafariZone_Text_OutOfBalls::
 	.string "AVISO: ¡Ding-dong!\p"
-	.string "¡Te quedaste sin BOLAS SAFARI!\p"
+	.string "¡Te quedaste sin SAFARIBOLAS!\p"
 	.string "AVISO: ¡Tu JUEGO SAFARI terminó!$"
 
 SafariZone_Text_WelcomeToSafariZone::

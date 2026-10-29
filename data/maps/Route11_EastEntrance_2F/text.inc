@@ -24,7 +24,7 @@ Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
 Route11_EastEntrance_2F_Text_ExplainItemfinder::
     .string "Hay objetos en el suelo que pueden\n"
     .string "estar ocultos a la vista.\p"
-    .string "Usa el BUSCA OBJETOS para detectar\n"
+    .string "Usa el DETECTOR para detectar\n"
     .string "objetos ocultos cerca de ti.\p"
     .string "Pero es un poco limitado.\n"
     .string "No puede localizar objetos con\l"

@@ -52,11 +52,11 @@ VermilionCity_PokemonFanClub_Text_ChairmansStory::
     .string "¡Quiero que tengas esto!$"
 
 VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
-    .string "{PLAYER} recibió un BONO BICICLETA\n"
+    .string "{PLAYER} recibió un CUPÓN BICICLETA\n"
     .string "del PRESIDENTE.$"
 
 VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
-    .string "Lleva ese BONO a la TIENDA\n"
+    .string "Lleva ese CUPÓN a la TIENDA\n"
     .string "DE BICICLETAS en CIUDAD CELESTE.\p"
     .string "¡Cámbialo por una BICICLETA\n"
     .string "gratuita!\p"

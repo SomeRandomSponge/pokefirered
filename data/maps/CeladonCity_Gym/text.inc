@@ -38,7 +38,7 @@ CeladonCity_Gym_Text_ReceivedTM19FromErika::
     .string "de ERIKA.$"
 
 CeladonCity_Gym_Text_ExplainTM19::
-    .string "MT19 contiene GIGA DRENADO.\p"
+    .string "MT19 contiene GIGADRENADO.\p"
     .string "La mitad del daño que ejerce\n"
     .string "se drena para curar a tu POKéMON.\p"
     .string "¿No estás de acuerdo en que es un\n"

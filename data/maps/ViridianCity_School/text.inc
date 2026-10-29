@@ -70,7 +70,7 @@ ViridianCity_School_Text_ExplainBurn::
     .string "ATAQUE y van restando PS.\p"
     .string "Las quemaduras permanecerán tras\n"
     .string "la batalla.\p"
-    .string "Usa ANTIQUEMAR para curar las\n"
+    .string "Usa ANTIQUEMADURAS para curar las\n"
     .string "quemaduras.$"
 
 ViridianCity_School_Text_ExplainPoison::
@@ -93,5 +93,5 @@ ViridianCity_School_Text_ExplainParalysis::
     .string "La parálisis reduce VELOCIDAD y\n"
     .string "puede anular movimientos.\p"
     .string "Persiste tras las batallas.\p"
-    .string "Usa ANTIPARALIZAR para tratarla.$"
+    .string "Usa ANTIPARALIZADOR para tratarla.$"
 

@@ -79,7 +79,7 @@ SaffronCity_Gym_Text_StacyDefeat::
 
 SaffronCity_Gym_Text_StacyPostBattle::
     .string "Aún tengo mucho que aprender…\p"
-    .string "Debo dominar PSÍQUICO y enseñarlo\n"
+    .string "Debo dominar FUERZA PSÍQUICA y enseñarlo\n"
     .string "a mis POKéMON…$"
 
 SaffronCity_Gym_Text_TyronIntro::

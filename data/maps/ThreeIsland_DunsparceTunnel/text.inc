@@ -17,7 +17,7 @@ ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
     .string "¡Esto es para ti!$"
 
 ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
-    .string "¡Esa es una PEPITA!\p"
+    .string "¡Esa es una PEPITA DE ORO!\p"
     .string "No puedo darte pepitas de\n"
     .string "sabiduría, ¡lo siento!$"
 

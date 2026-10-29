@@ -381,7 +381,7 @@ struct PokemonStorageSystemData
     u8 displayMonLevel;
     bool8 displayMonIsEgg;
     u8 displayMonNickname[POKEMON_NAME_LENGTH + 1];
-    u8 displayMonTexts[4][36]; // nickname, species name, gender and level, item name
+    u8 displayMonTexts[4][38]; // nickname, species name, gender and level, item name
     bool8 (*monPlaceChangeFunc)(void);
     u8 monPlaceChangeState;
     u8 shiftBoxId;
@@ -413,7 +413,7 @@ struct PokemonStorageSystemData
     u8 actionText[40];
     u8 boxTitleText[40];
     u8 releaseMonName[POKEMON_NAME_LENGTH + 1];
-    u8 itemName[20];
+    u8 itemName[22];
     u8 inBoxMovingMode;
     u16 multiMoveWindowId;
     struct PokeStorageItemIcon itemIcons[MAX_ITEM_ICONS];

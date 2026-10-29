@@ -77,7 +77,7 @@ SaffronCity_Text_GymSign::
 
 SaffronCity_Text_FullHealCuresStatus::
     .string "CONSEJOS PARA ENTRENADORES\p"
-    .string "CURA TOTAL soluciona males como\n"
+    .string "CURACIÓN TOTAL soluciona males como\n"
     .string "quemaduras, parálisis, sueño,\l"
     .string "congelamiento, y envenenamiento.\p"
     .string "Es un poco cara, pero conviene\n"
@@ -85,7 +85,7 @@ SaffronCity_Text_FullHealCuresStatus::
 
 SaffronCity_Text_GreatBallImprovedCatchRate::
     .string "CONSEJOS PARA ENTRENADORES\p"
-    .string "La nueva SÚPERBOLA ofrece una tasa\n"
+    .string "La nueva SUPERBOLA ofrece una tasa\n"
     .string "de captura mejorada.\p"
     .string "Pruébala en esos POKéMON difíciles\n"
     .string "de atrapar.$"

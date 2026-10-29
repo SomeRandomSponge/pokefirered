@@ -376,7 +376,7 @@ static const u8 sText_ThrewSomeBait[] = _("¡{B_PLAYER_NAME} lanzó algo de CEBO
 static const u8 sText_PkmnWatchingCarefully[] = _("¡{B_OPPONENT_MON1_NAME} está mirando\ncuidadosamente!");
 static const u8 sText_PkmnIsAngry[] = _("¡{B_OPPONENT_MON1_NAME} está molesto!");
 static const u8 sText_PkmnIsEating[] = _("¡{B_OPPONENT_MON1_NAME} está comiendo!");
-static const u8 sText_OutOfSafariBalls[] = _("{PLAY_SE SE_DING_DONG}AVISO:¡Te quedaste sin\nBOLAS SAFARI! ¡fin del juego!\p");
+static const u8 sText_OutOfSafariBalls[] = _("{PLAY_SE SE_DING_DONG}AVISO:¡Te quedaste sin\nSAFARIBOLAS! ¡fin del juego!\p");
 static const u8 sText_WildPkmnAppeared[] = _("¡{B_OPPONENT_MON1_NAME} salvaje aparece!\p");
 static const u8 sText_WildPkmnAppeared2[] = _("¡{B_OPPONENT_MON1_NAME} salvaje aparece!\p");
 static const u8 sText_WildPkmnAppearedPause[] = _("¡{B_OPPONENT_MON1_NAME} salvaje aparece!{PAUSE 127}");
@@ -418,7 +418,7 @@ static const u8 sText_FoePkmnPrefix3[] = _("enemigo");
 static const u8 sText_AllyPkmnPrefix2[] = _("aliado");
 static const u8 sText_FoePkmnPrefix4[] = _("enemigo");
 static const u8 sText_AllyPkmnPrefix3[] = _("aliado");
-static const u8 sText_AttackerUsedX[] = _("{B_ATK_NAME_WITH_PREFIX} usó\n{B_BUFF2}");
+static const u8 sText_AttackerUsedX[] = _("¡{B_ATK_NAME_WITH_PREFIX} usó\n{B_BUFF2}");
 static const u8 sText_ExclamationMark[] = _("!");
 static const u8 sText_ExclamationMark2[] = _("!");
 static const u8 sText_ExclamationMark3[] = _("!");
@@ -1281,7 +1281,7 @@ const u8 gText_WhatWillPkmnDo[] = _("¿Qué hará\n{B_ACTIVE_NAME_WITH_PREFIX}?"
 const u8 gText_WhatWillPlayerThrow[] = _("¿Qué lanzará\n{B_PLAYER_NAME}?");
 const u8 gText_WhatWillOldManDo[] = _("¿Qué hará el\nseñor mayor?");
 const u8 gText_LinkStandby[] = _("{PAUSE 16}Esperando conexión…");
-const u8 gText_BattleMenu[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}LUCHAR{CLEAR_TO 56}MOCHI.\nPOKéMON{CLEAR_TO 56}CORRER");
+const u8 gText_BattleMenu[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}LUCHAR{CLEAR_TO 56}MOCHILA\nPOKéMON{CLEAR_TO 56}CORRER");
 const u8 gText_SafariZoneMenu[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}BOLA{CLEAR_TO 56}CEBO\nROCA{CLEAR_TO 56}CORRER");
 const u8 gText_MoveInterfacePP[] = _("PP ");
 const u8 gText_MoveInterfaceType[] = _("TIPO/");
@@ -1311,7 +1311,7 @@ static const u8 *const sStatNamesTable2[] =
     sText_Speed
 };
 
-const u8 gText_SafariBalls[] = _("{HIGHLIGHT 2}BOLAS SAFARI"); //
+const u8 gText_SafariBalls[] = _("{HIGHLIGHT 2}SAFARIBOLAS"); //
 const u8 gText_HighlightRed_Left[] = _("{HIGHLIGHT 2}Tienes: ");
 const u8 gText_HighlightRed[] = _("{HIGHLIGHT 2}");
 const u8 gText_Sleep[] = _("sueño");
@@ -2476,7 +2476,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     },
     [B_WIN_ACTION_MENU] = {
         .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_NORMAL_COPY_1,
+        .fontId = FONT_SHORT_NARROW,
         .x = 0,
         .y = 2,
         .letterSpacing = 0,
@@ -2488,7 +2488,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     },
     [B_WIN_MOVE_NAME_1] = {
         .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_SMALL_NARROWER,
         .x = 0,
         .y = 1,
         .letterSpacing = 0,
@@ -2500,7 +2500,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     },
     [B_WIN_MOVE_NAME_2] = {
         .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_SMALL_NARROWER,
         .x = 0,
         .y = 1,
         .letterSpacing = 0,
@@ -2512,7 +2512,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     },
     [B_WIN_MOVE_NAME_3] = {
         .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_SMALL_NARROWER,
         .x = 0,
         .y = 1,
         .letterSpacing = 0,
@@ -2524,7 +2524,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     },
     [B_WIN_MOVE_NAME_4] = {
         .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_SMALL_NARROWER,
         .x = 0,
         .y = 1,
         .letterSpacing = 0,
@@ -2548,7 +2548,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     },
     [B_WIN_MOVE_TYPE] = {
         .fillValue = PIXEL_FILL(0xe),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_SHORT_NARROWER,
         .x = 0,
         .y = 2,
         .letterSpacing = 0,

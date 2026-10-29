@@ -5,7 +5,7 @@ Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthers::
     .string "tipos y débil ante otros.$"
 
 Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000::
-    .string "Una PEPITA es totalmente inútil.\n"
+    .string "Una PEPITA DE ORO es totalmente inútil.\n"
     .string "Así que la vendí por ¥5000.$"
 
 Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender::

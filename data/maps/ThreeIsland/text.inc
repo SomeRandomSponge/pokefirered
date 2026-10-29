@@ -126,7 +126,7 @@ ThreeIsland_Text_ThankYouOhYourMonGotHurt::
 
 ThreeIsland_Text_GivenFullRestore::
     .string "{PLAYER} recibió un\n"
-    .string "RESTAURA TODO.$"
+    .string "RESTAURATODO.$"
 
 ThreeIsland_Text_OhYourBagIsFull::
     .string "¿Oh?\n"

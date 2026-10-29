@@ -134,7 +134,7 @@ SilphCo_7F_Text_RivalPostBattle::
     .string "ver cúales son fuertes y cómo\l"
     .string "evolucionan!\p"
     .string "¿Soy un genio o qué?\p"
-    .string "Iré a la LIGA POKéDEX a aplastar\n"
+    .string "Iré a la LIGA POKéMON a aplastar\n"
     .string "al ALTO MANDO.\p"
     .string "¡Me convertiré en el ENTRENADOR\n"
     .string "más poderoso del mundo!\p"

@@ -19,7 +19,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
 
 Text_MimicTeach::
     .string "¡Oh, guau!\n"
-    .string "¡Un POké MUÑECO!\p"
+    .string "¡Un POkéMUÑECO!\p"
     .string "¿Para mí?\n"
     .string "¡Gracias!\p"
     .string "¿Sabes qué?\n"

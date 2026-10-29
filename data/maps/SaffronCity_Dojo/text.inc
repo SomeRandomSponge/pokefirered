@@ -82,7 +82,7 @@ SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster::
 
 SaffronCity_Dojo_Text_YouWantHitmonchan::
     .string "¿Quieres los superpuños de\n"
-    .string "HITMONLEE?$"
+    .string "HITMONCHAN?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
     .string "{PLAYER}は　カラテ　だいおう　から\n"

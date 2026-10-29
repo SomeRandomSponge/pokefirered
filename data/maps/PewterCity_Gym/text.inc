@@ -49,7 +49,7 @@ PewterCity_Gym_Text_ExplainTM39::
     .string "Así que, cuando uses una, elige\n"
     .string "al POKéMON con cuidado.\p"
     .string "Como sea…\n"
-    .string "La MT39 contiene TUMBA ROCAS.\p"
+    .string "La MT39 contiene TUMBA DE ROCAS.\p"
     .string "Lanza rocas al rival y reduce\n"
     .string "su VELOCIDAD.$"
 

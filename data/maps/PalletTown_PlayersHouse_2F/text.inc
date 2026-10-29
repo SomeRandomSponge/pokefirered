@@ -6,5 +6,5 @@ PalletTown_PlayersHouse_2F_Text_PlayedWithNES::
 PalletTown_PlayersHouse_2F_Text_PressLRForHelp::
     .string "Vaya, una nota…\p"
     .string "¡Si estás confundid{OA}, pide AYUDA!\n"
-    .string "¡Presiona el Botón L or R!$"
+    .string "¡Presiona los Botones L or R!$"
 

@@ -71,8 +71,8 @@ Route25_SeaCottage_Text_ThanksLadyTakeThis::
     .string "Oh, aquí, puede que esto sirva.$"
 
 Route25_SeaCottage_Text_ReceivedSSTicketFromBill::
-    .string "{PLAYER} recibió un BOLETO SANTA\n"
-    .string "ANA de BILL.$"
+    .string "{PLAYER} recibió un BOLETO DEL\n"
+    .string "BARCO de BILL.$"
 
 Route25_SeaCottage_Text_YouveGotTooMuchStuff::
     .string "¡Llevas demasiadas cosas!$"

@@ -32,6 +32,6 @@ CeladonCity_Condominiums_1F_Text_Nidoran::
     .string "NIDORAN♀: ¡Kya kyaoo!$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
-    .string "MANSIÓN PRISMA\n"
+    .string "CONDOMINIO PRISMA\n"
     .string "Suite presidencial$"
 

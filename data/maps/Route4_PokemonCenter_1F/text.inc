@@ -1,6 +1,6 @@
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
     .string "De acuerdo, pongo las seis\n"
-    .string "POKé BOLAS en mi cinturón…\p"
+    .string "POKéBOLAS en mi cinturón…\p"
     .string "Sí, eso basta. Como mucho, puedes\n"
     .string "llevar a 6 POKéMON en tu equipo.$"
 

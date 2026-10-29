@@ -67,7 +67,7 @@ EWRAM_DATA struct BagStruct gBagMenuState = {};
 static EWRAM_DATA struct BagMenuAlloc * sBagMenuDisplay = NULL;
 static EWRAM_DATA void *sBagBgTilemapBuffer = NULL;
 static EWRAM_DATA struct ListMenuItem * sListMenuItems = NULL;
-static EWRAM_DATA u8 (*sListMenuItemStrings)[19] = NULL;
+static EWRAM_DATA u8 (*sListMenuItemStrings)[24] = NULL;
 static EWRAM_DATA u8 sContextMenuItemsBuffer[4] = {};
 static EWRAM_DATA const u8 *sContextMenuItemsPtr = NULL;
 static EWRAM_DATA u8 sContextMenuNumItems = 0;
@@ -713,7 +713,7 @@ static void BagListMenuItemPrintFunc(u8 windowId, u32 itemId, u8 y)
         {
             ConvertIntToDecimalStringN(gStringVar1, bagItemQuantity, STR_CONV_MODE_RIGHT_ALIGN, 3);
             StringExpandPlaceholders(gStringVar4, gText_TimesStrVar1);
-            BagPrintTextOnWindow(windowId, FONT_SMALL, gStringVar4, 0x6e, y, 0, 0, 0xFF, 1);
+            BagPrintTextOnWindow(windowId, FONT_SMALL, gStringVar4, 112, y, 0, 0, 0xFF, 1);
         }
         else if (gSaveBlock1Ptr->registeredItem != ITEM_NONE && gSaveBlock1Ptr->registeredItem == bagItemId)
         {

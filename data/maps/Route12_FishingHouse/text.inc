@@ -11,7 +11,7 @@ Route12_FishingHouse_Text_TakeThisAndFish::
     .string "¡Toma esto y pesca, joven amig{OA}!$"
 
 Route12_FishingHouse_Text_ReceivedSuperRod::
-    .string "{PLAYER} recibió una SUPER CAÑA\n"
+    .string "{PLAYER} recibió una SUPERCAÑA\n"
     .string "del hermano del GURÚ DE LA PESCA.$"
 
 Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
@@ -32,7 +32,7 @@ Route12_FishingHouse_Text_OhThatsDisappointing::
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
     .string "¡Hola ahí, {PLAYER}!\n"
     .string "¿Has estado pescando?\p"
-    .string "Intenta pescar con la SUPER CAÑA\n"
+    .string "Intenta pescar con la SUPERCAÑA\n"
     .string "en cualquier cuerpo de agua.\p"
     .string "Encontrarás diferentes POKéMON en\n"
     .string "diferentes lugares.\p"

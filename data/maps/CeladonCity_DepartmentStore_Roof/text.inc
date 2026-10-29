@@ -23,7 +23,7 @@ CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
 
 CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
     .string "¡Yey!\p"
-    .string "¡SODA!\p"
+    .string "¡REFRESCO!\p"
     .string "¡Gracias!\n"
     .string "¡Puedes tener esto!$"
 
@@ -34,7 +34,7 @@ CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
     .string "¡Yey!\p"
-    .string "¡LIMONADA!\p"
+    .string "¡LECHE CON FRUTAS!\p"
     .string "¡Gracias!\n"
     .string "¡Puedes tener esto!$"
 

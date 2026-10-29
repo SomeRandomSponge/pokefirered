@@ -20,7 +20,7 @@ LavenderTown_Text_GhostsAppearedInTower::
     .string "Aparecieron fantasmas en la\n"
     .string "TORRE POKéMON.\p"
     .string "Creo que son espíritus de POKéMON\n"
-    .string "que los ROCKETS mataron.$"
+    .string "que los ROCKET mataron.$"
 
 LavenderTown_Text_TownSign::
     .string "PUEBLO LAVANDA\n"

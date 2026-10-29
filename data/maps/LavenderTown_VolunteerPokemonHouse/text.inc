@@ -38,11 +38,11 @@ LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
     .string "pero quiero que lo tengas.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-    .string "{PLAYER} recibió una POKé FLAUTA\n"
+    .string "{PLAYER} recibió una POKéFLAUTA\n"
     .string "del SR. FUJI.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-    .string "Al escuchar la POKé FLAUTA,\n"
+    .string "Al escuchar la POKéFLAUTA,\n"
     .string "un POKéMON dormido se levantará.\p"
     .string "Intenta usarla en POKéMON que sean\n"
     .string "obstáculos durmientes.$"
@@ -52,7 +52,7 @@ LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
 
 LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
     .string "SR. FUJI: ¿Te ha ayudado mi\n"
-    .string "POKé FLAUTA?$"
+    .string "POKéFLAUTA?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
     .string "REVISTA DE FANS DE POKéMON\n"

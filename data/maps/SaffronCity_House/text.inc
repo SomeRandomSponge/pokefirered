@@ -9,7 +9,7 @@ SaffronCity_House_Text_Pidgey::
 
 SaffronCity_House_Text_GettingCopycatPokeDoll::
     .string "¡La IMITADORA es linda!\n"
-    .string "Le voy a comprar un POKé MUÑECO.$"
+    .string "Le voy a comprar un POKéMUÑECO.$"
 
 SaffronCity_House_Text_ExplainPPUp::
     .string "Me dieron un MÁS PP como regalo.\p"

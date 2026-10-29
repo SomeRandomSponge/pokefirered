@@ -3806,7 +3806,7 @@ u8 *GetMapName(u8 *dst0, u16 mapsec, u16 fill)
     if ((idx = mapsec - KANTO_MAPSEC_START) < MAPSEC_NONE - KANTO_MAPSEC_START)
     {
         if (IsCeladonDeptStoreMapsec(mapsec) == TRUE)
-            dst = StringCopy(dst0, sMapsecName_CELADON_DEPT_);
+            dst = StringCopy(dst0, sMapsecName_TIENDA_DEPT__PRISMA);
         else
             dst = StringCopy(dst0, sMapNames[idx]);
     }

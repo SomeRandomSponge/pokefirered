@@ -28,7 +28,7 @@ VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
     .string "del TENIENTE SURGE.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
-    .string "¡MT34 contiene ONDA CHOQUE!\p"
+    .string "¡MT34 contiene ONDA DE CHOQUE!\p"
     .string "¡Úsala en un POKéMON ELÉCTRICO!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::

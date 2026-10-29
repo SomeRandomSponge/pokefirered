@@ -4,7 +4,7 @@ Route24_Text_JustEarnedFabulousPrize::
     .string "¡Te ganaste un fabuloso premio!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-    .string "¡{PLAYER} recibió una PEPITA\n"
+    .string "¡{PLAYER} recibió una PEPITA DE ORO\n"
     .string "del ENTRENADOR misterioso!$"
 
 Route24_Text_YouDontHaveAnyRoom::

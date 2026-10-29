@@ -150,7 +150,7 @@ gControlsGuide_Text_SelectButton::
 
 gControlsGuide_Text_LRButtons::
     .string "Si necesitas AYUDA jugando,\n"
-    .string "presiona el botón L or el botón R.$"
+    .string "presiona los botones L o R.$"
 
 gOakSpeech_Text_AskPlayerGender::
     .string "Primero dime. ¿Eres un chico?\n"

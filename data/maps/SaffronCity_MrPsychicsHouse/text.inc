@@ -8,7 +8,7 @@ SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
     .string "¿Ya lo sabes, no?\n"
-    .string "MT29 es PSÍQUICO.\p"
+    .string "MT29 es FUERZA PSÍQUICA.\p"
     .string "Es un ataque que puede reducir las\n"
     .string "estadísticas especiales del rival.$"
 

@@ -21,11 +21,11 @@ Text_FoundXCoins::
 
 Text_PutCoinsAwayInCoinCase::
 	.string "{PLAYER} puso las MONEDAS en el\n"
-	.string "ESTUCHE DE MONEDAS.$"
+	.string "MONEDERO.$"
 
 Text_CoinCaseIsFull::
 	.string "¡Que mal!\n"
-	.string "El ESTUCHE DE MONEDAS está lleno…$"
+	.string "El MONEDERO está lleno…$"
 
 Text_NothingToPutThemIn::
 	.string "¡Que mal!\n"

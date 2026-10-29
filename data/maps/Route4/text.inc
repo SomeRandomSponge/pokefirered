@@ -26,14 +26,14 @@ Text_MegaPunchTeach::
     .string "¡Un puño de ferocidad rugiente!\p"
     .string "¡Lleno de poder destructivo!\p"
     .string "¡Cuando no queda energía,\n"
-    .string "MEGA PUÑO es el ataque definitivo!\l"
+    .string "MEGAPUÑO es el ataque definitivo!\l"
     .string "¿Estás de acuerdo?\p"
     .string "¡Ahora!\n" 
     .string "¡Déjame enseñarselo a un POKéMON!$"
 
 Text_MegaPunchDeclined::
     .string "Regresarás cuando entiendas el\n"
-    .string "valor del MEGA PUÑO.$"
+    .string "valor del MEGAPUÑO.$"
 
 Text_MegaPunchWhichMon::
     .string "¡Bien!\n"
@@ -50,14 +50,14 @@ Text_MegaKickTeach::
     .string "¡Una patada de ferocidad brutal!\p"
     .string "¡Llena de poder destructivo!\p"
     .string "Cuando quieres ser direct{OA},\n"
-    .string "MEGA PATADA es el ataque definitivo!\l"
+    .string "MEGAPATADA es el ataque definitivo!\l"
     .string "¿No estás de acuerdo?\p"
     .string "¡Bien!\n"
     .string "¡Déjame enseñarselo a un POKéMON!$"
 
 Text_MegaKickDeclined::
     .string "Vendrás arrastrandote cuando\n"
-    .string "entiendas el valor de MEGA PATADA.$"
+    .string "entiendas el valor de MEGAPATADA.$"
 
 Text_MegaKickWhichMon::
     .string "¡De acuerdo!\n"

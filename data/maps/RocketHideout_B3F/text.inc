@@ -22,5 +22,5 @@ RocketHideout_B3F_Text_Grunt2Defeat::
 RocketHideout_B3F_Text_Grunt2PostBattle::
     .string "¡Adelante, ve!\p"
     .string "Pero no podrás llegar sin una\n"
-    .string "LLAVE ASCENSOR.$"
+    .string "LLAVE DEL ELEVADOR.$"
 

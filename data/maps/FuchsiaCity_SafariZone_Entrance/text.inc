@@ -14,12 +14,12 @@ FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
     .string "POKéBOLAS aquí.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
-    .string "{PLAYER} recibió 30 BOLAS SAFARI\n"
+    .string "{PLAYER} recibió 30 SAFARIBOLAS\n"
     .string "del recepcionista.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
     .string "Te avisaremos cuando te quedes\n"
-    .string "sin tiempo o sin BOLAS SAFARI.\p"
+    .string "sin tiempo o sin SAFARIBOLAS.\p"
     .string "¡Bueno, te deseo la mejor de las\n"
     .string "suertes!$"
 
@@ -37,7 +37,7 @@ FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
 
 FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
     .string "Por favor regresa cualquier\n"
-    .string "BOLA SAFARI sobrante.$"
+    .string "SAFARIBOLA sobrante.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
     .string "¡Buena suerte!$"
@@ -55,10 +55,10 @@ FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
     .string "de cuatro zonas.\p"
     .string "Cada zona tiene tipos de POKéMON\n"
     .string "diferentes, incluso algunos raros.\p"
-    .string "Usa las BOLAS SAFARI para\n"
+    .string "Usa las SAFARIBOLAS para\n"
     .string "atraparlos.\p"
     .string "También puedes lanzar CEBO o\n"
-    .string "ROCAS, aparte de las BOLAS SAFARI.\p"
+    .string "ROCAS, aparte de las SAFARIBOLAS.\p"
     .string "Si lanzas CEBO, es menos probable\n"
     .string "que el POKéMON escape, pero será\l"
     .string "más difícil de atrapar.\p"
@@ -66,7 +66,7 @@ FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
     .string "que el POKéMON escape, pero será\l"
     .string "más fácil de atrapar.\p"
     .string "¡Cuando ya no tengas tiempo o\n"
-    .string "BOLAS SAFARI, el juego termina!$"
+    .string "SAFARIBOLAS, el juego termina!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::
     .string "¡Lo siento, eres alguien habitual!$"

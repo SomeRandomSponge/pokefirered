@@ -30,7 +30,7 @@ PokedexRating_Text_LessThan30::
 PokedexRating_Text_LessThan40::
 	.string "¡Bien, esta claro que estas\n"
 	.string "trabajando duro!\p"
-	.string "Le di un BUSCA OBJETOS a uno de\n"
+	.string "Le di un DETECTOR a uno de\n"
 	.string "mis AYUDANTES. ¡Ve a conseguirlo!$"
 
 PokedexRating_Text_LessThan50::
@@ -42,7 +42,7 @@ PokedexRating_Text_LessThan50::
 PokedexRating_Text_LessThan60::
 	.string "¡Ah, finalmente superaste las\n"
 	.string "50 especies!\p"
-	.string "Le di un REPARTIR EXP. a uno de\n"
+	.string "Le di un DIVIDE EXPERIENCIA a uno de\n"
 	.string "mis AYUDANTES. ¡Ve a conseguirlo!$"
 
 PokedexRating_Text_LessThan70::
