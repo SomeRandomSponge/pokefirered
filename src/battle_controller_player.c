@@ -1412,7 +1412,7 @@ static void MoveSelectionDisplayMoveType(void)
 
     txtPtr = StringCopy(gDisplayedStringBattle, gText_MoveInterfaceType);
     *txtPtr++ = EXT_CTRL_CODE_BEGIN;
-    *txtPtr++ = 6;
+    *txtPtr++ = 8;
     *txtPtr++ = 1;
     txtPtr = StringCopy(txtPtr, gText_MoveInterfaceDynamicColors);
     StringCopy(txtPtr, gTypeNames[gBattleMoves[moveInfo->moves[gMoveSelectionCursor[gActiveBattler]]].type]);
