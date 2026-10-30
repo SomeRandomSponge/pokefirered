@@ -1,7 +1,7 @@
 const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 2] = {
     [MOVE_NONE]          = _("-$$$$$$"),
     [MOVE_POUND]         = _("Golpe"),
-    [MOVE_KARATE_CHOP]   = _("Golpe Karate"),
+    [MOVE_KARATE_CHOP]   = _("Tajo Karate"),
     [MOVE_DOUBLE_SLAP]   = _("Bofetadas"),
     [MOVE_COMET_PUNCH]   = _("Puño Cometa"),
     [MOVE_MEGA_PUNCH]    = _("Megapuño"),
@@ -359,7 +359,7 @@ const u8 gMoveNames[MOVES_COUNT][MOVE_NAME_LENGTH + 2] = {
 const u8 gLongMoveNames[][20] = {
     [MOVE_NONE]          = _("-$$$$$$"),
     [MOVE_POUND]         = _("Golpe"),
-    [MOVE_KARATE_CHOP]   = _("Golpe Karate"),
+    [MOVE_KARATE_CHOP]   = _("Tajo Karate"),
     [MOVE_DOUBLE_SLAP]   = _("Bofetadas"),
     [MOVE_COMET_PUNCH]   = _("Puño Cometa"),
     [MOVE_MEGA_PUNCH]    = _("Megapuño"),
