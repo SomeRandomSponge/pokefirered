@@ -138,6 +138,16 @@ static const struct FontInfo gFontInfos[] =
         .bgColor = 2,
         .shadowColor = 15,
     },
+    [FONT_SMALL_NARROW] = {
+        .fontFunction = FontFunc_SmallNarrow,
+        .maxLetterWidth = 5,
+        .maxLetterHeight = 8,
+        .letterSpacing = 0,
+        .lineSpacing = 0,
+        .fgColor = 2,
+        .bgColor = 1,
+        .shadowColor = 3,
+    },
     [FONT_SMALL_NARROWER] = {
         .fontFunction = FontFunc_SmallNarrower,
         .maxLetterWidth = 5,
@@ -172,14 +182,15 @@ static const struct FontInfo gFontInfos[] =
 
 static const u8 gMenuCursorDimensions[][2] = 
 {
-    [FONT_SMALL]         = { 8,  13 },
-    [FONT_NORMAL_COPY_1] = { 8,  14 },
-    [FONT_NORMAL]        = { 8,  14 },
-    [FONT_NORMAL_COPY_2] = { 8,  14 },
-    [FONT_MALE]          = { 8,  14 },
-    [FONT_FEMALE]        = { 8,  14 },
-    [FONT_BRAILLE]       = { 8,  16 },
-    [FONT_BOLD]          = {},
+    [FONT_SMALL]          = { 8,  13 },
+    [FONT_NORMAL_COPY_1]  = { 8,  14 },
+    [FONT_NORMAL]         = { 8,  14 },
+    [FONT_NORMAL_COPY_2]  = { 8,  14 },
+    [FONT_MALE]           = { 8,  14 },
+    [FONT_FEMALE]         = { 8,  14 },
+    [FONT_BRAILLE]        = { 8,  16 },
+    [FONT_BOLD]           = {},
+    [FONT_SMALL_NARROW]   = { 8,   8 },
     [FONT_SMALL_NARROWER] = { 8,   8 },
     [FONT_SHORT_NARROW]   = { 8,  14 },
     [FONT_SHORT_NARROWER] = { 8,  14 }

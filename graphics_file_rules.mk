@@ -84,6 +84,9 @@ $(FONTGFXDIR)/braille.fwjpnfont: $(FONTGFXDIR)/braille.png
 $(FONTGFXDIR)/japanese_bold.fwjpnfont: $(FONTGFXDIR)/japanese_bold.png
 	$(GFX) $< $@
 
+$(FONTGFXDIR)/latin_small_narrow.fwlatfont: $(FONTGFXDIR)/latin_small_narrow.png
+	$(GFX) $< $@
+
 $(FONTGFXDIR)/latin_small_narrower.fwlatfont: $(FONTGFXDIR)/latin_small_narrower.png
 	$(GFX) $< $@
 
